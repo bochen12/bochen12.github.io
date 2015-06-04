@@ -16,5 +16,6 @@ title: Checklist for clean os install
 - Theme: numix [ppa:numix/ppa]
 
 ##### Settings
-- xkb: us-dvp, caps:backspace
+- xkb: copy custom layout to /usr/share/X11/xkb/symbols/
+- xkb-options="caps:backspace"
 - org.mate.desktop.media-handling: automount 0, automount-open 0, automount-never 1
