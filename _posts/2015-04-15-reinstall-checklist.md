@@ -9,10 +9,11 @@ title: Checklist for clean os install
 - Terminal: guake/tilda
 - Networking: pia [build], ufw
 - Web browser: chrome/chromium, firefox
-- Document processing: texlive, xetex, memoir, biber, texworks, haroopad
-- Media: mpv, vlc, livestreamer [pip]
+- Document processing: texlive, xetex, memoir, biber, texworks, atom, haroopad
+- Atom packages: language-latex, pdf-view, terminal-status
+- Media: mpv, vlc, livestreamer
 - Programming: ruby (-dev), jekyll, git
-- Gaming: steam, wine-staging [ppa:pipelight/stable]
+- Gaming: steam, wine-staging [ppa:pipelight/stable], ppsspp [ppa:ppsspp/stable]
 - Theme: numix [ppa:numix/ppa]
 
 ##### Settings
