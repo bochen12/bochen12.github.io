@@ -15,6 +15,7 @@ title: Checklist for clean os install
 - Programming: ruby (-dev), jekyll, git
 - Gaming: steam, wine-staging [ppa:pipelight/stable], ppsspp [ppa:ppsspp/stable]
 - Theme: numix [ppa:numix/ppa]
+- Google Drive: drive [ppa:twodopeshaggy/drive]
 
 ##### Settings
 - xkb: copy custom layout to /usr/share/X11/xkb/symbols/
