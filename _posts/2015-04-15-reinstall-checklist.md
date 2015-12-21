@@ -20,6 +20,7 @@ title: Checklist for clean os install
 ##### Settings
 - xkb: copy custom layout to /usr/share/X11/xkb/symbols/
 - xkb-options="caps:backspace"
+- xmodmap -e "clear Lock" to .profile
 - org.mate.desktop.media-handling: automount 0, automount-open 0, automount-never 1
 - for ssd: add mount options noatime,discard in /etc/fstab
 - symlink fonts folder
