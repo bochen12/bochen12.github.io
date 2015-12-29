@@ -1,0 +1,12 @@
+# For extra functions of trackman marble mouse
+# Append to 10-evdev.conf in /usr/share/X11/xorg.conf.d/ (ubuntu) or /etc/X11/xorg.conf.d/ (arch)
+
+Section "InputClass"
+        Identifier  "Marble Mouse"
+        MatchProduct "Logitech USB Trackball"
+        Option "ButtonMapping" "1 2 3 4 5 6 7 2 2"
+        Option "EmulateWheel" "true"
+        Option "EmulateWheelButton" "8"
+        Option "XAxisMapping" "6 7"
+        Option "Emulate3Buttons" "true"
+EndSection
