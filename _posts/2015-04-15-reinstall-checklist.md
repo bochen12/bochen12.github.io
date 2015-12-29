@@ -17,7 +17,7 @@ title: Checklist for clean os install
 - Google Drive: drive [ppa:twodopeshaggy/drive]
 
 ##### Settings
-- xkb: copy [custom layout](bochen.dk/public/al) to /usr/share/X11/xkb/symbols/
+- xkb: copy [custom layout](http://bochen.dk/public/al) to /usr/share/X11/xkb/symbols/
 - xkb-options="caps:backspace"
 - xmodmap -e "clear Lock" to .profile or .bashrc
 - org.mate.desktop.media-handling: automount 0, automount-open 0, automount-never 1
