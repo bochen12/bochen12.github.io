@@ -23,4 +23,4 @@ title: Checklist for clean os install
 - org.mate.desktop.media-handling: automount 0, automount-open 0, automount-never 1
 - for ssd: add mount options noatime,discard in /etc/fstab
 - symlink fonts folder
-- copy trackball config to /usr/share/X11/xorg.conf.d/
+- copy [trackball config](http://bochen.dk/public/trackball) to /usr/share/X11/xorg.conf.d/
