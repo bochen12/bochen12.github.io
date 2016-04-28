@@ -1,0 +1,29 @@
+// custom dvorak layout by Bo Chen
+
+default partial alphanumeric_keys
+xkb_symbols "basic" {
+
+    name[Group1]="Custom Dvorak";
+
+    include "us(dvorak-intl)"
+
+    // add danish letters
+    key <AC01> { [ a, A, aring, Aring ] };
+    key <AC02> { [ o, O, oslash, Ooblique ] };
+    key <AC03> { [ e, E, ae, AE ] };
+    // switch apostrophe
+    key <AD01> { [ apostrophe, quotedbl, dead_acute, dead_diaeresis ] };
+    // switch grave/tilde
+    key <TLDE> { [ grave, asciitilde, dead_grave, dead_tilde ] };
+    // add multiply and division
+    key <AD12> { [ equal, plus, multiply, division ] };
+    // add en and em dash
+    key <AC11> { [ minus, underscore, endash, emdash ] };
+    // add ellipsis
+    key <AB09> { [ v, V, ellipsis, periodcentered ] };
+    // add low quote marks
+    key <AB08> { [ w, W, doublelowquotemark, singlelowquotemark] };
+
+    include "level3(ralt_switch)"
+
+};
