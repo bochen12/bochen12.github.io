@@ -17,7 +17,7 @@ title: Checklist for clean os install
 - Programming: ruby (-dev), jekyll, git
 - Gaming: steam, wine-staging [ppa:pipelight/stable], ppsspp [ppa:ppsspp/stable], retroarch [ppa:libretro/stable]
 - Theme: numix [ppa:numix/ppa]
-- Syncing: rclone (golang)
+- Syncing: rclone [golang]
 
 ##### Settings
 - xkb: copy [custom layout](http://bochen.dk/public/al) to /usr/share/X11/xkb/symbols/
@@ -26,6 +26,5 @@ title: Checklist for clean os install
 - org.mate.desktop.media-handling: automount 0, automount-open 0, automount-never 1
 - for ssd: add mount options noatime,discard in /etc/fstab
 - symlink fonts folder
-- copy trackball config to /usr/share/X11/xorg.conf.d/
 - export GOPATH=$HOME/go; export PATH=$PATH:$GOPATH/bin
 - copy [trackball config](http://bochen.dk/public/trackball) to /usr/share/X11/xorg.conf.d/
