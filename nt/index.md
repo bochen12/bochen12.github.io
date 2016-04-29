@@ -59,11 +59,13 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 
 #### De vise mænd
 
-**1** Da Jesus var født i Betlehem i Judæa i kong Herodes' dage, se, da kom der nogle vise mænd fra Østerland til Jerusalem **2** og spurgte: »Hvor er jødernes nyfødte konge? For vi har set hans stjerne gå op og er kommet for at tilbede ham.« **3** Da kong Herodes hørte det, blev han forfærdet, og hele Jerusalem med ham. **4** Og han sammenkaldte alle ypperstepræsterne og folkets skriftkloge og spurgte dem, hvor Kristus skulle fødes. **5** De svarede ham: »I Betlehem i Judæa. For således er der skrevet ved profeten:  
-      **6** *Du, Betlehem i Judas land,  
-	  du er på ingen måde den mindste blandt Judas fyrster.  
-      Fra dig skal der udgå en hersker,  
-      som skal vogte mit folk, Israel.«*  
+**1** Da Jesus var født i Betlehem i Judæa i kong Herodes' dage, se, da kom der nogle vise mænd fra Østerland til Jerusalem **2** og spurgte: »Hvor er jødernes nyfødte konge? For vi har set hans stjerne gå op og er kommet for at tilbede ham.« **3** Da kong Herodes hørte det, blev han forfærdet, og hele Jerusalem med ham. **4** Og han sammenkaldte alle ypperstepræsterne og folkets skriftkloge og spurgte dem, hvor Kristus skulle fødes. **5** De svarede ham: »I Betlehem i Judæa. For således er der skrevet ved profeten:
+
+> **6** Du, Betlehem i Judas land,  
+> du er på ingen måde den mindste blandt Judas fyrster.  
+> Fra dig skal der udgå en hersker,  
+> som skal vogte mit folk, Israel.«
+
 **7** Så tilkaldte Herodes i al hemmelighed de vise mænd og forhørte dem indgående om, hvornår stjernen havde vist sig. **8** Og han sendte dem til Betlehem og sagde: »Gå hen og spørg jer nøje for om barnet; og når I har fundet det, så giv mig besked, for at også jeg kan komme og tilbede det.« **9** Da de havde hørt på kongen, tog de af sted, og se, stjernen, som de havde set gå op, gik foran dem, indtil den stod stille over det sted, hvor barnet var. **10** Da de så stjernen, var deres glæde meget stor. **11** Og de gik ind i huset og så barnet hos dets mor Maria, og de faldt ned og tilbad det, og de åbnede for deres gemmer og frembar gaver til det, guld, røgelse og myrra. **12** Men i drømme fik de en åbenbaring om ikke at tage tilbage til Herodes, og de vendte hjem til deres land ad en anden vej.
 
 #### Flugten til Egypten
