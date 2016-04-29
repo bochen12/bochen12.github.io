@@ -75,11 +75,12 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Barnemordet i Betlehem
 
 **16** Da Herodes nu indså, at han var blevet narret af de vise mænd, blev han rasende; og i Betlehem og i hele dens omegn lod han alle drenge på to år og derunder myrde, ud fra den tid, han havde fået opgivet af de vise mænd. **17** Da opfyldtes det, som var talt ved profeten Jeremias, der siger:
-      **18** *I Rama høres råb,
-      gråd og megen klage;
-      Rakel græder over sine børn,
-      hun vil ikke lade sig trøste,
-      for de er ikke mere.*
+
+> **18** I Rama høres råb,  
+> gråd og megen klage;  
+> Rakel græder over sine børn,  
+> hun vil ikke lade sig trøste,  
+> for de er ikke mere.
 
 #### Hjemkomsten fra Egypten
 
@@ -90,9 +91,11 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Johannes Døber i Judæas ørken
 
 **1** I de dage træder Johannes Døber frem og prædiker i Judæas ørken: **2** »Omvend jer, for Himmeriget er kommet nær!« **3** Det er ham, der er talt om ved profeten Esajas, der siger:
-      *Der er en, der råber i ørkenen:
-      Ban Herrens vej,
-      gør hans stier jævne!*
+
+> Der er en, der råber i ørkenen:  
+> Ban Herrens vej,  
+> gør hans stier jævne!
+
 **4** Johannes bar klæder af kamelhår og havde et læderbælte om livet, og hans føde var græshopper og vildhonning. **5** Da drog Jerusalem og hele Judæa og hele Jordanegnen ud til ham, **6** og de blev døbt af ham i Jordanfloden, idet de bekendte deres synder.
 
 **7** Men da han så, at mange af farisæerne og saddukæerne kom for at blive døbt af ham, sagde han til dem: »Øgleyngel, hvem har bildt jer ind, at I kan flygte fra den kommende vrede? **8** Så bær da den frugt, som omvendelsen kræver, **9** og tro ikke, at I kan sige ved jer selv: Vi har Abraham til fader. For jeg siger jer: Gud kan opvække børn til Abraham af stenene dér. **10** Øksen ligger allerede ved træernes rod, og hvert træ, som ikke bærer god frugt, hugges om og kastes i ilden.
@@ -108,21 +111,25 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Jesu fristelse i ørkenen
 
 **1** Så blev Jesus af Ånden ført ud i ørkenen for at fristes af Djævelen. **2** Og da han havde fastet i fyrre dage og fyrre nætter, led han til sidst sult. **3** Og fristeren kom og sagde til ham: »Hvis du er Guds søn, så sig, at stenene her skal blive til brød.« **4** Men han svarede: »Der står skrevet: ›Mennesket skal ikke leve af brød alene, men af hvert ord, der udgår af Guds mund.‹ « **5** Da tog Djævelen ham med til den hellige by, stillede ham på templets tinde **6** og sagde til ham: »Hvis du er Guds søn, så styrt dig ned. For der står skrevet:
-      *Han vil give sine engle befaling,
-      og de skal bære dig på hænder,
-      så du ikke støder din fod på nogen sten.«*
+
+> Han vil give sine engle befaling,
+> og de skal bære dig på hænder,
+> så du ikke støder din fod på nogen sten.«
+
 **7** Jesus sagde til ham: »Der står også skrevet: ›Du må ikke udæske Herren din Gud.‹ « **8** Igen tog Djævelen ham med sig, denne gang til et meget højt bjerg, og viste ham alle verdens riger og deres herlighed **9** og sagde til ham: »Alt dette vil jeg give dig, hvis du vil kaste dig ned og tilbede mig.« **10** Da svarede Jesus ham: »Vig bort, Satan! For der står skrevet: ›Du skal tilbede Herren din Gud og tjene ham alene.‹ « **11** Da forlod Djævelen ham, og se, der kom engle og sørgede for ham.
 
 #### Jesus i Galilæa
 
 **12** Da Jesus hørte, at Johannes var blevet sat i fængsel, drog han bort til Galilæa. **13** Men han forlod Nazaret og kom og bosatte sig i Kapernaum ved søen, i Zebulons og Naftalis land, **14** for at det skulle opfyldes, som er talt ved profeten Esajas, der siger:
-      **15** *Zebulons land og Naftalis land,
-      Vejen langs Havet, Landet på den anden side af Jordan
-      og Folkeslagenes Galilæa,*
-      **16** *det folk, der sad i mørket,
-      har set et stort lys,
-      og de, der sad i dødens land og skygge,
-      for dem brød lyset frem.*
+
+> **15** Zebulons land og Naftalis land,  
+> Vejen langs Havet, Landet på den anden side af Jordan  
+> og Folkeslagenes Galilæa,  
+> **16** det folk, der sad i mørket,  
+> har set et stort lys,  
+> og de, der sad i dødens land og skygge,
+> for dem brød lyset frem.
+
 **17** Fra da af begyndte Jesus at prædike: »Omvend jer, for Himmeriget er kommet nær!«
 
 #### De første disciple kaldes
