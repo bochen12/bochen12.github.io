@@ -3,33 +3,35 @@ layout: page
 title: Det nye testamente
 ---
 
-Matt: [1](#matt-1) [2](#matt-2) [3](#matt-3) [4](#matt-4) [5](#matt-5) [6](#matt-6) [7](#matt-7) [8](#matt-8) [9](#matt-9) [10](#matt-10) [11](#matt-11) [12](#matt-12) [13](#matt-13) [14](#matt-14) [15](#matt-15) [16](#matt-16) [17](#matt-17) [18](#matt-18) [19](#matt-19) [20](#matt-20) [21](#matt-21) [22](#matt-22) [23](#matt-23) [24](#matt-24) [25](#matt-25) [26](#matt-26) [27](#matt-27) [28](#matt-28)
-Mark: [1](#mark-1) [2](#mark-2) [3](#mark-3) [4](#mark-4) [5](#mark-5) [6](#mark-6) [7](#mark-7) [8](#mark-8) [9](#mark-9) [10](#mark-10) [11](#mark-11) [12](#mark-12) [13](#mark-13) [14](#mark-14) [15](#mark-15) [16](#mark-16)
-Luk: [1](#luk-1) [2](#luk-2) [3](#luk-3) [4](#luk-4) [5](#luk-5) [6](#luk-6) [7](#luk-7) [8](#luk-8) [9](#luk-9) [10](#luk-10) [11](#luk-11) [12](#luk-12) [13](#luk-13) [14](#luk-14) [15](#luk-15) [16](#luk-16) [17](#luk-17) [18](#luk-18) [19](#luk-19) [20](#luk-20) [21](#luk-21) [22](#luk-22) [23](#luk-23) [24](#luk-24)
-Joh: [1](#joh-1) [2](#joh-2) [3](#joh-3) [4](#joh-4) [5](#joh-5) [6](#joh-6) [7](#joh-7) [8](#joh-8) [9](#joh-9) [10](#joh-10) [11](#joh-11) [12](#joh-12) [13](#joh-13) [14](#joh-14) [15](#joh-15) [16](#joh-16) [17](#joh-17) [18](#joh-18) [19](#joh-19) [20](#joh-20) [21](#joh-21)
-ApG: [1](#apg-1) [2](#apg-2) [3](#apg-3) [4](#apg-4) [5](#apg-5) [6](#apg-6) [7](#apg-7) [8](#apg-8) [9](#apg-9) [10](#apg-10) [11](#apg-11) [12](#apg-12) [13](#apg-13) [14](#apg-14) [15](#apg-15) [16](#apg-16) [17](#apg-17) [18](#apg-18) [19](#apg-19) [20](#apg-20) [21](#apg-21) [22](#apg-22) [23](#apg-23) [24](#apg-24) [25](#apg-25) [26](#apg-26) [27](#apg-27) [28](#apg-28)
-Rom: [1](#rom-1) [2](#rom-2) [3](#rom-3) [4](#rom-4) [5](#rom-5) [6](#rom-6) [7](#rom-7) [8](#rom-8) [9](#rom-9) [10](#rom-10) [11](#rom-11) [12](#rom-12) [13](#rom-13) [14](#rom-14) [15](#rom-15) [16](#rom-16)
-1 Kor: [1](#1-kor-1) [2](#1-kor-2) [3](#1-kor-3) [4](#1-kor-4) [5](#1-kor-5) [6](#1-kor-6) [7](#1-kor-7) [8](#1-kor-8) [9](#1-kor-9) [10](#1-kor-10) [11](#1-kor-11) [12](#1-kor-12) [13](#1-kor-13) [14](#1-kor-14) [15](#1-kor-15) [16](#1-kor-16)
-2 Kor: [1](#2-kor-1) [2](#2-kor-2) [3](#2-kor-3) [4](#2-kor-4) [5](#2-kor-5) [6](#2-kor-6) [7](#2-kor-7) [8](#2-kor-8) [9](#2-kor-9) [10](#2-kor-10) [11](#2-kor-11) [12](#2-kor-12) [13](#2-kor-13)
-Gal: [1](#gal-1) [2](#gal-2) [3](#gal-3) [4](#gal-4) [5](#gal-5) [6](#gal-6)
-Ef: [1](#ef-1) [2](#ef-2) [3](#ef-3) [4](#ef-4) [5](#ef-5) [6](#ef-6)
-Fil: [1](#fil-1) [2](#fil-2) [3](#fil-3) [4](#fil-4)
-Kol: [1](#kol-1) [2](#kol-2) [3](#kol-3) [4](#kol-4)
-1 Thess: [1](#1-thess-1) [2](#1-thess-2) [3](#1-thess-3) [4](#1-thess-4) [5](#1-thess-5)
-2 Thess: [1](#2-thess-1) [2](#2-thess-2) [3](#2-thess-3)
-1 Tim: [1](#1-tim-1) [2](#1-tim-2) [3](#1-tim-3) [4](#1-tim-4) [5](#1-tim-5) [6](#1-tim-6)
-2 Tim: [1](#2-tim-1) [2](#2-tim-2) [3](#2-tim-3) [4](#2-tim-4)
-Tit: [1](#tit-1) [2](#tit-2) [3](#tit-3)
-Filem: [1](#filem-1)
-Hebr: [1](#hebr-1) [2](#hebr-2) [3](#hebr-3) [4](#hebr-4) [5](#hebr-5) [6](#hebr-6) [7](#hebr-7) [8](#hebr-8) [9](#hebr-9) [10](#hebr-10) [11](#hebr-11) [12](#hebr-12) [13](#hebr-13)
-Jak: [1](#jak-1) [2](#jak-2) [3](#jak-3) [4](#jak-4) [5](#jak-5)
-1 Pet: [1](#1-pet-1) [2](#1-pet-2) [3](#1-pet-3) [4](#1-pet-4) [5](#1-pet-5)
-2 Pet: [1](#2-pet-1) [2](#2-pet-2) [3](#2-pet-3)
-1 Joh: [1](#1-joh-1) [2](#1-joh-2) [3](#1-joh-3) [4](#1-joh-4) [5](#1-joh-5)
-2 Joh: [1](#2-joh-1)
-3 Joh: [1](#3-joh-1)
-Jud: [1](#jud-1)
+Matt: [1](#matt-1) [2](#matt-2) [3](#matt-3) [4](#matt-4) [5](#matt-5) [6](#matt-6) [7](#matt-7) [8](#matt-8) [9](#matt-9) [10](#matt-10) [11](#matt-11) [12](#matt-12) [13](#matt-13) [14](#matt-14) [15](#matt-15) [16](#matt-16) [17](#matt-17) [18](#matt-18) [19](#matt-19) [20](#matt-20) [21](#matt-21) [22](#matt-22) [23](#matt-23) [24](#matt-24) [25](#matt-25) [26](#matt-26) [27](#matt-27) [28](#matt-28)  
+Mark: [1](#mark-1) [2](#mark-2) [3](#mark-3) [4](#mark-4) [5](#mark-5) [6](#mark-6) [7](#mark-7) [8](#mark-8) [9](#mark-9) [10](#mark-10) [11](#mark-11) [12](#mark-12) [13](#mark-13) [14](#mark-14) [15](#mark-15) [16](#mark-16)  
+Luk: [1](#luk-1) [2](#luk-2) [3](#luk-3) [4](#luk-4) [5](#luk-5) [6](#luk-6) [7](#luk-7) [8](#luk-8) [9](#luk-9) [10](#luk-10) [11](#luk-11) [12](#luk-12) [13](#luk-13) [14](#luk-14) [15](#luk-15) [16](#luk-16) [17](#luk-17) [18](#luk-18) [19](#luk-19) [20](#luk-20) [21](#luk-21) [22](#luk-22) [23](#luk-23) [24](#luk-24)  
+Joh: [1](#joh-1) [2](#joh-2) [3](#joh-3) [4](#joh-4) [5](#joh-5) [6](#joh-6) [7](#joh-7) [8](#joh-8) [9](#joh-9) [10](#joh-10) [11](#joh-11) [12](#joh-12) [13](#joh-13) [14](#joh-14) [15](#joh-15) [16](#joh-16) [17](#joh-17) [18](#joh-18) [19](#joh-19) [20](#joh-20) [21](#joh-21)  
+ApG: [1](#apg-1) [2](#apg-2) [3](#apg-3) [4](#apg-4) [5](#apg-5) [6](#apg-6) [7](#apg-7) [8](#apg-8) [9](#apg-9) [10](#apg-10) [11](#apg-11) [12](#apg-12) [13](#apg-13) [14](#apg-14) [15](#apg-15) [16](#apg-16) [17](#apg-17) [18](#apg-18) [19](#apg-19) [20](#apg-20) [21](#apg-21) [22](#apg-22) [23](#apg-23) [24](#apg-24) [25](#apg-25) [26](#apg-26) [27](#apg-27) [28](#apg-28)  
+Rom: [1](#rom-1) [2](#rom-2) [3](#rom-3) [4](#rom-4) [5](#rom-5) [6](#rom-6) [7](#rom-7) [8](#rom-8) [9](#rom-9) [10](#rom-10) [11](#rom-11) [12](#rom-12) [13](#rom-13) [14](#rom-14) [15](#rom-15) [16](#rom-16)  
+1 Kor: [1](#1-kor-1) [2](#1-kor-2) [3](#1-kor-3) [4](#1-kor-4) [5](#1-kor-5) [6](#1-kor-6) [7](#1-kor-7) [8](#1-kor-8) [9](#1-kor-9) [10](#1-kor-10) [11](#1-kor-11) [12](#1-kor-12) [13](#1-kor-13) [14](#1-kor-14) [15](#1-kor-15) [16](#1-kor-16)  
+2 Kor: [1](#2-kor-1) [2](#2-kor-2) [3](#2-kor-3) [4](#2-kor-4) [5](#2-kor-5) [6](#2-kor-6) [7](#2-kor-7) [8](#2-kor-8) [9](#2-kor-9) [10](#2-kor-10) [11](#2-kor-11) [12](#2-kor-12) [13](#2-kor-13)  
+Gal: [1](#gal-1) [2](#gal-2) [3](#gal-3) [4](#gal-4) [5](#gal-5) [6](#gal-6)  
+Ef: [1](#ef-1) [2](#ef-2) [3](#ef-3) [4](#ef-4) [5](#ef-5) [6](#ef-6)  
+Fil: [1](#fil-1) [2](#fil-2) [3](#fil-3) [4](#fil-4)  
+Kol: [1](#kol-1) [2](#kol-2) [3](#kol-3) [4](#kol-4)  
+1 Thess: [1](#1-thess-1) [2](#1-thess-2) [3](#1-thess-3) [4](#1-thess-4) [5](#1-thess-5)  
+2 Thess: [1](#2-thess-1) [2](#2-thess-2) [3](#2-thess-3)  
+1 Tim: [1](#1-tim-1) [2](#1-tim-2) [3](#1-tim-3) [4](#1-tim-4) [5](#1-tim-5) [6](#1-tim-6)  
+2 Tim: [1](#2-tim-1) [2](#2-tim-2) [3](#2-tim-3) [4](#2-tim-4)  
+Tit: [1](#tit-1) [2](#tit-2) [3](#tit-3)  
+Filem: [1](#filem-1)  
+Hebr: [1](#hebr-1) [2](#hebr-2) [3](#hebr-3) [4](#hebr-4) [5](#hebr-5) [6](#hebr-6) [7](#hebr-7) [8](#hebr-8) [9](#hebr-9) [10](#hebr-10) [11](#hebr-11) [12](#hebr-12) [13](#hebr-13)  
+Jak: [1](#jak-1) [2](#jak-2) [3](#jak-3) [4](#jak-4) [5](#jak-5)  
+1 Pet: [1](#1-pet-1) [2](#1-pet-2) [3](#1-pet-3) [4](#1-pet-4) [5](#1-pet-5)  
+2 Pet: [1](#2-pet-1) [2](#2-pet-2) [3](#2-pet-3)  
+1 Joh: [1](#1-joh-1) [2](#1-joh-2) [3](#1-joh-3) [4](#1-joh-4) [5](#1-joh-5)  
+2 Joh: [1](#2-joh-1)  
+3 Joh: [1](#3-joh-1)  
+Jud: [1](#jud-1)  
 Åb: [1](#åb-1) [2](#åb-2) [3](#åb-3) [4](#åb-4) [5](#åb-5) [6](#åb-6) [7](#åb-7) [8](#åb-8) [9](#åb-9) [10](#åb-10) [11](#åb-11) [12](#åb-12) [13](#åb-13) [14](#åb-14) [15](#åb-15) [16](#åb-16) [17](#åb-17) [18](#åb-18) [19](#åb-19) [20](#åb-20) [21](#åb-21) [22](#åb-22)
+
+-----------------------------------------------------------------------
 
 ## Matthæusevangeliet
 
@@ -57,11 +59,11 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 
 #### De vise mænd
 
-**1** Da Jesus var født i Betlehem i Judæa i kong Herodes' dage, se, da kom der nogle vise mænd fra Østerland til Jerusalem **2** og spurgte: »Hvor er jødernes nyfødte konge? For vi har set hans stjerne gå op og er kommet for at tilbede ham.« **3** Da kong Herodes hørte det, blev han forfærdet, og hele Jerusalem med ham. **4** Og han sammenkaldte alle ypperstepræsterne og folkets skriftkloge og spurgte dem, hvor Kristus skulle fødes. **5** De svarede ham: »I Betlehem i Judæa. For således er der skrevet ved profeten:
-      **6** *Du, Betlehem i Judas land,
-	  du er på ingen måde den mindste blandt Judas fyrster.
-      Fra dig skal der udgå en hersker,
-      som skal vogte mit folk, Israel.«*
+**1** Da Jesus var født i Betlehem i Judæa i kong Herodes' dage, se, da kom der nogle vise mænd fra Østerland til Jerusalem **2** og spurgte: »Hvor er jødernes nyfødte konge? For vi har set hans stjerne gå op og er kommet for at tilbede ham.« **3** Da kong Herodes hørte det, blev han forfærdet, og hele Jerusalem med ham. **4** Og han sammenkaldte alle ypperstepræsterne og folkets skriftkloge og spurgte dem, hvor Kristus skulle fødes. **5** De svarede ham: »I Betlehem i Judæa. For således er der skrevet ved profeten:  
+      **6** *Du, Betlehem i Judas land,  
+	  du er på ingen måde den mindste blandt Judas fyrster.  
+      Fra dig skal der udgå en hersker,  
+      som skal vogte mit folk, Israel.«*  
 **7** Så tilkaldte Herodes i al hemmelighed de vise mænd og forhørte dem indgående om, hvornår stjernen havde vist sig. **8** Og han sendte dem til Betlehem og sagde: »Gå hen og spørg jer nøje for om barnet; og når I har fundet det, så giv mig besked, for at også jeg kan komme og tilbede det.« **9** Da de havde hørt på kongen, tog de af sted, og se, stjernen, som de havde set gå op, gik foran dem, indtil den stod stille over det sted, hvor barnet var. **10** Da de så stjernen, var deres glæde meget stor. **11** Og de gik ind i huset og så barnet hos dets mor Maria, og de faldt ned og tilbad det, og de åbnede for deres gemmer og frembar gaver til det, guld, røgelse og myrra. **12** Men i drømme fik de en åbenbaring om ikke at tage tilbage til Herodes, og de vendte hjem til deres land ad en anden vej.
 
 #### Flugten til Egypten
