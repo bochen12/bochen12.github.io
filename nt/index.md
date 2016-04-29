@@ -9,29 +9,29 @@ Luk: [1](#luk-1) [2](#luk-2) [3](#luk-3) [4](#luk-4) [5](#luk-5) [6](#luk-6) [7]
 Joh: [1](#joh-1) [2](#joh-2) [3](#joh-3) [4](#joh-4) [5](#joh-5) [6](#joh-6) [7](#joh-7) [8](#joh-8) [9](#joh-9) [10](#joh-10) [11](#joh-11) [12](#joh-12) [13](#joh-13) [14](#joh-14) [15](#joh-15) [16](#joh-16) [17](#joh-17) [18](#joh-18) [19](#joh-19) [20](#joh-20) [21](#joh-21)  
 ApG: [1](#apg-1) [2](#apg-2) [3](#apg-3) [4](#apg-4) [5](#apg-5) [6](#apg-6) [7](#apg-7) [8](#apg-8) [9](#apg-9) [10](#apg-10) [11](#apg-11) [12](#apg-12) [13](#apg-13) [14](#apg-14) [15](#apg-15) [16](#apg-16) [17](#apg-17) [18](#apg-18) [19](#apg-19) [20](#apg-20) [21](#apg-21) [22](#apg-22) [23](#apg-23) [24](#apg-24) [25](#apg-25) [26](#apg-26) [27](#apg-27) [28](#apg-28)  
 Rom: [1](#rom-1) [2](#rom-2) [3](#rom-3) [4](#rom-4) [5](#rom-5) [6](#rom-6) [7](#rom-7) [8](#rom-8) [9](#rom-9) [10](#rom-10) [11](#rom-11) [12](#rom-12) [13](#rom-13) [14](#rom-14) [15](#rom-15) [16](#rom-16)  
-1 Kor: [1](#1-kor-1) [2](#1-kor-2) [3](#1-kor-3) [4](#1-kor-4) [5](#1-kor-5) [6](#1-kor-6) [7](#1-kor-7) [8](#1-kor-8) [9](#1-kor-9) [10](#1-kor-10) [11](#1-kor-11) [12](#1-kor-12) [13](#1-kor-13) [14](#1-kor-14) [15](#1-kor-15) [16](#1-kor-16)  
-2 Kor: [1](#2-kor-1) [2](#2-kor-2) [3](#2-kor-3) [4](#2-kor-4) [5](#2-kor-5) [6](#2-kor-6) [7](#2-kor-7) [8](#2-kor-8) [9](#2-kor-9) [10](#2-kor-10) [11](#2-kor-11) [12](#2-kor-12) [13](#2-kor-13)  
+1 Kor: [1](#kor-1-1) [2](#kor-2-1) [3](#kor-3-1) [4](#kor-4-1) [5](#kor-5-1) [6](#kor-6-1) [7](#kor-7-1) [8](#kor-8-1) [9](#kor-9-1) [10](#kor-10-1) [11](#kor-11-1) [12](#kor-12-1) [13](#kor-13-1) [14](#kor-14-1) [15](#kor-15-1) [16](#kor-16-1)  
+2 Kor: [1](#kor-1-2) [2](#kor-2-2) [3](#kor-3-2) [4](#kor-4-2) [5](#kor-5-2) [6](#kor-6-2) [7](#kor-7-2) [8](#kor-8-2) [9](#kor-9-2) [10](#kor-10-2) [11](#kor-11-2) [12](#kor-12-2) [13](#kor-13-2)  
 Gal: [1](#gal-1) [2](#gal-2) [3](#gal-3) [4](#gal-4) [5](#gal-5) [6](#gal-6)  
 Ef: [1](#ef-1) [2](#ef-2) [3](#ef-3) [4](#ef-4) [5](#ef-5) [6](#ef-6)  
 Fil: [1](#fil-1) [2](#fil-2) [3](#fil-3) [4](#fil-4)  
 Kol: [1](#kol-1) [2](#kol-2) [3](#kol-3) [4](#kol-4)  
-1 Thess: [1](#1-thess-1) [2](#1-thess-2) [3](#1-thess-3) [4](#1-thess-4) [5](#1-thess-5)  
-2 Thess: [1](#2-thess-1) [2](#2-thess-2) [3](#2-thess-3)  
-1 Tim: [1](#1-tim-1) [2](#1-tim-2) [3](#1-tim-3) [4](#1-tim-4) [5](#1-tim-5) [6](#1-tim-6)  
-2 Tim: [1](#2-tim-1) [2](#2-tim-2) [3](#2-tim-3) [4](#2-tim-4)  
+1 Thess: [1](#thess-1-1) [2](#thess-2-1) [3](#thess-3-1) [4](#thess-4-1) [5](#thess-5-1)  
+2 Thess: [1](#thess-1-2) [2](#thess-2-2) [3](#thess-3-2)  
+1 Tim: [1](#tim-1-1) [2](#tim-2-1) [3](#tim-3-1) [4](#tim-4-1) [5](#tim-5-1) [6](#tim-6-1)  
+2 Tim: [1](#tim-1-2) [2](#tim-2-2) [3](#tim-3-2) [4](#tim-4-2)  
 Tit: [1](#tit-1) [2](#tit-2) [3](#tit-3)  
 Filem: [1](#filem-1)  
 Hebr: [1](#hebr-1) [2](#hebr-2) [3](#hebr-3) [4](#hebr-4) [5](#hebr-5) [6](#hebr-6) [7](#hebr-7) [8](#hebr-8) [9](#hebr-9) [10](#hebr-10) [11](#hebr-11) [12](#hebr-12) [13](#hebr-13)  
 Jak: [1](#jak-1) [2](#jak-2) [3](#jak-3) [4](#jak-4) [5](#jak-5)  
-1 Pet: [1](#1-pet-1) [2](#1-pet-2) [3](#1-pet-3) [4](#1-pet-4) [5](#1-pet-5)  
-2 Pet: [1](#2-pet-1) [2](#2-pet-2) [3](#2-pet-3)  
-1 Joh: [1](#1-joh-1) [2](#1-joh-2) [3](#1-joh-3) [4](#1-joh-4) [5](#1-joh-5)  
-2 Joh: [1](#2-joh-1)  
-3 Joh: [1](#3-joh-1)  
+1 Pet: [1](#pet-1-1) [2](#pet-2-1) [3](#pet-3-1) [4](#pet-4-1) [5](#pet-5-1)  
+2 Pet: [1](#pet-1-2) [2](#pet-2-2) [3](#pet-3-2)  
+1 Joh: [1](#joh-1-1) [2](#joh-2-1) [3](#joh-3-1) [4](#joh-4-1) [5](#joh-5-1)  
+2 Joh: [1](#joh-1-2)  
+3 Joh: [1](#joh-1-3)  
 Jud: [1](#jud-1)  
-Åb: [1](#åb-1) [2](#åb-2) [3](#åb-3) [4](#åb-4) [5](#åb-5) [6](#åb-6) [7](#åb-7) [8](#åb-8) [9](#åb-9) [10](#åb-10) [11](#åb-11) [12](#åb-12) [13](#åb-13) [14](#åb-14) [15](#åb-15) [16](#åb-16) [17](#åb-17) [18](#åb-18) [19](#åb-19) [20](#åb-20) [21](#åb-21) [22](#åb-22)
+Åb: [1](#b-1) [2](#b-2) [3](#b-3) [4](#b-4) [5](#b-5) [6](#b-6) [7](#b-7) [8](#b-8) [9](#b-9) [10](#b-10) [11](#b-11) [12](#b-12) [13](#b-13) [14](#b-14) [15](#b-15) [16](#b-16) [17](#b-17) [18](#b-18) [19](#b-19) [20](#b-20) [21](#b-21) [22](#b-22)
 
------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Matthæusevangeliet
 
@@ -112,8 +112,8 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 
 **1** Så blev Jesus af Ånden ført ud i ørkenen for at fristes af Djævelen. **2** Og da han havde fastet i fyrre dage og fyrre nætter, led han til sidst sult. **3** Og fristeren kom og sagde til ham: »Hvis du er Guds søn, så sig, at stenene her skal blive til brød.« **4** Men han svarede: »Der står skrevet: ›Mennesket skal ikke leve af brød alene, men af hvert ord, der udgår af Guds mund.‹ « **5** Da tog Djævelen ham med til den hellige by, stillede ham på templets tinde **6** og sagde til ham: »Hvis du er Guds søn, så styrt dig ned. For der står skrevet:
 
-> Han vil give sine engle befaling,
-> og de skal bære dig på hænder,
+> Han vil give sine engle befaling,  
+> og de skal bære dig på hænder,  
 > så du ikke støder din fod på nogen sten.«
 
 **7** Jesus sagde til ham: »Der står også skrevet: ›Du må ikke udæske Herren din Gud.‹ « **8** Igen tog Djævelen ham med sig, denne gang til et meget højt bjerg, og viste ham alle verdens riger og deres herlighed **9** og sagde til ham: »Alt dette vil jeg give dig, hvis du vil kaste dig ned og tilbede mig.« **10** Da svarede Jesus ham: »Vig bort, Satan! For der står skrevet: ›Du skal tilbede Herren din Gud og tjene ham alene.‹ « **11** Da forlod Djævelen ham, og se, der kom engle og sørgede for ham.
@@ -127,7 +127,7 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 > og Folkeslagenes Galilæa,  
 > **16** det folk, der sad i mørket,  
 > har set et stort lys,  
-> og de, der sad i dødens land og skygge,
+> og de, der sad i dødens land og skygge,  
 > for dem brød lyset frem.
 
 **17** Fra da af begyndte Jesus at prædike: »Omvend jer, for Himmeriget er kommet nær!«
@@ -148,22 +148,22 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 
 #### Saligprisningerne
 
-**3** »Salige er de fattige i ånden,
-      for Himmeriget er deres.
-       **4** Salige er de, som sørger,
-      for de skal trøstes.
-       **5** Salige er de sagtmodige,
-      for de skal arve jorden.
-       **6** Salige er de, som hungrer og tørster efter retfærdigheden,
-      for de skal mættes.
-       **7** Salige er de barmhjertige,
-      for de skal møde barmhjertighed.
-       **8** Salige er de rene af hjertet,
-      for de skal se Gud.
-       **9** Salige er de, som stifter fred,
-      for de skal kaldes Guds børn.
-       **10** Salige er de, som forfølges på grund af retfærdighed,
-      for Himmeriget er deres.
+> **3** »Salige er de fattige i ånden,  
+> for Himmeriget er deres.  
+> **4** Salige er de, som sørger,  
+> for de skal trøstes.  
+> **5** Salige er de sagtmodige,  
+> for de skal arve jorden.  
+> **6** Salige er de, som hungrer og tørster efter retfærdigheden,  
+> for de skal mættes.  
+> **7** Salige er de barmhjertige,  
+> for de skal møde barmhjertighed.  
+> **8** Salige er de rene af hjertet,  
+> for de skal se Gud.  
+> **9** Salige er de, som stifter fred,  
+> for de skal kaldes Guds børn.  
+> **10** Salige er de, som forfølges på grund af retfærdighed,  
+> for Himmeriget er deres.  
 **11** Salige er I, når man på grund af mig håner jer og forfølger jer og lyver jer alt muligt ondt på. **12** Fryd jer og glæd jer, for jeres løn er stor i himlene; således har man også forfulgt profeterne før jer.
 
 #### Jordens salt og verdens lys
@@ -213,16 +213,18 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Fadervor
 
 **9** Derfor skal I bede således:
-      *Vor Fader, du som er i himlene!
-      Helliget blive dit navn,*
-      **10** *komme dit rige,
-      ske din vilje
-      som i himlen således også på jorden;*
-       **11** *giv os i dag vort daglige brød,*
-       **12** *og forlad os vor skyld, som også vi forlader vore skyldnere,*
-       **13** *og led os ikke ind i fristelse,
-      men fri os fra det onde.
-       For dit er Riget og magten og æren i evighed! Amen.*
+
+> Vor Fader, du som er i himlene!  
+> Helliget blive dit navn,  
+> **10** komme dit rige,  
+> ske din vilje  
+> som i himlen således også på jorden;  
+> **11** giv os i dag vort daglige brød,  
+> **12** og forlad os vor skyld, som også vi forlader vore skyldnere,  
+> **13** og led os ikke ind i fristelse,  
+> men fri os fra det onde.  
+> For dit er Riget og magten og æren i evighed! Amen.
+
 **14** For tilgiver I mennesker deres overtrædelser, vil jeres himmelske fader også tilgive jer. **15** Men tilgiver I ikke mennesker, vil jeres fader heller ikke tilgive jeres overtrædelser.
 
 #### Om faste
@@ -294,8 +296,9 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 **14** Og Jesus kom ind i Peters hus og så, at hans svigermor lå med feber. **15** Han tog hendes hånd, og feberen forlod hende, og hun stod op og sørgede for ham.
 
 **16** Da det blev aften, bragte de mange besatte hen til ham, og han drev ånderne ud ved sit ord og helbredte alle de syge, **17** for at det skulle opfyldes, som er talt ved profeten Esajas, der siger:
-      *Han tog vore lidelser,
-      han bar vore sygdomme.*
+
+> Han tog vore lidelser,
+> han bar vore sygdomme.
 
 #### Efterfølgelsens vilkår
 
@@ -378,8 +381,10 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Jesu tale om Johannes Døber
 
 **7** Da de var gået, begyndte Jesus at tale til folkeskarerne om Johannes: »Hvad gik I ud i ørkenen for at se? Et siv, der svajer for vinden? **8** Nej, hvad gik I ud for at se? Et menneske i fornemme klæder? Se, de, der bærer fornemme klæder, findes i kongeslottene. **9** Nej, hvad gik I ud for at se? En profet? Ja, jeg siger jer, også mere end en profet. **10** Det er om ham, der står skrevet:
-      *Se, jeg sender min engel foran dig,
-      han skal bane din vej for dig.*
+
+> Se, jeg sender min engel foran dig,
+> han skal bane din vej for dig.
+
 **11** Sandelig siger jeg jer: Blandt kvindefødte er der ikke fremstået nogen større end Johannes Døber. Men den mindste i Himmeriget er større end han. **12** Fra Johannes Døbers dage indtil nu er Himmeriget blevet stormet, og de fremstormende river det til sig. **13** For alle profeterne og loven har indtil Johannes været forudsigelser. **14** Og om I vil tage imod det: Han er Elias, som skulle komme. **15** Den, der har ører, skal høre!
 
 **16** Men hvad skal jeg sammenligne denne slægt med? Den ligner børn, der sidder på torvet og råber til de andre: **17** Vi spillede på fløjte for jer, og I dansede ikke; vi sang klagesange, og I sørgede ikke. **18** For Johannes kom, han hverken spiste eller drak, og folk siger: Han er besat. **19** Og Menneskesønnen kom, han både spiser og drikker, og folk siger: Se den frådser og dranker, ven med toldere og syndere!« Dog, visdommen har fået ret ved sine gerninger.
@@ -885,6 +890,8 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 
 **16** Men de elleve disciple gik til Galilæa til det bjerg, hvor Jesus havde sat dem stævne. **17** Og da de så ham, tilbad de ham, men nogle tvivlede. **18** Og Jesus kom hen og talte til dem og sagde: »Mig er givet al magt i himlen og på jorden. **19** Gå derfor hen og gør alle folkeslagene til mine disciple, idet I døber dem i Faderens og Sønnens og Helligåndens navn, **20** og idet I lærer dem at holde alt det, som jeg har befalet jer. Og se, jeg er med jer alle dage indtil verdens ende.«
 
+------------------------------------------------------------------------
+
 ## Markusevangeliet
 
 ### Mark 1
@@ -1373,6 +1380,7 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 
 **19** Da Herren Jesus havde talt til dem, blev han taget op til himlen, og han satte sig ved Guds højre hånd. **20** Men de drog ud og prædikede alle vegne, og Herren virkede med og stadfæstede ordet ved de tegn, som fulgte med.
 
+------------------------------------------------------------------------
 
 ## Lukasevangeliet
 
@@ -2237,6 +2245,7 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 **50** Han tog dem med ud af byen, hen i nærheden af Betania, og løftede sine hænder og velsignede dem. **51** Idet han velsignede dem, skiltes han fra dem og blev båret op til himlen. **52** De tilbad ham, og fyldt med glæde vendte de tilbage til Jerusalem, **53** og de var hele tiden i templet og lovpriste Gud.
 
+------------------------------------------------------------------------
 
 ## Johannesevangeliet
 
@@ -2752,6 +2761,7 @@ Det gjorde soldaterne altså.
 
 **25** Der er også mange andre ting, Jesus har gjort; hvis der skulle skrives om dem én for én, tror jeg ikke, at hele verden kunne rumme de bøger, som så måtte skrives.
 
+------------------------------------------------------------------------
 
 ## Apostlenes Gerninger
 
@@ -3405,6 +3415,7 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 
 **30** Paulus blev nu hele to år i sin lejede bolig og tog imod alle, der kom til ham. **31** Han prædikede om Guds rige og lærte dem om Herren Jesus Kristus, med fuld frimodighed, uden hindring.
 
+------------------------------------------------------------------------
 
 ## Romerbrevet
 
@@ -3729,6 +3740,7 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 **25** Ham, som formår at styrke jer med mit evangelium og Jesu Kristi budskab, med åbenbaringen af den hemmelighed, der har været hyllet i tavshed i evige tider, **26** men som nu er bragt for dagen og gennem profetiske skrifter på den evige Guds befaling gjort kendt for alle folkeslag for at føre dem til troslydighed – **27** ham, den eneste, vise Gud være ære ved Jesus Kristus til evig tid! Amen.
 
+------------------------------------------------------------------------
 
 ## Første Korintherbrev
 
@@ -4028,6 +4040,7 @@ Som i alle de helliges menigheder **34** skal kvinderne tie stille i menighedern
 
 **21** Hilsen fra Paulus med min egen hånd. **22** Hvis nogen ikke elsker Herren, være han forbandet! Marana ta! **23** Herren Jesu nåde være med jer! **24** Min kærlighed er med jer alle i Kristus Jesus.
 
+------------------------------------------------------------------------
 
 ## Andet Korintherbrev
 
@@ -4209,6 +4222,7 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus' glæde. Han er 
 
 **13** Herren Jesu Kristi nåde og Guds kærlighed og Helligåndens fællesskab være med jer alle!
 
+------------------------------------------------------------------------
 
 ## Galaterbrevet
 
@@ -4310,6 +4324,7 @@ Til menighederne i Galatien.
 
 **18** Vor Herre Jesu Kristi nåde være med jeres ånd, brødre! Amen.
 
+------------------------------------------------------------------------
 
 ## Efeserbrevet
 
@@ -4407,6 +4422,7 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 
 **23** Fred være med brødrene, og kærlighed og tro fra Gud Fader og Herren Jesus Kristus! **24** Nåden være med alle, der elsker vor Herre Jesus Kristus, og uforgængeligt liv!
 
+------------------------------------------------------------------------
 
 ## Filipperbrevet
 
@@ -4504,6 +4520,7 @@ Men jeg vil også blive ved med at glæde mig. **19** For jeg ved, at dette ved 
 
 **23** Herren Jesu Kristi nåde være med jeres ånd!
 
+------------------------------------------------------------------------
 
 ## Kolossenserbrevet
 
@@ -4593,6 +4610,7 @@ Han er begyndelsen, den førstefødte af de døde, for at han i alle ting skulle
 
 **18** Hilsen fra Paulus med min egen hånd. Husk mig i mine lænker. Nåden være med jer!
 
+------------------------------------------------------------------------
 
 ## Første Thessalonikerbrev
 
@@ -4663,6 +4681,7 @@ Nåde være med jer og fred!
 
 **28** Vor Herre Jesu Kristi nåde være med jer!
 
+------------------------------------------------------------------------
 
 ## Andet Thessalonikerbrev
 
@@ -4704,6 +4723,7 @@ Til thessalonikernes menighed i Gud, vor Fader, og Herren Jesus Kristus.
 
 **18** Vor Herre Jesu Kristi nåde være med jer alle!
 
+------------------------------------------------------------------------
 
 ## Første Timotheusbrev
 
@@ -4817,6 +4837,7 @@ Hvis nogen ønsker at blive tilsynsmand, er det et vigtigt arbejde, han tragter 
 
 Nåden være med jer!
 
+------------------------------------------------------------------------
 
 ## Andet Timotheusbrev
 
@@ -4886,6 +4907,7 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 
 **22** Herren være med din ånd! Nåden være med jer!
 
+------------------------------------------------------------------------
 
 ## Titusbrevet
 
@@ -4929,6 +4951,7 @@ Nåde og fred fra Gud Fader og Kristus Jesus, vor frelser!
 
 **15** Hilsen fra alle her hos mig. Hils alle, som elsker os i troen. Nåden være med jer alle!
 
+------------------------------------------------------------------------
 
 ## Filemonbrevet
 
@@ -4956,6 +4979,7 @@ Til vor kære medarbejder Filemon **2** og til vor søster Appia, til vor kære 
 
 **23** Hilsen fra Epafras, min medfange for Kristi Jesu skyld, **24** og fra Markus, Aristark, Demas og Lukas, mine medarbejdere. **25** Herren Jesu Kristi nåde være med jeres ånd!
 
+------------------------------------------------------------------------
 
 ## Hebræerbrevet
 
@@ -5228,6 +5252,7 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 
 **24** Hils alle jeres ledere og alle de hellige! De fra Italien hilser jer. **25** Nåden være med jer alle!
 
+------------------------------------------------------------------------
 
 ## Jakobsbrevet
 
@@ -5312,6 +5337,7 @@ Tænk på, at den mindste ild kan sætte den største skov i brand; **6** også 
 
 **19** Mine brødre, hvis en af jer forvilder sig bort fra sandheden, og en anden får ham til at vende om, **20** skal han vide, at den, der får en synder til at vende om fra den vildfarelse, han lever i, frelser hans sjæl fra døden og skjuler mange synder.
 
+------------------------------------------------------------------------
 
 ## Første Petersbrev
 
@@ -5426,6 +5452,7 @@ det er dem, der tager anstød i deres ulydighed mod ordet, og dertil var de ogs�
 
 **12** Med bistand fra Silvanus, som jeg regner for en pålidelig broder, har jeg nu i korthed skrevet for at opmuntre jer og bevidne, at dette er Guds sande nåde; den skal I holde fast ved. **13** Jeres udvalgte søster i Babylon og min søn Markus hilser jer. **14** Hils hinanden med kærligt kys. Fred være med jer alle, som er i Kristus!
 
+------------------------------------------------------------------------
 
 ## Andet Petersbrev
 
@@ -5473,6 +5500,7 @@ Hensynsløse og selvhævdende, som de er, viger de ikke tilbage for at spotte ov
 
 **14** Derfor, mine kære, når I ser frem til dette, så vær ivrige for at stå uplettede og lydefrie for ham i fred, **15** og forstå, at vor Herres langmodighed er til frelse. Det har også vor kære broder Paulus skrevet til jer med den visdom, som han har fået, **16** sådan som han jo skriver i alle sine breve, for så vidt han kommer ind på dette emne. I hans breve er der nogle ting, som er vanskelige at forstå, og som ukyndige og ubefæstede sjæle fordrejer – men det gør de jo også med de øvrige skrifter – til deres eget fordærv. **17** Mine kære, når I nu ved dette på forhånd, så tag jer i agt for at blive revet med af frække menneskers vildfarelse og miste fodfæstet, **18** men voks i nåde og erkendelse af vor Herre og frelser, Jesus Kristus. Æren er hans både nu og til evighedens dag! Amen.
 
+------------------------------------------------------------------------
 
 ## Første Johannesbrev
 
@@ -5582,6 +5610,7 @@ Gud er kærlighed, og den, der bliver i kærligheden, bliver i Gud, og Gud blive
 
 **21** Kære børn, vogt jer for afguderne!
 
+------------------------------------------------------------------------
 
 ## Andet Johannesbrev
 
@@ -5607,6 +5636,7 @@ Til den udvalgte frue og hendes børn, som jeg – og ikke jeg alene, men alle, 
 
 **13** Din udvalgte søsters børn hilser dig.
 
+------------------------------------------------------------------------
 
 ## Tredje Johannesbrev
 
@@ -5632,6 +5662,7 @@ Til den udvalgte frue og hendes børn, som jeg – og ikke jeg alene, men alle, 
 
 **15** Fred være med dig! Vennerne her hilser dig. Hils hver enkelt af vennerne.
 
+------------------------------------------------------------------------
 
 ## Judasbrevet
 
@@ -5661,6 +5692,7 @@ Til de kaldede, som er elsket af Gud Fader og bevaret for Jesus Kristus.
 
 **24** Ham, som formår at værne jer mod fald og stille jer over for sin herlighed, uden fejl og fulde af jubel, **25** den eneste Gud, vor frelser ved vor Herre Jesus Kristus, ham være ære og majestæt, magt og myndighed før tidens begyndelse, nu og i al evighed! Amen.
 
+------------------------------------------------------------------------
 
 ## Johannes’ Åbenbaring
 
