@@ -163,7 +163,8 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 > **9** Salige er de, som stifter fred,  
 > for de skal kaldes Guds børn.  
 > **10** Salige er de, som forfølges på grund af retfærdighed,  
-> for Himmeriget er deres.  
+> for Himmeriget er deres.
+
 **11** Salige er I, når man på grund af mig håner jer og forfølger jer og lyver jer alt muligt ondt på. **12** Fryd jer og glæd jer, for jeres løn er stor i himlene; således har man også forfulgt profeterne før jer.
 
 #### Jordens salt og verdens lys
@@ -412,16 +413,17 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Guds udvalgte tjener
 
 **15** Da Jesus fik det at vide, drog han bort derfra, men store folkeskarer fulgte ham, og han helbredte dem alle. **16** Men han pålagde dem strengt, at de ikke måtte røbe ham, **17** for at det skulle opfyldes, som er talt ved profeten Esajas, der siger:
-      **18** *Se min tjener, ham har jeg udvalgt,
-      min elskede, i ham har jeg fundet velbehag.
-      Jeg lader min ånd komme over ham,
-      og han skal forkynde ret for folkene.*
-      **19** *Han skændes ikke, han råber ikke,
-      man hører ikke hans røst i gaderne.*
-      **20** *Det knækkede rør sønderbryder han ikke,
-      den osende væge slukker han ikke,
-      til han har ført retten til sejr;*
-      **21** *folkene håber på hans navn.*
+
+> **18** Se min tjener, ham har jeg udvalgt,  
+> min elskede, i ham har jeg fundet velbehag.  
+> Jeg lader min ånd komme over ham,  
+> og han skal forkynde ret for folkene.  
+> **19** Han skændes ikke, han råber ikke,  
+> man hører ikke hans røst i gaderne.  
+> **20** Det knækkede rør sønderbryder han ikke,  
+> den osende væge slukker han ikke,  
+> til han har ført retten til sejr;  
+> **21** folkene håber på hans navn.
 
 #### Jesus og Beelzebul og bespottelse mod Helligånden
 
@@ -454,14 +456,16 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 »Se, en sædemand gik ud for at så. **4** Og da han såede, faldt noget på vejen, og fuglene kom og åd det op. **5** Noget faldt på klippegrund, hvor der ikke var ret meget jord, og det kom straks op, fordi der kun var et tyndt lag jord; **6** men da solen kom højt på himlen, blev det svedet, og det visnede, fordi det ikke havde rod. **7** Noget faldt mellem tidsler, og tidslerne voksede op og kvalte det. **8** Men noget faldt i god jord og gav udbytte, noget hundrede, noget tres og noget tredive fold. **9** Den, der har ører, skal høre!«
 
 **10** Disciplene kom hen til ham og spurgte: »Hvorfor taler du til dem i lignelser?« **11** Han svarede dem: »Jer er det givet at kende Himmerigets hemmeligheder, men de andre er det ikke givet. **12** For den, der har, til ham skal der gives, og han skal have overflod; men den, der ikke har, fra ham skal selv det tages, som han har. **13** Derfor taler jeg til dem i lignelser, fordi de ser og dog ikke ser, og hører og dog ikke hører og heller intet fatter. **14** På dem opfyldes den profeti af Esajas, der siger:
-      *I skal høre og høre, men intet fatte,
-      I skal se og se, men intet forstå.*
-      **15** *For dette folks hjerte er dækket med fedt,
-      og med ørerne hører de tungt,
-      og deres øjne har de lukket til,
-      for at de ikke skal se med øjnene,
-      høre med ørerne og fatte med hjertet
-      og vende om, så jeg må helbrede dem.*
+
+> I skal høre og høre, men intet fatte,  
+> I skal se og se, men intet forstå.  
+> **15** For dette folks hjerte er dækket med fedt,  
+> og med ørerne hører de tungt,  
+> og deres øjne har de lukket til,  
+> for at de ikke skal se med øjnene,  
+> høre med ørerne og fatte med hjertet  
+> og vende om, så jeg må helbrede dem.
+
 **16** Salige er jeres øjne, fordi de ser, og jeres ører, fordi de hører. **17** For sandelig siger jeg jer: Mange profeter og retfærdige har længtes efter at se det, I ser, og fik det ikke at se, og høre det, I hører, og fik det ikke at høre.
 
 **18** Så hør I da lignelsen om sædemanden. **19** Når et menneske hører ordet om Riget og ikke fatter det, kommer den Onde og røver det, der er sået i hans hjerte; det er det, som blev sået på vejen. **20** Det, som blev sået på klippegrund, det er ham, der straks tager imod ordet med glæde, når han hører det; **21** men han har ikke rod i sig, han holder kun ud en tid, og når der kommer trængsler eller forfølgelse på grund af ordet, falder han straks fra. **22** Det, som blev sået mellem tidsler, det er ham, der hører ordet, men denne verdens bekymring og rigdommens blændværk kvæler ordet, så det ikke bærer frugt. **23** Men det, som blev sået i den gode jord, det er ham, der hører ordet og fatter det og så bærer frugt og giver hundrede eller tres eller tredive fold.«
@@ -475,8 +479,9 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 **33** Han fortalte dem en anden lignelse: »Himmeriget ligner en surdej, som en kvinde tog og kom i tre mål hvedemel, til det hele var gennemsyret.«
 
 **34** Alt dette sagde Jesus i lignelser til skarerne, og han talte intet til dem undtagen i lignelser, **35** for at det skulle opfyldes, som er talt ved profeten, der siger:
-      *Jeg vil åbne min mund med lignelser,
-      jeg vil fremføre det, der har været skjult, siden verden blev grundlagt.*
+
+> Jeg vil åbne min mund med lignelser,  
+> jeg vil fremføre det, der har været skjult, siden verden blev grundlagt.
 
 **36** Da lod Jesus skarerne gå og gik hjem. Og hans disciple kom og bad ham: »Forklar os lignelsen om ukrudtet på marken.« **37** Han svarede: »Den, der sår den gode sæd, er Menneskesønnen, **38** marken er verden, og den gode sæd er Rigets børn. Men ukrudtet er den Ondes børn, **39** og fjenden, der såede det, er Djævelen. Høsten er verdens ende, og høstfolkene er engle. **40** Ligesom altså ukrudtet tages fra og brændes i ild, således skal det også gå ved verdens ende: **41** Menneskesønnen skal sende sine engle, og fra hans rige skal de tage alt det væk, som fører til frafald, og alle dem, der begår lovbrud, **42** og kaste dem i ovnen med ild. Dér skal der være gråd og tænderskæren. **43** Da skal de retfærdige skinne som solen i deres faders rige. Den, der har ører, skal høre!
 
@@ -517,10 +522,11 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Spørgsmålet om rent og urent
 
 **1** Da kom der nogle farisæere og skriftkloge fra Jerusalem til Jesus og spurgte: **2** »Hvorfor overtræder dine disciple de gamles overlevering? De vasker ikke deres hænder, før de spiser.« **3** Men han svarede dem: »Hvorfor overtræder I selv Guds bud for jeres overleverings skyld? **4** For Gud har sagt: ›Ær din far og din mor!‹ og: ›Den, der forbander sin far eller sin mor, skal lide døden.‹ **5** Men I siger: Hvis nogen siger til sin far eller sin mor: Det, du skulle have haft som hjælp af mig, skal være tempelgave! **6** så behøver han ikke at ære sin far. I har sat Guds ord ud af kraft af hensyn til jeres overlevering. **7** Hyklere! Esajas profeterede rigtigt om jer, da han sagde:
-      **8** *Dette folk ærer mig med læberne,
-      men deres hjerte er langt borte fra mig,*
-      **9** *forgæves dyrker de mig,
-      for det, de lærer, er menneskebud.«*
+
+> **8** Dette folk ærer mig med læberne,  
+> men deres hjerte er langt borte fra mig,  
+> **9** forgæves dyrker de mig,  
+> for det, de lærer, er menneskebud.«
 
 **10** Og han kaldte skaren til sig og sagde: »Hør og forstå: **11** Ikke det, som kommer ind i munden, gør et menneske urent, men det, som kommer ud af munden, det gør et menneske urent.« **12** Da kom hans disciple hen til ham og sagde: »Ved du, at farisæerne tog anstød af at høre den tale?« **13** Men han svarede dem: »Enhver plante, som min himmelske fader ikke har plantet, skal rykkes op med rode. **14** Lad dem være, de er blinde vejledere for blinde; og når en blind leder en blind, falder de begge i grøften.« **15** Peter bad ham: »Forklar denne lignelse for os!« **16** Han sagde: »Er også I stadig uforstandige? **17** Fatter I ikke, at alt det, som går ind gennem munden, kommer ned i maven og forsvinder ud igen? **18** Men det, som kommer ud af munden, udgår fra hjertet, og det gør et menneske urent. **19** Thi fra hjertet udgår onde tanker, mord, ægteskabsbrud, utugt, tyveri, falsk vidnesbyrd og bespottelser. **20** Det er det, som gør et menneske urent. Men at spise uden at vaske hænder gør ikke et menneske urent.«
 
@@ -649,14 +655,17 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Indtoget i Jerusalem
 
 **1** Da de nærmede sig Jerusalem og kom til Betfage ved Oliebjerget, sendte Jesus to disciple af sted **2** og sagde til dem: »Gå ind i landsbyen heroverfor, og I vil straks finde et æsel, som står bundet med sit føl. Løs dem, og kom med dem. **3** Og hvis nogen spørger jer om noget, skal I svare: Herren har brug for dem, men vil straks sende dem tilbage.« **4** Det skete, for at det skulle opfyldes, som er talt ved profeten, der siger:
-       **5** Sig til Zions datter:
-      Se, din konge kommer til dig,
-      sagtmodig, ridende på et æsel
-      og på et trækdyrs føl.
+
+> **5** Sig til Zions datter:  
+> Se, din konge kommer til dig,  
+> sagtmodig, ridende på et æsel  
+> og på et trækdyrs føl.
+
 **6** Disciplene gik hen og gjorde, som Jesus havde pålagt dem. **7** De kom med æslet og føllet og lagde deres kapper på dem, og han satte sig derpå. **8** Den store folkeskare bredte deres kapper ud på vejen, andre skar grene af træerne og strøede dem på vejen. **9** Og skarerne, som gik foran ham, og de, der fulgte efter, råbte:
-      *Hosianna, Davids søn!
-      Velsignet være han, som kommer, i Herrens navn!
-      Hosianna i det højeste!*
+
+> Hosianna, Davids søn!  
+> Velsignet være han, som kommer, i Herrens navn!  
+> Hosianna i det højeste!
 
 **10** Da han nåede ind i Jerusalem, blev der røre i hele byen, og folk spurgte: »Hvem er han?« **11** og skarerne svarede: »Det er profeten Jesus fra Nazaret i Galilæa.«
 
@@ -681,10 +690,12 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 **33** Hør endnu en lignelse! Der var en vingårdsejer, som plantede en vingård og satte et gærde om den, og han gravede en perse i den og byggede et vagttårn. Han forpagtede den bort til nogle vinbønder og rejste udenlands. **34** Da høsttiden nærmede sig, sendte han sine folk til vinbønderne for at få sin høst. **35** Men vinbønderne greb hans folk, og én pryglede de, en anden dræbte de, og en tredje stenede de. **36** Han sendte nogle andre folk, flere end første gang, men de gjorde det samme ved dem. **37** Til sidst sendte han sin søn til dem, for han tænkte: De vil undse sig for min søn. **38** Men da vinbønderne så sønnen, sagde de til hinanden: Det er arvingen. Kom, lad os slå ham ihjel og få hans arv. **39** Og de greb ham og smed ham ud af vingården og slog ham ihjel. **40** Når nu vingårdens ejer kommer, hvad vil han så gøre med de vinbønder?« **41** De svarede ham: »Et ondt endeligt vil han give de onde og overlade vingården til andre vinbønder, som vil give ham høsten, når tiden er inde.«
 
 **42** Jesus sagde til dem: »Har I aldrig læst i Skrifterne:
-      *Den sten, bygmestrene vragede,
-      er blevet hovedhjørnesten.
-      Det er Herrens eget værk,
-      det er underfuldt for vore øjne?*
+
+> Den sten, bygmestrene vragede,  
+> er blevet hovedhjørnesten.  
+> Det er Herrens eget værk,  
+> det er underfuldt for vore øjne?
+
 **43** Derfor siger jeg jer: Guds rige skal tages fra jer og gives til et folk, som bærer dets frugter. **44** Og den, der falder over denne sten, bliver kvæstet, men den, som stenen falder på, vil den knuse.«
 
 **45** Da ypperstepræsterne og farisæerne havde hørt hans lignelser, forstod de, at han sigtede til dem. **46** Så søgte de at gribe ham, men de frygtede for folkeskaren, for den anså ham for at være en profet.
@@ -710,10 +721,12 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Davids søn eller Davids herre
 
 **41** Mens farisæerne var forsamlet, spurgte Jesus dem: **42** »Hvad mener I om Kristus? Hvis søn er han?« De svarede: »Davids.« **43** Han sagde til dem: »Hvordan kan David så ved Ånden kalde ham herre og sige:
-      **44** *Herren sagde til min herre:
-      Sæt dig ved min højre hånd,
-      indtil jeg får lagt dine fjender
-      under dine fødder?*
+
+> **44** Herren sagde til min herre:  
+> Sæt dig ved min højre hånd,  
+> indtil jeg får lagt dine fjender  
+> under dine fødder?
+
 **45** Når David altså kalder ham herre, hvordan kan han så være hans søn?« **46** Ingen kunne svare ham et ord, og fra den dag turde heller ingen længere spørge ham om noget.
 
 ### Matt 23
@@ -901,11 +914,13 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 **1** Begyndelsen på evangeliet om Jesus Kristus, Guds søn.
 
 **2** Som der står skrevet hos profeten Esajas:
-      *Se, jeg sender min engel foran dig,
-      han skal bane din vej.*
-      **3** *Der er en, der råber i ørkenen:
-      Ban Herrens vej,
-      gør hans stier jævne!*
+
+> Se, jeg sender min engel foran dig,  
+> han skal bane din vej.  
+> **3** Der er en, der råber i ørkenen:  
+> Ban Herrens vej,  
+> gør hans stier jævne!
+
 **4** – således trådte Johannes Døber frem i ørkenen og prædikede omvendelsesdåb til syndernes forladelse. **5** Og hele Judæa og alle Jerusalems indbyggere drog ud til ham, og de blev døbt af ham i Jordanfloden, idet de bekendte deres synder. **6** Johannes gik klædt i kamelhår og havde et læderbælte om livet, og han levede af græshopper og vildhonning. **7** Og han prædikede: »Efter mig kommer han, som er stærkere end jeg, og jeg er ikke værdig til at bøje mig ned og løse hans skorem. **8** Jeg har døbt jer med vand, men han skal døbe jer med Helligånden.«
 
 #### Jesu dåb og Jesu fristelse
@@ -997,9 +1012,10 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 **3** »Hør her! En sædemand gik ud for at så. **4** Og da han såede, faldt noget på vejen, og fuglene kom og åd det op. **5** Noget faldt på klippegrund, hvor der ikke var ret meget jord, og det kom straks op, fordi der kun var et tyndt lag jord; **6** og da solen kom højt på himlen, blev det svedet, og det visnede, fordi det ikke havde rod. **7** Noget faldt mellem tidsler, og tidslerne voksede op og kvalte det, så det ikke gav udbytte. **8** Men noget faldt i god jord og gav udbytte; det voksede op og groede, og noget bar tredive og noget tres og noget hundrede fold.« **9** Og han sagde: »Den, der har ører at høre med, skal høre!«
 
 **10** Da han var blevet alene med sine ledsagere og de tolv, spurgte de ham om lignelserne. **11** Og han svarede dem: »Til jer er Guds riges hemmelighed givet, men til dem udenfor kommer alt i lignelser, **12** for at
-      *de skal se og se, men intet forstå,
-      de skal høre og høre, men intet fatte,
-      for at de ikke skal vende om og få tilgivelse.«*
+
+> de skal se og se, men intet forstå,  
+> de skal høre og høre, men intet fatte,  
+> for at de ikke skal vende om og få tilgivelse.«
 
 **13** Og han sagde til dem: »Forstår I ikke denne lignelse? Hvordan skal I så kunne forstå de andre lignelser? **14** Sædemanden sår ordet. **15** Med dem på vejen, hvor ordet sås, er det sådan, at når de har hørt det, kommer Satan straks og tager det ord bort, der er sået i dem. **16** De, der bliver sået på klippegrund, er dem, der straks tager imod ordet med glæde, når de har hørt det; **17** men de har ikke rod i sig, de holder kun ud en tid, så når der kommer trængsler eller forfølgelse på grund af ordet, falder de straks fra. **18** Andre er dem, der bliver sået mellem tidslerne; det er dem, som har hørt ordet, **19** men denne verdens bekymringer og rigdommens blændværk og lyst til alt muligt andet kommer til og kvæler ordet, så det ikke bærer frugt. **20** Men de, der bliver sået i den gode jord, det er dem, der hører ordet og tager imod det og bærer frugt, tredive og tres og hundrede fold.«
 
@@ -1076,10 +1092,12 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Spørgsmålet om rent og urent
 
 **1** Farisæerne og nogle skriftkloge, som var kommet fra Jerusalem, samlede sig omkring Jesus. **2** Og de så, at nogle af hans disciple spiste med urene hænder, det vil sige uden at vaske dem. **3** Farisæerne og jøderne i det hele taget spiser nemlig ikke, før de har vasket hænderne med en håndfuld vand for at overholde de gamles overlevering; **4** og de spiser ikke noget fra torvet, uden at de skyller det; og der er meget andet, som de overholder ifølge overleveringen: at skylle bægre, krus, kobbertøj og bænke. **5** Farisæerne og de skriftkloge spurgte ham så: »Hvorfor følger dine disciple ikke de gamles overlevering, men spiser med urene hænder?« **6** Men han sagde til dem: »Esajas profeterede rigtigt om jer hyklere, sådan som der står skrevet:
-      *Dette folk ærer mig med læberne,
-      men deres hjerte er langt borte fra mig,*
-      **7** *forgæves dyrker de mig,
-      for det, de lærer, er menneskebud.*
+
+> Dette folk ærer mig med læberne,  
+> men deres hjerte er langt borte fra mig,  
+> **7** forgæves dyrker de mig,  
+> for det, de lærer, er menneskebud.
+
 **8** I har tilsidesat Guds bud og overholder kun menneskers overlevering.« **9** Og han sagde til dem: »Hvor kønt! I forkaster Guds bud for at indføre jeres egen overlevering. **10** Moses har jo sagt: ›Ær din far og din mor!‹ og: ›Den, der forbander sin far eller sin mor, skal lide døden.‹ **11** Men I siger: Hvis et menneske siger til sin far eller sin mor: Det, du skulle have haft som hjælp af mig, skal være korban – det vil sige tempelgave – **12** så tillader I ikke længere, at han gør noget for sin far eller sin mor. **13** I sætter Guds ord ud af kraft med jeres egen overlevering. Og meget andet af den slags gør I.«
 
 **14** Og han kaldte atter skaren til sig og sagde: »Hør mig, alle sammen, og forstå: **15** Der er intet, som kommer ind i et menneske udefra, der kan gøre det urent, men det er det, som kommer ud af et menneske, der gør et menneske urent. **16**  Har nogen ører at høre med, skal han høre!«
@@ -1199,10 +1217,11 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Indtoget i Jerusalem
 
 **1** Da de nærmede sig Jerusalem og kom til Betfage og Betania ved Oliebjerget, sendte han to af sine disciple af sted **2** og sagde til dem: »Gå ind i landsbyen heroverfor; når I kommer ind i den, vil I straks finde et føl, som står bundet, og som intet menneske endnu har siddet på. Løs det, og bring det herhen. **3** Og hvis nogen spørger jer, hvorfor I gør det, skal I sige: Herren har brug for det og sender det straks tilbage hertil igen.« **4** Så gik de, og de fandt et føl bundet ved en dør ud til gaden, og de løste det. **5** Nogle af dem, som stod der, spurgte: »Hvad er det, I gør? I løser jo føllet!« **6** Men de svarede sådan, som Jesus havde sagt, og så lod de dem gå. **7** De bragte så føllet hen til Jesus og lagde deres kapper på det, og han satte sig op på det. **8** Og mange bredte deres kapper ud på vejen, andre strøede grønne kviste, som de havde skåret af på markerne. **9** Og både de, der gik foran, og de, der fulgte efter, råbte:
-      *Hosianna!
-      Velsignet være han, som kommer, i Herrens navn!*
-      **10** *Velsignet være vor fader Davids rige, som kommer!
-      Hosianna i det højeste!*
+
+> Hosianna!  
+> Velsignet være han, som kommer, i Herrens navn!  
+> **10** Velsignet være vor fader Davids rige, som kommer!  
+> Hosianna i det højeste!
 
 **11** Så kom han ind i Jerusalem og ind på tempelpladsen. Da han havde været rundt og set på det hele, og det allerede var sent, gik han ud til Betania sammen med de tolv.
 
@@ -1227,10 +1246,12 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Lignelsen om de onde vinbønder
 
 **1** Så gav Jesus sig til at tale til dem i lignelser: »En mand plantede en vingård og satte et gærde om den, og han gravede en perse og byggede et vagttårn. Han forpagtede den bort til nogle vinbønder og rejste udenlands. **2** Da tiden var inde, sendte han en af sine folk for at få sin del af vingårdens høst af vinbønderne. **3** Men de greb ham og pryglede ham og sendte ham tomhændet bort. **4** Han sendte en anden af sine folk til dem; også ham slog de i hovedet og vanærede ham. **5** Så sendte han endnu én, og ham slog de ihjel. Og han sendte mange andre; nogle pryglede de, andre slog de ihjel. **6** Endnu én havde han, en elsket søn, ham sendte han som den sidste til dem, for han tænkte: De vil undse sig for min søn. **7** Men disse vinbønder sagde til hinanden: Det er arvingen. Kom, lad os slå ham ihjel, og arven er vores. **8** Og de greb ham og slog ham ihjel, og de smed ham ud af vingården. **9** Hvad vil nu vingårdens ejer gøre? Han vil komme og gøre det af med de vinbønder og give vingården til andre. **10** Har I ikke læst dette skriftord:
-      *Den sten, bygmestrene vragede,
-      er blevet hovedhjørnesten.*
-      **11** *Det er Herrens eget værk,
-      det er underfuldt for vore øjne?«*
+
+> Den sten, bygmestrene vragede,  
+> er blevet hovedhjørnesten.  
+> **11** Det er Herrens eget værk,  
+> det er underfuldt for vore øjne?«
+
 **12** Så søgte de at gribe ham, men de frygtede for skaren, for de forstod, at han sigtede til dem med denne lignelse. Da forlod de ham og gik deres vej.
 
 #### Spørgsmålet om skat til kejseren
@@ -1248,10 +1269,12 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Davids søn eller Davids herre
 
 **35** Mens Jesus underviste på tempelpladsen, tog han til orde og sagde: »Hvordan kan de skriftkloge sige, at Kristus er Davids søn? **36** David har selv sagt ved Helligånden:
-      *Herren sagde til min herre:
-      Sæt dig ved min højre hånd,
-      indtil jeg får lagt dine fjender
-      under dine fødder!*
+
+> Herren sagde til min herre:  
+> Sæt dig ved min højre hånd,  
+> indtil jeg får lagt dine fjender  
+> under dine fødder!
+
 **37** David selv kalder ham herre, hvordan kan han så være hans søn?« Og den store folkeskare hørte gerne på ham.
 
 #### Advarsel mod de skriftkloge
@@ -1411,24 +1434,26 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Marias lovsang
 
 **46** Da sagde Maria:
-      *Min sjæl ophøjer Herren,*
-      **47** *og min ånd fryder sig over Gud, min frelser!*
-      **48** *Han har set til sin ringe tjenerinde.
-      For herefter skal alle slægter prise mig salig,*
-      **49** *thi den Mægtige har gjort store ting mod mig.
-      Helligt er hans navn,*
-      **50** *og hans barmhjertighed mod dem, der frygter ham,
-      varer i slægt efter slægt.*
-      **51** *Han har øvet vældige gerninger med sin arm,
-      splittet dem, der er hovmodige i deres hjertes tanker;*
-      **52** *han har styrtet de mægtige fra tronen,
-      og han har ophøjet de ringe;*
-      **53** *sultende har han mættet med gode gaver,
-      og rige har han sendt tomhændet bort.*
-      **54** *Han har taget sig af sin tjener Israel
-      og husker på sin barmhjertighed*
-      **55** *– som han tilsagde vore fædre –
-      mod Abraham og hans slægt til evig tid.*
+
+> Min sjæl ophøjer Herren,  
+> **47** og min ånd fryder sig over Gud, min frelser!  
+> **48** Han har set til sin ringe tjenerinde.  
+> For herefter skal alle slægter prise mig salig,  
+> **49** thi den Mægtige har gjort store ting mod mig.  
+> Helligt er hans navn,  
+> **50** og hans barmhjertighed mod dem, der frygter ham,  
+> varer i slægt efter slægt.  
+> **51** Han har øvet vældige gerninger med sin arm,  
+> splittet dem, der er hovmodige i deres hjertes tanker;  
+> **52** han har styrtet de mægtige fra tronen,  
+> og han har ophøjet de ringe;  
+> **53** sultende har han mættet med gode gaver,  
+> og rige har han sendt tomhændet bort.  
+> **54** Han har taget sig af sin tjener Israel  
+> og husker på sin barmhjertighed  
+> **55** – som han tilsagde vore fædre –  
+> mod Abraham og hans slægt til evig tid.
+
 **56** Maria blev hos hende hen ved tre måneder og vendte så hjem.
 
 #### Johannes Døbers fødsel
@@ -1438,29 +1463,30 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 #### Zakarias' lovsang
 
 **67** Hans far, Zakarias, blev fyldt med Helligånden og profeterede:
-      **68** *Lovet være Herren, Israels Gud,
-      for han har besøgt og forløst sit folk.*
-      **69** *Han har oprejst os frelsens horn
-      i sin tjener Davids hus,*
-      **70** *sådan som han fra gammel tid har forkyndt
-      ved sine hellige profeters mund:*
-      **71** *at frelse os fra vore fjender
-      og fra alle dem, som hader os,*
-      **72** *at vise barmhjertighed mod vore fædre
-      og huske på sin hellige pagt,*
-      **73** *den ed, han tilsvor vor fader Abraham:*
-      **74** *at fri os fra vore fjenders hånd
-      og give os at tjene ham uden frygt*
-      **75** *i fromhed og retfærdighed
-      for hans åsyn alle vore dage.*
-      **76** *Og du, mit barn, skal kaldes den Højestes profet,
-      for du skal gå foran Herren og bane hans veje*
-      **77** *og lære hans folk at kende frelsen
-      i deres synders forladelse,*
-      **78** *takket være vor Guds inderlige barmhjertighed,
-      hvormed solopgangen fra det høje vil besøge os*
-      **79** *for at lyse for dem, der sidder i mørke og i dødens skygge,
-      og lede vore fødder ind på fredens vej.*
+
+> **68** Lovet være Herren, Israels Gud,  
+> for han har besøgt og forløst sit folk.  
+> **69** Han har oprejst os frelsens horn  
+> i sin tjener Davids hus,  
+> **70** sådan som han fra gammel tid har forkyndt  
+> ved sine hellige profeters mund:  
+> **71** at frelse os fra vore fjender  
+> og fra alle dem, som hader os,  
+> **72** at vise barmhjertighed mod vore fædre  
+> og huske på sin hellige pagt,  
+> **73** den ed, han tilsvor vor fader Abraham:  
+> **74** at fri os fra vore fjenders hånd  
+> og give os at tjene ham uden frygt  
+> **75** i fromhed og retfærdighed  
+> for hans åsyn alle vore dage.  
+> **76** Og du, mit barn, skal kaldes den Højestes profet,  
+> for du skal gå foran Herren og bane hans veje  
+> **77** og lære hans folk at kende frelsen  
+> i deres synders forladelse,  
+> **78** takket være vor Guds inderlige barmhjertighed,  
+> hvormed solopgangen fra det høje vil besøge os  
+> **79** for at lyse for dem, der sidder i mørke og i dødens skygge,  
+> og lede vore fødder ind på fredens vej.
 
 **80** Drengen voksede op og blev stærk i ånden, og han var i ørkenen til den dag, da han skulle træde frem for Israel.
 
@@ -1471,8 +1497,9 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 **1** Og det skete i de dage, at der udgik en befaling fra kejser Augustus om at holde folketælling i hele verden. **2** Det var den første folketælling, mens Kvirinius var statholder i Syrien. **3** Og alle drog hen for at lade sig indskrive, hver til sin by. **4** Også Josef drog op fra byen Nazaret i Galilæa til Judæa, til Davids by, som hedder Betlehem, fordi han var af Davids hus og slægt, **5** for at lade sig indskrive sammen med Maria, sin forlovede, som ventede et barn. **6** Og mens de var dér, kom tiden, da hun skulle føde; **7** og hun fødte sin søn, den førstefødte, og svøbte ham og lagde ham i en krybbe, for der var ikke plads til dem i herberget.
 
 **8** I den samme egn var der hyrder, som lå ude på marken og holdt nattevagt over deres hjord. **9** Da stod Herrens engel for dem, og Herrens herlighed strålede om dem, og de blev grebet af stor frygt. **10** Men englen sagde til dem: »Frygt ikke! Se, jeg forkynder jer en stor glæde, som skal være for hele folket: **11** I dag er der født jer en frelser i Davids by; han er Kristus, Herren. **12** Og dette er tegnet, I får: I skal finde et barn, som er svøbt og ligger i en krybbe.« **13** Og med ét var der sammen med englen en himmelsk hærskare, som lovpriste Gud og sang:
-      **14**  *Ære være Gud i det højeste og på jorden!
-      Fred til mennesker med Guds velbehag!*
+
+> **14** Ære være Gud i det højeste og på jorden!  
+> Fred til mennesker med Guds velbehag!
 
 **15** Og da englene havde forladt dem og var vendt tilbage til himlen, sagde hyrderne til hinanden: »Lad os gå ind til Betlehem og se det, som er sket, og som Herren har forkyndt os.« **16** De skyndte sig derhen og fandt Maria og Josef sammen med barnet, som lå i krybben. **17** Da de havde set det, fortalte de, hvad der var blevet sagt til dem om dette barn, **18** og alle, der hørte det, undrede sig over, hvad hyrderne fortalte dem; **19** men Maria gemte alle disse ord i sit hjerte og grundede over dem. **20** Så vendte hyrderne tilbage og priste og lovede Gud for alt, hvad de havde hørt og set, sådan som det var blevet sagt til dem.
 
@@ -1483,11 +1510,12 @@ David blev med Urias' hustru far til Salomo, **7** Salomo blev far til Rehabeam,
 **22** Da deres renselsesdage i henhold til Moseloven var gået, tog de ham med op til Jerusalem for at bære ham frem for Herren **23** – som der står skrevet i Herrens lov: »Alt det første af mandkøn, der kommer ud af moderlivet, skal helliges Herren« – **24** og for at bringe offer, sådan som det er foreskrevet i Herrens lov, et par turtelduer eller to dueunger.
 
 **25** I Jerusalem var der en mand ved navn Simeon; han var retfærdig og from og ventede Israels trøst. Helligånden var over ham, **26** og den havde åbenbaret for ham, at han ikke skulle se døden, før han havde set Herrens salvede. **27** Tilskyndet af Ånden kom han til templet, og da forældrene kom ind med barnet Jesus for at gøre med ham, som det var sædvane efter loven, **28** tog han barnet i sine arme og lovpriste Gud:
-      **29** *Herre, nu lader du din tjener gå bort med fred efter dit ord.*
-      **30** *For mine øjne har set din frelse,*
-      **31** *som du har beredt for alle folk:*
-      **32** *Et lys til åbenbaring for hedninger
-      og en herlighed for dit folk Israel.*
+
+> **29** Herre, nu lader du din tjener gå bort med fred efter dit ord.  
+> **30** For mine øjne har set din frelse,  
+> **31** som du har beredt for alle folk:  
+> **32** Et lys til åbenbaring for hedninger  
+> og en herlighed for dit folk Israel.
 
 **33** Hans far og mor undrede sig over det, der blev sagt om ham. **34** Og Simeon velsignede dem og sagde til Maria, hans mor: »Se, dette barn er bestemt til fald og oprejsning for mange i Israel og til at være et tegn, som modsiges **35** – ja, også din egen sjæl skal et sværd gennemtrænge – for at mange hjerters tanker kan komme for en dag.«
 
@@ -1508,14 +1536,15 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 **1** I kejser Tiberius' femtende regeringsår, mens Pontius Pilatus var statholder over Judæa, og Herodes var landsfyrste over Galilæa, hans bror Filip over Ituræa og Trakonitis, og Lysanias over Abilene, **2** og mens Annas og Kajfas var ypperstepræster, da kom Guds ord til Zakarias' søn, Johannes, ude i ørkenen.
 
 **3** Han kom så til egnen omkring Jordan, og overalt prædikede han omvendelsesdåb til syndernes forladelse, **4** ligesom der står skrevet i bogen med profeten Esajas' ord:
-      *Der er en, der råber i ørkenen:
-      Ban Herrens vej,
-      gør hans stier jævne!*
-      **5** *Hver dal skal fyldes,
-      hvert bjerg og hver høj skal sænkes,
-      de krogede veje skal rettes ud,
-      de ujævne gøres jævne.*
-      **6** *Og alle mennesker skal se Guds frelse.*
+
+> Der er en, der råber i ørkenen:  
+> Ban Herrens vej,  
+> gør hans stier jævne!  
+> **5** Hver dal skal fyldes,  
+> hvert bjerg og hver høj skal sænkes,  
+> de krogede veje skal rettes ud,  
+> de ujævne gøres jævne.  
+> **6** Og alle mennesker skal se Guds frelse.
 
 **7** Til de skarer, der kom ud for at blive døbt af ham, sagde han: »Øgleyngel, hvem har bildt jer ind, at I kan flygte fra den kommende vrede? **8** Så bær da de frugter, som omvendelsen kræver, og kom ikke og sig ved jer selv: Vi har Abraham til fader. For jeg siger jer: Gud kan opvække børn til Abraham af stenene dér. **9** Øksen ligger allerede ved træernes rod, og hvert træ, som ikke bærer god frugt, hugges om og kastes i ilden.«
 
@@ -1538,10 +1567,14 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 #### Jesu fristelse i ørkenen
 
 **1** Jesus vendte tilbage fra Jordan fyldt af Helligånden, og ført af Ånden var han ude i ørkenen **2** i fyrre dage og blev fristet af Djævelen. Han spiste ikke noget i de dage, og da de var gået, led han sult. **3** Da sagde Djævelen til ham: »Hvis du er Guds søn, så sig til stenen her, at den skal blive til brød.« **4** Men Jesus svarede ham: »Der står skrevet: ›Mennesket skal ikke leve af brød alene.‹ « **5** Så førte Djævelen ham højt op og viste ham i ét nu alle jordens riger **6** og sagde til ham: »Dig vil jeg give al denne magt og herlighed, for den er overgivet til mig, og jeg giver den, til hvem jeg vil. **7** Hvis du altså tilbeder mig, skal alt dette være dit.« **8** Men Jesus svarede ham: »Der står skrevet: ›Du skal tilbede Herren din Gud og tjene ham alene.‹ « **9** Derpå førte Djævelen ham til Jerusalem, stillede ham på templets tinde og sagde til ham: »Hvis du er Guds søn, så styrt dig ned herfra. **10** For der står skrevet:
-      *Han vil give sine engle befaling om at beskytte dig,*
+
+> Han vil give sine engle befaling om at beskytte dig,
+
 **11** og:
-      *De skal bære dig på hænder,
-      så du ikke støder din fod på nogen sten.«*
+
+> De skal bære dig på hænder,  
+> så du ikke støder din fod på nogen sten.«
+
 **12** Men Jesus svarede ham: »Der er sagt: ›Du må ikke udæske Herren din Gud.‹ «
 
 **13** Da Djævelen ikke havde mere at friste med, forlod han ham for en tid.
@@ -1553,14 +1586,16 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 #### Jesus i Nazarets synagoge
 
 **16** Han kom også til Nazaret, hvor han var vokset op. På sabbatten gik han efter sædvane ind i synagogen, og han rejste sig for at læse op. **17** Man rakte ham profeten Esajas' bog, og han åbnede den og fandt det sted, hvor der står skrevet:
-      **18** *Herrens ånd er over mig,
-      fordi han har salvet mig.
-      Han har sendt mig
-      for at bringe godt budskab til fattige,
-      for at udråbe frigivelse for fanger
-      og syn til blinde,
-      for at sætte undertrykte i frihed,*
-      **19** *for at udråbe et nådeår fra Herren.*
+
+> **18** Herrens ånd er over mig,  
+> fordi han har salvet mig.  
+> Han har sendt mig  
+> for at bringe godt budskab til fattige,  
+> for at udråbe frigivelse for fanger  
+> og syn til blinde,  
+> for at sætte undertrykte i frihed,  
+> **19** for at udråbe et nådeår fra Herren.
+
 **20** Så lukkede han bogen, gav den til tjeneren og satte sig, og alle i synagogen rettede spændt øjnene mod ham. **21** Da begyndte han at tale til dem og sagde: »I dag er det skriftord, som lød i jeres ører, gået i opfyldelse.« **22** Alle gav de ham deres bifald og undrede sig over de nådefulde ord, som udgik af hans mund, og de spurgte: »Er det ikke Josefs søn?« **23** Han svarede dem: »I vil sikkert bruge denne talemåde mod mig: Læge, læg dig selv! og sige: Vi har hørt om alt det, der er sket i Kapernaum; gør det samme her i din hjemby!« **24** Men han sagde: »Sandelig siger jeg jer: Ingen profet er anerkendt i sin hjemby. **25** Og jeg siger jer, som sandt er: Der var mange enker i Israel på Elias' tid, dengang himlen var lukket i tre år og seks måneder, så der blev stor hungersnød i hele landet; **26** og Elias blev ikke sendt til nogen af dem, men til en enke i Sarepta i Sidons land. **27** Og der var mange spedalske i Israel på profeten Elisas tid; og ingen af dem blev renset, men det blev syreren Na'aman.«
 
 **28** Alle i synagogen blev ude af sig selv af raseri, da de hørte det; **29** de sprang op, jog ham ud af byen og drev ham hen til kanten af det bjerg, deres by var bygget på, for at styrte ham ned. **30** Men han banede sig vej imellem dem og gik.
@@ -1626,19 +1661,23 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 #### Saligprisningerne og veråbene
 
 **20** Og han løftede sit blik, så på sine disciple og sagde:
-      *»Salige er I, som er fattige,
-      for Guds rige er jeres.*
-      **21** *Salige er I, som sulter nu,
-      for I skal mættes.
-      Salige er I, som græder nu,
-      for I skal le.*
+
+> »Salige er I, som er fattige,  
+> for Guds rige er jeres.  
+> **21** Salige er I, som sulter nu,  
+> for I skal mættes.  
+> Salige er I, som græder nu,  
+> for I skal le.
+
 **22** Salige er I, når mennesker hader jer, forstøder jer og håner jer og afskyr jeres navn som noget ondt for Menneskesønnens skyld. **23** Fryd jer på den dag og spring højt af glæde, for se, jeres løn er stor i himlen; således behandlede deres fædre også profeterne.
-      **24** *Men ve jer, I som er rige,
-      for I har fået jeres trøst.*
-      **25** *Ve jer, I som er mætte nu,
-      for I skal sulte.
-      Ve jer, I som ler nu,
-      for I skal sørge og græde.*
+
+> **24** Men ve jer, I som er rige,  
+> for I har fået jeres trøst.  
+> **25** Ve jer, I som er mætte nu,  
+> for I skal sulte.  
+> Ve jer, I som ler nu,  
+> for I skal sørge og græde.
+
 **26** Ve jer, når alle taler godt om jer. Således behandlede deres fædre også de falske profeter.
 
 #### Om fjendekærlighed
@@ -1678,8 +1717,10 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 #### Jesu tale om Johannes Døber
 
 **24** Da udsendingene fra Johannes var gået, begyndte Jesus at tale til folkeskarerne om Johannes: »Hvad gik I ud i ørkenen for at se? Et siv, der svajer for vinden? **25** Nej, hvad gik I ud for at se? Et menneske i fornemme klæder? Se, de, der går i fint tøj og lever i luksus, findes i kongepaladserne. **26** Nej, hvad gik I ud for at se? En profet? Ja, jeg siger jer, også mere end en profet. **27** Det er om ham, der står skrevet:
-      *Se, jeg sender min engel foran dig,
-      han skal bane din vej for dig.*
+
+> Se, jeg sender min engel foran dig,  
+> han skal bane din vej for dig.
+
 **28** Jeg siger jer: Blandt kvindefødte er ingen større end Johannes. Men den mindste i Guds rige er større end han. **29** Hele folket, som hørte ham, også tolderne, gav Gud ret og lod sig døbe med Johannes' dåb. **30** Men farisæerne og de lovkyndige forkastede Guds plan med dem og lod sig ikke døbe af ham.
 
 **31** Hvad skal jeg da sammenligne mennesker i denne slægt med? Hvad ligner de? **32** De ligner børn, der sidder på torvet og råber til hinanden: Vi spillede på fløjte for jer, og I dansede ikke; vi sang klagesange, og I græd ikke. **33** For Johannes Døber er kommet, han hverken spiser brød eller drikker vin, og I siger: Han er besat. **34** Og Menneskesønnen er kommet, han både spiser og drikker, og I siger: Se den frådser og dranker, ven med toldere og syndere!« **35** Dog, visdommen har fået ret ved alle sine børn.
@@ -1699,8 +1740,10 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 **4** Da der samlede sig en stor skare, og de kom ud til ham fra den ene by efter den anden, sagde han i en lignelse: **5** »En sædemand gik ud for at så sit korn. Og da han såede, faldt noget på vejen, og der blev trådt på det, og himlens fugle åd det op. **6** Noget faldt på klippen, og da det var vokset frem, visnede det, fordi det ikke havde væde. **7** Noget faldt mellem tidsler, og tidslerne groede helt sammen og kvalte det. **8** Men noget faldt i god jord, og det voksede op og gav hundrede fold.« Da han havde sagt det, råbte han: »Den, der har ører at høre med, skal høre!«
 
 **9** Hans disciple spurgte ham, hvad denne lignelse skulle betyde. **10** Han svarede: »Jer er det givet at kende Guds riges hemmeligheder, men de andre bliver det givet i lignelser, for at
-      *de skal se, men intet se,
-      og høre, men intet fatte.*
+
+> de skal se, men intet se,  
+> og høre, men intet fatte.
+
 **11** Men dette er meningen med lignelsen: Sæden er Guds ord. **12** De på vejen er dem, der har hørt ordet; derefter kommer Djævelen og tager ordet bort fra deres hjerte, for at de ikke skal tro og blive frelst. **13** De på klippen er dem, som med glæde tager imod ordet, når de har hørt det; men de har ikke rod, de tror kun til en tid og falder fra, når prøvelser sætter ind. **14** Det, som faldt mellem tidslerne, det er dem, der har hørt ordet, men kvæles af livets bekymringer og rigdomme og nydelser, så de ikke bærer moden frugt. **15** Men det i den gode jord, det er dem, der hører ordet og bevarer det i et smukt og godt hjerte, er udholdende og bærer frugt.
 
 #### Lignelsen om lyset i stagen
@@ -1816,13 +1859,14 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 #### Fadervor
 
 **1** Og det skete, da han var et sted og bad, at en af disciplene sagde til ham, da han holdt op med at bede: »Herre, lær os at bede, ligesom Johannes lærte sine disciple det.« **2** Han sagde til dem: »Når I beder, skal I sige:
-      *Fader!
-      Helliget blive dit navn,
-      komme dit rige;*
-      **3** *giv os hver dag vort daglige brød,*
-      **4** *og forlad os vore synder,
-      for også vi forlader selv enhver, som er skyldig over for os,
-      og led os ikke ind i fristelse.«*
+
+> Fader!  
+> Helliget blive dit navn,  
+> komme dit rige;  
+> **3** giv os hver dag vort daglige brød,  
+> **4** og forlad os vore synder,  
+> for også vi forlader selv enhver, som er skyldig over for os,  
+> og led os ikke ind i fristelse.«
 
 #### Om bønhørelse
 
@@ -2051,9 +2095,10 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 #### Indtoget i Jerusalem
 
 **28** Efter at have sagt det gik han videre på sin vej op mod Jerusalem. **29** Da han nærmede sig Betfage og Betania ved det bjerg, som hedder Oliebjerget, sendte han to af disciplene af sted **30** og sagde: »Gå ind i landsbyen heroverfor; når I kommer ind i den, vil I finde et føl, som står bundet, og som ingen nogen sinde har siddet på. Løs det, og kom med det. **31** Og hvis nogen spørger jer, hvorfor I løser det, skal I svare: Herren har brug for det.« **32** De to disciple gik, og de fandt det, sådan som han havde sagt dem. **33** Mens de var ved at løse føllet, spurgte dets ejere dem: »Hvorfor løser I føllet?« **34** De svarede: »Herren har brug for det.« **35** De kom så hen til Jesus med føllet og lagde deres kapper på det og lod Jesus sætte sig op. **36** Og hvor han kom ridende, bredte folk deres kapper ud på vejen. **37** Da han allerede nærmede sig vejen ned ad Oliebjerget, begyndte hele discipelskaren glad at prise Gud med høj røst for alle de mægtige gerninger, de havde set. **38** De råbte:
-      *Velsignet være han, som kommer, kongen, i Herrens navn!
-      Fred i himlen
-      og ære i det højeste!*
+
+> Velsignet være han, som kommer, kongen, i Herrens navn!  
+> Fred i himlen  
+> og ære i det højeste!
 
 **39** Nogle farisæere i skaren sagde da til ham: »Mester, sæt dine disciple i rette!« **40** Men han svarede: »Jeg siger jer: Hvis de tier, vil stenene råbe.«
 
@@ -2076,8 +2121,10 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 #### Lignelsen om de onde vinbønder
 
 **9** Og han fortalte folket denne lignelse: »En mand plantede en vingård og forpagtede den bort til nogle vinbønder og rejste udenlands i længere tid. **10** Da tiden var inde, sendte han en af sine folk til vinbønderne, så de kunne aflevere en del af vingårdens høst til ham. Men vinbønderne pryglede ham og sendte ham tomhændet bort. **11** Han sendte så en anden af sine folk; også ham sendte de tomhændet bort, da de havde pryglet og vanæret ham. **12** Derpå sendte han en tredje, men også ham slog de til blods og smed ham ud. **13** Så tænkte vingårdens ejer: Hvad skal jeg gøre? Jeg vil sende min elskede søn. De vil sikkert undse sig for ham. **14** Men da vinbønderne så ham, talte de med hinanden og sagde: Det er arvingen. Lad os slå ham ihjel, så arven bliver vores. **15** Og de smed ham ud af vingården og slog ham ihjel. Hvad vil nu vingårdens ejer gøre ved dem? **16** Han vil komme og gøre det af med de vinbønder og give vingården til andre.« Da de hørte det, sagde de: »Det må aldrig ske.« **17** Men Jesus så på dem og sagde: »Hvad betyder så det, der står skrevet:
-      *Den sten, bygmestrene vragede,
-      er blevet hovedhjørnesten?*
+
+> Den sten, bygmestrene vragede,  
+> er blevet hovedhjørnesten?
+
 **18** Enhver, som falder over denne sten, bliver kvæstet, men den, som stenen falder på, vil den knuse.«
 
 **19** Så søgte de skriftkloge og ypperstepræsterne at lægge hånd på ham med det samme, men de frygtede for folket; for de forstod, at han sigtede til dem med denne lignelse.
@@ -2093,10 +2140,12 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 #### Davids søn eller Davids herre
 
 **41** Han spurgte dem: »Hvordan kan man sige, at Kristus er Davids søn? **42** David siger jo selv i Salmernes Bog:
-      *Herren sagde til min herre:
-      Sæt dig ved min højre hånd,*
-      **43** *indtil jeg får lagt dine fjender
-      som en skammel for dine fødder!*
+
+> Herren sagde til min herre:  
+> Sæt dig ved min højre hånd,  
+> **43** indtil jeg får lagt dine fjender  
+> som en skammel for dine fødder!
+
 **44** David kalder ham altså herre, hvordan kan han så være hans søn?«
 
 #### Advarsel mod de skriftkloge
@@ -2536,13 +2585,16 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 #### Indtoget i Jerusalem
 
 **12** Næste dag hørte den store folkeskare, som var kommet til festen, at Jesus var på vej til Jerusalem. **13** De tog da palmegrene og gik ham i møde, og de råbte:
-      *Hosianna!
-      Velsignet være han, som kommer, i Herrens navn,
-      Israels konge!*
+
+> Hosianna!  
+> Velsignet være han, som kommer, i Herrens navn,  
+> Israels konge!
+
 **14** Jesus fik fat på et ungt æsel og satte sig på det, sådan som der står skrevet:
-      **15** *Frygt ikke, Zions datter!
-      Se, din konge kommer,
-      ridende på et æsels føl.*
+
+> **15** Frygt ikke, Zions datter!  
+> Se, din konge kommer,  
+> ridende på et æsels føl.
 
 **16** Det forstod hans disciple ikke straks; men da Jesus var herliggjort, kom de i tanker om, at dette var skrevet om ham, og at det var det, man havde gjort med ham. **17** Skaren, som havde været med ham, da han kaldte Lazarus ud af graven og oprejste ham fra de døde, vidnede om det. **18** Det var også derfor, skaren var gået ham i møde, fordi de havde hørt, at han havde gjort dette tegn. **19** Da sagde farisæerne til hinanden: »Her kan I se, det nytter ikke noget. Se bare, alverden løber efter ham.«
 
@@ -2559,14 +2611,18 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 #### Profetien om forhærdelsen
 
 **37** Skønt han havde gjort så mange tegn for øjnene af dem, troede de ikke på ham, **38** for at det ord af profeten Esajas skulle gå i opfyldelse:
-      *Herre, hvem troede på det, de hørte af os?
-      For hvem blev Herrens arm åbenbaret?*
+
+> Herre, hvem troede på det, de hørte af os?  
+> For hvem blev Herrens arm åbenbaret?
+
 **39** Derfor kunne de ikke tro, for Esajas har også sagt:
-      **40** *Han har blindet deres øjne
-      og forhærdet deres hjerte,
-      for at de ikke skal se med øjnene
-      og fatte med hjertet
-      og vende om, så jeg må helbrede dem.*
+
+> **40** Han har blindet deres øjne  
+> og forhærdet deres hjerte,  
+> for at de ikke skal se med øjnene  
+> og fatte med hjertet  
+> og vende om, så jeg må helbrede dem.
+
 **41** Det sagde Esajas, fordi han så hans herlighed og talte om ham. **42** Ikke desto mindre kom mange, endog af Rådets medlemmer, til tro på ham. Men på grund af farisæerne bekendte de det ikke, for ikke at blive udelukket af synagogen. **43** De elskede nemlig ære fra mennesker frem for ære fra Gud.
 
 #### Dom og frelse
@@ -2584,8 +2640,10 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 #### Forudsigelsen af Judas' forræderi
 
 **18** Jeg taler ikke om jer alle; jeg ved, hvem jeg har udvalgt, men Skriftens ord må gå i opfyldelse:
-      *Den, der spiser brødet med mig,
-      har løftet hælen imod mig.*
+
+> Den, der spiser brødet med mig,  
+> har løftet hælen imod mig.
+
 **19** Jeg siger det til jer allerede nu, inden det sker, for at I, når det er sket, skal tro, at jeg er den, jeg er. **20** Sandelig, sandelig siger jeg jer: Den, der tager imod, hvem jeg end sender, tager imod mig, og den, der tager imod mig, tager imod ham, der har sendt mig.«
 
 **21** Da Jesus havde sagt det, kom han i oprør og vidnede: »Sandelig, sandelig siger jeg jer: En af jer vil forråde mig.« **22** Disciplene så på hinanden, usikre på, hvem han talte om. **23** En af hans disciple, den som Jesus elskede, sad til bords lige ved siden af Jesus. **24** Ham gav Simon Peter tegn til at spørge Jesus, hvem det var, han talte om. **25** Da det nu var ham, der sad nærmest ved Jesus, spurgte han: »Hvem er det, Herre?« **26** Jesus svarede: »Det er ham, jeg giver det stykke brød, jeg nu dypper.« Så dyppede han brødet, tog det og gav det til Judas, Simon Iskariots søn. **27** Og da Judas havde fået brødet, fór Satan i ham. Jesus sagde til ham: »Hvad du gør, gør det snart.« **28** Ingen af dem, der sad til bords, forstod, hvorfor han sagde det til ham. **29** Men da Judas stod for pengekassen, mente nogle, at Jesus havde sagt til ham: »Køb, hvad vi har brug for til festen,« eller at han skulle give noget til de fattige. **30** Da han havde fået brødet, gik han straks ud. Det var nat.
@@ -2703,8 +2761,10 @@ Da han havde sagt det, gik han atter ud til jøderne og sagde til dem: »Jeg fin
 Så tog de Jesus med sig; **17** han bar selv korset og gik ud til det sted, som kaldes Hovedskalsted, og som på hebraisk hedder Golgata, **18** hvor de korsfæstede ham, og sammen med ham to andre, én på hver side, med Jesus i midten. **19** Pilatus havde lavet en indskrift og sat den på korset. Den lød: »Jesus fra Nazaret, jødernes konge.« **20** Den indskrift læste mange af jøderne, for stedet, hvor Jesus blev korsfæstet, lå nær ved byen, og den var skrevet på hebraisk, latin og græsk. **21** Jødernes ypperstepræster sagde nu til Pilatus: »Skriv ikke: ›Jødernes konge‹, men: ›Han sagde: Jeg er jødernes konge‹.« **22** Pilatus svarede: »Hvad jeg skrev, det skrev jeg.«
 
 **23** Da soldaterne havde korsfæstet Jesus, tog de hans klæder og delte dem i fire dele, én del til hver soldat. Også kjortlen tog de; men den var uden sammensyninger, ét vævet stykke fra øverst til nederst; **24** derfor sagde de til hinanden: »Lad os ikke rive den i stykker, men trække lod om, hvem der skal have den.« For sådan skulle det skriftord gå i opfyldelse:
-      *De delte mine klæder mellem sig,
-      de kastede lod om min klædning.*
+
+> De delte mine klæder mellem sig,  
+> de kastede lod om min klædning.
+
 Det gjorde soldaterne altså.
 
 #### Jesu død
@@ -2782,10 +2842,14 @@ Det gjorde soldaterne altså.
 #### Valget af Matthias til apostel
 
 **15** I de dage rejste Peter sig i kredsen af brødre – der var samlet en skare på omkring et hundrede og tyve – og han sagde: **16** »Brødre! Det skriftord måtte gå i opfyldelse, som Helligånden gennem Davids mund forud har sagt om Judas, der viste vej for dem, som anholdt Jesus. **17** For Judas regnedes med til os og havde fået sin lod i denne tjeneste. **18** Han købte sig en mark for de penge, han havde fået for sin ugerning, men han styrtede på hovedet ned og sprængtes, så alle hans indvolde væltede ud. **19** Og det blev kendt af alle Jerusalems indbyggere, så at den mark på deres sprog blev kaldt Hakeldama, det vil sige Blodmarken. **20** For i Salmernes Bog står der skrevet:
-      *Hans bolig skal blive øde,
-      ingen skal bo i den,*
+
+> Hans bolig skal blive øde,  
+> ingen skal bo i den,
+
 og:
-      *En anden skal overtage hans embede.*
+
+> En anden skal overtage hans embede.
+
 **21** Derfor bør en af de mænd, som var sammen med os hele tiden, mens Herren Jesus gik ind og ud hos os, **22** lige fra Johannes' dåb indtil den dag, han blev taget op til himlen fra os – en af dem bør sammen med os være vidne om hans opstandelse.« **23** De opstillede så to, Josef, der kaldtes Barsabbas med tilnavnet Justus, og Matthias, **24** og bad: »Herre, du som kender alles hjerter, vis os, hvem af de to du har udvalgt **25** til at overtage den tjeneste og apostelgerning, som Judas har forladt for at gå bort til det sted, hvor han hører til.« **26** Så kastede de lod mellem dem, og loddet faldt på Matthias, og han blev regnet med som apostel sammen med de elleve.
 
 ### ApG 2
@@ -2799,37 +2863,42 @@ og:
 #### Peters prædiken pinsedag
 
 **14** Da trådte Peter frem sammen med de elleve, og med høj røst talte han til dem: »Jøder og alle I, som bor i Jerusalem! Dette skal stå klart for jer, læg mærke til mine ord: **15** Disse folk er ikke berusede, som I tror, det er jo kun den tredje time på dagen. **16** Men her sker det, som er sagt ved profeten Joel:
-      **17** *Det skal ske i de sidste dage, siger Gud:
-      Jeg vil udgyde af min ånd
-      over alle mennesker.
-      Jeres sønner og døtre skal profetere,
-      jeres unge skal se syner,
-      jeres gamle skal have drømme.*
-      **18** *Selv over mine trælle og trælkvinder
-      vil jeg udgyde min ånd i de dage,
-      og de skal profetere.*
-      **19** *Jeg gør undere oppe på himlen
-      og sætter tegn nede på jorden,
-      blod og ild og kvælende røg.*
-      **20** *Solen forvandles til mørke
-      og månen til blod,
-      før Herrens store og herlige dag kommer.*
-      **21** *Og enhver, som påkalder Herrens navn, skal frelses.*
+
+> **17** Det skal ske i de sidste dage, siger Gud:  
+> Jeg vil udgyde af min ånd  
+> over alle mennesker.  
+> Jeres sønner og døtre skal profetere,  
+> jeres unge skal se syner,  
+> jeres gamle skal have drømme.  
+> **18** Selv over mine trælle og trælkvinder  
+> vil jeg udgyde min ånd i de dage,  
+> og de skal profetere.  
+> **19** Jeg gør undere oppe på himlen  
+> og sætter tegn nede på jorden,  
+> blod og ild og kvælende røg.  
+> **20** Solen forvandles til mørke  
+> og månen til blod,  
+> før Herrens store og herlige dag kommer.  
+> **21** Og enhver, som påkalder Herrens navn, skal frelses.
 
 **22** Israelitter, hør disse ord: Jesus fra Nazaret – en mand, der er udpeget af Gud for jer ved mægtige gerninger og undere og tegn, som Gud gjorde gennem ham midt iblandt jer, sådan som I selv ved – **23** ham fik I udleveret efter Guds fastlagte bestemmelse og forudviden, og ved lovbryderes hånd naglede I ham til korset og dræbte ham. **24** Men Gud gjorde en ende på dødens veer og lod ham opstå, for han kunne umuligt holdes fast af døden. **25** Om ham siger David nemlig:
-      *Jeg havde altid Herren for øje,
-      han er ved min højre side, for at jeg ikke skal vakle.*
-      **26** *Derfor glædede mit hjerte sig, og min tunge jublede,
-      ja, mit legeme skal bo i håb.*
-      **27** *For du vil ikke lade mig blive i dødsriget,
-      din hellige vil du ikke lade se forrådnelse.*
-      **28** *Du lærte mig livets veje,
-      du vil mætte mig med glæde for dit ansigt.*
+
+> Jeg havde altid Herren for øje,  
+> han er ved min højre side, for at jeg ikke skal vakle.  
+> **26** Derfor glædede mit hjerte sig, og min tunge jublede,  
+> ja, mit legeme skal bo i håb.  
+> **27** For du vil ikke lade mig blive i dødsriget,  
+> din hellige vil du ikke lade se forrådnelse.  
+> **28** Du lærte mig livets veje,  
+> du vil mætte mig med glæde for dit ansigt.
+
 **29** Brødre, om patriarken David kan jeg ligeud sige til jer, at han er både død og begravet, og hans gravsted er hos os den dag i dag. **30** Eftersom han var profet og vidste, at Gud med ed havde tilsvoret ham, at en af hans efterkommere skulle sidde på hans trone, **31** forudså og talte han om Kristi opstandelse, da han sagde, at han ikke skulle blive i dødsriget, og hans krop ikke skulle se forrådnelse. **32** Denne Jesus har Gud ladet opstå. Det er vi alle vidner på. **33** Han er ophøjet til Guds højre hånd og har fra Faderen fået Helligånden som lovet, og den har han nu udgydt. Det er det, I både ser og hører. **34** For David steg ikke op til himlene, men siger selv:
-      *Herren sagde til min herre:
-      Sæt dig ved min højre hånd,*
-      **35** *indtil jeg får lagt dine fjender
-      som en skammel for dine fødder!*
+
+> Herren sagde til min herre:  
+> Sæt dig ved min højre hånd,  
+> **35** indtil jeg får lagt dine fjender  
+> som en skammel for dine fødder!
+
 **36** Så skal da hele Israels hus vide for vist, at den Jesus, som I har korsfæstet, har Gud gjort både til Herre og til Kristus.«
 
 #### Den første menighed
@@ -2869,14 +2938,18 @@ og:
 #### Menighedens bøn
 
 **23** Efter løsladelsen gik de hen til deres egne og fortalte dem, hvad ypperstepræsterne og de ældste havde sagt til dem. **24** Da de hørte det, opløftede de alle som én deres røst og bad til Gud:
-      *»Herre, du, som har skabt himlen og jorden
-      og havet med alt, hvad de rummer,*
+
+> »Herre, du, som har skabt himlen og jorden  
+> og havet med alt, hvad de rummer,
+
 **25** du, som har sagt ved Helligånden gennem din tjener, vor fader David:
-      *Hvorfor var folkeslagene i oprør?
-      Hvorfor lagde folkene planer, der ikke kan lykkes?*
-      **26** *Jordens konger rejste sig,
-      fyrsterne slog sig sammen
-      mod Herren og mod hans salvede.*
+
+> Hvorfor var folkeslagene i oprør?  
+> Hvorfor lagde folkene planer, der ikke kan lykkes?  
+> **26** Jordens konger rejste sig,  
+> fyrsterne slog sig sammen  
+> mod Herren og mod hans salvede.
+
 **27** Ja, i sandhed, de har slået sig sammen i denne by mod din hellige tjener Jesus, som du har salvet, både Herodes og Pontius Pilatus, sammen med folkene og Israels stammer **28** for at udføre det, som din hånd og vilje forud havde bestemt skulle ske. **29** Og nu, Herre, se dog deres trusler, og giv dine tjenere at tale dit ord med fuld frimodighed; **30** ræk din hånd ud til helbredelse, så der sker tegn og undere ved din hellige tjener Jesu navn.« **31** Da de havde bedt, rystedes det sted, hvor de var forsamlet, og de blev alle fyldt af Helligånden, og de forkyndte Guds ord med frimodighed.
 
 #### Ejendomsfællesskabet
@@ -2922,20 +2995,24 @@ og:
 »Brødre og fædre! Hør på mig! Herlighedens Gud viste sig for vor fader Abraham i Mesopotamien, før han slog sig ned i Karan, **3** og sagde til ham: ›Forlad dit land og din slægt, og drag til det land, jeg vil vise dig.‹ **4** Da forlod han kaldæernes land og slog sig ned i Karan, og da hans far var død, førte Gud ham bort derfra til det land, som I nu bor i. **5** Gud gav ham ikke ejendom i det, ikke så meget som en fodsbred, men lovede at give Abraham og hans efterkommere landet til ejendom, skønt han var barnløs. **6** Gud sagde, at hans efterkommere skulle bo som fremmede i et land, der ikke var deres. Dér skulle de være trælle og plages i fire hundrede år. **7** ›Men så vil jeg dømme det folk, de er trælle for,‹ sagde Gud, ›og derefter skal de drage ud af landet og dyrke mig på dette sted.‹ **8** Og Gud oprettede omskærelsens pagt med ham. Og så blev Abraham far til Isak og omskar ham på den ottende dag, og Isak blev far til Jakob, og Jakob til de tolv patriarker. **9** Og patriarkerne blev skinsyge på Josef og solgte ham til Egypten, men Gud var med ham **10** og udfriede ham fra alle hans trængsler og lod ham finde yndest og visdom i egypterkongen Faraos øjne, så Farao indsatte ham som leder af Egypten og hele sit hus. **11** Der blev nu hungersnød i hele Egypten og Kana'an, nøden var stor, og vore fædre kunne ikke skaffe sig føden. **12** Da Jakob hørte, at der var korn i Egypten, sendte han vore fædre af sted første gang. **13** Men anden gang gav Josef sig til kende for sine brødre, og Farao blev klar over Josefs afstamning. **14** Josef sendte bud efter sin far Jakob og hele slægten, i alt femoghalvfjerds mennesker. **15** Og Jakob drog ned til Egypten, og dér døde han og vore fædre; **16** de blev ført til Sikem og lagt i den grav, som Abraham for en sum penge havde købt af Hamors sønner i Sikem. **17** Som tiden nu nærmede sig for opfyldelsen af det løfte, Gud havde givet Abraham, blev folket stort og talrigt i Egypten, **18** indtil der kom en anden konge over Egypten, som ikke kendte til Josef. **19** Denne konge brugte list mod vort folk og plagede vore fædre ved at lade deres spædbørn sætte ud, for at de ikke skulle blive i live. **20** På den tid blev Moses født, og han var et dejligt barn i Guds øjne. I tre måneder blev han passet i sin fars hus, **21** og da han så var blevet sat ud, tog Faraos datter ham op og opdrog ham som sin egen søn. **22** Moses blev oplært i al egypternes visdom og var mægtig både i ord og handling. **23** Da han var fyldt fyrre år, fik han den tanke at besøge sine brødre, Israels børn. **24** Da han så en af dem blive overfaldet, kom han ham til hjælp, og han hævnede den mishandlede ved at slå egypteren ihjel. **25** Han mente nu, at hans brødre ville forstå, at Gud ved hans hånd ville bringe dem frelse, men de forstod det ikke. **26** Næste dag dukkede han op, netop som de var i slagsmål. Han forsøgte at forlige dem til at slutte fred og sagde: ›I er jo brødre! Hvorfor overfalder I så hinanden?‹ **27** Men den mand, der havde overfaldet sin landsmand, afviste Moses og sagde: ›Hvem har sat dig til at være herre og dommer over os? **28** Vil du måske slå mig ihjel, ligesom du slog egypteren ihjel i går?‹ **29** Da Moses hørte det, flygtede han og boede som fremmed i landet Midjan, hvor han fik to sønner.
 
 **30** Efter fyrre års forløb viste en engel sig for ham i ørkenen ved bjerget Sinaj i flammen fra en brændende tornebusk. **31** Og da Moses så det, undrede han sig over synet, men da han gik hen for at se nøjere på det, lød Herrens røst: **32** ›Jeg er dine fædres Gud, Abrahams og Isaks og Jakobs Gud.‹ Da skælvede Moses og turde ikke se derhen. **33** Men Herren sagde til ham: ›Tag dine sandaler af, for stedet, du står på, er hellig jord. **34** Jeg har set mit folks lidelse i Egypten, jeg har hørt deres klageskrig, og jeg er kommet ned for at redde dem. Gå nu! Jeg vil sende dig til Egypten.‹ **35** Den Moses, som de afviste med ordene: Hvem har sat dig til at være herre og dommer? – ham sendte Gud som herre og befrier, hjulpet af den engel, der havde vist sig for ham i tornebusken. **36** Det var ham, der førte dem ud, og som gjorde undere og tegn i Egypten og ved Det Røde Hav og i ørkenen i fyrre år. **37** Det var den Moses, som sagde til israelitterne: ›Gud vil lade en profet som mig fremstå for jer, en af jeres egne.‹ **38** Det var også ham, der i menigheden i ørkenen var sammen med englen, der talte til ham på bjerget Sinaj, og med vore fædre, og han modtog livgivende ord at give os. **39** Ham ville vore fædre ikke adlyde, de afviste ham og vendte i deres hjerte tilbage til Egypten **40** og sagde til Aron: ›Lav os en gud, som kan gå foran os, for vi ved ikke, hvad der er blevet af denne Moses, som førte os ud af Egypten.‹ **41** I de dage fremstillede de så en kalv og ofrede til afgudsbilledet, og de glædede sig over deres hænders værk. **42** Da vendte Gud sig bort og prisgav dem til at dyrke himlens hær, som der er skrevet i Profeternes Bog:
-      *Bragte I mig slagtofre og afgrødeofre
-      de fyrre år i ørkenen, Israels hus?*
-      **43** *Teltet med Molok førte I med jer
-      og jeres gud Raifans stjerne,
-      de billeder, I har lavet for at tilbede dem.
-      Så fører jeg jer bort til et sted
-      på den anden side af Babylon.*
+
+> Bragte I mig slagtofre og afgrødeofre  
+> de fyrre år i ørkenen, Israels hus?  
+> **43** Teltet med Molok førte I med jer  
+> og jeres gud Raifans stjerne,  
+> de billeder, I har lavet for at tilbede dem.  
+> Så fører jeg jer bort til et sted  
+> på den anden side af Babylon.
+
 **44** I ørkenen havde vore fædre Vidnesbyrdets telt, og det var sådan, som han, der havde talt med Moses, havde befalet ham at indrette det, efter det forbillede, Moses havde fået at se. **45** Det telt overtog vore fædre, og de bragte det med sig, da de under Josva tog landet i besiddelse efter de folkeslag, som Gud drev bort foran vore fædre, og sådan var det indtil Davids tid. **46** Han fandt nåde for Guds øjne og bad om, at han måtte finde en bolig til Jakobs Gud. **47** Men det blev Salomo, der byggede ham et hus. **48** Dog bor den Højeste ikke i huse, bygget af hænder – som profeten siger:
-      **49** *Himlen er min trone,
-      jorden min fodskammel;
-      hvilket hus skulle I kunne bygge mig,
-      siger Herren,
-      eller hvilket sted skulle være min bolig?*
-      **50** *Har min hånd ikke skabt alt dette?*
+
+> **49** Himlen er min trone,  
+> jorden min fodskammel;  
+> hvilket hus skulle I kunne bygge mig,  
+> siger Herren,  
+> eller hvilket sted skulle være min bolig?  
+> **50** Har min hånd ikke skabt alt dette?
+
 **51** I stivnakkede og uomskårne på hjerte og øre! I sætter jer altid op imod Helligånden; det gjorde jeres fædre, og det gør I. **52** Hvem af profeterne har jeres fædre ikke forfulgt? De dræbte dem, der forudsagde, at den Retfærdige ville komme, og I er blevet hans forrædere og mordere. **53** I modtog loven på engles anvisninger, men I har ikke holdt den.«
 
 #### Steningen af Stefanus
@@ -2961,12 +3038,14 @@ Samme dag udbrød der en stor forfølgelse af menigheden i Jerusalem, og alle un
 #### Filip og den etiopiske hofmand
 
 **26** Herrens engel talte til Filip og sagde: »Bryd op og gå sydpå ad den vej, der går fra Jerusalem til Gaza; den er øde.« **27** Og Filip brød op og gik. Der var en etiopier, en mægtig hofmand hos etiopiernes dronning Kandake, som forvaltede alle hendes skatte; han var kommet til Jerusalem for at tilbede **28** og var på vej hjem og sad i sin vogn og læste profeten Esajas. **29** Ånden sagde til Filip: »Gå hen til den vogn og hold dig tæt op ad den!« **30** Filip løb derhen, og da han hørte manden læse af profeten Esajas, spurgte han: »Forstår du også det, du læser?« **31** Han svarede: »Hvordan skal jeg kunne det, når der ikke er nogen, der vejleder mig?« Og han bad Filip om at komme op i vognen og sætte sig hos ham. **32** Det afsnit i Skriften, han læste, var dette:
-      *Som et får, der føres til slagtning,
-      som et lam, der er stumt, mens det klippes,
-      således åbnede han ikke sin mund.*
-      **33** *I fornedrelsen blev hans dom taget bort.
-      Hvem kan fortælle om hans slægt?
-      For hans liv blev taget bort fra jorden.*
+
+> Som et får, der føres til slagtning,  
+> som et lam, der er stumt, mens det klippes,  
+> således åbnede han ikke sin mund.  
+> **33** I fornedrelsen blev hans dom taget bort.  
+> Hvem kan fortælle om hans slægt?  
+> For hans liv blev taget bort fra jorden.
+
 **34** Hofmanden spurgte Filip: »Jeg beder dig sige mig, hvem er det, profeten taler om her? Er det om sig selv, eller er det om en anden?« **35** Filip tog så til orde, og han begyndte med dette skriftsted og forkyndte evangeliet om Jesus for ham. **36** Mens de nu kørte hen ad vejen, kom de til noget vand, og hofmanden sagde: »Se, dér er vand, hvad hindrer mig i at blive døbt?« **37**  Filip sagde: »Tror du af hele dit hjerte, så kan det ske.« Han svarede: »Jeg tror, at Jesus Kristus er Guds søn.« **38** Han befalede, at vognen skulle standse, og de gik begge ned i vandet, både Filip og hofmanden, og Filip døbte ham. **39** Men da de kom op af vandet, bortrykkede Herrens ånd Filip, og hofmanden så ham ikke mere; han fortsatte sin rejse med glæde.
 
 **40** Filip blev senere set i Ashdod, og han forkyndte evangeliet i alle de byer, han drog igennem, indtil han kom til Cæsarea.
@@ -3068,18 +3147,22 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 **16** Da rejste Paulus sig, gav tegn med hånden og sagde: »Israelitter og I, der frygter Gud, hør på mig! **17** Dette folks Gud, Israels Gud, har udvalgt vore fædre. Han gjorde folket stort under opholdet i det fremmede, i Egypten, og førte dem ud derfra med løftet arm. **18** I næsten fyrre år sørgede han for dem i ørkenen, **19** og efter at han havde udryddet syv folkeslag i Kana'an, lod han dem tage deres land i besiddelse; **20** så gik der omkring fire hundrede og halvtreds år. Og derefter gav Gud dem dommere frem til profeten Samuel. **21** Derpå bad de om en konge, og Gud gav dem i fyrre år Saul, søn af Kish, af Benjamins stamme. **22** Så afsatte Gud ham og oprejste David til konge over dem. Om ham vidnede Gud og sagde: ›Jeg har fundet David, søn af Isaj, en mand efter mit hjerte; han skal udføre alt det, jeg vil.‹ **23** Af hans slægt har Gud givet Israel en frelser, som han havde lovet, Jesus. **24** Forud for hans fremtræden havde Johannes prædiket omvendelsesdåb for hele Israels folk. **25** Da Johannes stod ved enden af sit livsløb, sagde han: Jeg er ikke, hvad I anser mig for at være. Men efter mig kommer en, hvis sko jeg ikke er værdig til at tage af.
 
 **26** Brødre, I som er børn af Abrahams slægt, og I andre her, som frygter Gud! Det er til os, ordet om denne frelse er blevet sendt. **27** For Jerusalems indbyggere og deres ledere kendte ham ikke, de dømte ham og opfyldte derved profeternes ord, som læses op hver sabbat. **28** Og selv om de ikke fandt noget grundlag for dødsdom, bad de Pilatus om at lade ham henrette. **29** Da de havde udført alt det, der står skrevet om ham, tog de ham ned fra korset og lagde ham i en grav. **30** Men Gud oprejste ham fra de døde, **31** og i mange dage viste han sig for dem, der var fulgt med ham fra Galilæa til Jerusalem, og de er nu hans vidner over for folket. **32** Og vi forkynder jer det evangelium, at løftet, der blev givet til fædrene, **33** har Gud opfyldt for os, deres børn, da han lod Jesus opstå, sådan som der står skrevet i den anden salme:
-      *Du er min søn,
-      jeg har født dig i dag.*
+
+> Du er min søn,  
+> jeg har født dig i dag.
+
 **34** Og at Gud lod ham opstå fra de døde, så han ikke nogen sinde skal vende tilbage til forrådnelse, har han sagt således: ›For jeg vil opfylde de urokkelige løfter til David for jer!‹ **35** Derfor siger han også et andet sted: ›Din hellige vil du ikke lade se forrådnelse.‹ **36** For da David havde tjent sit slægtled, sov han hen efter Guds vilje og blev lagt hos sine fædre og så forrådnelse. **37** Men han, som Gud oprejste, så ikke forrådnelse. **38** Det skal I altså vide, brødre, at det er ved ham, der forkyndes jer syndsforladelse; og i alt det, hvori I ikke kunne gøres retfærdige ved Moseloven, **39** bliver enhver, der tror, gjort retfærdig ved ham. **40** Tag jer i agt, at det ikke går, som der er sagt hos profeterne:
-      **41** *Se jer om, I som er fulde af foragt!
-      I skal blive stumme af undren og gå til grunde,
-      for jeg udfører en gerning i jeres dage,
-      en gerning, som I ikke ville tro,
-      hvis nogen fortalte jer om den.«*
+
+> **41** Se jer om, I som er fulde af foragt!  
+> I skal blive stumme af undren og gå til grunde,  
+> for jeg udfører en gerning i jeres dage,  
+> en gerning, som I ikke ville tro,  
+> hvis nogen fortalte jer om den.«
 
 **42** Da de gik ud, bad man om at måtte høre om dette igen den følgende sabbat. **43** Da synagogemenigheden spredtes, fulgte mange jøder og gudfrygtige proselytter med Paulus og Barnabas, som talte med dem og søgte at overbevise dem om, at de skulle blive ved Guds nåde. **44** Den følgende sabbat var næsten hele byen kommet sammen for at høre Herrens ord. **45** Da jøderne så skarerne, blev de fulde af misundelse, og det, Paulus sagde, modsagde de og spottede. **46** Men Paulus og Barnabas talte med frimodighed og sagde: »Guds ord måtte forkyndes for jer først. Men siden I afviser det og ikke anser jer selv for værdige til evigt liv, så vender vi os til hedningerne. **47** For således har Herren befalet os det:
-      *Jeg har gjort dig til lys for folkene,
-      for at du skal være til frelse til jordens ende.«*
+
+> Jeg har gjort dig til lys for folkene,  
+> for at du skal være til frelse til jordens ende.«
 
 **48** Da hedningerne hørte det, blev de glade, og de priste Herrens ord; og alle, som var bestemt til evigt liv, kom til tro. **49** Og Herrens ord blev udbredt i hele landet. **50** Men jøderne fik ophidset de fornemme gudfrygtige kvinder og byens førende mænd og rejste en forfølgelse mod Paulus og Barnabas; og de jog dem ud, væk fra deres egn. **51** Men de rystede støvet af fødderne mod dem og rejste så til Ikonion, **52** og disciplene blev fyldt af glæde og Helligånd.
 
@@ -3402,15 +3485,17 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 **17** Tre dage senere sammenkaldte Paulus jødernes førende mænd. Da de var forsamlet, sagde han: »Brødre! Jeg har intet gjort imod folket eller imod fædrenes skikke, alligevel er jeg blevet udleveret fra Jerusalem til romerne som fange. **18** Efter at de havde forhørt mig, ville de løslade mig, fordi jeg ikke var skyldig i noget, der kræver dødsstraf. **19** Men jøderne gjorde indsigelse, og jeg blev nødt til at indanke min sag for kejseren, dog ikke fordi jeg havde noget at anklage mit folk for. **20** Det er altså grunden til, at jeg har bedt om at måtte træffe jer og tale til jer; for jeg bærer denne lænke på grund af Israels håb.« **21** De svarede: »Vi har ikke fået noget brev om dig fra Judæa, og der er heller ikke kommet nogen af vore brødre, som har fortalt eller sagt noget ondt om dig. **22** Men vi ønsker at høre af din egen mund, hvad du har i sinde. For vi ved, at dette parti vækker modsigelse alle vegne.«
 
 **23** Efter at have aftalt en dag med ham kom der endnu flere til ham på hans bopæl; og fra tidlig morgen og helt til aften forklarede og vidnede han for dem om Guds rige, og ud fra Moseloven og profeterne søgte han at overbevise dem om Jesus. **24** Nogle blev overbevist af hans ord, men andre troede ikke. **25** Under indbyrdes uenighed brød de op, og Paulus sagde det ene ord til dem: »Med rette har Helligånden ved profeten Esajas talt til jeres fædre **26** og sagt:
-      *Gå hen til dette folk, og sig:
-      I skal høre og høre, men intet fatte,
-      I skal se og se, men intet forstå.*
-      **27** *For dette folks hjerte er dækket med fedt,
-      og med ørerne hører de tungt,
-      og deres øjne har de lukket til,
-      for at de ikke skal se med øjnene,
-      høre med ørerne og fatte med hjertet
-      og vende om, så jeg må helbrede dem.*
+
+> Gå hen til dette folk, og sig:  
+> I skal høre og høre, men intet fatte,  
+> I skal se og se, men intet forstå.  
+> **27** For dette folks hjerte er dækket med fedt,  
+> og med ørerne hører de tungt,  
+> og deres øjne har de lukket til,  
+> for at de ikke skal se med øjnene,  
+> høre med ørerne og fatte med hjertet  
+> og vende om, så jeg må helbrede dem.
+
 **28** Derfor skal I vide, at denne frelse fra Gud er sendt til hedningerne; og de skal høre!« **29**  Da han havde sagt dette, gik jøderne bort under stor indbyrdes strid.
 
 **30** Paulus blev nu hele to år i sin lejede bolig og tog imod alle, der kom til ham. **31** Han prædikede om Guds rige og lærte dem om Herren Jesus Kristus, med fuld frimodighed, uden hindring.
@@ -3464,27 +3549,31 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 #### Menneskers løgnagtighed og uretfærdighed
 
 **1** Hvilket fortrin har jøden så, eller hvad gavner omskærelsen? **2** Meget på alle måder! Først og fremmest, at de har fået Guds ord betroet. **3** Hvad så, når nogle af dem var troløse? Vil deres troløshed så ophæve Guds trofasthed? **4** Aldeles ikke! Gud må være sanddru og hvert menneske en løgner – som der står skrevet:
-      *Så du skal kendes retfærdig, når du anklager,
-      og vinde, når du dømmer.*
+
+> Så du skal kendes retfærdig, når du anklager,  
+> og vinde, når du dømmer.
+
 **5** Men når vores uretfærdighed stadfæster Guds retfærdighed, hvad skal vi så sige? At Gud, menneskelig talt, er uretfærdig, når han rammer med sin vrede? **6** Aldeles ikke! For hvordan skulle Gud ellers kunne dømme verden? **7** Men når nu Guds sanddruhed bliver endnu større ved min løgnagtighed, ham til ære, hvorfor dømmes jeg så stadig som synder? **8** Og skulle vi så gøre det onde, for at det gode kan komme, sådan som nogle bagtaler os for og påstår, at vi siger? De får den dom, de fortjener!
 
 **9** Har vi så nogen fordel? Overhovedet ikke! Vi har jo allerede anklaget både jøder og grækere for alle at være under synd **10** – som der står skrevet:
-      *Der er ingen retfærdig,
-      ikke en eneste.*
-      **11** *Der er ingen forstandig,
-      ingen, der søger Gud.*
-      **12** *De er alle kommet på afveje,
-      alle er fordærvede;
-      ingen gør godt,
-      ikke en eneste.*
-      **13** *Deres strube er en åben grav,
-      med deres tunger taler de svig;
-      der er slangegift under deres læber,*
-      **14** *deres mund er fuld af forbandelse og forbitrelse.*
-      **15** *De er rappe på fødderne til at udgyde blod.*
-      **16** *Vold og ulykke er på deres veje;*
-      **17** *fredens vej kender de ikke.*
-      **18** *Gudsfrygt har de ikke for øje.*
+
+> Der er ingen retfærdig,  
+> ikke en eneste.  
+> **11** Der er ingen forstandig,  
+> ingen, der søger Gud.  
+> **12** De er alle kommet på afveje,  
+> alle er fordærvede;  
+> ingen gør godt,  
+> ikke en eneste.  
+> **13** Deres strube er en åben grav,  
+> med deres tunger taler de svig;  
+> der er slangegift under deres læber,  
+> **14** deres mund er fuld af forbandelse og forbitrelse.  
+> **15** De er rappe på fødderne til at udgyde blod.  
+> **16** Vold og ulykke er på deres veje;  
+> **17** fredens vej kender de ikke.  
+> **18** Gudsfrygt har de ikke for øje.
+
 **19** Og vi ved, at alt, hvad loven siger, taler den til dem, der er under loven, for at hver mund skal lukkes og hele verden stå strafskyldig over for Gud. **20** For af lovgerninger bliver intet menneske retfærdigt over for ham; det, der kommer ved loven, er jo syndserkendelse.
 
 #### Retfærdighed ved tro på Jesus Kristus
@@ -3498,10 +3587,11 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 #### Abraham, fader til alle troende
 
 **1** Hvad skal vi da sige om Abraham, vort folks stamfader? Hvad opnåede han? **2** Hvis det var af gerninger, Abraham blev gjort retfærdig, har han noget at være stolt af; dog ikke over for Gud. **3** For hvad siger Skriften? »Abraham troede Gud, og det blev regnet ham til retfærdighed.« **4** Den, der arbejder, får ikke løn som en nådesbevisning, men efter fortjeneste. **5** Den derimod, der ikke arbejder, men tror på ham, som gør den ugudelige retfærdig, ham regnes hans tro til retfærdighed. **6** Sådan priser David også det menneske saligt, som Gud tilregner retfærdighed uden gerninger:
-      **7** *Lykkelige de, hvis overtrædelser er tilgivet,
-      og hvis synder er blevet skjult;*
-      **8** *lykkeligt det menneske,
-      som Herren ikke tilregner synd.*
+
+> **7** Lykkelige de, hvis overtrædelser er tilgivet,  
+> og hvis synder er blevet skjult;  
+> **8** lykkeligt det menneske,  
+> som Herren ikke tilregner synd.
 
 **9** Gælder denne saligprisning nu kun de omskårne eller også de uomskårne? Vi siger jo: »Troen blev regnet Abraham til retfærdighed.« **10** Hvordan blev den tilregnet ham? Efter at han var blevet omskåret, eller mens han endnu var uomskåret? Ikke som omskåret, men som uomskåret! **11** Omskærelsen fik han som et tegn og som et segl på den retfærdighed ved tro, som han havde, inden han blev omskåret, for at han skulle være fader til alle de uomskårne, som tror, for at retfærdigheden også skal tilregnes dem; **12** men han blev også fader til de omskårne, når de ikke kun har omskærelsen, men også går i sporene af den tro, som vor fader Abraham havde, før han blev omskåret.
 
@@ -3566,8 +3656,10 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **28** Vi ved, at alt virker sammen til gode for dem, der elsker Gud, og som efter hans beslutning er kaldet. **29** For dem, han forud har kendt, har han også forud bestemt til at formes efter sin søns billede, så at han er den førstefødte blandt mange brødre. **30** Og dem, som han forud har bestemt, har han også kaldet, og dem, han har kaldet, har han også gjort retfærdige, og dem, han har gjort retfærdige, har han også herliggjort.
 
 **31** Hvad er der mere at sige! Er Gud for os, hvem kan da være imod os? **32** Han, som ikke sparede sin egen søn, men gav ham hen for os alle, vil han ikke med ham skænke os alt? **33** Hvem vil anklage Guds udvalgte? Gud gør retfærdig. **34** Hvem vil fordømme? Kristus Jesus er død, ja endnu mere, han er opstået og sidder ved Guds højre hånd og går i forbøn for os. **35** Hvem kan skille os fra Kristi kærlighed? Nød eller angst? Forfølgelse, sult eller nøgenhed? Fare eller sværd? – **36** som der står skrevet:
-      *På grund af dig dræbes vi dagen lang,
-      vi regnes for slagtefår.*
+
+> På grund af dig dræbes vi dagen lang,  
+> vi regnes for slagtefår.
+
 **37** Men i alt dette mere end sejrer vi ved ham, som har elsket os. **38** For jeg er vis på, at hverken død eller liv eller engle eller magter eller noget nuværende eller noget kommende eller kræfter **39** eller noget i det høje eller i det dybe eller nogen anden skabning kan skille os fra Guds kærlighed i Kristus Jesus, vor Herre.
 
 ### Rom 9
@@ -3581,22 +3673,26 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **14** Hvad skal vi nu sige? Er der nogen uret hos Gud? Aldeles ikke! **15** Han siger jo til Moses: »Jeg forbarmer mig, over hvem jeg vil, og viser nåde, mod hvem jeg vil.« **16** Så afhænger det altså ikke af menneskers vilje eller stræben, men af Guds barmhjertighed. **17** Skriften siger jo til Farao: »Jeg har ladet dig fremstå netop for at vise min magt på dig, og for at mit navn kan blive forkyndt over hele jorden.« **18** Så forbarmer han sig altså, over hvem han vil, og forhærder, hvem han vil.
 
 **19** Nu vil du sige: Hvad har han så mere at bebrejde os? For hvem kan stå hans vilje imod? **20** Menneske! Hvem er du da, siden du går i rette med Gud? Kan det, der er formet, sige til ham, der formede det: Hvorfor har du lavet mig sådan? **21** Er pottemageren ikke herre over sit ler, så at han af den samme masse kan lave fornemme kar og kar til dagligt brug? **22** Og hvad nu, om Gud, der vil vise sin vrede og åbenbare sin magt, i stor langmodighed har båret over med de kar, som var genstand for hans vrede og bestemt til ødelæggelse, **23** og gjort det for at åbenbare, hvor rig hans herlighed er over de kar, som han har forbarmet sig over, og som han forud havde bestemt til herlighed? **24** Dertil kaldte han også os, ikke kun blandt jøder, men også blandt hedninger **25** – som det hedder hos Hoseas:
-      *Jeg vil kalde Ikke-Mit-Folk Mit-Folk,
-      og kalde Ikke-Elsket Elsket;*
-      **26** *og dér, hvor det lød til dem:
-      I er ikke mit folk,
-      dér skal de kaldes
-      den levende Guds børn.*
+
+> Jeg vil kalde Ikke-Mit-Folk Mit-Folk,  
+> og kalde Ikke-Elsket Elsket;  
+> **26** og dér, hvor det lød til dem:  
+> I er ikke mit folk,  
+> dér skal de kaldes  
+> den levende Guds børn.
+
 **27** Men om Israel råber Esajas: »Selv om Israels børn er talrige som havets sand, skal kun en rest frelses; **28** for Herren har besluttet at gøre regnskabet op på jorden.« **29** Som Esajas også forud har sagt:
-      *Havde ikke Hærskarers Herre
-      levnet os efterkommere,
-      var vi blevet som Sodoma
-      og havde lignet Gomorra.*
+
+> Havde ikke Hærskarers Herre  
+> levnet os efterkommere,  
+> var vi blevet som Sodoma  
+> og havde lignet Gomorra.
 
 **30** Hvad skal vi så sige? Jo, at hedninger, som ikke stræbte efter retfærdighed, opnåede retfærdighed, men vel at mærke retfærdighed af tro. **31** Israel derimod, som stræbte efter en lov, der kunne føre til retfærdighed, nåede ikke til en sådan lov. **32** Og hvorfor ikke? Fordi de ikke søgte den af tro, men som om den kunne fås af gerninger. De stødte an mod anstødsstenen, **33** som der står skrevet:
-      *Se, i Zion lægger jeg en anstødssten,
-      en klippe til at snuble over.
-      Den, der tror på ham, skal ikke blive til skamme.*
+
+> Se, i Zion lægger jeg en anstødssten,  
+> en klippe til at snuble over.  
+> Den, der tror på ham, skal ikke blive til skamme.
 
 ### Rom 10
 
@@ -3608,27 +3704,35 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 **14** Men hvordan skal de påkalde ham, som de ikke er kommet til tro på? Hvordan skal de tro på ham, som de ikke har hørt om? Hvordan skal de høre, uden at nogen prædiker? **15** Og hvordan skal nogen prædike uden at være udsendt? – som der står skrevet: »Hvor herligt lyder fodtrinene af dem, der bringer godt budskab!« **16** Dog var det ikke alle, der adlød budskabet; for Esajas siger: »Herre, hvem troede på det, de hørte af os?« **17** Troen kommer altså af det, der høres, og det, der høres, kommer i kraft af Kristi ord.
 **18** Men, spørger jeg, har de da ikke hørt? Jovist:
-      *Deres røst er nået ud over hele jorden,
-      deres ord til verdens ende.*
+
+> Deres røst er nået ud over hele jorden,  
+> deres ord til verdens ende.
+
 **19** Men har Israel da ikke forstået? spørger jeg. Allerede Moses siger:
-      *Jeg vil ægge jeres vrede mod noget, der ikke er et folk,
-      vække jeres trods mod et uforstandigt folk.*
+
+> Jeg vil ægge jeres vrede mod noget, der ikke er et folk,  
+> vække jeres trods mod et uforstandigt folk.
+
 **20** Og Esajas går så vidt, at han siger:
-      *Jeg var at finde for dem, der ikke søgte mig,
-      jeg viste mig for dem, der ikke spurgte efter mig.*
+
+> Jeg var at finde for dem, der ikke søgte mig,  
+> jeg viste mig for dem, der ikke spurgte efter mig.
+
 **21** Men om Israel siger han:
-      *Dagen lang rakte jeg hænderne ud
-      imod et ulydigt og genstridigt folk.*
+
+> Dagen lang rakte jeg hænderne ud  
+> imod et ulydigt og genstridigt folk.
 
 ### Rom 11
 
 #### En udvalgt rest af Israel
 
 **1** Jeg spørger nu: Har Gud da forkastet sit folk? Aldeles ikke! Jeg er jo selv israelit, af Abrahams slægt, af Benjamins stamme. **2** Gud har ikke forkastet sit folk, som han først har vedkendt sig. I ved jo, hvad Skriften siger i stykket om Elias, hvordan han træder frem for Gud og anklager Israel: **3** »Herre, dine profeter har de dræbt, og dine altre har de revet ned; jeg er den eneste, der er tilbage, og mig stræber de efter livet.« **4** Men hvordan lyder guddomssvaret til ham? »Jeg har stadig syv tusind mænd tilbage, der ikke har bøjet knæ for Ba'al.« **5** Sådan er der også i vor tid blevet en rest tilbage, som er udvalgt af nåde. **6** Og er det ved nåde, er det ikke længere af gerninger; ellers ville nåden jo ikke længere være nåde. **7** Hvad kan vi da slutte heraf? At det, som Israel stræber efter, har det ikke opnået, men de udvalgte har opnået det. De andre blev forhærdet **8** – som der står skrevet: »Gud har givet dem en søvnens ånd, øjne, som ikke ser, og ører, som ikke hører, indtil den dag i dag.« **9** Og David siger:
-      *Lad deres bord blive en fælde og en snare,
-      så de snubler og må undgælde.*
-      **10** *Lad det blive sort for deres øjne, så de ikke kan se,
-      lad altid deres ryg være bøjet.*
+
+> Lad deres bord blive en fælde og en snare,  
+> så de snubler og må undgælde.  
+> **10** Lad det blive sort for deres øjne, så de ikke kan se,  
+> lad altid deres ryg være bøjet.
 
 #### Israels fald og hedningernes frelse
 
@@ -3641,10 +3745,11 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 #### Israels frelse
 
 **25** Brødre, for at I ikke skal stole på jeres egen klogskab, vil jeg have, at I skal kende denne hemmelighed: Der hviler forhærdelse over en del af Israel, indtil hedningerne fuldtalligt kommer ind; **26** så skal hele Israel frelses – som der står skrevet:
-      *Befrieren skal komme fra Zion,
-      han fjerner ugudelighed fra Jakob.*
-      **27** *Dette er min pagt med dem,
-      når jeg tager deres synder bort.*
+
+> Befrieren skal komme fra Zion,  
+> han fjerner ugudelighed fra Jakob.  
+> **27** Dette er min pagt med dem,  
+> når jeg tager deres synder bort.
 
 **28** I forhold til evangeliet er de fjender, og det er de for jeres skyld; men i forhold til udvælgelsen er de elskede, og det er de for fædrenes skyld. **29** For sine nådegaver og sit kald fortryder Gud ikke. **30** For ligesom I engang var ulydige mod Gud, men nu har fundet barmhjertighed som følge af deres ulydighed, **31** sådan er de nu også blevet ulydige som følge af den barmhjertighed, som er vist jer, for at også de kan finde barmhjertighed. **32** For Gud har indesluttet alle i ulydighed for at vise alle barmhjertighed.
 
@@ -3683,9 +3788,11 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 #### De svage i troen
 
 **1** Den, der er svag i troen, skal I tage imod uden at sætte jer til doms over hans meninger. **2** Den enes tro tillader ham at spise hvad som helst, den svage spiser kun grønsager. **3** Den, der spiser, må ikke foragte den, der ikke spiser, og den, der ikke spiser, må ikke dømme den, der spiser; Gud har jo taget imod ham. **4** Hvem er du, som dømmer en andens tjener? Det er en sag for hans egen herre, om han står eller falder; og han bliver stående, for Herren har magt til at holde ham oppe. **5** Én regner den ene dag for vigtigere end andre dage, en anden regner alle dage for lige vigtige. Enhver skal stå fast ved sin overbevisning. **6** Den, der lægger vægt på, hvad det er for en dag, gør det for Herren. Den, der spiser, gør det for Herren; han siger jo Gud tak. Og den, der ikke spiser, gør det for Herren og siger også Gud tak. **7** For ingen af os lever for sig selv, og ingen dør for sig selv; **8** for når vi lever, lever vi for Herren, og når vi dør, dør vi for Herren. Hvad enten vi altså lever eller dør, tilhører vi Herren. **9** Derfor døde Kristus og blev levende igen, for at han skulle blive herre over både døde og levende. **10** Men du, hvorfor dømmer du din broder, eller hvorfor foragter du din broder? Vi skal jo alle stå frem for Guds domstol, **11** for der står skrevet:
-      *Så sandt jeg lever, siger Herren:
-      For mig skal hvert knæ bøje sig,
-      og hver tunge skal bekende Gud.*
+
+> Så sandt jeg lever, siger Herren:  
+> For mig skal hvert knæ bøje sig,  
+> og hver tunge skal bekende Gud.
+
 **12** Vi skal altså hver for sig aflægge regnskab over for Gud.
 
 **13** Lad os derfor ikke længere dømme hinanden, men I skal meget hellere dømme sådan: Ingen må bringe sin broder til at snuble eller falde. **14** Jeg ved og er i Herren Jesus vis på, at intet er urent i sig selv, men for den, der regner noget for urent, er det urent. **15** For sårer du din broder ved det, du spiser, lever du ikke mere efter kærligheden. Den, som Kristus døde for, må du ikke bringe i fordærv ved det, du spiser. **16** Lad ikke det gode, I har fået, komme i vanry. **17** For Guds rige er ikke mad og drikke, men retfærdighed og fred og glæde i Helligånden. **18** Den, der tjener Kristus sådan, er Gud til behag og bliver agtet af mennesker. **19** Lad os derfor stræbe efter det, der tjener freden og den indbyrdes opbyggelse. **20** Ødelæg ikke Guds værk på grund af mad. Alt er rent, men for den, der tager anstød af at spise det, bliver det noget ondt. **21** Det rigtige er at lade være med at spise kød eller drikke vin eller gøre noget, som din broder tager anstød af. **22** Den tro, du har, skal være en sag mellem Gud og dig, og salig er den, der ikke dømmer sig selv med det valg, han træffer. **23** Men den, der har sine tvivl og så spiser alligevel, han er domfældt, fordi han ikke gør det af tro. Alt, hvad der ikke er af tro, er synd.
@@ -3697,24 +3804,33 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **1** Vi, som er stærke, skylder at bære de svages svagheder og ikke tænke på os selv. **2** Vi skal hver især tænke på vor næstes gavn og opbyggelse. **3** For heller ikke Kristus tænkte på sig selv, men som der står skrevet: »Mig har spotten ramt fra dem, der spotter dig.« **4** Alt, hvad der tidligere er skrevet, er jo skrevet, for at vi skal lære af det, så vi med udholdenhed og med den trøst, som Skrifterne giver os, kan fastholde håbet. **5** Udholdenhedens og trøstens Gud give jer ét og samme sind, sådan som Kristus Jesus vil det, **6** så I enigt med én mund lovpriser Gud, vor Herre Jesu Kristi fader!
 
 **7** Tag derfor imod hinanden, ligesom Kristus har taget imod jer til Guds ære. **8** Hvad jeg siger, er, at Kristus er blevet tjener for de omskårne for at vise, at Gud har talt sandt, og for at stadfæste løfterne til fædrene, **9** men hedningerne skal lovprise Gud for hans barmhjertighed – som der står skrevet:
-      *Derfor vil jeg prise dig blandt folkene,
-      jeg vil lovsynge dit navn.*
+
+> Derfor vil jeg prise dig blandt folkene,  
+> jeg vil lovsynge dit navn.
+
 **10** Igen hedder det:
-      *Glæd jer, I folkeslag, sammen med hans folk!*
+
+> Glæd jer, I folkeslag, sammen med hans folk!
+
 **11** Og igen:
-      *Lovpris Herren, alle folkeslag!
-      Lovsyng ham, alle folk!*
+
+> Lovpris Herren, alle folkeslag!  
+> Lovsyng ham, alle folk!
+
 **12** Og igen siger Esajas:
-      *Isajs rodskud skal komme,
-      han, som rejser sig for at herske over folkeslagene;
-      på ham skal folkene håbe.*
+
+> Isajs rodskud skal komme,  
+> han, som rejser sig for at herske over folkeslagene;  
+> på ham skal folkene håbe.
+
 **13** Håbets Gud fylde jer med al glæde og fred i troen, så at I bliver rige i håbet ved Helligåndens kraft!
 
 #### Paulus' rejseplaner
 
 **14** Mine brødre, jeg tvivler ikke på, at I er fulde af godhed og fornøden indsigt, så I også kan vejlede hinanden. **15** Alligevel har jeg, til dels ret dristigt, skrevet til jer for at påminde jer i kraft af den nåde, som Gud har givet mig: **16** at være Kristi Jesu tjener blandt folkeslagene, præst for Guds evangelium, så at folkeslagene kan blive et kærkomment offer, helliget ved Helligånden. **17** Derfor kan jeg have min stolthed i Kristus Jesus over for Gud. **18** For jeg vil ikke driste mig til at tale om andet end det, som Kristus har gjort gennem mig for at føre folkeslagene til lydighed, i ord og gerning, **19** ved kraften i tegn og undere, ved Guds ånds kraft. Så har jeg da fuldført forkyndelsen af evangeliet om Kristus fra Jerusalem og vejen rundt helt til Illyrien. **20** Blot har jeg sat en ære i kun at forkynde evangeliet dér, hvor Kristi navn ikke tidligere har lydt, for ikke at bygge, hvor andre har lagt grunden, **21** men – som der står skrevet –
-      *de, som ikke har fået fortalt om ham, skal se,
-      og de, som ikke har hørt, skal indse.*
+
+> de, som ikke har fået fortalt om ham, skal se,  
+> og de, som ikke har hørt, skal indse.
 
 **22** Det er også grunden til, at jeg gang på gang er blevet forhindret i at komme til jer; **23** men nu, da jeg ikke længere har noget virkefelt under disse himmelstrøg og i flere år har længtes efter at besøge jer, vil jeg gøre det, **24** når jeg rejser til Spanien. Jeg håber nemlig at få jer at se på gennemrejse og blive hjulpet videre derhen af jer, når jeg først i nogen måde har fået stillet min længsel efter jer. **25** Men nu rejser jeg til Jerusalem med hjælp til de hellige. **26** Makedonien og Akaja har nemlig besluttet, at de vil samle ind til en fællesgave til de fattige blandt de hellige i Jerusalem. **27** De har besluttet det, og de står også i gæld til dem; for når de som hedninger har fået del i deres åndelige goder, skylder de også at hjælpe dem med materielle goder. **28** Når jeg så har fuldført det og sikret dem denne høst, vil jeg rejse til Spanien og besøge jer på vejen. **29** Og jeg ved, at når jeg kommer, vil jeg komme med Kristi velsignelse i hele dens fylde.
 
@@ -3763,8 +3879,10 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 #### Korsets dårskab og Guds visdom
 
 **18** For vel er ordet om korset en dårskab for dem, der fortabes, men for os, der frelses, er det Guds kraft **19** – der står jo skrevet:
-      *De vises visdom vil jeg ødelægge,
-      de kloges klogskab vil jeg tilintetgøre.*
+
+> De vises visdom vil jeg ødelægge,  
+> de kloges klogskab vil jeg tilintetgøre.
+
 **20** Hvor er de vise henne, hvor er de skriftkloge, hvor er denne verdens kloge hoveder? Har Gud ikke gjort verdens visdom til dårskab? **21** For da Gud i sin visdom ikke ville, at verden skulle kende ham gennem sin egen visdom, besluttede Gud at frelse dem, som tror, ved den dårskab, der prædikes om. **22** For jøder kræver tegn, og grækere søger visdom, **23** men vi prædiker Kristus som korsfæstet, en forargelse for jøder og en dårskab for hedninger; **24** men for dem, der er kaldet, jøder såvel som grækere, prædiker vi Kristus som Guds kraft og Guds visdom. **25** For Guds dårskab er visere end mennesker, og Guds svaghed er stærkere end mennesker.
 
 **26** For tænk på, brødre, hvordan det var med jer selv, da I blev kaldet: I var ikke mange vise i verdslig forstand, ikke mange mægtige, ikke mange fornemme. **27** Men det, som er dårskab i verden, udvalgte Gud for at gøre de vise til skamme, og det, som er svagt i verden, udvalgte Gud for at gøre det stærke til skamme, **28** og det, som verden ser ned på, og som ringeagtes, det, som ingenting er, udvalgte Gud for at gøre det, som er noget, til ingenting, **29** for at ingen skal have noget at være stolt af over for Gud. **30** Men ham skyldes det, at I er i Kristus Jesus, som er blevet visdom for os fra Gud, både retfærdighed og helligelse og forløsning, **31** for at »den, der er stolt, skal være stolt af Herren,« som der står skrevet.
@@ -3778,9 +3896,11 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 #### Guds skjulte visdom
 
 **6** Dog, visdom taler vi om blandt de fuldkomne, men ikke en visdom, som er af denne verden eller fra denne verdens forgængelige herskere. **7** Hvad vi taler om, er Guds hemmelige visdom, som var skjult, men som Gud allerede før tidernes begyndelse havde bestemt skulle føre os til herlighed. **8** Den visdom har ingen af denne verdens herskere kendt, for havde de kendt den, ville de ikke have korsfæstet herlighedens Herre. **9** Men som der står skrevet:
-      *Hvad intet øje har set og intet øre hørt,
-      og hvad der ikke er opstået i noget menneskes hjerte,
-      det, som Gud har beredt for dem, der elsker ham,*
+
+> Hvad intet øje har set og intet øre hørt,  
+> og hvad der ikke er opstået i noget menneskes hjerte,  
+> det, som Gud har beredt for dem, der elsker ham,
+
 **10** det har Gud åbenbaret for os ved Ånden. Thi Ånden ransager alt, selv Guds dybder. **11** For hvem ved, hvad der bor i mennesket, undtagen menneskets egen ånd? Således ved heller ingen anden end Guds ånd, hvad der bor i Gud. **12** Vi har ikke fået verdens ånd, men Ånden fra Gud, for at vi skal vide, hvad Gud i sin nåde har givet os. **13** Og om dette taler vi ikke med ord, som menneskelig visdom har lært os, men med ord, som Ånden har lært os, og vi tolker det åndelige for åndelige.
 
 **14** Et sjæleligt menneske tager ikke imod det, der kommer fra Guds ånd; det er en dårskab for sådan et menneske, og det kan ikke fatte det, for det bedømmes kun efter Åndens målestok. **15** Det åndelige menneske derimod bedømmer alt, men selv bedømmes det ikke af nogen; **16** for »hvem kender Herrens tanker og kan belære ham?« Men vi har Kristi tanker.
@@ -3798,8 +3918,10 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **16** Ved I ikke, at I er Guds tempel, og at Guds ånd bor i jer? **17** Hvis nogen ødelægger Guds tempel, skal Gud ødelægge ham. For Guds tempel er helligt, og det tempel er I.
 
 **18** Ingen må bedrage sig selv. Hvis nogen af jer mener at være vís i denne verdens forstand, må han blive en dåre for at blive vís. **19** For denne verdens visdom er dårskab for Gud – der står jo skrevet: »Han fanger de vise i deres snedighed,« **20** og igen:
-      *Herren kender de vises tanker,
-      han ved, at de er tomme.*
+
+> Herren kender de vises tanker,  
+> han ved, at de er tomme.
+
 **21** Derfor må ingen være stolt af mennesker. Alt tilhører jo jer, **22** enten det er Paulus eller Apollos eller Kefas, enten det er verden eller liv eller død, enten det er det, som nu er, eller det, som kommer – alt tilhører jer. **23** Men I tilhører Kristus, og Kristus Gud.
 
 ### 1 Kor 4
@@ -3875,10 +3997,11 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **1** Hvad angår det kød, som har været ofret til afguderne, så ved vi, at vi alle har kundskab. Kundskaben gør indbildsk, men kærligheden bygger op. **2** Hvis nogen mener at kende noget, kender han det endnu ikke sådan, som han bør kende det. **3** Men den, der elsker Gud, er kendt af ham.
 
 **4** Hvad angår det at spise kød, som har været ofret til afguderne, så ved vi, at der ikke findes nogen afgud i verden, og at der kun er én Gud. **5** For vel er der såkaldte guder, både i himlen og på jorden – der er jo så mange guder og så mange herrer.
-      **6** *Men for os er der kun én Gud, Faderen;
-      fra ham er alle ting, og vi til ham.
-      Og for os er der kun én Herre, Jesus Kristus;
-      ved ham er alle ting, og vi ved ham.*
+
+> **6** Men for os er der kun én Gud, Faderen;  
+> fra ham er alle ting, og vi til ham.  
+> Og for os er der kun én Herre, Jesus Kristus;  
+> ved ham er alle ting, og vi ved ham.
 
 **7** Men ikke alle har denne kundskab. Der er nogle, der spiser kødet som offerkød, fordi de hidtil har været vant til at dyrke afguderne, og så tilsøles deres samvittighed, skrøbelig som den er. **8** Men mad gør hverken fra eller til over for Gud. Vi opnår ikke noget ved at spise, og vi mister ikke noget ved at lade være. **9** Men se til, at jeres ret til at spise offerkød ikke bringer de svage til fald. **10** For hvis nogen ser dig, som har kundskab, sidde til bords i et afgudstempel, vil så ikke den, der er svag i sin samvittighed, blive tilskyndet til at spise offerkød? **11** Så går jo den, der er svag, til grunde som følge af din kundskab, den broder, som Kristus døde for. **12** Ved på den måde at synde imod brødrene og såre deres skrøbelige samvittighed synder I imod Kristus. **13** Derfor, hvis mad bringer min broder til fald, vil jeg aldrig i evighed spise kød for ikke at bringe min broder til fald.
 
@@ -3973,11 +4096,13 @@ Og jeg vil også vise jer en langt bedre vej.
 **13** Derfor skal den, der taler i tunger, bede om at kunne tolke det, han siger. **14** For hvis jeg taler i tunger under min bøn, er det ganske vist min ånd, der beder, men min forstand er uden frugt. **15** Hvad da? Jeg vil bede med ånden, men jeg vil også bede med forstanden; jeg vil lovsynge med ånden, men jeg vil også lovsynge med forstanden. **16** For når du lovpriser med ånden, hvordan skal så den, der ikke er fortrolig hermed, kunne sige amen til din takkebøn? Han forstår jo ikke, hvad du siger. **17** Nok er din takkebøn god, men den anden opbygges ikke. **18** Jeg takker Gud for, at jeg taler mere i tunger end nogen af jer. **19** Men i menigheden vil jeg hellere tale fem ord med min forstand og lære andre noget, end tusindvis af ord i tunger.
 
 **20** Brødre, vær ikke børn i klogskab! I ondskab skal I være små, men voksne i klogskab. **21** I loven står der skrevet:
-      *Ved folk med fremmede sprog
-      og ved fremmedes læber
-      vil jeg tale til dette folk,
-      og selv da vil de ikke høre på mig,
-      siger Herren.*
+
+> Ved folk med fremmede sprog  
+> og ved fremmedes læber  
+> vil jeg tale til dette folk,  
+> og selv da vil de ikke høre på mig,  
+> siger Herren.
+
 **22** Derfor er tungetale et tegn, ikke for de troende, men for de ikke-troende. Og profetisk tale er ikke for de ikke-troende, men for de troende. **23** Hvis nu hele menigheden kommer sammen, og alle taler i tunger, og der så kommer nogle udenforstående eller nogle ikke-troende ind, vil de så ikke sige, at I er vanvittige? **24** Men hvis alle taler profetisk, og der kommer en ikke-troende eller en udenforstående ind, så ser han sig afsløret af alle, bedømt af alle; **25** det åbenbares, hvad der er skjult i hans hjerte, og så vil han falde på sit ansigt, tilbede Gud og udbryde: Gud er virkelig hos jer.
 
 #### Ordning for menighedens sammenkomster
@@ -4011,9 +4136,11 @@ Som i alle de helliges menigheder **34** skal kvinderne tie stille i menighedern
 **42** Således er det også med de dødes opstandelse. Hvad der bliver sået i forgængelighed, opstår i uforgængelighed. **43** Hvad der bliver sået i vanære, opstår i herlighed. Hvad der bliver sået i svaghed, opstår i kraft. **44** Der bliver sået et sjæleligt legeme, der opstår et åndeligt legeme. Når der findes et sjæleligt legeme, findes der også et åndeligt legeme. **45** Således står der også skrevet: »Det første menneske, Adam, blev en levende sjæl,« den sidste Adam blev en ånd, der gør levende. **46** Men det åndelige legeme er ikke det første, det er det sjælelige, dernæst kommer det åndelige. **47** Det første menneske var af jord, jordisk, det andet menneske er fra himlen. **48** Som det jordiske menneske var, sådan er også de jordiske, og som det himmelske menneske er, sådan skal også de himmelske blive. **49** Og ligesom vi har båret det jordiske menneskes billede, skal vi også bære det himmelske menneskes billede.
 
 **50** Men det siger jeg jer, brødre: Kød og blod kan ikke arve Guds rige, og det forgængelige arver ikke det uforgængelige. **51** Se, jeg siger jer en hemmelighed: Vi skal ikke alle sove hen, men vi skal alle forvandles, **52** i ét nu, på et øjeblik, ved den sidste basun; for basunen skal lyde, og de døde skal opstå som uforgængelige, og vi skal forvandles. **53** For dette forgængelige skal iklædes uforgængelighed, og dette dødelige skal iklædes udødelighed. **54** Og når dette forgængelige har iklædt sig uforgængelighed og dette dødelige iklædt sig udødelighed, da vil det ord, der er skrevet, være opfyldt:
-      *Døden er opslugt og besejret.*
-      **55** *Død, hvor er din sejr?
-      Død, hvor er din brod?*
+
+> Døden er opslugt og besejret.  
+> **55** Død, hvor er din sejr?  
+> Død, hvor er din brod?
+
 **56** Dødens brod er synden, og syndens kraft er loven. **57** Men Gud ske tak, som giver os sejren ved vor Herre Jesus Kristus!
 
 **58** Derfor, mine kære brødre, stå urokkeligt fast, og giv jer helt hen i arbejdet for Herren. I ved jo, at jeres slid ikke er spildt i Herren.
@@ -4121,8 +4248,10 @@ Til Guds menighed i Korinth og alle de hellige i hele Akaja.
 ### 2 Kor 6
 
 **1** Som hans medarbejdere formaner vi jer da til ikke forgæves at have taget imod Guds nåde. **2** Det hedder jo:
-      *I nådens tid bønhører jeg dig;
-      på frelsens dag hjælper jeg dig.*
+
+> I nådens tid bønhører jeg dig;  
+> på frelsens dag hjælper jeg dig.
+
 Se, nu er det den nåderige tid, se, nu er det frelsens dag! **3** Vi volder ikke anstød med noget som helst, for at tjenesten ikke skal komme i vanry, **4** men anbefaler os selv som Guds tjenere på alle måder: ved stor udholdenhed under trængsler, nød, angst, **5** pinsler, fængsel, uro, møje og besvær, søvnløse nætter og sult, **6** ved retsindighed, kundskab, tålmodighed, mildhed, ved Helligånden og ved oprigtig kærlighed, **7** ved sandfærdig tale, ved Guds kraft, ved at bruge retfærdighedens våben til angreb og forsvar, **8** under ære og vanære, under spot og lovord, som vildledere og dog sandfærdige, **9** som ukendte og dog velkendte, som døende, og se, vi lever, som tugtede, men ikke pint til døde, **10** som bedrøvede, dog altid glade, som fattige, der dog gør mange rige, som de, der intet har og dog ejer alt.
 
 **11** Vi har taget bladet fra munden over for jer, korinthere, vi har åbnet vort hjerte; **12** der er ikke trangt hos os, men der er trangt i jeres hjerter. **13** Nu skal I gøre gengæld – jeg taler til jer som mine børn – og også åbne jer for os.
@@ -4162,8 +4291,10 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus' glæde. Han er 
 **1** Om hjælpen til de hellige er det ganske vist overflødigt, at jeg skriver til jer; **2** jeg kender jo jeres gode vilje og er stolt af at kunne fortælle makedonerne, at Akaja har været forberedt siden i fjor, og jeres iver har tilskyndet de andre. **3** Men jeg sender brødrene, for at vores stolte omtale af jer i denne sag ikke skal være tom tale. I må, som jeg sagde, være forberedt; **4** hvis der kommer nogle makedonere med mig, skulle de nødig finde jer uforberedte, så vi – for ikke at sige I selv – bliver til skamme i vores tillid til jer. **5** Jeg har derfor ment det nødvendigt at bede brødrene om at rejse i forvejen og på forhånd ordne jeres forud lovede gave, så den kan ligge klar som en rundhåndet gave, ikke som et småligt bidrag.
 
 **6** For husk, at den, der sår sparsomt, skal også høste sparsomt, og den, der sår rigeligt, skal også høste rigeligt. **7** Men enhver skal give, som han har hjerte til – ikke vrangvilligt eller under pres, for Gud elsker en glad giver. **8** Gud magter at give jer al nåde i rigt mål, så I altid i alle måder har nok af alt og endda overflod til at gøre godt **9** – som der står skrevet:
-      *Han strøede ud, han gav til de fattige,
-      hans retfærdighed består til evig tid.*
+
+> Han strøede ud, han gav til de fattige,  
+> hans retfærdighed består til evig tid.
+
 **10** Og han, der forsyner sædemanden med udsæd og med brød til at spise, skal også forsyne jer rigeligt med udsæd, forøge det med mange fold og lade jeres retfærdighed bære rige frugter, **11** så I får rigeligt af alt til al gavmildhed, og det en gavmildhed, som fører til taksigelse til Gud gennem os. **12** Den hjælp, som ligger i denne tjeneste, udfylder nemlig ikke kun de helliges mangler; den er også en rigdom ved at fremkalde manges taksigelse til Gud. **13** At I med den hjælp står jeres prøve, vil få dem til at prise Gud for, at I er lydige mod bekendelsen til evangeliet om Kristus, og prise ham for jeres oprigtige fællesskab med dem og med alle, **14** og de vil bede for jer og længes efter jer på grund af Guds overvældende nåde mod jer. **15** Gud ske tak for hans uudsigelige gave!
 
 ### 2 Kor 10
@@ -4285,10 +4416,11 @@ Til menighederne i Galatien.
 #### Trældom og frihed
 
 **21** Sig mig, I, der vil være under loven: Hører I ikke, hvad loven siger? **22** Der står jo skrevet, at Abraham fik to sønner, én med trælkvinden og én med den frie kvinde. **23** Sønnen med trælkvinden blev født efter naturens orden, men sønnen med den frie kvinde ved et løfte. **24** Det skal forstås billedligt. Disse kvinder er nemlig to pagter. Den ene kommer fra bjerget Sinaj, hun føder børn til trældom, og det er Hagar – **25** »Hagar« betegner bjerget Sinaj i Arabien og svarer til det nuværende Jerusalem, for det lever i trældom med sine børn. **26** Men det himmelske Jerusalem er frit, og det er vor moder; **27** der står jo skrevet:
-      *Råb af fryd, du ufrugtbare, du som ikke fødte!
-      Bryd ud i jubel, råb af glæde, du som ikke fik veer!
-      For den enlige kvinde har flere børn
-      end den, der er gift.*
+
+> Råb af fryd, du ufrugtbare, du som ikke fødte!  
+> Bryd ud i jubel, råb af glæde, du som ikke fik veer!  
+> For den enlige kvinde har flere børn  
+> end den, der er gift.
 
 **28** Men I, brødre, er børn i kraft af et løfte, ligesom Isak. **29** Men ligesom han, der var født efter naturens orden, dengang forfulgte ham, der var født efter Åndens orden, sådan også nu. **30** Men hvad siger Skriften? »Jag denne trælkvinde og hendes søn bort, for trælkvindens søn skal ikke arve sammen med den frie kvindes søn.« **31** Så er vi ikke børn af trælkvinden, brødre, men af den frie kvinde.
 
@@ -4375,9 +4507,11 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 **1** Jeg, der er fange for Herrens skyld, formaner jer da til at leve, så det svarer til det kald, I fik, **2** med al ydmyghed og mildhed, med tålmodighed, så I bærer over med hinanden i kærlighed **3** og stræber efter at fastholde Åndens enhed med fredens bånd: **4** ét legeme og én ånd, ligesom I jo også blev kaldet til ét håb; **5** én Herre, én tro, én dåb; **6** én Gud og alles fader, som er over alle, gennem alle og i alle.
 
 **7** Hver enkelt af os har fået nåden givet som gave tilmålt af Kristus. **8** Derfor hedder det:
-      *Han er steget op til det høje,
-      han har ført fanger med,
-      han har givet gaver til menneskene.*
+
+> Han er steget op til det høje,  
+> han har ført fanger med,  
+> han har givet gaver til menneskene.
+
 **9** Men at han er steget op, hvad andet betyder det, end at han også er steget ned til den lave jord? **10** Han, som er steget ned, er den samme, som også er steget op højt over alle himle for at fylde alt. **11** Og han har givet os nogle til at være apostle, andre til at være profeter, andre til at være evangelister og andre til at være hyrder og lærere **12** for at udruste de hellige til at gøre tjeneste, så Kristi legeme bygges op, **13** indtil vi alle når frem til enheden i troen og i erkendelsen af Guds søn, til at være et fuldvoksent menneske, en vækst, som kan rumme Kristi fylde. **14** Da skal vi ikke længere være uforstandige børn og slynges og drives hid og did af hver lærdoms vind, ved menneskers terningkast, når de med snedighed fører os på lumske afveje, **15** men sandheden tro i kærlighed skal vi i ét og alt vokse op til ham, som er hovedet, Kristus. **16** Ud fra ham føjes hele legemet sammen og holdes sammen, idet hvert enkelt led hjælper til med den styrke, det har fået tilmålt, så legemet vokser og opbygges i kærlighed.
 
 #### Det gamle og det nye menneske
@@ -4395,9 +4529,11 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 **1** I skal ligne Gud som hans kære børn **2** og vandre i kærlighed, ligesom Kristus elskede os og gav sig selv hen for os som en gave og et offer til Gud, en liflig duft. **3** Men utugt og al slags urenhed og griskhed må end ikke nævnes iblandt jer; det sømmer sig ikke for hellige. **4** Heller ikke skamløshed og tåbelig snak eller overfladisk vid; det passer sig ikke, men derimod taksigelse. **5** For det skal I vide, at ingen utugtig eller uren eller grisk – det er det samme som en afgudsdyrker – har lod og del i Kristi og Guds rige. **6** Lad ingen føre jer bag lyset med tomme ord; for det er den slags, der nedkalder Guds vrede over ulydighedens børn. **7** Gør derfor ikke fælles sag med dem!
 
 **8** For engang var I mørke, men nu er I lys i Herren; lev som lysets børn, **9** for lysets frugt er lutter godhed, retfærdighed og sandhed; **10** lad kun det gælde, som behager Herren, **11** og tag ikke del i mørkets frugtesløse gerninger, men afslør dem. **12** For man skammer sig ved blot at nævne, hvad de gør i det skjulte, **13** men alting kommer for dagen, når det afsløres af lyset. **14** For alt, hvad der kommer for dagen, er lys. Derfor hedder det:
-      *Vågn op, du som sover,
-      stå op fra de døde,
-      og Kristus vil lyse for dig.*
+
+> Vågn op, du som sover,  
+> stå op fra de døde,  
+> og Kristus vil lyse for dig.
+
 **15** Se derfor til, hvordan I lever, ikke som uvise, men som vise. **16** Brug det gunstige øjeblik, for dagene er onde. **17** Vær derfor ikke tåbelige, men forstå, hvad der er Herrens vilje. **18** Drik jer ikke berusede i vin, det fører til udskejelser, men lad jer fylde af Ånden, **19** tal til hinanden med salmer, hymner og åndelige sange, syng og spil af hjertet for Herren, **20** og sig altid Gud Fader tak for alt i vor Herre Jesu Kristi navn.
 
 #### En kristen husorden
@@ -4453,24 +4589,25 @@ Men jeg vil også blive ved med at glæde mig. **19** For jeg ved, at dette ved 
 #### Lydighed og ydmyghed efter Kristi sind
 
 **1** Hvis da trøst i Kristus betyder noget, hvis kærlig opmuntring, hvis Åndens fællesskab, hvis inderlig medfølelse betyder noget, **2** så gør min glæde fuldstændig ved at have det samme sind, ved at have den samme kærlighed, med én sjæl og ét sind. **3** Gør intet af selviskhed og heller ikke af indbildskhed, men sæt i ydmyghed de andre højere end jer selv. **4** Tænk ikke hver især på jeres eget, men tænk alle også på de andres vel. **5** I skal have det sind over for hinanden, som var i Kristus Jesus,
-      **6** *han, som havde Guds skikkelse,
-      regnede det ikke for et rov
-      at være lige med Gud,*
-      **7** *men gav afkald på det,
-      tog en tjeners skikkelse på
-      og blev mennesker lig;
-      og da han var trådt frem som et menneske,*
-      **8** *ydmygede han sig
-      og blev lydig indtil døden,
-      ja, døden på et kors.*
-      **9** *Derfor har Gud højt ophøjet ham
-      og skænket ham navnet over alle navne,*
-      **10** *for at i Jesu navn
-      hvert knæ skal bøje sig,
-      i himlen og på jorden og under jorden,*
-      **11** *og hver tunge bekende:
-      Jesus Kristus er Herre,
-      til Gud Faders ære.*
+
+> **6** han, som havde Guds skikkelse,  
+> regnede det ikke for et rov  
+> at være lige med Gud,  
+> **7** men gav afkald på det,  
+> tog en tjeners skikkelse på  
+> og blev mennesker lig;  
+> og da han var trådt frem som et menneske,  
+> **8** ydmygede han sig  
+> og blev lydig indtil døden,  
+> ja, døden på et kors.  
+> **9** Derfor har Gud højt ophøjet ham  
+> og skænket ham navnet over alle navne,  
+> **10** for at i Jesu navn  
+> hvert knæ skal bøje sig,  
+> i himlen og på jorden og under jorden,  
+> **11** og hver tunge bekende:  
+> Jesus Kristus er Herre,  
+> til Gud Faders ære.
 
 **12** Derfor, mine kære, I, som altid har været lydige: Arbejd med frygt og bæven på jeres frelse, ikke blot som da jeg var til stede, men endnu mere nu i mit fravær. **13** For det er Gud, der virker i jer både at ville og at virke for hans gode vilje. **14** Gør alt uden at give ondt af jer og uden indvendinger, **15** så I kan være uangribelige og uden svig, Guds lydefrie børn midt i en forkvaklet og forvildet slægt, hvor I stråler som himmellys i verden **16** og holder fast ved livets ord, til den stolthed for mig på Kristi dag, at jeg ikke har løbet forgæves eller slidt forgæves. **17** Ja, selv om mit blod skal udgydes under mit offer og min tjeneste for jeres tro, så glæder jeg mig og glæder mig sammen med jer alle. **18** Glæd I jer ligeledes, og glæd jer sammen med mig!
 
@@ -4541,17 +4678,19 @@ Nåde være med jer og fred fra Gud, vor Fader!
 #### Forløsningen ved Kristus
 
 **12** Tak med glæde vor Fader, som har gjort jer duelige til at få del i de helliges arv i lyset. **13** Han friede os ud af mørkets magt og flyttede os over i sin elskede søns rige; **14** i ham har vi forløsningen, syndernes forladelse.
-      **15** *Han er den usynlige Guds billede,
-      al skabnings førstefødte.*
-      **16** *I ham blev alting skabt
-      i himlene og på jorden,
-      det synlige og det usynlige,
-      troner og herskere,
-      magter og myndigheder.
-      Ved ham og til ham er alting skabt.*
-      **17** *Han er forud for alt,
-      og alt består ved ham.*
-      **18** *Han er hoved for legemet, kirken.*
+
+> **15** Han er den usynlige Guds billede,  
+> al skabnings førstefødte.  
+> **16** I ham blev alting skabt  
+> i himlene og på jorden,  
+> det synlige og det usynlige,  
+> troner og herskere,  
+> magter og myndigheder.  
+> Ved ham og til ham er alting skabt.  
+> **17** Han er forud for alt,  
+> og alt består ved ham.  
+> **18** Han er hoved for legemet, kirken.
+
 Han er begyndelsen, den førstefødte af de døde, for at han i alle ting skulle være den første. **19** For i ham besluttede hele guddomsfylden at tage bolig **20** og ved ham at forsone alt med sig, på jorden som i himlene, ved at stifte fred ved hans blod på korset.
 
 **21** Også jer, som før var fremmede og fjendske af sind med jeres onde gerninger, **22** har Gud nu forsonet med sig ved Kristi legemlige død, for at føre jer frem som hellige og lydefrie og uangribelige for sit ansigt, **23** hvis I da forbliver grundfæstede og faste i troen uden at lade jer rokke fra håbet i det evangelium, I har hørt, det som er blevet prædiket for al skabningen under himlen, og som jeg, Paulus, er blevet tjener for.
@@ -4663,13 +4802,14 @@ Nåde være med jer og fred!
 #### Korte formaninger
 
 **12** Brødre, vi beder jer om at skønne på dem, der slider iblandt jer og står i spidsen for jer i Herren og vejleder jer. **13** Dem skal I omfatte med særlig kærlighed på grund af deres arbejde. Hold fred med hinanden. **14** Vi formaner jer, brødre, vejled dem, der ikke lever ordentligt, trøst de ængstelige, tag jer af de svage, vær langmodige med alle. **15** Se til, at ingen gengælder nogen ondt med ondt, men stræb altid efter at gøre det gode mod hinanden og mod alle.
-       **16** Vær altid glade,
-       **17** bed uophørligt,
-       **18** sig tak under alle forhold; for dette er Guds vilje med jer i Kristus Jesus.
-       **19** Udsluk ikke Ånden,
-       **20** ringeagt ikke profetisk tale.
-       **21** Prøv alt, hold fast ved det gode,
-       **22** hold jer fra det onde i enhver skikkelse!
+
+> **16** Vær altid glade,  
+> **17** bed uophørligt,  
+> **18** sig tak under alle forhold; for dette er Guds vilje med jer i Kristus Jesus.  
+> **19** Udsluk ikke Ånden,  
+> **20** ringeagt ikke profetisk tale.  
+> **21** Prøv alt, hold fast ved det gode,  
+> **22** hold jer fra det onde i enhver skikkelse!
 
 **23** Fredens Gud hellige jer helt og holdent og bevare fuldt ud jeres ånd og sjæl og legeme lydefri ved vor Herre Jesu Kristi komme! **24** Trofast er han, som kalder jer; han vil også gøre det.
 
@@ -4776,12 +4916,13 @@ Hvis nogen ønsker at blive tilsynsmand, er det et vigtigt arbejde, han tragter 
 #### Gudsfrygtens hemmelighed
 
 **14** Jeg skriver dette til dig, selv om jeg håber snart at komme. **15** Men hvis det trækker ud, skal du vide, hvordan man skal færdes i Guds hus – det er den levende Guds kirke, sandhedens søjle og grundvold. **16** Og uimodsigelig stor er gudsfrygtens hemmelighed: Han blev
-      *åbenbaret i kødet,
-      retfærdiggjort i Ånden,
-      set af englene,
-      prædiket blandt folkene,
-      troet i verden,
-      taget op i herligheden.*
+
+> åbenbaret i kødet,  
+> retfærdiggjort i Ånden,  
+> set af englene,  
+> prædiket blandt folkene,  
+> troet i verden,  
+> taget op i herligheden.
 
 ### 1 Tim 4
 
@@ -4866,11 +5007,13 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 **3** Vær med til at lide ondt som Kristi Jesu gode soldat. **4** Ingen, der går i krig, og som vil vinde anerkendelse hos den, der hvervede ham, lader sig hindre af dagliglivets gøremål. **5** Ingen idrætsmand vinder sejrskransen, hvis han ikke følger reglerne. **6** Den bonde, der har sliddet, bør have først af høsten. **7** Læg mærke til, hvad jeg siger! For Herren vil give dig indsigt i det alt sammen.
 
 **8** Husk på Kristus Jesus, opstået fra de døde, af Davids slægt, ifølge mit evangelium; **9** for det lider jeg ondt, ja, er i lænker som en forbryder. Dog, Guds ord er ikke bundet. **10** Derfor udholder jeg alt for de udvalgtes skyld, for at også de kan få frelsen ved Kristus Jesus med evig herlighed **11** – troværdigt er det ord!
-      *For er vi døde med ham, skal vi også leve med ham;*
-      **12** *holder vi ud, skal vi også være konger med ham;
-      fornægter vi ham, vil han også fornægte os;*
-      **13** *er vi utro, forbliver han dog tro,
-      thi fornægte sig selv kan han ikke.*
+
+> For er vi døde med ham, skal vi også leve med ham;  
+> **12** holder vi ud, skal vi også være konger med ham;  
+> fornægter vi ham, vil han også fornægte os;  
+> **13** er vi utro, forbliver han dog tro,  
+> thi fornægte sig selv kan han ikke.
+
 **14** Det skal du minde alle om, og du skal for Guds ansigt indskærpe dem ikke at indlade sig i ordkløverier, som ikke er til nogen nytte, men kun til ulykke for tilhørerne. **15** Stræb efter at stå din prøve for Gud som en arbejder, der ikke behøver at skamme sig, men som går lige på med sandhedens ord. **16** Hold dig fra den ugudelige, tomme snak, for de vil komme længere og længere ud i ugudelighed, **17** og deres lære vil brede sig som kræft. Til dem hører Hymenæus og Filetus, **18** som begge er kommet bort fra sandheden ved at påstå, at opstandelsen allerede har fundet sted, og de nedbryder troen hos mange. **19** Dog, den grundvold, Gud har lagt, ligger fast, og den har et segl med denne indskrift: »Herren kender dem, der hører ham til,« og: »Enhver, som påkalder Herrens navn, skal afstå fra uretfærdighed.«
 
 **20** I et stort hus er der ikke kun redskaber af guld og sølv, men også af træ og ler, og den ene slags er til fint brug, den anden slags til dagligt brug. **21** Den, der holder sig fri af det, som jeg her har talt om, bliver et redskab til fint brug, helliget, nyttigt for husets herre, anvendeligt til alt godt arbejde.
@@ -4992,35 +5135,49 @@ Til vor kære medarbejder Filemon **2** og til vor søster Appia, til vor kære 
 #### Guds søn og Guds engle
 
 **5** For til hvem af englene har Gud nogen sinde sagt:
-      *Du er min søn,
-      jeg har født dig i dag,*
+
+> Du er min søn,  
+> jeg har født dig i dag,
+
 og et andet sted:
-      *Jeg vil være hans fader,
-      og han skal være min søn?*
+
+> Jeg vil være hans fader,  
+> og han skal være min søn?
+
 **6** Og når han igen fører sin førstefødte ind i verden, siger han:
-      *Alle Guds engle skal kaste sig ned for ham.*
+
+> Alle Guds engle skal kaste sig ned for ham.
+
 **7** Om englene hedder det:
-      *Han gør sine engle til vinde
-      og sine tjenere til flammende ild,*
+
+> Han gør sine engle til vinde  
+> og sine tjenere til flammende ild,
+
 **8** men til Sønnen:
-      *Din trone, Gud, står til evig tid,
-      dit kongescepter er retfærdighedens scepter.*
-      **9** *Du elskede ret og hadede uret,
-      derfor har Gud, din Gud, salvet dig
-      med glædens olie frem for dine lige.*
+
+> Din trone, Gud, står til evig tid,  
+> dit kongescepter er retfærdighedens scepter.  
+> **9** Du elskede ret og hadede uret,  
+> derfor har Gud, din Gud, salvet dig  
+> med glædens olie frem for dine lige.
+
 **10** Endvidere:
-      *Du, Herre, grundlagde i begyndelsen jorden,
-      himlen er dine hænders værk.*
-      **11** *De går til grunde, men du består,
-      de slides alle op som klæder,*
-      **12** *du ruller dem sammen som en klædning.
-      De skiftes ud som klæder,
-      men du er den samme,
-      dine år får aldrig ende.*
+
+> Du, Herre, grundlagde i begyndelsen jorden,  
+> himlen er dine hænders værk.  
+> **11** De går til grunde, men du består,  
+> de slides alle op som klæder,  
+> **12** du ruller dem sammen som en klædning.  
+> De skiftes ud som klæder,  
+> men du er den samme,  
+> dine år får aldrig ende.
+
 **13** Til hvem af englene har han nogen sinde sagt:
-      *Sæt dig ved min højre hånd,
-      indtil jeg får lagt dine fjender
-      som en skammel for dine fødder?*
+
+> Sæt dig ved min højre hånd,  
+> indtil jeg får lagt dine fjender  
+> som en skammel for dine fødder?
+
 **14** Alle engle er jo kun tjenende ånder, der sendes ud for at hjælpe dem, som skal arve frelsen.
 
 ### Hebr 2
@@ -5030,20 +5187,28 @@ og et andet sted:
 **1** Derfor må vi så meget mere give agt på det, vi har hørt, så vi ikke glider bort fra det. **2** For når selv det ord, der var talt ved engle, havde gyldighed, og enhver overtrædelse og ulydighed fik sin velfortjente straf, **3** hvordan skal vi da kunne gå fri, hvis vi lader hånt om en frelse så stor, at den fra først af blev forkyndt af Herren selv og senere stadfæstet for os af dem, som havde hørt ham, **4** alt imens Gud føjede sit vidnesbyrd til ved tegn og undere og mange slags mægtige gerninger og ved tildeling af Helligånden efter sin vilje.
 
 **5** For han underlagde ikke den kommende verden, som vi taler om, under engle; **6** men som én et sted har vidnet:
-      *Hvad er da et menneske, at du husker på det,
-      et menneskebarn, at du tager dig af det?*
-      **7** *Du har kun en kort tid gjort ham ringere end engle,
-      med herlighed og ære har du kronet ham,*
-      **8** *alt har du lagt under hans fødder.*
+
+> Hvad er da et menneske, at du husker på det,  
+> et menneskebarn, at du tager dig af det?  
+> **7** Du har kun en kort tid gjort ham ringere end engle,  
+> med herlighed og ære har du kronet ham,  
+> **8** alt har du lagt under hans fødder.
+
 For da han lagde alt under ham, undtog han intet fra at være underlagt ham. Ganske vist ser vi endnu ikke alt underlagt ham; **9** men vi ser Jesus, som kun en kort tid var blevet gjort ringere end engle, for sin lidelses og døds skyld kronet med herlighed og ære, for at det ved Guds nåde skulle komme alle til gode, at han havde smagt døden.
 
 **10** For når Gud, for hvis skyld alle ting og ved hvem alle ting er til, ville føre mange sønner til herlighed, måtte han føre banebryderen for deres frelse til målet gennem lidelser. **11** For den, der helliger, og de, der helliges, har alle samme fader; derfor skammer han sig ikke ved at kalde dem brødre, **12** men siger:
-      *Jeg vil forkynde dit navn for mine brødre,
-      i menighedens midte vil jeg lovprise dig,*
+
+> Jeg vil forkynde dit navn for mine brødre,  
+> i menighedens midte vil jeg lovprise dig,
+
 **13** og ligeledes:
-      *Jeg vil sætte min lid til ham,*
+
+> Jeg vil sætte min lid til ham,
+
 endvidere:
-      *Her er jeg og de børn, Gud har givet mig.*
+
+> Her er jeg og de børn, Gud har givet mig.
+
 **14** Siden børnene alle er af kød og blod, måtte han også blive det ligesom de, for at han med sin død skulle gøre ham magtesløs, som har dødens magt, nemlig Djævelen, **15** og befri alle dem, som af frygt for døden hele livet igennem havde været holdt nede i trældom. **16** Det er jo dog ikke engle, han tager sig af, men det er Abrahams efterkommere, han tager sig af. **17** Derfor måtte han i ét og alt blive som sine brødre for over for Gud at blive en barmhjertig og trofast ypperstepræst, der kunne sone folkets synder. **18** For som den, der selv er blevet fristet og har lidt, kan han hjælpe dem, der fristes.
 
 ### Hebr 3
@@ -5055,29 +5220,37 @@ endvidere:
 #### Hvilen for Guds folk
 
 **7** Derfor, som Helligånden siger:
-      *Om I dog i dag ville lytte til ham!*
-      **8** *Gør ikke jeres hjerter hårde som ved oprøret,
-      på fristelsens dag i ørkenen,*
-      **9** *da jeres fædre udæskede mig og satte mig på prøve,
-      skønt de havde set mine gerninger* **10** *i fyrre år.
-      Derfor følte jeg afsky for den slægt,
-      og jeg sagde: De farer altid vild i deres hjerte,
-      og de kender ikke mine veje.*
-      **11** *Så svor jeg i min vrede:
-      De skal aldrig komme ind til min hvile.*
+
+> Om I dog i dag ville lytte til ham!  
+> **8** Gør ikke jeres hjerter hårde som ved oprøret,  
+> på fristelsens dag i ørkenen,  
+> **9** da jeres fædre udæskede mig og satte mig på prøve,  
+> skønt de havde set mine gerninger **10** i fyrre år.  
+> Derfor følte jeg afsky for den slægt,  
+> og jeg sagde: De farer altid vild i deres hjerte,  
+> og de kender ikke mine veje.  
+> **11** Så svor jeg i min vrede:  
+> De skal aldrig komme ind til min hvile.
+
 **12** Se til, brødre, at der aldrig i nogen af jer skal være et ondt, vantro hjerte, så der sker frafald fra den levende Gud, **13** men forman hinanden hver dag, så længe der er noget, der hedder »i dag«, for at ingen af jer skal blive forhærdet ved syndens bedrag; **14** for vi har del i Kristus, hvis vi indtil det sidste holder urokkeligt fast ved den tillid, vi havde i begyndelsen. **15** Når det hedder:
-      *Om I dog i dag ville lytte til ham!
-      Gør ikke jeres hjerter hårde som ved oprøret,*
+
+> Om I dog i dag ville lytte til ham!  
+> Gør ikke jeres hjerter hårde som ved oprøret,
+
 **16** hvem var det så, der havde hørt ham og alligevel gjorde oprør? Var det ikke alle dem, der anført af Moses var vandret ud fra Egypten? **17** Og hvem var det, han harmedes på i fyrre år? Var det ikke på dem, der syndede, og hvis lig kom til at ligge i ørkenen? **18** Og hvem gjaldt det, når han svor, at de ikke skulle komme ind til hans hvile, om ikke dem, der havde været ulydige? **19** Vi ser altså, at det var på grund af deres vantro, at de ikke kunne komme derind.
 
 ### Hebr 4
 
 **1** Lad os altså være på vagt, så ingen af jer skal vise sig at være kommet for sent, da løftet om at komme ind til Guds hvile endnu står ved magt. **2** For vi har fået det glædelige budskab forkyndt ligesom de; men de havde ikke gavn af at høre ordet, fordi de ikke modtog det i tro, da de hørte det. **3** For når vi kan komme ind til hvilen, er det, fordi vi tror, sådan som han har sagt:
-      *Så svor jeg i min vrede:
-      De skal aldrig komme ind til min hvile,*
+
+> Så svor jeg i min vrede:  
+> De skal aldrig komme ind til min hvile,
+
 og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt. **4** For et sted har han sagt således om den syvende dag: »Og på den syvende dag hvilede Gud efter alle sine gerninger,« **5** men på dette sted derimod: »De skal aldrig komme ind til min hvile.« **6** Det står altså endnu tilbage, at nogle kommer ind til hvilen, og de, der tidligere havde fået det glædelige budskab, var på grund af ulydighed ikke kommet ind. **7** Derfor fastsætter han for anden gang en dag, som skal være »i dag«, idet han efter så lang tids forløb taler ved David, som det før er nævnt:
-      *Om I dog i dag ville lytte til ham!
-      Gør ikke jeres hjerter hårde.*
+
+> Om I dog i dag ville lytte til ham!  
+> Gør ikke jeres hjerter hårde.
+
 **8** For hvis Josva havde ført dem ind til hvilen, ville Gud ikke senere have talt om en anden dag. **9** Altså venter der Guds folk en sabbatshvile. **10** For den, der er kommet ind til hans hvile, har også selv fået hvile efter sine gerninger, ligesom Gud efter sine. **11** Lad os altså være ivrige efter at komme ind til den hvile, for at ingen skal falde på grund af en tilsvarende ulydighed.
 
 **12** For Guds ord er levende og virksomt og skarpere end noget tveægget sværd; det trænger igennem, så det skiller sjæl fra ånd og marv fra ben og er dommer over hjertets tanker og meninger. **13** Ingen skabning kan være usynlig for ham, alt ligger blottet og åbent for hans øjne, og ham står vi til regnskab for.
@@ -5091,11 +5264,15 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **1** For enhver ypperstepræst, som tages blandt mennesker, indsættes til på menneskers vegne at gøre tjeneste for Gud ved at frembære gaver og slagtofre for deres synder. **2** Han kan føle med de uvidende og vildfarende, fordi han også selv er et skrøbeligt menneske **3** og derfor må frembære syndoffer for sig selv såvel som for folket. **4** Den værdighed kan ingen selv tage, man må ligesom Aron kaldes af Gud.
 
 **5** Således gav heller ikke Kristus sig selv den ære at være ypperstepræst, men det gjorde Gud, som sagde til ham:
-      *Du er min søn,
-      jeg har født dig i dag,*
+
+> Du er min søn,  
+> jeg har født dig i dag,
+
 **6** ligesom han også et andet sted siger:
-      *Du er præst for evigt
-      på Melkisedeks vis.*
+
+> Du er præst for evigt  
+> på Melkisedeks vis.
+
 **7** Mens han levede på jorden, opsendte han, under høje råb og tårer, bønner og anråbelser til ham, som kunne frelse ham fra døden, og han blev bønhørt for sin gudsfrygt. **8** Skønt han var søn, måtte han lære lydighed af det, han led, **9** og da han havde nået målet, blev han årsag til evig frelse for alle dem, som adlyder ham, **10** og blev af Gud kaldt ypperstepræst på Melkisedeks vis.
 
 #### Advarsel mod sløvhed
@@ -5121,13 +5298,17 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **4** Se dog, hvor stor han er, han som patriarken Abraham gav det bedste af byttet som tiende. **5** De af Levis sønner, der bliver præster, skal efter lovens bestemmelse tage tiende af folket, det vil sige af deres brødre, skønt også de nedstammer fra Abraham. **6** Men han, som ikke er af deres slægt, har taget tiende af Abraham og velsignet ham, som havde Guds løfter. **7** Men det kan ikke benægtes, at det er det ringere, som velsignes af det stærkere. **8** Ellers er det dødelige mennesker, der tager tiende, men her er det en, om hvem det bevidnes, at han forbliver i live. **9** Og så at sige har også Levi, som ellers er den, der tager tiende, selv givet tiende gennem Abraham; **10** for skønt endnu ikke født var han i sin stamfader, da Melkisedek gik ham i møde.
 
 **11** Hvis nu målet kunne nås gennem det levitiske præstedømme – og på grundlag af det fik folket sin lov – hvorfor måtte der så komme en anden, der er præst på Melkisedeks vis, og tales om en, der ikke er præst som Aron? **12** Når der sker en forandring med præstedømmet, sker der nødvendigvis også en forandring af loven. **13** For han, der her er tale om, tilhører en anden stamme, hvorfra ingen har gjort tjeneste ved alteret. **14** Det er jo en kendt sag, at vor Herre er af Judas stamme, og Moses har ikke sagt noget om præster af denne stamme. **15** Det bliver endnu tydeligere, når der fremstår en anden slags præst, som ligner Melkisedek, **16** og som ikke er blevet præst i medfør af en lov, der kræver en bestemt kødelig afstamning, men i medfør af et uophørligt livs kraft. **17** Det er bevidnet om ham:
-      *Du er præst for evigt
-      på Melkisedeks vis.*
+
+> Du er præst for evigt  
+> på Melkisedeks vis.
+
 **18** Der er altså tale om, at et tidligere bud ophæves, fordi det var svagt og nytteløst **19** – loven førte jo ikke til målet – men der indføres i stedet noget bedre, nemlig det håb, hvori vi kommer Gud nær.
 
 **20** Dette er ikke sket uden at være bekræftet med en ed, for mens de levitiske præster er blevet præster uden ed, **21** er han blevet det i kraft af en ed fra Gud, der sagde til ham:
-      *Herren har svoret og angrer det ikke:
-      Du er præst for evigt,*
+
+> Herren har svoret og angrer det ikke:  
+> Du er præst for evigt,
+
 **22** og dermed er Jesus blevet garant for en bedre pagt. **23** Mens de andre præster har været flere efter hinanden, fordi døden hindrede dem i at fortsætte, **24** har han et uforgængeligt præstedømme, fordi han selv er til for evigt. **25** Derfor kan han også helt og fuldt frelse dem, som kommer til Gud ved ham, fordi han altid lever og vil gå i forbøn for dem.
 
 **26** For en sådan ypperstepræst trængte vi til, en der er hellig, uskyldig, ren, skilt ud fra syndere og ophøjet over himlene, **27** en der ikke som de andre ypperstepræster er nødt til hver dag at bringe ofre, først for sine egne synder og så for folkets; for det har han gjort én gang for alle, da han bragte sig selv som offer. **28** For loven indsætter skrøbelige mennesker som ypperstepræster, men edsordet, der er nyere end loven, indsætter en søn, som for evigt er nået til målet.
@@ -5163,12 +5344,14 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **1** For da loven kun indeholder en skygge af de kommende goder og ikke selve tingenes skikkelse, kan den aldrig ved hjælp af de gentagne, årlige ofre, som man vedvarende frembærer, føre dem, der kommer med dem, til målet. **2** Ville man ellers ikke være hørt op med at frembære ofre, når de, der dyrker Gud, ikke er sig nogen synd bevidst, eftersom de én gang er blevet renset? **3** Men i ofringerne ligger en årlig påmindelse om synder; **4** for blod af tyre og bukke kan umuligt tage synder bort.
 
 **5** Derfor siger han, da han træder ind i verden:
-      *Slagtoffer og afgrødeoffer vil du ikke have,
-      men et legeme har du beredt mig;*
-      **6** *brændoffer og syndoffer ønsker du ikke.*
-      **7** *Da siger jeg: ›Se, jeg er kommet
-      – i bogrullen er der skrevet om mig –
-      for at gøre din vilje, Gud.‹*
+
+> Slagtoffer og afgrødeoffer vil du ikke have,  
+> men et legeme har du beredt mig;  
+> **6** brændoffer og syndoffer ønsker du ikke.  
+> **7** Da siger jeg: ›Se, jeg er kommet  
+> – i bogrullen er der skrevet om mig –  
+> for at gøre din vilje, Gud.‹
+
 **8** Mens han først siger: »Slagtoffer og afgrødeoffer, brændoffer og syndoffer ville du ikke have, og du ønskede dem ikke« – og det er dem, der frembæres som ofre ifølge loven – **9** så fortsætter han: »Se, jeg er kommet for at gøre din vilje.« Han ophæver altså det første for at sætte det andet i kraft, **10** og efter hans vilje er vi blevet helliget, ved at Jesu Kristi legeme er blevet ofret én gang for alle.
 
 **11** Enhver anden præst står dag efter dag og forretter tjeneste og frembærer regelmæssigt de samme ofre, som alligevel aldrig kan fjerne synder, **12** men denne præst har frembåret ét eneste, eviggyldigt offer for synder og derefter taget sæde ved Guds højre hånd, **13** hvor han kun venter på, at hans fjender skal blive lagt som en skammel for hans fødder. **14** For ved ét eneste offer har han for altid ført dem, han helliger, til målet.
@@ -5182,11 +5365,13 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **26** For synder vi med vilje, efter at vi har lært sandheden at kende, findes der ikke længere noget offer for synder, **27** tilbage er kun en frygtelig forventning om dom og en brændende nidkærhed, som skal fortære modstanderne. **28** Den, der bryder Moses' lov, skal uden barmhjertighed lide døden på to eller tre vidners udsagn; **29** hvor meget hårdere straf mener I da ikke, at et menneske fortjener, når det træder Guds søn under fod og vanhelliger pagtens blod, hvormed det selv er helliget, og håner nådens ånd? **30** Vi kender jo ham, der har sagt: »Hævnen tilhører mig, jeg vil gengælde,« og derefter: »Herren vil dømme sit folk.« **31** Det er frygteligt at falde i den levende Guds hænder.
 
 **32** Husk den første tid, da I efter at være blevet oplyst udstod megen kamp og lidelse, **33** når I enten selv blev stillet offentligt til skue under spot og mishandling eller gjorde fælles sag med andre, når de blev behandlet sådan. **34** For I led med de fængslede, og I fandt jer med glæde i, at man røvede jeres ejendom, fordi I vidste, at I ejer en bedre formue, som ikke forgår. **35** Kast altså ikke jeres frimodighed bort, den bærer en stor løn i sig. **36** For I har brug for udholdenhed, så I kan gøre Guds vilje og få det, som han har lovet.
-      **37** *For nu varer det kun en ganske kort tid,
-      så kommer han, som skal komme, og han udebliver ikke;*
-      **38** *og min retfærdige skal leve af tro,
-      men viger han tilbage fra det,
-      har min sjæl ikke behag i ham.*
+
+> **37** For nu varer det kun en ganske kort tid,  
+> så kommer han, som skal komme, og han udebliver ikke;  
+> **38** og min retfærdige skal leve af tro,  
+> men viger han tilbage fra det,  
+> har min sjæl ikke behag i ham.
+
 **39** Men vi hører ikke til dem, der viger tilbage, så vi fortabes, men til dem, der tror, så vore sjæle frelses.
 
 ### Hebr 11
@@ -5218,10 +5403,12 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **1** Så lad da også os, som har så stor en sky af vidner omkring os, frigøre os for enhver byrde og for synden, som så let omklamrer os, og holde ud i det løb, der ligger foran os, **2** idet vi ser hen til Jesus, troens banebryder og fuldender, som for den glædes skyld, der ventede ham, udholdt korset uden at ænse dets skam og nu sidder på højre side af Guds trone. **3** Hold jer ham for øje, som fandt sig i en sådan modstand fra syndere, for at I ikke skal blive trætte og miste modet.
 
 **4** Endnu har I ikke stridt så hårdt i jeres kamp mod synden, at det har kostet blod, **5** og I har glemt den formaning, der lyder til jer som sønner:
-      *Min søn, foragt ikke Herrens opdragelse,
-      mist ikke modet, når du irettesættes af ham;*
-      **6** *for Herren tugter den, han elsker,
-      han straffer hver søn, han holder af.*
+
+> Min søn, foragt ikke Herrens opdragelse,  
+> mist ikke modet, når du irettesættes af ham;  
+> **6** for Herren tugter den, han elsker,  
+> han straffer hver søn, han holder af.
+
 **7** For jeres opdragelses skyld skal I holde ud; Gud behandler jer som sønner. For hvor er den søn, som ikke tugtes af sin far? **8** Hvis I lades uden den opdragelse, som er alles lod, er I uægte børn og ikke sønner. **9** Engang havde vi vore jordiske fædre som opdragere og havde respekt for dem; må vi da ikke endnu mere underkaste os under åndernes fader, så vi kan få livet? **10** For vore fædre tugtede os for en kort tid, som de nu ville, men Gud gør det til vort bedste, for at vi skal få del i hans hellighed. **11** Al opdragelse vækker rigtignok snarere ubehag end glæde, mens den står på, men bagefter bliver frugten fred og retfærdighed for dem, der har gennemgået den. **12** Styrk derfor de synkende hænder og de kraftesløse knæ, **13** og gå den lige vej på jeres ben, så det lamme ikke vrides af led, men tværtimod bliver helbredt.
 
 **14** Stræb efter fred med alle og efter den helligelse, uden hvilken ingen kan se Herren. **15** Se til, at ingen går glip af Guds nåde, at ingen bitter, skadelig rod får lov at sætte skud, så mange forgiftes af den, **16** og at ingen er troløs og vanhellig som Esau, der for et eneste måltid mad solgte sin førstefødselsret. **17** For I ved, at da han senere ønskede at arve velsignelsen, blev han vraget, og skønt han med tårer søgte at omvende sig, fik han ingen mulighed for det.
@@ -5235,9 +5422,11 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 #### Livet til Guds velbehag
 
 **1** Lad broderkærligheden vare ved; **2** glem ikke gæstfriheden, for ved at være gæstfrie har nogle uden selv at vide det haft engle som gæster. **3** Husk på dem, der er i fangenskab, som om I var deres medfanger, og på dem, der mishandles, så sandt som I også selv har en krop. **4** Ægteskabet skal holdes i ære af alle og ægtesengen være ubesmittet; for Gud vil dømme utugtige og ægteskabsbrydere. **5** Lad ikke kærlighed til penge bestemme jeres adfærd, men stil jer tilfreds med det, I har. For Gud har selv sagt: »Jeg lader dig ikke i stikken og svigter dig ikke.« **6** Derfor kan vi frimodigt sige:
-      *Herren er min hjælper,
-      jeg skal ikke frygte,
-      hvad kan et menneske gøre mig?*
+
+> Herren er min hjælper,  
+> jeg skal ikke frygte,  
+> hvad kan et menneske gøre mig?
+
 **7** Tænk på jeres ledere, som har talt Guds ord til jer, betragt udfaldet af deres livsløb og efterlign deres tro. **8** Jesus Kristus er den samme i går og i dag og til evig tid. **9** Lad jer ikke føre på afveje af alle mulige fremmede lærdomme; for det er godt, at hjertet styrkes af nåden og ikke af en bestemt slags mad, som aldrig har gavnet dem, der lagde vægt på det. **10** Vi har et alter, som de, der gør tjeneste ved Åbenbaringsteltet, ikke har ret til at få føde fra. **11** For kroppene af de dyr, hvis blod som syndoffer bringes ind i helligdommen af ypperstepræsten, brændes op uden for lejren. **12** Derfor var det også uden for byporten, Jesus led for at hellige folket med sit eget blod. **13** Lad os da gå ud til ham »uden for lejren« og bære hans forhånelse; **14** for her har vi ikke en by, der består, men vi søger frem til den, der skal komme. **15** Lad os bestandig ved ham bringe Gud takoffer, det vil sige frugten af læber, som bekender hans navn. **16** Glem heller ikke godgørenhed og gavmildhed; det er den slags ofre, Gud finder behag i.
 
 **17** Adlyd jeres ledere og ret jer efter dem, for de våger over jeres sjæle, da de ved, at de skal stå til regnskab; lad dem kunne gøre det med glæde og ikke med suk, for det ville være ulykkeligt for jer.
@@ -5311,8 +5500,10 @@ Tænk på, at den mindste ild kan sætte den største skov i brand; **6** også 
 #### Venskab med verden
 
 **1** Hvorfor opstår der kampe og stridigheder blandt jer? Er det ikke, fordi jeres lyster fører krig i jeres lemmer? **2** I begærer brændende, men opnår intet; I myrder og misunder, men kan intet udrette; I strides og kæmper, men opnår intet, fordi I ikke beder; **3** eller I beder og får alligevel intet, fordi I beder dårligt, kun for at ødsle det bort i jeres lyster. **4** I utro, ved I ikke, at venskab med verden er fjendskab med Gud? Den, der vil være ven med verden, står som en fjende af Gud. **5** Eller tror I, det er tomme ord, når Skriften siger: »Med nidkærhed længes Gud efter den ånd, han har givet bolig i os, **6** og viser så meget større nåde«? Derfor hedder det:
-      *Gud står de hovmodige imod,
-      de ydmyge viser han nåde.*
+
+> Gud står de hovmodige imod,  
+> de ydmyge viser han nåde.
+
 **7** I skal altså underordne jer under Gud; og I skal stå Djævelen imod, så vil han flygte fra jer. **8** Hold jer nær til Gud, så vil han holde sig nær til jer. Gør jeres hænder rene, I syndere; rens jeres hjerter, I tvesindede! **9** Sørg og græd i jeres elendighed; lad jeres latter afløses af sorg og jeres glæde af mismod. **10** Ydmyg jer for Herren, så vil han ophøje jer.
 
 #### Advarsel mod bagtalelse og praleri
@@ -5364,10 +5555,12 @@ Nåde og fred være med jer i stadig rigere mål!
 **17** Og når I påkalder ham som fader, der uden at gøre forskel på folk dømmer enhver efter hans gerning, skal I leve i gudsfrygt, så længe I er udlændinge her. **18** I ved jo, at det ikke var med forgængelige ting som sølv eller guld, I blev løskøbt fra det tomme liv, I havde overtaget fra jeres fædre, **19** men med Kristi dyrebare blod som af et lam uden plet og lyde; **20** dertil var han bestemt, før verden blev grundlagt, men han blev først åbenbaret nu ved tidernes ende af hensyn til jer, **21** som takket være ham tror på Gud, der oprejste ham fra de døde og gav ham herlighed, så at jeres tro også er håb til Gud.
 
 **22** I, som i lydighed mod sandheden har renset jeres sjæle til at have oprigtig broderkærlighed, skal elske hinanden inderligt og af et rent hjerte; **23** I er jo ikke genfødt af en forgængelig, men af en uforgængelig sæd, Guds levende og blivende ord; **24** for
-      *alle mennesker er som græs,
-      al deres herlighed som markens blomster.
-      Græsset tørrer ind, blomsterne falder,*
-      **25** *men Herrens ord forbliver til evig tid.*
+
+> alle mennesker er som græs,  
+> al deres herlighed som markens blomster.  
+> Græsset tørrer ind, blomsterne falder,  
+> **25** men Herrens ord forbliver til evig tid.
+
 Det er dette ord, som er forkyndt for jer.
 
 ### 1 Pet 2
@@ -5375,14 +5568,20 @@ Det er dette ord, som er forkyndt for jer.
 #### Den levende sten og Guds folk
 
 **1** Derfor skal I aflægge al ondskab og al svig og hykleri og misundelse og enhver bagtalelse **2** og som nyfødte børn hige efter ordets rene mælk, for at I ved den kan vokse op til frelse, **3** så sandt I har smagt, at Herren er god. **4** Kom til ham, den levende sten, som blev vraget af mennesker, men er udsøgt og kostbar for Gud, **5** og lad jer selv som levende sten bygges op til et åndeligt hus, til et helligt præsteskab, der bringer åndelige ofre, som takket være Jesus Kristus er kærkomne for Gud. **6** For der står i Skriften:
-      *Se, i Zion lægger jeg en hjørnesten,
-      udvalgt og kostbar.
-      Den, der tror på ham, skal ikke blive til skamme.*
+
+> Se, i Zion lægger jeg en hjørnesten,  
+> udvalgt og kostbar.  
+> Den, der tror på ham, skal ikke blive til skamme.
+
 **7** For jer, som tror, er den altså kostbar; men for dem, som ikke tror,
-      *er den sten, bygmestrene vragede,
-      blevet hovedhjørnesten*
+
+> er den sten, bygmestrene vragede,  
+> blevet hovedhjørnesten
+
 **8** og
-      *en anstødssten, en klippe til at snuble over;*
+
+> en anstødssten, en klippe til at snuble over;
+
 det er dem, der tager anstød i deres ulydighed mod ordet, og dertil var de også bestemt.
 
 **9** Men I er en udvalgt slægt, et kongeligt præsteskab, et helligt folk, et ejendomsfolk, for at I skal forkynde hans guddomsmagt, han som kaldte jer ud af mørket til sit underfulde lys, **10** I, som før ikke var et folk, men nu er Guds folk, I, som ikke fandt barmhjertighed, men nu har fundet barmhjertighed.
@@ -5408,15 +5607,17 @@ det er dem, der tager anstød i deres ulydighed mod ordet, og dertil var de ogs�
 #### Formaning om at være rede til lidelse og forsvar
 
 **8** Og til slut: Lev alle i enighed, og vis medfølelse, broderkærlighed, barmhjertighed og ydmyghed. **9** Gengæld ikke ondt med ondt eller skældsord med skældsord, men tværtimod med velsignelse, for I er kaldet til at arve velsignelse.
-      **10** *Den, som vil elske livet
-      og se lykkelige dage,
-      han skal vogte sin tunge for ondskab
-      og sine læber for at tale svig;*
-      **11** *han skal holde sig fra det onde og gøre det gode,
-      søge freden og stræbe efter den.*
-      **12** *For Herrens øjne hviler på de retfærdige,
-      hans ører hører deres råb om hjælp.
-      Herrens ansigt er vendt mod dem, der øver ondt.*
+
+> **10** Den, som vil elske livet  
+> og se lykkelige dage,  
+> han skal vogte sin tunge for ondskab  
+> og sine læber for at tale svig;  
+> **11** han skal holde sig fra det onde og gøre det gode,  
+> søge freden og stræbe efter den.  
+> **12** For Herrens øjne hviler på de retfærdige,  
+> hans ører hører deres råb om hjælp.  
+> Herrens ansigt er vendt mod dem, der øver ondt.
+
 **13** Hvem kan skade jer, når I er ivrige efter at gøre det gode? **14** Men skulle I også komme til at lide for retfærdigheden, er I salige. Frygt ikke, hvad de frygter, nær ingen rædsel; **15** men I skal hellige Herren Kristus i jeres hjerte og altid være rede til forsvar over for enhver, der kræver jer til regnskab for det håb, I har, **16** men I skal gøre det med sagtmodighed og gudsfrygt og med en god samvittighed, for at de, der håner jeres gode livsførelse i Kristus, må blive gjort til skamme, når de bagtaler jer. **17** For det er bedre, om det er Guds vilje, at lide, når man gør det gode, end når man gør det onde. **18** For også Kristus led én gang for menneskers synder, som retfærdig led han for uretfærdiges skyld for at føre jer til Gud. Han blev dræbt i kødet, gjort levende i Ånden, **19** og i den gik han til de ånder, der var i fængsel, og prædikede for dem; **20** det var dem, som var ulydige, dengang Gud ventede langmodigt i Noas dage, da arken blev bygget; i den blev nogle få, nemlig otte sjæle, frelst gennem vand. **21** Det vand er et billede på den dåb, som nu frelser jer; ikke en fjernelse af legemets snavs, men en god samvittigheds pagt med Gud, ved Jesu Kristi opstandelse, **22** han som er faret op til himlen og sidder ved Guds højre hånd, efter at engle og myndigheder og magter er blevet underlagt ham.
 
 ### 1 Pet 4
@@ -5440,8 +5641,10 @@ det er dem, der tager anstød i deres ulydighed mod ordet, og dertil var de ogs�
 **1** Jeres ældste formaner jeg som medældste og som vidne om Kristi lidelser og som den, der har del i den herlighed, som skal åbenbares: **2** Vær hyrder for Guds hjord hos jer, vogt den, ikke af tvang, men frivilligt, som Gud vil det, ikke for ussel vindings skyld, men glad og gerne. **3** Gør jer ikke til herskere over dem, I har ansvaret for, men vær forbilleder for hjorden; **4** og når hyrden over alle hyrder åbenbares, skal I få herlighedens uvisnelige sejrskrans.
 
 **5** Ligeså skal I unge underordne jer under de ældste; I skal alle være klædt i ydmyghed over for hinanden, for
-      *Gud står de hovmodige imod,
-      de ydmyge viser han nåde.*
+
+> Gud står de hovmodige imod,  
+> de ydmyge viser han nåde.
+
 **6** Ydmyg jer derfor under Guds stærke hånd, så vil han ophøje jer, når tiden kommer, **7** og kast al jeres bekymring på ham, for han har omsorg for jer.
 
 #### Formaning om at stå Djævelen imod
@@ -5703,11 +5906,13 @@ Til de kaldede, som er elsket af Gud Fader og bevaret for Jesus Kristus.
 **4** Fra Johannes til de syv menigheder i provinsen Asien.
 
 Nåde være med jer og fred fra ham, som er og som var og som kommer, og fra de syv ånder, som er foran hans trone, **5** og fra Jesus Kristus, vidnet, den troværdige, den førstefødte af de døde og herskeren over jordens konger. Ham, som elsker os og har løst os fra vore synder med sit blod, **6** og som har gjort os til et kongeligt folk, til præster for Gud, sin fader, ham være ære og magt i evighedernes evigheder. Amen.
-      **7** *Se, han kommer med skyerne,
-      og hvert øje skal se ham,
-      også de, som har gennemboret ham;
-      og alle jordens folkestammer skal jamre over ham.
-      Ja, amen.*
+
+> **7** Se, han kommer med skyerne,  
+> og hvert øje skal se ham,  
+> også de, som har gennemboret ham;  
+> og alle jordens folkestammer skal jamre over ham.  
+> Ja, amen.
+
 **8** Jeg er Alfa og Omega, siger Gud Herren, han som er og som var og som kommer, den Almægtige.
 
 #### Johannes kaldes til at skrive
@@ -5771,35 +5976,44 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 #### Guds trone i himlen
 
 **1** Derefter så jeg, og se, der var en åben dør ind til himlen; og den røst, jeg først havde hørt tale til mig, og som lød som en basun, sagde: »Kom herop, så vil jeg vise dig, hvad der siden skal ske.« **2** Straks blev jeg grebet af Ånden og så en trone stå i himlen og én sidde på tronen. **3** Og han, som sad på tronen, var at se til ligesom jaspis og sarder, og der var en regnbue rundt om hans trone, at se til som smaragd. **4** Og rundt om tronen stod fireogtyve troner, og på tronerne sad fireogtyve ældste i hvide klæder og med guldkrone på hovedet. **5** Fra tronen kom der lyn og brag og torden, og foran tronen stod der syv brændende fakler – de er Guds syv ånder. **6** Foran tronen var der noget ligesom et glashav så klart som krystal. Og rundt om tronen midt for siderne var der fire levende væsener fulde af øjne både for og bag. **7** Det første levende væsen lignede en løve, det andet lignede en okse, det tredje havde et ansigt som et menneskes, og det fjerde lignede en flyvende ørn. **8** De fire væsener havde hver seks vinger, fulde af øjne hele vejen rundt og på indersiden, og de siger uden ophør dag og nat:
-      *Hellig, hellig, hellig er Herren, Gud den Almægtige,
-      han som var og som er og som kommer.*
+
+> Hellig, hellig, hellig er Herren, Gud den Almægtige,  
+> han som var og som er og som kommer.
+
 **9** Og når de fire væsener giver pris og ære og tak til ham, der sidder på tronen, og som lever i evighedernes evigheder, **10** falder de fireogtyve ældste ned for ham, der sidder på tronen, og de tilbeder ham, som lever i evighedernes evigheder, og de lægger deres kroner ned for tronen og siger:
-      **11** *Værdig er du, vor Herre og Gud,
-      til at få pris og ære og magt;
-      for du har skabt alle ting,
-      af din vilje blev de til og blev skabt.*
+
+> **11** Værdig er du, vor Herre og Gud,  
+> til at få pris og ære og magt;  
+> for du har skabt alle ting,  
+> af din vilje blev de til og blev skabt.
 
 ### Åb 5
 
 #### Lammet og bogen med de syv segl
 
 **1** Og jeg så i højre hånd på ham, der sad på tronen, en bogrulle med skrift på indersiden og på ydersiden, forseglet med syv segl. **2** Og jeg så en mægtig engel, som med høj røst udråbte: »Hvem er værdig til at åbne bogen og bryde dens segl?« **3** Men ingen i himlen eller på jorden eller under jorden kunne åbne bogen og se i den. **4** Og jeg græd meget, fordi der ikke fandtes nogen, der var værdig til at åbne bogen og se i den. **5** Men en af de ældste sagde til mig: »Græd ikke! For Løven af Judas stamme, Davids rodskud, har sejret, så han kan åbne bogen og dens syv segl.« **6** Og jeg så et lam stå mellem tronen og de fire levende væsener og de ældste, det så ud som slagtet, og det havde syv horn og syv øjne – det er Guds syv ånder, der er sendt ud over hele jorden. **7** Det gik hen til ham, der sad på tronen, og fik bogen af hans højre hånd. **8** Og da det fik bogen, faldt de fire væsener og de fireogtyve ældste ned for Lammet, hver med sin harpe og sine guldskåle fulde af røgelse – det er de helliges bønner. **9** Og de sang en ny sang:
-      *Du er værdig til at få bogen
-      og bryde dens segl,
-      for du blev slagtet, og du købte med dit blod
-      mennesker til Gud
-      af alle stammer og tungemål, folk og folkeslag*
-      **10** *og gjorde dem til et kongeligt folk
-      og til præster for vor Gud,
-      og de skal være konger på jorden.*
+
+> Du er værdig til at få bogen  
+> og bryde dens segl,  
+> for du blev slagtet, og du købte med dit blod  
+> mennesker til Gud  
+> af alle stammer og tungemål, folk og folkeslag  
+> **10** og gjorde dem til et kongeligt folk  
+> og til præster for vor Gud,  
+> og de skal være konger på jorden.
+
 **11** Og jeg så: Jeg hørte røsten af mange engle i kreds om tronen og de levende væsener og de ældste – ti tusind titusinder og tusind tusinder i tallet. **12** De sagde med høj røst:
-      *Lammet, det slagtede, er værdigt
-      til at få magt og rigdom og visdom og styrke
-      og ære og lov og pris.*
+
+> Lammet, det slagtede, er værdigt  
+> til at få magt og rigdom og visdom og styrke  
+> og ære og lov og pris.
+
 **13** Og hver skabning i himlen og på jorden og under jorden og på havet, med alt, hvad de rummer, hørte jeg sige:
-      *Ham, der sidder på tronen, og Lammet,
-      være pris og ære og lov og magt
-      i evighedernes evigheder.*
+
+> Ham, der sidder på tronen, og Lammet,  
+> være pris og ære og lov og magt  
+> i evighedernes evigheder.
+
 **14** Og de fire væsener sagde amen, og de ældste kastede sig ned og tilbad.
 
 ### Åb 6
@@ -5823,37 +6037,43 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 #### De ét hundrede og fireogfyrre tusind beseglede
 
 **1** Derefter så jeg fire engle stå ved de fire verdenshjørner og holde jordens fire vinde tilbage, for at ingen vind skulle blæse på jorden eller over havet eller mod noget træ. **2** Og jeg så en anden engel stige op fra solens opgang med den levende Guds segl. Den råbte med høj røst til de fire engle, som det var givet at skade jorden og havet: **3** »Skad ikke jorden eller havet eller træerne, før vi har beseglet vor Guds tjenere på deres pande.« **4** Og jeg hørte tallet på de beseglede: ét hundrede og fireogfyrre tusind beseglede ud af alle Israels stammer,
-      **5** *af Judas stamme tolv tusind beseglede,
-      af Rubens stamme tolv tusind,
-      af Gads stamme tolv tusind,*
-      **6** *af Ashers stamme tolv tusind,
-      af Naftalis stamme tolv tusind,
-      af Manasses stamme tolv tusind,*
-      **7** *af Simeons stamme tolv tusind,
-      af Levis stamme tolv tusind,
-      af Issakars stamme tolv tusind,*
-      **8** *af Zebulons stamme tolv tusind,
-      af Josefs stamme tolv tusind,
-      af Benjamins stamme tolv tusind beseglede.*
+
+> **5** af Judas stamme tolv tusind beseglede,  
+> af Rubens stamme tolv tusind,  
+> af Gads stamme tolv tusind,  
+> **6** af Ashers stamme tolv tusind,  
+> af Naftalis stamme tolv tusind,  
+> af Manasses stamme tolv tusind,  
+> **7** af Simeons stamme tolv tusind,  
+> af Levis stamme tolv tusind,  
+> af Issakars stamme tolv tusind,  
+> **8** af Zebulons stamme tolv tusind,  
+> af Josefs stamme tolv tusind,  
+> af Benjamins stamme tolv tusind beseglede.
 
 #### Den store hvide flok
 
 **9** Derefter så jeg, og se, der var en stor skare, som ingen kunne tælle, af alle folkeslag og stammer, folk og tungemål; de stod foran tronen og foran Lammet, klædt i hvide klæder og med palmegrene i hænderne. **10** De råbte med høj røst:
-      *Frelsen kommer fra vor Gud, som sidder på tronen,
-      og fra Lammet.*
+
+> Frelsen kommer fra vor Gud, som sidder på tronen,  
+> og fra Lammet.
+
 **11** Og alle englene stod i kreds om tronen og de ældste og de fire levende væsener, og de faldt ned på deres ansigt for tronen og tilbad Gud **12** og sagde:
-      *Amen! Pris og lov og visdom og tak
-      og ære og magt og styrke er vor Guds
-      i evighedernes evigheder. Amen!*
+
+> Amen! Pris og lov og visdom og tak  
+> og ære og magt og styrke er vor Guds  
+> i evighedernes evigheder. Amen!
+
 **13** Og en af de ældste tog til orde og spurgte mig: »De, som står klædt i hvide klæder, hvem er de, og hvor kommer de fra?« **14** Jeg sagde til ham: »Min herre, du ved det.« Og han sagde til mig: »Det er dem, som kommer fra den store trængsel, og som har vasket deres klæder og gjort dem hvide i Lammets blod.
-      **15** *Derfor står de for Guds trone
-      og tjener ham dag og nat i hans tempel,
-      og han, som sidder på tronen, skal rejse sit telt over dem.*
-      **16** *De skal ikke sulte længere og ikke tørste længere,
-      hverken solen eller nogen anden hede skal plage dem,*
-      **17** *for Lammet midt for tronen skal vogte dem
-      og lede dem til livets kildevæld,
-      og Gud vil tørre hver tåre af deres øjne.«*
+
+> **15** Derfor står de for Guds trone  
+> og tjener ham dag og nat i hans tempel,  
+> og han, som sidder på tronen, skal rejse sit telt over dem.  
+> **16** De skal ikke sulte længere og ikke tørste længere,  
+> hverken solen eller nogen anden hede skal plage dem,  
+> **17** for Lammet midt for tronen skal vogte dem  
+> og lede dem til livets kildevæld,  
+> og Gud vil tørre hver tåre af deres øjne.«
 
 ### Åb 8
 
@@ -5900,18 +6120,22 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 #### Den syvende engel blæser i den syvende basun
 
 **15** Den syvende engel blæste i sin basun. Da lød der høje røster i himlen, som sagde:
-      *Verdensherredømmet er nu vor Herres og hans salvedes,
-      og han skal være konge i evighedernes evigheder.*
+
+> Verdensherredømmet er nu vor Herres og hans salvedes,  
+> og han skal være konge i evighedernes evigheder.
+
 **16** Og de fireogtyve ældste, som sad på deres troner foran Gud, faldt ned på deres ansigt og tilbad Gud **17** og sagde:
-      *Vi takker dig, Herre, Gud, Almægtige, som er og som var,
-      fordi du har overtaget din store magt og er blevet konge.*
-      **18** *Folkeslagene rasede,
-      men din vrede er kommet,
-      den time, da de døde skal dømmes,
-      og du skal give løn til dine tjenere, profeterne,
-      og til de hellige og til dem, der frygter dit navn,
-      både små og store,
-      og ødelægge dem, der ødelægger jorden.*
+
+> Vi takker dig, Herre, Gud, Almægtige, som er og som var,  
+> fordi du har overtaget din store magt og er blevet konge.  
+> **18** Folkeslagene rasede,  
+> men din vrede er kommet,  
+> den time, da de døde skal dømmes,  
+> og du skal give løn til dine tjenere, profeterne,  
+> og til de hellige og til dem, der frygter dit navn,  
+> både små og store,  
+> og ødelægge dem, der ødelægger jorden.
+
 **19** Og Guds tempel i himlen blev åbnet, og hans pagts ark kunne ses i hans tempel, og der kom lyn og brag og torden og jordskælv og voldsom hagl.
 
 ### Åb 12
@@ -5921,17 +6145,19 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 **1** Og et stort tegn viste sig på himlen, en kvinde klædt i solen, med månen under sine fødder og med en krone af tolv stjerner på sit hoved. **2** Hun skulle føde, og hun skreg af smerte i sine fødselsveer. **3** Og der viste sig et andet tegn på himlen, en stor ildrød drage med syv hoveder og ti horn og syv kroner på sine hoveder. **4** Dens hale fejede en tredjedel af himlens stjerner bort og styrtede dem ned på jorden. Dragen stillede sig foran kvinden, der skulle føde, for at sluge hendes barn, så snart hun fødte. **5** Og hun fødte en søn, en dreng, som skal vogte alle folkeslagene med et jernscepter. Og hendes barn blev bortrykket til Gud og hans trone. **6** Men kvinden flygtede ud i ørkenen; dér har hun et sted, som Gud har gjort rede til hende, for at hun kan få sin føde dér i tolv hundrede og tres dage.
 
 **7** Og der blev krig i himlen. Mikael og hans engle gik i krig med dragen, og dragen og dens engle tog kampen op, **8** men kunne ikke stå sig, og de havde ikke længere deres plads i himlen. **9** Den blev styrtet, den store drage, den gamle slange, som hedder Djævelen og Satan, og som forfører hele verden – styrtet til jorden, og dens engle blev styrtet ned sammen med den. **10** Og jeg hørte en høj røst i himlen sige:
-      *Nu er frelsen og magten og Riget vor Guds
-      og herredømmet hans salvedes,
-      for vore brødres anklager er styrtet,
-      han som dag og nat anklagede dem for Gud.*
-      **11** *De har besejret ham ved Lammets blod og ved deres vidnesbyrds ord.
-      De havde ikke livet for kært til at gå i døden.*
-      **12** *Så fryd jer da, himle, og I, som har bolig i dem!
-      Men ve over jorden og havet,
-      for Djævelen er kommet ned til jer
-      med stort raseri,
-      fordi han ved, at hans tid er kort.*
+
+> Nu er frelsen og magten og Riget vor Guds  
+> og herredømmet hans salvedes,  
+> for vore brødres anklager er styrtet,  
+> han som dag og nat anklagede dem for Gud.  
+> **11** De har besejret ham ved Lammets blod og ved deres vidnesbyrds ord.  
+> De havde ikke livet for kært til at gå i døden.  
+> **12** Så fryd jer da, himle, og I, som har bolig i dem!  
+> Men ve over jorden og havet,  
+> for Djævelen er kommet ned til jer  
+> med stort raseri,  
+> fordi han ved, at hans tid er kort.
+
 **13** Da dragen så sig styrtet ned til jorden, forfulgte den kvinden, der havde født drengen. **14** Men kvinden fik givet den store ørns to vinger, så hun kunne flyve ud i ørkenen til sit sted; dér fik hun sin føde én tid og to tider og en halv tid i sikkerhed for slangen. **15** Men slangen spyede en hel flod af vand ud af sin mund efter kvinden, for at hun skulle rives med af floden. **16** Men jorden kom kvinden til hjælp og åbnede sit gab og slugte den flod, som dragen spyede ud af sin mund. **17** Og dragen rasede mod kvinden og gik hen for at føre krig mod hendes øvrige børn, som holder fast ved Guds bud og ved Jesu vidnesbyrd. **18** Den stillede sig på havets bred.
 
 ### Åb 13
@@ -5939,8 +6165,10 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 #### Dyret fra havet og dyret fra jorden
 
 **1** Og jeg så et dyr stige op af havet; det havde ti horn og syv hoveder og på sine horn ti kroner og på sine hoveder gudsbespottelige navne. **2** Det dyr, jeg så, lignede en panter, dets fødder var som en bjørns og dets mund som en løves mund, og dragen gav det sin magt og sin trone og stor styrke. **3** Et af dets hoveder var som dødeligt såret, men dets banesår blev lægt. Hele jorden fulgte dyret med undren **4** og tilbad dragen, der havde givet dyret magten; og de tilbad dyret og sagde: »Hvem er dyrets ligemand, og hvem kan gå i krig mod det?« **5** Og det fik givet en mund, der talte store bespottelige ord, og det fik givet magt til at gøre det i toogfyrre måneder. **6** Det åbnede munden til bespottelser mod Gud, det spottede hans navn og hans bolig og dem, der har bolig i himlen. **7** Det fik givet magt til at føre krig mod de hellige og besejre dem, og det fik givet magt over hver stamme og folk, tungemål og folkeslag. **8** Og alle, der bor på jorden, vil tilbede det, enhver, hvis navn ikke, fra verden blev grundlagt, står skrevet i livets bog, det slagtede lams bog. **9** Har nogen øre, skal han høre!
-      **10** *Skal nogen i fangenskab, kommer han i fangenskab,
-      skal nogen falde for sværdet, falder han for sværdet.*
+
+> **10** Skal nogen i fangenskab, kommer han i fangenskab,  
+> skal nogen falde for sværdet, falder han for sværdet.
+
 Her kræves der udholdenhed og tro af de hellige!
 
 **11** Jeg så et andet dyr komme op af jorden; det havde to horn som et lam, men talte som en drage. **12** Det udøver hele det første dyrs magt for dets øjne; og det får jorden og dem, der bor på den, til at tilbede det første dyr, det hvis banesår blev lægt. **13** Det gør store tegn, så det endog får ild til at falde fra himlen ned på jorden for øjnene af menneskene. **14** Det forfører dem, der bor på jorden, med de tegn, som det har fået givet at gøre for dyrets øjne, og siger til dem, der bor på jorden, at de skal lave et billede af dyret, der fik sværdhugget og kom til live. **15** Og det fik givet at blæse livsånde i dyrets billede, så dyrets billede også kunne tale og få alle dem dræbt, der ikke vil tilbede dyrets billede. **16** Det får alle, store og små, rige og fattige, frie og trælle, til at sætte et mærke på deres højre hånd eller deres pande, **17** så ingen kan købe eller sælge undtagen den, der bærer dette mærke, dyrets navn eller dets navns tal. **18** Her kræves der visdom! Den, der har forstand, må regne på dyrets tal, for det er et mennesketal. Dets tal er 666.
@@ -5954,12 +6182,16 @@ Her kræves der udholdenhed og tro af de hellige!
 #### De tre engles domsforkyndelse
 
 **6** Jeg så endnu en engel flyve midt oppe under himlen; den havde et evigt evangelium at forkynde for dem, der bor på jorden, og for alle folkeslag og stammer, tungemål og folk, **7** og englen sagde med høj røst:
-      *Frygt Gud og giv ham ære,
-      for timen er kommet, da han dømmer.
-      Tilbed ham, som har skabt himmel og jord og hav og kilder.*
+
+> Frygt Gud og giv ham ære,  
+> for timen er kommet, da han dømmer.  
+> Tilbed ham, som har skabt himmel og jord og hav og kilder.
+
 **8** Og en anden engel fulgte efter og sagde:
-      *Faldet, ja, faldet er det store Babylon,
-      som skænkede op for alle folkeslagene af sin utugts harmes vin.*
+
+> Faldet, ja, faldet er det store Babylon,  
+> som skænkede op for alle folkeslagene af sin utugts harmes vin.
+
 **9** Og en tredje engel fulgte efter dem og sagde med høj røst: »Hvis nogen tilbeder dyret og dets billede og sætter dets mærke på sin pande eller hånd, **10** skal han også drikke Guds harmes vin, skænket ufortyndet i hans vredes bæger, og han skal pines i ild og svovl for øjnene af de hellige engle og Lammet. **11** Og røgen fra deres pinsler stiger op i evighedernes evigheder, og de har ingen hvile, hverken dag eller nat, de der tilbeder dyret og dets billede eller tager dets navn som mærke. **12** Her kræves der udholdenhed af de hellige, dem som holder fast ved Guds bud og troen på Jesus.«
 
 **13** Og jeg hørte en røst fra himlen sige: »Skriv: Salige er de døde, som fra nu af dør i Herren. Ja, siger Ånden, de skal hvile efter deres møje, for deres gerninger følger dem.«
@@ -5967,8 +6199,10 @@ Her kræves der udholdenhed og tro af de hellige!
 #### Jordens høst
 
 **14** Og jeg så: Se, der var en hvid sky, og på skyen sad der en, der så ud som en menneskesøn, med guldkrone på hovedet og en skarp segl i hånden. **15** Og en anden engel kom ud fra templet og råbte med høj røst til ham, der sad på skyen:
-      *Brug din segl og høst, for nu er det tid til at høste,
-      og jordens høst er tjenlig.*
+
+> Brug din segl og høst, for nu er det tid til at høste,  
+> og jordens høst er tjenlig.
+
 **16** Og han, som sad på skyen, svang sin segl over jorden, og jorden blev høstet.
 
 **17** Og der kom en anden engel ud fra templet i himlen, også den med en skarp segl. **18** Og endnu en engel kom fra alteret, og den havde magt over ilden. Den råbte med høj røst til englen med den skarpe segl: »Brug din skarpe segl og høst klaserne på jordens vinstok, for dens druer er modne.« **19** Og englen svang sin segl på jorden og høstede jordens vinstok og hældte druerne i Guds harmes store perse. **20** Og persen blev trådt uden for byen, og på en strækning af seksten hundrede stadier flød der blod ud af persen op til hestenes bidsler.
@@ -5978,15 +6212,16 @@ Her kræves der udholdenhed og tro af de hellige!
 #### De syv engle med de sidste syv plager
 
 **1** Jeg så et andet stort, forunderligt tegn på himlen: Syv engle med de sidste syv plager, for med dem er Guds vrede fuldbyrdet. **2** Og jeg så noget som et glashav, blandet med ild, og jeg så dem, der havde sejret over dyret og dets billede og dets navns tal, stå ved glashavet med Guds harper. **3** Og de synger Guds tjener Moses' sang og Lammets sang:
-      *Store og underfulde er dine gerninger,
-      du Herre, Gud, Almægtige,
-      retfærdige og sande er dine veje,
-      du folkenes konge.*
-      **4** *Hvem må ikke frygte dig, Herre,
-      og ære dit navn?
-      For du alene er hellig,
-      alle folkeslag skal komme og tilbede dig,
-      for dine retfærdige domme er blevet åbenbare.*
+
+> Store og underfulde er dine gerninger,  
+> du Herre, Gud, Almægtige,  
+> retfærdige og sande er dine veje,  
+> du folkenes konge.  
+> **4** Hvem må ikke frygte dig, Herre,  
+> og ære dit navn?  
+> For du alene er hellig,  
+> alle folkeslag skal komme og tilbede dig,  
+> for dine retfærdige domme er blevet åbenbare.
 
 **5** Derefter så jeg: Templet i himlen, Vidnesbyrdets telt, blev åbnet, **6** og ud af templet kom de syv engle med de syv plager, klædt i lysende rent linnedtøj og med guldbælter om brystet. **7** Og et af de fire levende væsener gav de syv engle syv guldskåle fyldt med Guds vrede – han som lever i evighedernes evigheder. **8** Og templet fyldtes med røg fra Guds herlighed og magt, så ingen kunne komme ind i templet, før de syv engles syv plager var endt.
 
@@ -6001,14 +6236,15 @@ Her kræves der udholdenhed og tro af de hellige!
 **3** Den anden engel hældte sin skål ud over havet, og det blev til blod som fra en død, og alle levende væsener i havet døde.
 
 **4** Den tredje engel hældte sin skål ud over floderne og kilderne, og de blev til blod. **5** Og jeg hørte vandenes engel sige:
-      *Retfærdig er du, som er og som var, du Hellige,
-      fordi du har fældet den dom;*
-      **6** *de har udgydt de helliges og profeternes blod,
-      nu har du givet dem blod at drikke,
-      og det fortjener de.*
-      **7** *Og jeg hørte alteret sige:
-      Ja, Herre, Gud, Almægtige,
-      sande og retfærdige er dine domme.*
+
+> Retfærdig er du, som er og som var, du Hellige,  
+> fordi du har fældet den dom;  
+> **6** de har udgydt de helliges og profeternes blod,  
+> nu har du givet dem blod at drikke,  
+> og det fortjener de.  
+> **7** Og jeg hørte alteret sige:  
+> Ja, Herre, Gud, Almægtige,  
+> sande og retfærdige er dine domme.
 
 **8** Den fjerde engel hældte sin skål ud over solen, og den fik givet at brænde menneskene med sin ild. **9** Og menneskene blev forbrændt af den voldsomme hede, og de spottede Guds navn, ham som har magten over disse plager; men omvende sig og give ham æren gjorde de ikke.
 
@@ -6033,87 +6269,104 @@ Dér så jeg en kvinde sidde på et skarlagenrødt dyr, fuldt af bespottelige na
 #### Babylons fald
 
 **1** Derefter så jeg en anden engel stige ned fra himlen med stor magt, og jorden oplystes af dens glans. **2** Den råbte med kraftig røst:
-      *Faldet, ja, faldet er det store Babylon,
-      det er blevet bolig for dæmoner,
-      skjul for alle urene ånder,
-      skjul for alle urene fugle
-      og skjul for alle urene og afskyelige dyr.*
-      **3** *For alle folkeslag har drukket
-      af hendes utugts harmes vin,
-      jordens konger har bedrevet utugt med hende,
-      og jordens købmænd er blevet rige
-      af hendes overdådige vellevned.*
-      **4** *Og jeg hørte en anden røst fra himlen sige:
-      Drag ud fra hende, mit folk,
-      for ikke at deltage i hendes synder
-      og blive ramt af hendes plager.*
-      **5** *For hendes synder har hobet sig op til himlen,
-      og Gud har ikke glemt hendes uretfærdigheder.*
-      **6** *Lad hende få, hvad hun har ladet andre få,
-      giv dobbelt igen for, hvad hun har gjort,
-      og skænk dobbelt op for hende i det bæger, hun skænkede.*
-      **7** *Lige så megen glans og vellevned, hun gav sig selv,
-      lige så megen pine og sorg skal I give hende.
-      For hun siger i sit hjerte:
-      ›Jeg sidder som dronning og er ikke enke
-      og skal aldrig mærke til sorg.‹*
-      **8** *Derfor kommer på én og samme dag alle hendes plager,
-      død og sorg og sult, og hun skal brændes;
-      thi stærk er Gud Herren, som har dømt hende.*
+
+> Faldet, ja, faldet er det store Babylon,  
+> det er blevet bolig for dæmoner,  
+> skjul for alle urene ånder,  
+> skjul for alle urene fugle  
+> og skjul for alle urene og afskyelige dyr.  
+> **3** For alle folkeslag har drukket  
+> af hendes utugts harmes vin,  
+> jordens konger har bedrevet utugt med hende,  
+> og jordens købmænd er blevet rige  
+> af hendes overdådige vellevned.  
+> **4** Og jeg hørte en anden røst fra himlen sige:  
+> Drag ud fra hende, mit folk,  
+> for ikke at deltage i hendes synder  
+> og blive ramt af hendes plager.  
+> **5** For hendes synder har hobet sig op til himlen,  
+> og Gud har ikke glemt hendes uretfærdigheder.  
+> **6** Lad hende få, hvad hun har ladet andre få,  
+> giv dobbelt igen for, hvad hun har gjort,  
+> og skænk dobbelt op for hende i det bæger, hun skænkede.  
+> **7** Lige så megen glans og vellevned, hun gav sig selv,  
+> lige så megen pine og sorg skal I give hende.  
+> For hun siger i sit hjerte:  
+> ›Jeg sidder som dronning og er ikke enke  
+> og skal aldrig mærke til sorg.‹  
+> **8** Derfor kommer på én og samme dag alle hendes plager,  
+> død og sorg og sult, og hun skal brændes;  
+> thi stærk er Gud Herren, som har dømt hende.
+
 **9** Og jordens konger, der bedrev utugt med hende og levede i vellevned, skal græde og jamre over hende, når de ser røgen fra hendes brand, **10** og de skal stå langt borte af rædsel over hendes pine og sige:
-      *Ve, ve, du store by,
-      Babylon, du mægtige by!
-      Dommen er kommet over dig på en eneste time.*
+
+> Ve, ve, du store by,  
+> Babylon, du mægtige by!  
+> Dommen er kommet over dig på en eneste time.
+
 **11** Og jordens købmænd græder og sørger over hende, for ingen vil længere købe deres ladning **12** af guld og sølv og ædelsten og perler og linned og purpur og silke og skarlagen og alle slags citrustræ og alle slags elfenbensgenstande og genstande af det kostbareste træ og kobber og jern og marmor, **13** kanel og koriander og røgelse og salve og virak og vin og olie og flormel og hvede og kvæg og får og heste og vogne og slaver, levende mennesker.
-      **14** *Den frugt, som din sjæl begærede, har du mistet,
-      og alt det prangende og pragtfulde har du tabt,
-      ingen skal kunne finde det mere.*
+
+> **14** Den frugt, som din sjæl begærede, har du mistet,  
+> og alt det prangende og pragtfulde har du tabt,  
+> ingen skal kunne finde det mere.
+
 **15** De, der handler med disse varer, alle de købmænd, som tjente sig rige på hende, skal stå langt borte af frygt for hendes pinsel; de skal græde og sørge **16** og sige:
-      *Ve, ve den store by,
-      klædt i linned og purpur og skarlagen
-      og pyntet med guld og ædelsten og perler!*
-      **17** *Så stor en rigdom ødelagt på en eneste time!*
+
+> Ve, ve den store by,  
+> klædt i linned og purpur og skarlagen  
+> og pyntet med guld og ædelsten og perler!  
+> **17** Så stor en rigdom ødelagt på en eneste time!
+
 Og alle styrmænd og alle, der færdes på havet, og sømænd og de, der har deres arbejde på havet, stod langt borte **18** og råbte, da de så røgen fra hendes brand: »Den store by! Hvor findes dens lige?« **19** De dængede støv på hovedet og græd og sørgede og råbte:
-      *Ve, ve, den store by,
-      hvor alle med skibe i søen blev rige af hendes kostbarheder.
-      Ødelagt på en eneste time!*
-      **20** *Fryd dig, himmel, over det,
-      og I hellige og apostle og profeter!
-      For Gud har dømt hende og skaffet jer oprejsning.*
+
+> Ve, ve, den store by,  
+> hvor alle med skibe i søen blev rige af hendes kostbarheder.  
+> Ødelagt på en eneste time!  
+> **20** Fryd dig, himmel, over det,  
+> og I hellige og apostle og profeter!  
+> For Gud har dømt hende og skaffet jer oprejsning.
+
 **21** Så løftede en mægtig engel en sten som en stor møllesten og kastede den i havet og sagde:
-      *Sådan skal den store by Babylon styrtes hovedkulds ned
-      og ikke findes mere.*
-      **22** *Lyden af harpespillere og sangere
-      og af fløjtespillere og blæsere
-      skal ikke høres i dig mere,
-      ingen håndværker af nogen slags skal findes i dig mere,
-      kværnens lyd ikke høres i dig mere,*
-      **23** *lampens lys ikke skinne i dig mere,
-      og brudgoms og bruds stemme ikke høres i dig mere.
-      For dine købmænd var jordens stormænd,
-      af din trolddom blev alle folkeslag forført.*
-      **24** *I byen var der blod af profeter og hellige og af alle, som er blevet myrdet på jorden.*
+
+> Sådan skal den store by Babylon styrtes hovedkulds ned  
+> og ikke findes mere.  
+> **22** Lyden af harpespillere og sangere  
+> og af fløjtespillere og blæsere  
+> skal ikke høres i dig mere,  
+> ingen håndværker af nogen slags skal findes i dig mere,  
+> kværnens lyd ikke høres i dig mere,  
+> **23** lampens lys ikke skinne i dig mere,  
+> og brudgoms og bruds stemme ikke høres i dig mere.  
+> For dine købmænd var jordens stormænd,  
+> af din trolddom blev alle folkeslag forført.  
+> **24** I byen var der blod af profeter og hellige og af alle, som er blevet myrdet på jorden.
 
 ### Åb 19
 
 #### Jubel over Babylons fald og Lammets bryllup
 
 **1** Derefter hørte jeg en vældig lyd som af en talrig skare i himlen, som sagde:
-      *Halleluja!
-      Frelsen og æren og magten er vor Guds,*
-      **2** *sande og retfærdige er hans domme.
-      Han har dømt den store skøge, som fordærvede verden med sin utugt,
-      han har hævnet sine tjeneres blod på hende.*
+
+> Halleluja!  
+> Frelsen og æren og magten er vor Guds,  
+> **2** sande og retfærdige er hans domme.  
+> Han har dømt den store skøge, som fordærvede verden med sin utugt,  
+> han har hævnet sine tjeneres blod på hende.
+
 **3** Og atter sagde de: »Halleluja! Røgen fra hende stiger op i evighedernes evigheder.« **4** Og de fireogtyve ældste og de fire levende væsener faldt ned og tilbad Gud, som sidder på tronen, og de sagde: »Amen, halleluja!« **5** Og der kom en røst fra tronen:
-      *Lovpris vor Gud, alle hans tjenere,
-      I som frygter ham, både små og store.*
+
+> Lovpris vor Gud, alle hans tjenere,  
+> I som frygter ham, både små og store.
+
 **6** Og jeg hørte lyden som af en stor folkeskare og som af vældige vande og som af stærk torden, som sagde:
-      *Halleluja!
-      Herren vor Gud, den Almægtige, har taget magten,*
-      **7** *lad os glæde os og juble og lovprise ham,
-      for nu skal Lammets bryllup stå,
-      og hans brud har gjort sig rede,*
-      **8** *hun har fået givet at klæde sig i lysende rene linnedklæder*
+
+> Halleluja!  
+> Herren vor Gud, den Almægtige, har taget magten,  
+> **7** lad os glæde os og juble og lovprise ham,  
+> for nu skal Lammets bryllup stå,  
+> og hans brud har gjort sig rede,  
+> **8** hun har fået givet at klæde sig i lysende rene linnedklæder
+
 – for linnedklæderne er de helliges retfærdige gerninger. **9** Og englen sagde til mig: »Skriv: Salige er de, der er indbudt til Lammets bryllupsfest.« Og den sagde til mig: »Det er Guds sande ord.« **10** Jeg faldt ned for dens fødder for at tilbede den, men den sagde: »Nej! Jeg er kun tjener som du og dine brødre, der holder fast ved Jesu vidnesbyrd. Gud skal du tilbede.« For Jesu vidnesbyrd er profetiens ånd.
 
 #### Rytteren på den hvide hest sejrer over dyret
@@ -6145,14 +6398,16 @@ Og alle styrmænd og alle, der færdes på havet, og sømænd og de, der har der
 #### Den nye himmel og den nye jord
 
 **1** Og jeg så en ny himmel og en ny jord. For den første himmel og den første jord forsvandt, og havet findes ikke mere. **2** Og den hellige by, det ny Jerusalem, så jeg komme ned fra himlen fra Gud, rede som en brud, der er smykket for sin brudgom. **3** Og jeg hørte en høj røst fra tronen sige:
-      *Nu er Guds bolig hos menneskene,
-      han vil bo hos dem,
-      og de skal være hans folk,
-      og Gud vil selv være hos dem.*
-      **4** *Han vil tørre hver tåre af deres øjne,
-      og døden skal ikke være mere,
-      ej heller sorg, ej heller skrig, ej heller pine skal være mere.
-      Thi det, der var før, er forsvundet.*
+
+> Nu er Guds bolig hos menneskene,  
+> han vil bo hos dem,  
+> og de skal være hans folk,  
+> og Gud vil selv være hos dem.  
+> **4** Han vil tørre hver tåre af deres øjne,  
+> og døden skal ikke være mere,  
+> ej heller sorg, ej heller skrig, ej heller pine skal være mere.  
+> Thi det, der var før, er forsvundet.
+
 **5** Og han, der sidder på tronen, sagde: »Se, jeg gør alting nyt!« Og han sagde: »Skriv! For disse ord er troværdige og sande.« **6** Og han sagde til mig: »Det er sket. Jeg er Alfa og Omega, begyndelsen og enden. Den, der tørster, vil jeg give af kilden med livets vand for intet. **7** Den, der sejrer, skal arve dette, og jeg vil være hans Gud, og han skal være min søn. **8** Men de feje og troløse og afskyelige og morderne og de utugtige og troldmændene og afgudsdyrkerne og alle løgnerne skal få deres lod i søen, der brænder med ild og svovl; det er den anden død.«
 
 #### Det ny Jerusalem
@@ -6174,10 +6429,11 @@ Og alle styrmænd og alle, der færdes på havet, og sømænd og de, der har der
 **6** Og englen sagde til mig: »Disse ord er troværdige og sande, og Herren, profeternes ånders Gud, har sendt sin engel for at vise sine tjenere, hvad der snart skal ske: **7** ›Ja, jeg kommer snart.‹ Salig er den, der holder fast ved profetiens ord i denne bog.«
 
 **8** Det er mig, Johannes, som har hørt og set dette. Og da jeg havde hørt og set det, faldt jeg ned for fødderne af den engel, som havde vist mig dette, for at tilbede den. **9** Men englen sagde til mig: »Nej! Jeg er kun tjener som du og dine brødre, profeterne, og som de, der holder fast ved ordene i denne bog. Gud skal du tilbede.« **10** Og englen sagde til mig: »Forsegl ikke profetiens ord i denne bog, for tiden er nær.
-      **11** *Lad den, der øver uret, stadig øve uret,
-      den, der er tilsølet, stadig søle sig til,
-      den retfærdige stadig øve retfærdighed,
-      og den, der er hellig, stadig helliges.«*
+
+> **11** Lad den, der øver uret, stadig øve uret,  
+> den, der er tilsølet, stadig søle sig til,  
+> den retfærdige stadig øve retfærdighed,  
+> og den, der er hellig, stadig helliges.«
 
 **12** »Ja, jeg kommer snart, og med mig min løn, for at gengælde enhver, som hans gerning er. **13** Jeg er Alfa og Omega, den første og den sidste, begyndelsen og enden. **14** Salige er de, der har vasket deres klæder, så de får ret til livets træ og går gennem portene ind i byen. **15** Udenfor skal hundene være og troldmændene og de utugtige og morderne og afgudsdyrkerne og enhver, der elsker og øver løgn. **16** Jeg, Jesus, har sendt min engel for at vidne om dette for jer i menighederne. Jeg er Davids rodskud og ætling, den lysende morgenstjerne.«
 
