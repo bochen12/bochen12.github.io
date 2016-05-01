@@ -1,7 +1,12 @@
 ---
-layout: page
+layout: bibel
 title: Det nye testamente
 ---
+
+[GT1: 1 Mos – 5 Mos](http://bochen.dk/gt1/)  
+[NT](http://bochen.dk/nt/)
+
+------------------------------------------------------------------------
 
 Matt: [1](#matt-1) [2](#matt-2) [3](#matt-3) [4](#matt-4) [5](#matt-5) [6](#matt-6) [7](#matt-7) [8](#matt-8) [9](#matt-9) [10](#matt-10) [11](#matt-11) [12](#matt-12) [13](#matt-13) [14](#matt-14) [15](#matt-15) [16](#matt-16) [17](#matt-17) [18](#matt-18) [19](#matt-19) [20](#matt-20) [21](#matt-21) [22](#matt-22) [23](#matt-23) [24](#matt-24) [25](#matt-25) [26](#matt-26) [27](#matt-27) [28](#matt-28)  
 Mark: [1](#mark-1) [2](#mark-2) [3](#mark-3) [4](#mark-4) [5](#mark-5) [6](#mark-6) [7](#mark-7) [8](#mark-8) [9](#mark-9) [10](#mark-10) [11](#mark-11) [12](#mark-12) [13](#mark-13) [14](#mark-14) [15](#mark-15) [16](#mark-16)  
