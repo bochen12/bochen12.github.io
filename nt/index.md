@@ -1,9 +1,9 @@
 ---
-layout: bibel
+layout: page
 title: Det nye testamente
 ---
 
-[GT1: 1 Mos – 5 Mos](http://bochen.dk/gt1/)  
+[GT1: 1 Mos – 5 Mos](http://bochen.dk/gta/)  
 [NT](http://bochen.dk/nt/)
 
 ------------------------------------------------------------------------
