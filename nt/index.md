@@ -4911,13 +4911,13 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 
 **9** Ligeledes vil jeg, at kvinder skal være ærbart og ikke prangende klædt, deres pynt skal ikke være kunstfærdige håropsætninger og guld eller perler eller dyrt tøj, **10** men gode gerninger, som det sømmer sig for kvinder, der vedkender sig deres gudsfrygt.
 
-**11** En kvinde skal lade sig belære i stilhed og underordne sig i alt; **12** men at optræde som lærer tillader jeg ikke en kvinde, heller ikke at bestemme over sin mand; hun skal leve i stilhed. **13** For Adam blev skabt først, derefter Eva, **14** og det var ikke Adam, der blev forledt, men kvinden lod sig forlede og overtrådte budet. **15** Men frelses skal hun, ved barnefødslen – hvis de da holder fast ved tro og kærlighed og hellighed med besindighed (3,1)  – troværdigt er det ord!
+**11** En kvinde skal lade sig belære i stilhed og underordne sig i alt; **12** men at optræde som lærer tillader jeg ikke en kvinde, heller ikke at bestemme over sin mand; hun skal leve i stilhed. **13** For Adam blev skabt først, derefter Eva, **14** og det var ikke Adam, der blev forledt, men kvinden lod sig forlede og overtrådte budet. **15** Men frelses skal hun, ved barnefødslen – hvis de da holder fast ved tro og kærlighed og hellighed med besindighed.
 
 ### 1 Tim 3
 
 #### Om tilsynsmænd
 
-Hvis nogen ønsker at blive tilsynsmand, er det et vigtigt arbejde, han tragter efter. **2** En tilsynsmand skal være ulastelig, én kvindes mand, ædruelig, besindig, værdig, gæstfri, en god lærer, **3** ikke drikfældig eller voldsom, men mild, ikke stridbar og ikke glad for penge. **4** Han skal kunne styre sit eget hus godt og få sine børn til at vise lydighed, i al agtværdighed; **5** for hvordan skal han kunne tage sig af Guds menighed, hvis han ikke forstår at styre sit eget hus? **6** Han må ikke være nyomvendt, for at han ikke skal blive hovmodig og falde ind under Djævelens dom. **7** Han skal også have et godt omdømme blandt dem udenfor, for at han ikke skal komme i vanry og gå i Djævelens fælde.
+**1** – troværdigt er det ord! Hvis nogen ønsker at blive tilsynsmand, er det et vigtigt arbejde, han tragter efter. **2** En tilsynsmand skal være ulastelig, én kvindes mand, ædruelig, besindig, værdig, gæstfri, en god lærer, **3** ikke drikfældig eller voldsom, men mild, ikke stridbar og ikke glad for penge. **4** Han skal kunne styre sit eget hus godt og få sine børn til at vise lydighed, i al agtværdighed; **5** for hvordan skal han kunne tage sig af Guds menighed, hvis han ikke forstår at styre sit eget hus? **6** Han må ikke være nyomvendt, for at han ikke skal blive hovmodig og falde ind under Djævelens dom. **7** Han skal også have et godt omdømme blandt dem udenfor, for at han ikke skal komme i vanry og gå i Djævelens fælde.
 
 #### Om menighedstjenere
 

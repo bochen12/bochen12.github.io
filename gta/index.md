@@ -1128,9 +1128,11 @@ Sådan satte han Efraim foran Manasse!
 
 **6** Samme dag gav Farao folkets slavefogeder og arbejdsformændene den befaling: **7** »I må ikke længere give dem halm til fremstillingen af teglsten, som I hidtil har gjort. Lad dem selv gå ud og samle halm. **8** Men pålæg dem at levere den samme mængde teglsten som hidtil. I må ikke skære ned på det! De er dovne! Det er derfor, de råber op om, at de vil ud og ofre til deres Gud. **9** Mændene skal være beskæftiget med strengt arbejde; de skal ikke lytte til falsk tale!« **10** Så gik slavefogederne og formændene ud og sagde til folket: »Dette siger Farao: Jeg vil ikke levere jer halm! **11** Gå selv ud og skaf jer halm, hvor I kan finde det. Men der bliver ikke skåret ned på det arbejde, I skal yde!« **12** Så spredte folket sig over hele Egypten for at samle strå til halm. **13** Slavefogederne skyndede på dem og sagde: »I skal yde fuldt arbejde hver dag, som dengang I fik leveret halm.« **14** Og Faraos slavefogeder pryglede de formænd, de havde sat over israelitterne, og sagde: »Hvorfor har I hverken i går eller i dag leveret det samme antal teglsten som før?« **15** Israelitternes formænd gik da til Farao og klagede: »Hvorfor behandler du dine trælle sådan? **16** Dine trælle får ikke halm, og alligevel får vi besked om at lave teglsten. Dine trælle bliver pryglet, og det er dit folk, der er skyld i det.« **17** Men han svarede: »Dovne er I! Det er derfor, I siger: Lad os få lov til at gå ud og ofre til Herren. **18** Gå nu ud og bestil noget! I får ikke hakkelse, og I skal levere det fastsatte antal teglsten!«
 
-**19** Da israelitternes formænd hørte, at der ikke måtte skæres ned på det daglige antal teglsten, var de i knibe, **20** og da de på vej bort fra Farao traf Moses og Aron, som stod og ventede på dem, **21** sagde de til dem: »Herren se til jer og dømme jer! I har lagt os for had hos Farao og hans hoffolk og har givet dem et sværd i hånden, så de kan slå os ihjel.« **22** Da vendte Moses sig til Herren og sagde: »Herre, hvorfor handler du ondt mod dette folk? Hvorfor har du dog sendt mig? **23** Lige siden jeg gik til Farao for at tale i dit navn, har han mishandlet dette folk, og du har ikke befriet dit folk!« (6,1)  Men Herren sagde til Moses: »Nu skal du få at se, hvad jeg vil gøre ved Farao! Når han mærker en stærk hånd, vil han lade dem gå; ja, når han mærker en stærk hånd, vil han jage dem ud af sit land.«
+**19** Da israelitternes formænd hørte, at der ikke måtte skæres ned på det daglige antal teglsten, var de i knibe, **20** og da de på vej bort fra Farao traf Moses og Aron, som stod og ventede på dem, **21** sagde de til dem: »Herren se til jer og dømme jer! I har lagt os for had hos Farao og hans hoffolk og har givet dem et sværd i hånden, så de kan slå os ihjel.« **22** Da vendte Moses sig til Herren og sagde: »Herre, hvorfor handler du ondt mod dette folk? Hvorfor har du dog sendt mig? **23** Lige siden jeg gik til Farao for at tale i dit navn, har han mishandlet dette folk, og du har ikke befriet dit folk!«
 
 ### 2 Mos 6
+
+**1** Men Herren sagde til Moses: »Nu skal du få at se, hvad jeg vil gøre ved Farao! Når han mærker en stærk hånd, vil han lade dem gå; ja, når han mærker en stærk hånd, vil han jage dem ud af sit land.«
 
 #### Herrens løfte om Israels udfrielse
 
@@ -2975,7 +2977,7 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 #### Mandtal over de israelitiske slægter
 
-(25,19)  Efter denne plage **1** sagde Herren til Moses og til Arons søn, præsten Eleazar: **2** »Hold mandtal over hele israelitternes menighed fra tyve år og opefter, fædrenehus for fædrenehus, alle våbenføre mænd i Israel.« **3** På Moabs sletter ved Jordan over for Jeriko mønstrede Moses og præsten Eleazar dem **4** fra tyve år og opefter, sådan som Herren havde befalet Moses. Israelitterne, som drog ud af Egypten, var følgende:
+**1** Efter denne plage sagde Herren til Moses og til Arons søn, præsten Eleazar: **2** »Hold mandtal over hele israelitternes menighed fra tyve år og opefter, fædrenehus for fædrenehus, alle våbenføre mænd i Israel.« **3** På Moabs sletter ved Jordan over for Jeriko mønstrede Moses og præsten Eleazar dem **4** fra tyve år og opefter, sådan som Herren havde befalet Moses. Israelitterne, som drog ud af Egypten, var følgende:
 
 **5** Ruben var Israels førstefødte. Rubens efterkommere: Enok, enokitternes slægt; fra Pallu stammer palluitternes slægt; **6** fra Hesron stammer hesronitternes slægt; fra Karmi stammer karmitternes slægt. **7** Det var rubenitternes slægter, og de mønstrede af dem var 43.730.
 
@@ -3061,9 +3063,9 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **39** Det skal I ofre til Herren ved jeres fester, foruden jeres løfteofre og frivilligofre, hvad enten det drejer sig om jeres brændofre, afgrødeofre, drikofre eller måltidsofre.
 
-(30,1)  Moses sagde alt det til israelitterne, som Herren havde befalet ham.
-
 ### 4 Mos 30
+
+**1** Moses sagde alt det til israelitterne, som Herren havde befalet ham.
 
 #### Love om aflæggelse af løfter
 
