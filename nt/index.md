@@ -51,7 +51,7 @@ Jud: [1](#jud-1)
 
 **1** Slægtsbog for Jesus Kristus, Davids søn, Abrahams søn.
 
-**2** Abraham blev far til Isak, Isak til Jakob, og Jakob til Juda og hans brødre. **3** Juda blev med Tamar far til Peres og Zera, Peres blev far til Hesron, Hesron til Ram, **4** Ram til Amminadab, Amminadab til Nakshon, og Nakshon til Salmon. **5**  Salmon blev med Rahab far til Boaz, Boaz blev med Ruth far til Obed, Obed blev far til Isaj, **6** og Isaj blev far til kong David.
+**2** Abraham blev far til Isak, Isak til Jakob, og Jakob til Juda og hans brødre. **3** Juda blev med Tamar far til Peres og Zera, Peres blev far til Hesron, Hesron til Ram, **4** Ram til Amminadab, Amminadab til Nakshon, og Nakshon til Salmon. **5** Salmon blev med Rahab far til Boaz, Boaz blev med Ruth far til Obed, Obed blev far til Isaj, **6** og Isaj blev far til kong David.
 
 David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabeam, Rehabeam til Abija, Abija til Asaf, **8** Asaf til Joshafat, Joshafat til Joram, Joram til Uzzija, **9** Uzzija til Jotam, Jotam til Akaz, Akaz til Hizkija, **10** Hizkija til Manasse, Manasse til Amos, Amos til Josija, **11** og Josija til Jekonja og hans brødre under bortførelsen til Babylon.
 
@@ -586,7 +586,7 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 **14** Da de kom ned til folkeskaren, kom en mand hen til Jesus, faldt på knæ for ham **15** og bad: »Herre, forbarm dig over min søn, for han er månesyg og lider slemt. Han styrter snart i ild og snart i vand. **16** Og jeg har bragt ham til dine disciple, men de kunne ikke helbrede ham.« **17** Jesus udbrød: »Du vantro og forvildede slægt, hvor længe skal jeg være hos jer, hvor længe skal jeg holde jer ud? Kom herhen med ham!« **18** Og Jesus truede ad dæmonen, og den fór ud af ham, og i samme øjeblik blev drengen rask.
 
-**19** Da de var blevet alene, kom disciplene hen og spurgte Jesus: »Hvorfor kunne vi ikke drive den ud?« **20** Han sagde til dem: »Fordi I har så lille en tro. Sandelig siger jeg jer: Har I en tro som et sennepsfrø, kan I sige til dette bjerg: Flyt dig herfra og derhen! og det vil flytte sig. Og intet vil være umuligt for jer. **21**  Den slags fordrives kun ved bøn og faste.«
+**19** Da de var blevet alene, kom disciplene hen og spurgte Jesus: »Hvorfor kunne vi ikke drive den ud?« **20** Han sagde til dem: »Fordi I har så lille en tro. Sandelig siger jeg jer: Har I en tro som et sennepsfrø, kan I sige til dette bjerg: Flyt dig herfra og derhen! og det vil flytte sig. Og intet vil være umuligt for jer. **21** Den slags fordrives kun ved bøn og faste.«
 
 #### Jesus forudsiger sin død og opstandelse
 
@@ -604,7 +604,7 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 #### Advarsel mod at bringe til fald
 
-**6** Men den, der bringer en af disse små, som tror på mig, til fald, var bedre tjent med at få en møllesten hængt om halsen og blive sænket i havets dyb. **7** Ve verden for det, der fører til fald. Vel må der komme fald, men ve det menneske, som bliver årsag til fald. **8** Hvis din hånd eller fod bringer dig til fald, så hug den af og kast den fra dig; du er bedre tjent med at gå lemlæstet eller vanfør ind til livet end med begge hænder eller fødder i behold at kastes i den evige ild. **9** Og hvis dit øje bringer dig til fald, så riv det ud og kast det fra dig; du er bedre tjent med at gå ind til livet med ét øje end med begge øjne i behold at kastes i Helvedes ild. **10** Se til, at I ikke ringeagter en af disse små. For jeg siger jer: Deres engle i himlene ser altid min himmelske faders ansigt. **11**  For Menneskesønnen er kommet for at frelse det fortabte.
+**6** Men den, der bringer en af disse små, som tror på mig, til fald, var bedre tjent med at få en møllesten hængt om halsen og blive sænket i havets dyb. **7** Ve verden for det, der fører til fald. Vel må der komme fald, men ve det menneske, som bliver årsag til fald. **8** Hvis din hånd eller fod bringer dig til fald, så hug den af og kast den fra dig; du er bedre tjent med at gå lemlæstet eller vanfør ind til livet end med begge hænder eller fødder i behold at kastes i den evige ild. **9** Og hvis dit øje bringer dig til fald, så riv det ud og kast det fra dig; du er bedre tjent med at gå ind til livet med ét øje end med begge øjne i behold at kastes i Helvedes ild. **10** Se til, at I ikke ringeagter en af disse små. For jeg siger jer: Deres engle i himlene ser altid min himmelske faders ansigt. **11** For Menneskesønnen er kommet for at frelse det fortabte.
 
 #### Lignelsen om det vildfarne får
 
@@ -749,7 +749,7 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 **13** Ve jer, skriftkloge og farisæere, I hyklere! I lukker Himmeriget for mennesker. Selv går I ikke ind i det, og dem, der vil ind i det, tillader I det ikke.
 
-**14**  Ve jer, skriftkloge og farisæere, I hyklere! I æder enker ud af huset og beder længe for et syns skyld. Derfor skal I dømmes så meget hårdere.
+**14** Ve jer, skriftkloge og farisæere, I hyklere! I æder enker ud af huset og beder længe for et syns skyld. Derfor skal I dømmes så meget hårdere.
 
 **15** Ve jer, skriftkloge og farisæere, I hyklere! I drager over sø og land for at hverve en enkelt proselyt. Og når det lykkes, gør I ham dobbelt så fortjent til Helvede som I selv.
 
@@ -1110,7 +1110,7 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 **8** I har tilsidesat Guds bud og overholder kun menneskers overlevering.« **9** Og han sagde til dem: »Hvor kønt! I forkaster Guds bud for at indføre jeres egen overlevering. **10** Moses har jo sagt: ›Ær din far og din mor!‹ og: ›Den, der forbander sin far eller sin mor, skal lide døden.‹ **11** Men I siger: Hvis et menneske siger til sin far eller sin mor: Det, du skulle have haft som hjælp af mig, skal være korban – det vil sige tempelgave – **12** så tillader I ikke længere, at han gør noget for sin far eller sin mor. **13** I sætter Guds ord ud af kraft med jeres egen overlevering. Og meget andet af den slags gør I.«
 
-**14** Og han kaldte atter skaren til sig og sagde: »Hør mig, alle sammen, og forstå: **15** Der er intet, som kommer ind i et menneske udefra, der kan gøre det urent, men det er det, som kommer ud af et menneske, der gør et menneske urent. **16**  Har nogen ører at høre med, skal han høre!«
+**14** Og han kaldte atter skaren til sig og sagde: »Hør mig, alle sammen, og forstå: **15** Der er intet, som kommer ind i et menneske udefra, der kan gøre det urent, men det er det, som kommer ud af et menneske, der gør et menneske urent. **16** Har nogen ører at høre med, skal han høre!«
 
 **17** Da han var kommet inden døre, væk fra skaren, spurgte hans disciple ham om lignelsen. **18** Og han sagde til dem: »Så er da også I uforstandige? Fatter I ikke, at alt det, som kommer ind i et menneske udefra, ikke kan gøre det urent? **19** For det kommer ikke ind i hjertet, men ned i maven, og det kommer ud igen.« Dermed erklærede han al slags mad for ren. **20** Og han sagde: »Det er det, som kommer ud af et menneske, der gør et menneske urent. **21** For indefra, fra menneskenes hjerte, kommer de onde tanker, utugt, tyveri, mord, **22** ægteskabsbrud, griskhed, ondskab, svig, umådehold, misundelse, bespottelse, hovmod, tåbelighed. **23** Alt dette onde kommer indefra og gør et menneske urent.«
 
@@ -1186,7 +1186,7 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 #### Advarsel mod at bringe til fald
 
-**42** Den, der bringer en af disse små, som tror på mig, til fald, var bedre tjent med at have en møllesten hængt om halsen og være kastet i havet. **43** Og hvis din hånd bringer dig til fald, så hug den af; du er bedre tjent med at gå lemlæstet ind til livet end med begge hænder i behold at komme i Helvede, til den uudslukkelige ild, **44**  hvor deres maddiker ikke dør, og ilden ikke slukkes. **45** Og hvis din fod bringer dig til fald, så hug den af; du er bedre tjent med at gå halt ind til livet end med begge fødder i behold at kastes i Helvede, **46**  hvor deres maddiker ikke dør, og ilden ikke slukkes. **47** Og hvis dit øje bringer dig til fald, så riv det ud; du er bedre tjent med at gå ind i Guds rige med ét øje end med begge øjne i behold at kastes i Helvede, **48** hvor deres maddiker ikke dør, og ilden ikke slukkes. **49** For enhver skal saltes med ild. **50** Salt er en god ting, men hvis saltet ikke er salt mere, hvordan vil I da gøre det salt igen? Bevar saltet i jer selv, og hold fred med hinanden!«
+**42** Den, der bringer en af disse små, som tror på mig, til fald, var bedre tjent med at have en møllesten hængt om halsen og være kastet i havet. **43** Og hvis din hånd bringer dig til fald, så hug den af; du er bedre tjent med at gå lemlæstet ind til livet end med begge hænder i behold at komme i Helvede, til den uudslukkelige ild, **44** hvor deres maddiker ikke dør, og ilden ikke slukkes. **45** Og hvis din fod bringer dig til fald, så hug den af; du er bedre tjent med at gå halt ind til livet end med begge fødder i behold at kastes i Helvede, **46** hvor deres maddiker ikke dør, og ilden ikke slukkes. **47** Og hvis dit øje bringer dig til fald, så riv det ud; du er bedre tjent med at gå ind i Guds rige med ét øje end med begge øjne i behold at kastes i Helvede, **48** hvor deres maddiker ikke dør, og ilden ikke slukkes. **49** For enhver skal saltes med ild. **50** Salt er en god ting, men hvis saltet ikke er salt mere, hvordan vil I da gøre det salt igen? Bevar saltet i jer selv, og hold fred med hinanden!«
 
 ### Mark 10
 
@@ -1245,7 +1245,7 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 #### Det visnede figentræ
 
-**19** Om aftenen gik Jesus og disciplene ud uden for byen. **20** Næste morgen, da de gik forbi, så de, at figentræet var visnet fra roden. **21** Og Peter, som kom i tanker om det, sagde til Jesus: »Rabbi, se, det figentræ, som du forbandede, er visnet.« **22** Jesus sagde til dem: »Tro på Gud! **23** Sandelig siger jeg jer: Den, der siger til dette bjerg: Løft dig op og styrt dig i havet! og som ikke tvivler i sit hjerte, men tror, at det, han siger, vil ske, for ham sker det. **24** Derfor siger jeg jer: Alt, hvad I beder og bønfalder om, det skal I tro, at I har fået, og så får I det. **25** Når I står og beder, skal I tilgive, hvis I har noget mod nogen, for at også jeres fader i himlene kan tilgive jeres overtrædelser. **26**  Men hvis I ikke tilgiver, vil jeres fader i himlene heller ikke tilgive jeres overtrædelser.«
+**19** Om aftenen gik Jesus og disciplene ud uden for byen. **20** Næste morgen, da de gik forbi, så de, at figentræet var visnet fra roden. **21** Og Peter, som kom i tanker om det, sagde til Jesus: »Rabbi, se, det figentræ, som du forbandede, er visnet.« **22** Jesus sagde til dem: »Tro på Gud! **23** Sandelig siger jeg jer: Den, der siger til dette bjerg: Løft dig op og styrt dig i havet! og som ikke tvivler i sit hjerte, men tror, at det, han siger, vil ske, for ham sker det. **24** Derfor siger jeg jer: Alt, hvad I beder og bønfalder om, det skal I tro, at I har fået, og så får I det. **25** Når I står og beder, skal I tilgive, hvis I har noget mod nogen, for at også jeres fader i himlene kan tilgive jeres overtrædelser. **26** Men hvis I ikke tilgiver, vil jeres fader i himlene heller ikke tilgive jeres overtrædelser.«
 
 #### Spørgsmålet om Jesu myndighed
 
@@ -1383,7 +1383,7 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 **21** Og de tvang en mand, som kom forbi ude fra marken, til at bære hans kors. Det var Simon fra Kyrene, far til Alexander og Rufus.
 
-**22** De førte ham ud til stedet Golgata – det betyder Hovedskalsted. **23** De ville give ham vin krydret med myrra, men han tog det ikke. **24** Så korsfæstede de ham og delte hans klæder ved at kaste lod om, hvem der skulle have hvad. **25** Det var den tredje time, da de korsfæstede ham. **26** Og indskriften med anklagen imod ham lød: »Jødernes konge«. **27** Sammen med ham korsfæstede de også to røvere, den ene på hans højre, den anden på hans venstre side. **28**  Således gik det skriftord i opfyldelse, som siger: »Og han blev regnet blandt lovbrydere.«
+**22** De førte ham ud til stedet Golgata – det betyder Hovedskalsted. **23** De ville give ham vin krydret med myrra, men han tog det ikke. **24** Så korsfæstede de ham og delte hans klæder ved at kaste lod om, hvem der skulle have hvad. **25** Det var den tredje time, da de korsfæstede ham. **26** Og indskriften med anklagen imod ham lød: »Jødernes konge«. **27** Sammen med ham korsfæstede de også to røvere, den ene på hans højre, den anden på hans venstre side. **28** Således gik det skriftord i opfyldelse, som siger: »Og han blev regnet blandt lovbrydere.«
 
 **29** De, der gik forbi, spottede ham og rystede på hovedet og sagde: »Nå, du, som bryder templet ned og rejser det igen på tre dage, **30** frels dig selv og stig ned fra korset!« **31** Også ypperstepræsterne og de skriftkloge hånede ham på samme måde og sagde til hinanden: »Andre har han frelst, sig selv kan han ikke frelse. **32** Kristus, Israels konge – lad ham nu stige ned fra korset, så vi kan se og tro!« Også de, der var korsfæstet sammen med ham, hånede ham.
 
@@ -1405,7 +1405,7 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 #### Den opstandne Jesus og disciplene
 
-**9**  Da Jesus var opstået tidligt om morgenen den første dag i ugen, viste han sig først for Maria Magdalene, som han havde drevet syv dæmoner ud af. **10** Hun gik hen og fortalte det til dem, som havde været sammen med ham, og som nu klagede og græd. **11** Men da de hørte, at han levede, og at hun havde set ham, troede de ikke på det.
+**9** Da Jesus var opstået tidligt om morgenen den første dag i ugen, viste han sig først for Maria Magdalene, som han havde drevet syv dæmoner ud af. **10** Hun gik hen og fortalte det til dem, som havde været sammen med ham, og som nu klagede og græd. **11** Men da de hørte, at han levede, og at hun havde set ham, troede de ikke på det.
 
 **12** Derefter viste han sig i en anden skikkelse for to af dem, mens de var på vej ud på landet. **13** De gik også hen og fortalte det til de andre; men heller ikke dem ville de tro.
 
@@ -2060,7 +2060,7 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 **22** Men han sagde til disciplene: »Der skal komme dage, da I vil længes efter at se blot én af Menneskesønnens dage, men I skal ikke se den. **23** Man vil sige til jer: Se, dér er han! eller: Se her! Men gå ikke derhen, og følg ikke efter. **24** For som lynet lyser fra den ene ende af himlen til den anden, når det lyner, sådan skal Menneskesønnen vise sig på sin dag. **25** Men først skal han lide meget og forkastes af denne slægt.
 
-**26** Og som det var i Noas dage, sådan skal det også være i Menneskesønnens dage: **27** De spiste og drak, giftede sig og blev bortgiftet lige til den dag, da Noa gik ind i arken, og syndfloden kom og udslettede dem alle. **28** Eller som i Lots dage: De spiste og drak, købte og solgte, plantede og byggede; **29** men den dag, da Lot forlod Sodoma, regnede ild og svovl ned fra himlen og udslettede dem alle. **30** På samme måde skal det være den dag, da Menneskesønnen åbenbares. **31** Den, som den dag er oppe på taget og har sine ting nede i huset, skal ikke gå ned og hente dem, og lige så lidt skal den, der er ude på marken, vende hjem igen. **32** Husk på Lots hustru! **33** Den, der søger at redde sit liv, skal miste det, men den, der mister det, skal vinde det. **34** Jeg siger jer: Den nat skal to mænd ligge på samme seng; den ene skal tages med, og den anden lades tilbage. **35** To kvinder skal male på den samme kværn; den ene skal tages med, og den anden lades tilbage. **36**  To mænd skal være ude på marken; den ene skal tages med, og den anden lades tilbage.« **37** Disciplene spurgte ham: »Hvor, Herre?« Han svarede dem: »Hvor ådslet er, dér vil også gribbene flokkes.«
+**26** Og som det var i Noas dage, sådan skal det også være i Menneskesønnens dage: **27** De spiste og drak, giftede sig og blev bortgiftet lige til den dag, da Noa gik ind i arken, og syndfloden kom og udslettede dem alle. **28** Eller som i Lots dage: De spiste og drak, købte og solgte, plantede og byggede; **29** men den dag, da Lot forlod Sodoma, regnede ild og svovl ned fra himlen og udslettede dem alle. **30** På samme måde skal det være den dag, da Menneskesønnen åbenbares. **31** Den, som den dag er oppe på taget og har sine ting nede i huset, skal ikke gå ned og hente dem, og lige så lidt skal den, der er ude på marken, vende hjem igen. **32** Husk på Lots hustru! **33** Den, der søger at redde sit liv, skal miste det, men den, der mister det, skal vinde det. **34** Jeg siger jer: Den nat skal to mænd ligge på samme seng; den ene skal tages med, og den anden lades tilbage. **35** To kvinder skal male på den samme kværn; den ene skal tages med, og den anden lades tilbage. **36** To mænd skal være ude på marken; den ene skal tages med, og den anden lades tilbage.« **37** Disciplene spurgte ham: »Hvor, Herre?« Han svarede dem: »Hvor ådslet er, dér vil også gribbene flokkes.«
 
 ### Luk 18
 
@@ -2252,7 +2252,7 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 #### Domfældelsen
 
-**13** Pilatus lod ypperstepræsterne og rådsherrerne og folket kalde sammen **14** og sagde til dem: »I har ført denne mand til mig og påstået, at han vildleder folket. Jeg har nu forhørt ham i jeres nærvær, men jeg har ikke fundet manden skyldig i noget af det, I anklager ham for; **15** og det har Herodes heller ikke, for han har sendt ham tilbage til os; altså har han ikke gjort noget, som der er dødsstraf for. **16** Derfor vil jeg løslade ham, når jeg har givet ham en revselse.« **17**  For han var nødt til at løslade en for dem under festen.
+**13** Pilatus lod ypperstepræsterne og rådsherrerne og folket kalde sammen **14** og sagde til dem: »I har ført denne mand til mig og påstået, at han vildleder folket. Jeg har nu forhørt ham i jeres nærvær, men jeg har ikke fundet manden skyldig i noget af det, I anklager ham for; **15** og det har Herodes heller ikke, for han har sendt ham tilbage til os; altså har han ikke gjort noget, som der er dødsstraf for. **16** Derfor vil jeg løslade ham, når jeg har givet ham en revselse.« **17** For han var nødt til at løslade en for dem under festen.
 
 **18** Da råbte hele mængden: »Bort med ham! Løslad os Barabbas!« **19** Det var en mand, som var blevet fængslet for et oprør, der havde været i byen, og for drab. **20** Igen talte Pilatus til dem, da han helst ville løslade Jesus. **21** Men de råbte tilbage: »Korsfæst ham, korsfæst ham!« **22** For tredje gang spurgte han dem: »Hvad ondt har denne mand da gjort? Jeg har intet fundet hos ham, som kræver dødsstraf, derfor vil jeg løslade ham, når jeg har givet ham en revselse.« **23** Men de pressede på og forlangte med høje råb, at han skulle korsfæstes, og deres råb sejrede. **24** Så besluttede Pilatus, at deres krav skulle efterkommes; **25** han løslod ham, de krævede, ham der var kastet i fængsel for oprør og drab. Men Jesus udleverede han, så de fik deres vilje.
 
@@ -2312,7 +2312,7 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 #### Ordet
 
-**1** I begyndelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud. **2**  Han var i begyndelsen hos Gud. **3** Alt blev til ved ham, og uden ham blev intet til af det, som er. **4** I ham var liv, og livet var menneskers lys. **5** Og lyset skinner i mørket, og mørket greb det ikke.
+**1** I begyndelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud. **2** Han var i begyndelsen hos Gud. **3** Alt blev til ved ham, og uden ham blev intet til af det, som er. **4** I ham var liv, og livet var menneskers lys. **5** Og lyset skinner i mørket, og mørket greb det ikke.
 
 **6** Der kom et menneske, udsendt af Gud, hans navn var Johannes. **7** Han kom for at aflægge vidnesbyrd, han skulle vidne om lyset, for at alle skulle komme til tro ved ham. **8** Selv var han ikke lyset, men han skulle vidne om lyset.
 
@@ -2486,7 +2486,7 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 
 **45** Da tempelvagterne kom tilbage, spurgte ypperstepræsterne og farisæerne dem: »Hvorfor har I ham ikke med?« **46** Tempelvagterne svarede: »Aldrig har noget menneske talt sådan.« **47** Farisæerne spurgte dem så: »Er I nu også blevet vildført? **48** Er der da nogen af Rådets medlemmer eller af farisæerne, der tror på ham? **49** Nej, denne folkeskare, som ikke kender loven, er forbandet.« **50** Nikodemus – det var ham, der tidligere var kommet til Jesus, og som selv var en af dem – siger til dem: **51** »Vores lov dømmer da ikke et menneske, uden at man først har hørt på ham og fået rede på, hvad han har gjort?« **52** De svarede ham: »Er du måske også fra Galilæa? Se efter i Skriften, så vil du se, at der fremstår ingen profet i Galilæa.«
 
-**53**  Så gik de hver til sit.
+**53** Så gik de hver til sit.
 
 ### Joh 8
 
@@ -3056,7 +3056,7 @@ Samme dag udbrød der en stor forfølgelse af menigheden i Jerusalem, og alle un
 > Hvem kan fortælle om hans slægt?  
 > For hans liv blev taget bort fra jorden.
 
-**34** Hofmanden spurgte Filip: »Jeg beder dig sige mig, hvem er det, profeten taler om her? Er det om sig selv, eller er det om en anden?« **35** Filip tog så til orde, og han begyndte med dette skriftsted og forkyndte evangeliet om Jesus for ham. **36** Mens de nu kørte hen ad vejen, kom de til noget vand, og hofmanden sagde: »Se, dér er vand, hvad hindrer mig i at blive døbt?« **37**  Filip sagde: »Tror du af hele dit hjerte, så kan det ske.« Han svarede: »Jeg tror, at Jesus Kristus er Guds søn.« **38** Han befalede, at vognen skulle standse, og de gik begge ned i vandet, både Filip og hofmanden, og Filip døbte ham. **39** Men da de kom op af vandet, bortrykkede Herrens ånd Filip, og hofmanden så ham ikke mere; han fortsatte sin rejse med glæde.
+**34** Hofmanden spurgte Filip: »Jeg beder dig sige mig, hvem er det, profeten taler om her? Er det om sig selv, eller er det om en anden?« **35** Filip tog så til orde, og han begyndte med dette skriftsted og forkyndte evangeliet om Jesus for ham. **36** Mens de nu kørte hen ad vejen, kom de til noget vand, og hofmanden sagde: »Se, dér er vand, hvad hindrer mig i at blive døbt?« **37** Filip sagde: »Tror du af hele dit hjerte, så kan det ske.« Han svarede: »Jeg tror, at Jesus Kristus er Guds søn.« **38** Han befalede, at vognen skulle standse, og de gik begge ned i vandet, både Filip og hofmanden, og Filip døbte ham. **39** Men da de kom op af vandet, bortrykkede Herrens ånd Filip, og hofmanden så ham ikke mere; han fortsatte sin rejse med glæde.
 
 **40** Filip blev senere set i Ashdod, og han forkyndte evangeliet i alle de byer, han drog igennem, indtil han kom til Cæsarea.
 
@@ -3208,7 +3208,7 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 
 **13** Da de tav, tog Jakob ordet og sagde: »Brødre, hør på mig! **14** Simeon har fortalt, hvordan Gud allerede har sørget for at skaffe sig et folk af hedninger for sit navn. **15** Og det stemmer overens med profeternes ord, sådan som der står skrevet: **16** ›Derefter vender jeg tilbage og genopbygger Davids faldne hytte; jeg genopbygger det, der er revet ned, og genrejser den, **17** så at de øvrige mennesker kan søge Herren, alle de folk, som mit navn er nævnt over, siger Herren, som har gjort dette **18** kendt fra evighed af.‹ **19** Derfor mener jeg, at vi ikke skal skabe vanskeligheder for de hedninger, der vender om til Gud, **20** men skrive til dem, at de skal holde sig fra besmittelse med afguder og fra utugt og fra kød af kvalte dyr og fra blod. **21** For Moses har fra gammel tid sine forkyndere i alle byer og læses op i synagogerne hver eneste sabbat.«
 
-**22** Så besluttede apostlene og de ældste sammen med hele menigheden at udvælge nogle af dens mænd og sende dem til Antiokia sammen med Paulus og Barnabas. Det blev Judas, der kaldtes Barsabbas, og Silas, som var ledende mænd blandt brødrene. **23** De fik denne skrivelse med: »Apostlene og de ældste, jeres brødre, hilser vore brødre af hedensk herkomst i Antiokia og Syrien og Kilikien. **24** Vi har hørt, at der er kommet nogle fra os, som har forvirret jer og foruroliget jer med deres ord; men vi har ikke givet dem noget påbud. **25** Derfor har vi i enighed besluttet at udvælge nogle mænd og sende dem til jer sammen med vor kære Barnabas og Paulus. **26** Det er mænd, som har vovet deres liv for vor Herre Jesu Kristi navn. **27** Vi sender altså Judas og Silas, for at de mundtligt kan fortælle jer det samme. **28** For Helligånden og vi har besluttet ikke at lægge nogen anden byrde på jer end dette nødvendige, **29** at I skal holde jer fra kød, der ofres til afguder, og fra blod og fra kød af kvalte dyr og fra utugt. Ved at holde jer fri af det handler I ret. Lev vel!« **30** Så blev de sendt af sted, og de kom til Antiokia, hvor de samlede hele menigheden og overrakte brevet. **31** Da de havde læst det, blev der glæde over denne formaning. **32** Judas og Silas, der selv var profeter, talte mange formanende ord til brødrene og styrkede dem. **33** Og da de havde været der en tid, lod brødrene dem drage med fred tilbage til dem, der havde udsendt dem. **34**  Dog besluttede Silas at blive dér. **35** Men Paulus og Barnabas blev i Antiokia, hvor de sammen med mange andre underviste og forkyndte Herrens ord.
+**22** Så besluttede apostlene og de ældste sammen med hele menigheden at udvælge nogle af dens mænd og sende dem til Antiokia sammen med Paulus og Barnabas. Det blev Judas, der kaldtes Barsabbas, og Silas, som var ledende mænd blandt brødrene. **23** De fik denne skrivelse med: »Apostlene og de ældste, jeres brødre, hilser vore brødre af hedensk herkomst i Antiokia og Syrien og Kilikien. **24** Vi har hørt, at der er kommet nogle fra os, som har forvirret jer og foruroliget jer med deres ord; men vi har ikke givet dem noget påbud. **25** Derfor har vi i enighed besluttet at udvælge nogle mænd og sende dem til jer sammen med vor kære Barnabas og Paulus. **26** Det er mænd, som har vovet deres liv for vor Herre Jesu Kristi navn. **27** Vi sender altså Judas og Silas, for at de mundtligt kan fortælle jer det samme. **28** For Helligånden og vi har besluttet ikke at lægge nogen anden byrde på jer end dette nødvendige, **29** at I skal holde jer fra kød, der ofres til afguder, og fra blod og fra kød af kvalte dyr og fra utugt. Ved at holde jer fri af det handler I ret. Lev vel!« **30** Så blev de sendt af sted, og de kom til Antiokia, hvor de samlede hele menigheden og overrakte brevet. **31** Da de havde læst det, blev der glæde over denne formaning. **32** Judas og Silas, der selv var profeter, talte mange formanende ord til brødrene og styrkede dem. **33** Og da de havde været der en tid, lod brødrene dem drage med fred tilbage til dem, der havde udsendt dem. **34** Dog besluttede Silas at blive dér. **35** Men Paulus og Barnabas blev i Antiokia, hvor de sammen med mange andre underviste og forkyndte Herrens ord.
 
 #### Uenigheden mellem Barnabas og Paulus
 
@@ -3506,7 +3506,7 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 > høre med ørerne og fatte med hjertet  
 > og vende om, så jeg må helbrede dem.
 
-**28** Derfor skal I vide, at denne frelse fra Gud er sendt til hedningerne; og de skal høre!« **29**  Da han havde sagt dette, gik jøderne bort under stor indbyrdes strid.
+**28** Derfor skal I vide, at denne frelse fra Gud er sendt til hedningerne; og de skal høre!« **29** Da han havde sagt dette, gik jøderne bort under stor indbyrdes strid.
 
 **30** Paulus blev nu hele to år i sin lejede bolig og tog imod alle, der kom til ham. **31** Han prædikede om Guds rige og lærte dem om Herren Jesus Kristus, med fuld frimodighed, uden hindring.
 
@@ -3860,7 +3860,7 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 #### Hilsner fra Paulus’ medarbejdere
 
-**21** Hilsen fra min medarbejder Timotheus og fra mine landsmænd Lukius, Jason og Sosipatros. **22** Jeg, Tertius, som har nedskrevet dette brev, hilser jer i Herrens navn. **23** Hilsen fra Gajus, min og hele menighedens vært. Hilsen fra Erastos, byens regnskabsfører, og fra vor broder Kvartus. **24**  Vor Herre Jesu Kristi nåde være med jer alle! Amen.
+**21** Hilsen fra min medarbejder Timotheus og fra mine landsmænd Lukius, Jason og Sosipatros. **22** Jeg, Tertius, som har nedskrevet dette brev, hilser jer i Herrens navn. **23** Hilsen fra Gajus, min og hele menighedens vært. Hilsen fra Erastos, byens regnskabsfører, og fra vor broder Kvartus. **24** Vor Herre Jesu Kristi nåde være med jer alle! Amen.
 
 #### Lovprisning
 
@@ -4345,7 +4345,7 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 
 **11** Så har jeg da været vanvittig. I tvang mig til det. Det var jo jer, der skulle have anbefalet mig, for jeg står ikke tilbage for disse overapostle, selv om jeg ikke er noget. **12** Tegnene på, at jeg er apostel, er gjort hos jer med al udholdenhed, både ved tegn og undere og mægtige gerninger. **13** Og hvori har I været stillet ringere end de andre menigheder, bortset fra, at jeg ikke har ligget jer til byrde? Tilgiv mig denne uret!
 
-**14**  Se, det er nu tredje gang, jeg er rede til at komme til jer, og jeg skal ikke ligge jer til byrde, for jeg ønsker ikke det, I ejer, men jer selv; for børn skal ikke samle sammen til deres forældre, men forældrene til deres børn. **15** Jeg vil gerne bruge alt, ja, selv blive brugt op for jer. Skal jeg elskes mindre, jo mere jeg elsker jer? **16** Lad være, at jeg ikke har ligget jer til byrde, men så skal jeg have været snedig og have fanget jer med list! **17** Men har jeg da udbyttet jer gennem nogen af dem, jeg har sendt til jer? **18** Jeg bad Titus og sendte også en anden broder; har Titus mon udbyttet jer, og har vi ikke færdedes i samme ånd, i samme spor?
+**14** Se, det er nu tredje gang, jeg er rede til at komme til jer, og jeg skal ikke ligge jer til byrde, for jeg ønsker ikke det, I ejer, men jer selv; for børn skal ikke samle sammen til deres forældre, men forældrene til deres børn. **15** Jeg vil gerne bruge alt, ja, selv blive brugt op for jer. Skal jeg elskes mindre, jo mere jeg elsker jer? **16** Lad være, at jeg ikke har ligget jer til byrde, men så skal jeg have været snedig og have fanget jer med list! **17** Men har jeg da udbyttet jer gennem nogen af dem, jeg har sendt til jer? **18** Jeg bad Titus og sendte også en anden broder; har Titus mon udbyttet jer, og har vi ikke færdedes i samme ånd, i samme spor?
 
 **19** I har vel nu længe ment, at vi forsvarer os over for jer. For Guds ansigt taler vi i Kristus, men alt sammen til opbyggelse for jer, mine kære. **20** Jeg er nemlig bange for, at jeg ikke skal finde jer sådan, som jeg ønsker, når jeg kommer, og I heller ikke mig sådan, som I ønsker. Jeg frygter, at der vil være strid, misundelse, vrede, egoisme, bagtalelse, sladder, indbildskhed og forvirring. **21** Jeg er bange for, at min Gud skal ydmyge mig over for jer, når jeg kommer igen, og at jeg skal få sorg af mange af dem, der før har syndet, men som ikke har omvendt sig fra deres urene, utugtige og udsvævende liv.
 
@@ -4353,7 +4353,7 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 
 #### Sidste formaninger inden det kommende besøg
 
-**1**  Det er nu tredje gang, jeg kommer til jer! »På to eller tre vidners udsagn skal enhver sag afgøres.« **2** Jeg har tidligere sagt og siger på forhånd – som anden gang til stede og nu fraværende – til dem, der før har syndet, og til alle de andre, at jeg ikke vil vise skånsel, når jeg kommer. **3** I kræver jo en prøve på, at Kristus taler igennem mig. Han er ikke magtesløs over for jer, men er stærk i jer. **4** For han blev korsfæstet i magtesløshed, men han lever ved Guds magt, og vi er magtesløse i ham, men for jer skal vi leve sammen med ham ved Guds magt.
+**1** Det er nu tredje gang, jeg kommer til jer! »På to eller tre vidners udsagn skal enhver sag afgøres.« **2** Jeg har tidligere sagt og siger på forhånd – som anden gang til stede og nu fraværende – til dem, der før har syndet, og til alle de andre, at jeg ikke vil vise skånsel, når jeg kommer. **3** I kræver jo en prøve på, at Kristus taler igennem mig. Han er ikke magtesløs over for jer, men er stærk i jer. **4** For han blev korsfæstet i magtesløshed, men han lever ved Guds magt, og vi er magtesløse i ham, men for jer skal vi leve sammen med ham ved Guds magt.
 
 **5** Ransag jer selv, om I er i troen! Prøv jer selv! Ved I ikke, at Jesus Kristus er i jer? Ellers står I ikke jeres prøve. **6** Jeg håber, I vil forstå, at vi står vores prøve. **7** Vi beder til Gud om, at I ikke vil gøre noget ondt, ikke for at det skal vise sig, at vi står vores prøve, men for at I skal gøre det gode; så må det gerne se ud, som om vi ikke stod vores prøve. **8** Vi formår ikke noget imod sandheden, men kun for den. **9** Vi glæder os, når vi er magtesløse, og I er stærke. Vi beder også om, at alt må komme i den rette stand hos jer. **10** Derfor skriver jeg dette, mens jeg er fraværende, for at jeg, når jeg kommer, ikke skal være nødt til at vise strenghed med den myndighed, jeg har fået fra Herren, til at bygge op og ikke til at bryde ned.
 

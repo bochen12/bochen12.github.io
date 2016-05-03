@@ -966,7 +966,7 @@ Sådan satte han Efraim foran Manasse!
 > Jeg vil splitte dem i Jakob,  
 > sprede dem i Israel.
 
->  **8**  Juda, dig skal dine brødre prise,  
+>  **8** Juda, dig skal dine brødre prise,  
 > din hånd griber dine fjender i nakken;  
 > din fars sønner skal kaste sig ned for dig.  
 >  **9** Juda er en løveunge,  
@@ -995,7 +995,7 @@ Sådan satte han Efraim foran Manasse!
 > bøjede han ryg som en lastdrager  
 > og blev hoveriarbejder.
 
->  **16**  Dan skaffer sit folk ret  
+>  **16** Dan skaffer sit folk ret  
 > så godt som nogen af Israels stammer.  
 >  **17** Dan skal blive en slange ved vejen,  
 > en giftslange ved stien;  
@@ -1003,7 +1003,7 @@ Sådan satte han Efraim foran Manasse!
 > så rytteren falder bagover.  
 >  **18** – Jeg sætter mit håb til din frelse, Herre.
 
->  **19**  Gad bliver overfaldet af strejfskarer,  
+>  **19** Gad bliver overfaldet af strejfskarer,  
 > men selv overfalder og forfølger han dem.
 
 >  **20** Ashers føde er kraftig og god,  
@@ -1422,7 +1422,7 @@ Dér fastsatte han lov og ret for folket, og dér satte han det på prøve. **26
 
 #### Åbenbaringen på Sinaj
 
-**1**  I den tredje måned efter at israelitterne var draget ud af Egypten, netop den dag kom de til Sinajs ørken. **2** De brød op fra Refidim og kom ind i Sinajs ørken og slog lejr i ørkenen. Dér slog Israel lejr over for bjerget, **3** og Moses gik op til Gud. Herren råbte til ham fra bjerget og sagde: »Dette skal du sige til Jakobs hus og forkynde for israelitterne: **4** I har selv set, hvad jeg gjorde mod Egypten, og hvordan jeg bar jer på ørnevinger og bragte jer herhen til mig. **5** Hvis I adlyder mig og holder min pagt, skal I være min ejendom, ene af alle folkene, for hele jorden tilhører mig. **6** I skal være et kongerige af præster og et helligt folk for mig. Dette er, hvad du skal sige til israelitterne.« **7** Moses kom tilbage og kaldte folkets ældste til sig og forelagde dem alt det, Herren havde befalet ham, **8** og folket svarede alle som én: »Alt, hvad Herren befaler, vil vi gøre.« Moses bragte folkets svar til Herren.
+**1** I den tredje måned efter at israelitterne var draget ud af Egypten, netop den dag kom de til Sinajs ørken. **2** De brød op fra Refidim og kom ind i Sinajs ørken og slog lejr i ørkenen. Dér slog Israel lejr over for bjerget, **3** og Moses gik op til Gud. Herren råbte til ham fra bjerget og sagde: »Dette skal du sige til Jakobs hus og forkynde for israelitterne: **4** I har selv set, hvad jeg gjorde mod Egypten, og hvordan jeg bar jer på ørnevinger og bragte jer herhen til mig. **5** Hvis I adlyder mig og holder min pagt, skal I være min ejendom, ene af alle folkene, for hele jorden tilhører mig. **6** I skal være et kongerige af præster og et helligt folk for mig. Dette er, hvad du skal sige til israelitterne.« **7** Moses kom tilbage og kaldte folkets ældste til sig og forelagde dem alt det, Herren havde befalet ham, **8** og folket svarede alle som én: »Alt, hvad Herren befaler, vil vi gøre.« Moses bragte folkets svar til Herren.
 
 **9** Herren sagde til Moses: »Jeg vil komme til dig i en tæt sky, for at folket kan høre mig tale med dig og for al fremtid stole på dig.« Moses fortalte Herren, hvad folket havde sagt, **10** og Herren sagde til Moses: »Gå ned til folket; du skal hellige dem i dag og i morgen, og de skal vaske deres klæder. **11** De skal holde sig rede til i overmorgen, for i overmorgen vil Herren i hele folkets påsyn stige ned på Sinajs bjerg. **12** Du skal spærre af for folket hele vejen rundt og sige til dem, at de skal vogte sig for at gå op på bjerget eller blot røre ved foden af det. Den, der rører ved bjerget, skal lide døden; **13** men ingen hånd må røre ham; han skal stenes eller skydes. Hvad enten det drejer sig om et dyr eller et menneske, må det ikke leve. Når vædderhornets lange tone lyder, må man gå op på bjerget.«
 
@@ -1670,7 +1670,7 @@ Når du indsætter Aron og hans sønner, **10** skal du føre tyren frem foran �
 
 #### Forordning om sabbatten
 
-**12** Herren sagde til Moses: **13** Sig til israelitterne: I skal holde mine sabbatter, for sabbatten er et tegn mellem mig og jer, slægt efter slægt, for at I skal vide, at det er mig, Herren, som helliger jer. **14** I skal holde sabbatten, for den er hellig for jer. Den, som vanhelliger den, skal lide døden; enhver, som udfører arbejde på den, skal udryddes fra sit folk. **15**  I seks dage må der udføres arbejde, men på den syvende dag skal der være fuldstændig hvile; den er hellig for Herren. Enhver, der udfører arbejde på sabbatsdagen, skal lide døden. **16** Israelitterne skal holde sabbatten, så de fejrer sabbat slægt efter slægt som en eviggyldig pagt. **17** Den er et tegn mellem mig og israelitterne til evig tid; for på seks dage skabte Herren himlen og jorden, men på den syvende dag hvilede han og pustede ud.
+**12** Herren sagde til Moses: **13** Sig til israelitterne: I skal holde mine sabbatter, for sabbatten er et tegn mellem mig og jer, slægt efter slægt, for at I skal vide, at det er mig, Herren, som helliger jer. **14** I skal holde sabbatten, for den er hellig for jer. Den, som vanhelliger den, skal lide døden; enhver, som udfører arbejde på den, skal udryddes fra sit folk. **15** I seks dage må der udføres arbejde, men på den syvende dag skal der være fuldstændig hvile; den er hellig for Herren. Enhver, der udfører arbejde på sabbatsdagen, skal lide døden. **16** Israelitterne skal holde sabbatten, så de fejrer sabbat slægt efter slægt som en eviggyldig pagt. **17** Den er et tegn mellem mig og israelitterne til evig tid; for på seks dage skabte Herren himlen og jorden, men på den syvende dag hvilede han og pustede ud.
 
 **18** Da han var færdig med at tale med Moses på Sinajs bjerg, gav han ham Vidnesbyrdets to tavler, stentavler beskrevet med Guds finger.
 
