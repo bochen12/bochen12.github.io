@@ -35,11 +35,13 @@ Højs: [1](#hjs-1) [2](#hjs-2) [3](#hjs-3) [4](#hjs-4) [5](#hjs-5) [6](#hjs-6) [
 
 **13** En dag sad Jobs sønner og døtre og spiste og drak vin hjemme hos den ældste bror. **14** Da kom der en mand til Job og meldte: »Bedst som okserne gik for ploven og æslerne græssede ved siden af, **15** faldt nogle sabæere over dem og stjal dyrene, og karlene huggede de ned med sværd. Kun jeg slap væk, så jeg kan fortælle dig det.« **16** Mens han fortalte det, kom der en anden og sagde: »En Guds ild faldt ned fra himlen og fortærede fårene og karlene. Kun jeg slap væk, så jeg kan fortælle dig det.« **17** Mens han fortalte det, kom der en anden og sagde: »Der kom nogle kaldæere i tre flokke; de overfaldt kamelerne og stjal dem, og karlene huggede de ned med sværd. Kun jeg slap væk, så jeg kan fortælle dig det.« **18** Mens han fortalte det, kom der en anden og sagde: »Dine sønner og døtre sad og spiste og drak vin hjemme hos deres ældste bror, **19** da der kom en voldsom storm ude fra ørkenen. Den slog mod husets fire hjørner, så det faldt sammen over de unge mennesker, og de døde. Kun jeg slap væk, så jeg kan fortælle dig det.«
 
-**20** Da stod Job op, flængede sin kappe og klippede sig skaldet. Så kastede han sig til jorden fyldt med ærefrygt **21** og sagde:  
+**20** Da stod Job op, flængede sin kappe og klippede sig skaldet. Så kastede han sig til jorden fyldt med ærefrygt **21** og sagde:
+
 > »Nøgen kom jeg ud af moders liv,  
 > nøgen vender jeg tilbage!  
 > Herren gav, Herren tog,  
-> Herrens navn være lovet.«  
+> Herrens navn være lovet.«
+
 **22** Trods alt dette syndede Job ikke; og han bebrejdede ikke Gud noget.
 
 ### Job 2
