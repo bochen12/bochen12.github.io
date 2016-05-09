@@ -3,17 +3,13 @@ layout: page
 title: Ritualbog 1992
 ---
 
+[Højmesse](#hjmesseordning)  
+[Dåb](#db)
+
 # Højmesseordning
 
 *Autoriseret ved kgl. resolution af 12. juni 1992*
 
-<p onclick="visHM()">\[Vis\]</p> <p onclick="skjulHM()">\[Skjul\]</p>
-<script>
-function visHM() { document.getElementById("hm").style.display = "block"; }
-function skjulHM() { document.getElementById("hm").style.display = "none"; }
-</script>
-
-<div id="hm">
 
 ## I. Indledning
 
@@ -65,36 +61,36 @@ og hver dag styrkes og bevares i denne tro. Amen.
 
 *Kyrie siges eller synges som vekselbøn imellem P (= præst eller forsanger) og M (= menigheden).*
 
-*P* Herre Gud Fader i Himlen!  
-*M* Forbarm dig over os!  
-*P* Herre Jesus, vor frelsermand!  
-*M* Forbarm dig over os!  
-*P* Herre Helligånd, vort lys og vor trøst!  
-*M* Forbarm dig over os!
+*P* — Herre Gud Fader i Himlen!  
+*M* — Forbarm dig over os!  
+*P* — Herre Jesus, vor frelsermand!  
+*M* — Forbarm dig over os!  
+*P* — Herre Helligånd, vort lys og vor trøst!  
+*M* — Forbarm dig over os!
 
 *Eller*
 
-*P* Kyrie eleison!  
-*M* Gud Fader, forbarme dig!  
-*P* Christe eleison!  
-*M* Kriste, forbarme dig!  
-*P* Kyrie eleison!  
-*M* Herre Helligånd, forbarme dig!
+*P* — Kyrie eleison!  
+*M* — Gud Fader, forbarme dig!  
+*P* — Christe eleison!  
+*M* — Kriste, forbarme dig!  
+*P* — Kyrie eleison!  
+*M* — Herre Helligånd, forbarme dig!
 
 *Eller*
 
-*P* Herre Jesus, Guds, Søn,  
+*P* — Herre Jesus, Guds, Søn,  
 — du, som blev menneske for vor frelses skyld,  
 — vi beder dig: Herre, forbarm dig!  
-*M* Forbarm dig over os!  
-*P* Kristus, vor broder i himlen,  
+*M* — Forbarm dig over os!  
+*P* — Kristus, vor broder i himlen,  
 — du, som har givet os del i livets sejr over døden,  
 — vi beder dig: Kristus, forbarm dig!  
-*M* Forbarm dig over os!  
-*P* Herre, du, som sidder ved Faderens højre hånd  
+*M* — Forbarm dig over os!  
+*P* — Herre, du, som sidder ved Faderens højre hånd  
 — og går i forbøn for os,  
 — vi beder dig: Herre, forbarm dig!  
-*M* Forbarm dig over os!
+*M* — Forbarm dig over os!
 
 *Gloria (kan udlades, for eksempel i fastetiden)*
 
@@ -277,24 +273,24 @@ Vær hos os, når vi skal dø. Forbarm dig over os, giv os ikke løn som forskyl
 
 *Litaniet bedes fra alteret som veksellæsning eller vekselsang mellem præst (P) og menighed (M) og kan anvendes på kirkebønnens plads i fastetiden, på langfredag og på bededag.*
 
-*P* Herre Gud Fader i himlen.  
-*M* Forbarm dig over os!  
-*P* Herre Jesus, vor frelsermand.  
-*M* Forbarm dig over os!  
-*P* Herre Helligånd, vort lys og vor trøst.  
-*M* Forbarm dig over os!  
-*P* Vær barmhjertig, kære Herre, og fri os fra alle synder, fra al vildfarelse og fra alt ondt. Skån os for hærgende sygdom, for sult og misvækst, for krig og undertrykkelse, for ulykke og ødelæggelse. Frels os fra en ond og brat død og fra den evige død.  
-*M* Hør  
-*P*  
-*M*  
-*P*  
-*M*  
-*P*  
-*M*  
-*P*  
-*M*  
-*P*  
-*M*
+*P* — Herre Gud Fader i himlen.  
+*M* — Forbarm dig over os!  
+*P* — Herre Jesus, vor frelsermand.  
+*M* — Forbarm dig over os!  
+*P* — Herre Helligånd, vort lys og vor trøst.  
+*M* — Forbarm dig over os!  
+*P* — Vær barmhjertig, kære Herre, og fri os fra alle synder, fra al vildfarelse og fra alt ondt. Skån os for hærgende sygdom, for sult og misvækst, for krig og undertrykkelse, for ulykke og ødelæggelse. Frels os fra en ond og brat død og fra den evige død.  
+*M* — Hør  
+*P* —  
+*M* —  
+*P* —  
+*M* —  
+*P* —  
+*M* —  
+*P* —  
+*M* —  
+*P* —  
+*M* —
 
 
 ### 14. Salme efter prædikenen
@@ -669,4 +665,6 @@ og i liv og død styrkes og trøstes derved. Amen.
 
 *Indsamlingen finder almindeligvis sted i forbindelse med udgangen.*
 
-</div>
+
+# Dåb
+
