@@ -1,10 +1,38 @@
 ---
 layout: page
+custom_css: em-red
 title: Ritualbog 1992
 ---
 
 [Højmesse](#hjmesseordning)  
+— [Præludium](#indgang)
+— [Indgangsbøn](#indgangsbn)
+— [Salme](#indgangs)
+— [Kyrie og Gloria](#a-kyrie-og-gloria)
+— [Hilsen](#hilsen)
+— [Kollekt](#indledningskollekt)
+— [GT Læsning](#lsning-fra-det-gamle-testamente)
+— [Salme](#salme-mellem-lsningerne)
+— [NT Læsning](#lsning-fra-det-nye-testamente)
+— [Trosbekendelse](#trosbekendelse)
+— [Salme](#salme-fr-prdikenen)
+— [Evangelielæsning](#evangelielsning)
+— [Prædiken](#prdiken)
+— [Kirkebøn](#kirkebn) [(a)](#a) [(b)](#b) [(litani)](#c-litani)
+— [Salme](#salme-efter-prdikenen)
+— [Nadverbøn](#nadverbn) [(a)](#a-1) [(b)](#b-1) [(c)](#c)
+— [Fadervor](#fadervor)
+— [Indstiftelsesord](#indstiftelsesordene)
+— [Nadvermåltid](#nadvermltidet)
+— [Kollekt](#slutningskollekt)
+— [Velsignelse](#velsignelse)
+— [Salme](#udgangssalme)
+— [Udgangsbøn](#udgangsbn)
+— [Postludium](#udgang)
+
 [Dåb](#db)
+
+----------------------------------------------------------------------
 
 # Højmesseordning
 
@@ -61,42 +89,43 @@ og hver dag styrkes og bevares i denne tro. Amen.
 
 *Kyrie siges eller synges som vekselbøn imellem P (= præst eller forsanger) og M (= menigheden).*
 
-*P* — Herre Gud Fader i Himlen!  
-*M* — Forbarm dig over os!  
-*P* — Herre Jesus, vor frelsermand!  
-*M* — Forbarm dig over os!  
-*P* — Herre Helligånd, vort lys og vor trøst!  
-*M* — Forbarm dig over os!
+**P** Herre Gud Fader i Himlen!  
+**M** Forbarm dig over os!  
+**P** Herre Jesus, vor frelsermand!  
+**M** Forbarm dig over os!  
+**P** Herre Helligånd, vort lys og vor trøst!  
+**M** Forbarm dig over os!
 
 *Eller*
 
-*P* — Kyrie eleison!  
-*M* — Gud Fader, forbarme dig!  
-*P* — Christe eleison!  
-*M* — Kriste, forbarme dig!  
-*P* — Kyrie eleison!  
-*M* — Herre Helligånd, forbarme dig!
+**P** Kyrie eleison!  
+**M** Gud Fader, forbarme dig!  
+**P** Christe eleison!  
+**M** Kriste, forbarme dig!  
+**P** Kyrie eleison!  
+**M** Herre Helligånd, forbarme dig!
 
 *Eller*
 
-*P* — Herre Jesus, Guds, Søn,  
-— du, som blev menneske for vor frelses skyld,  
-— vi beder dig: Herre, forbarm dig!  
-*M* — Forbarm dig over os!  
-*P* — Kristus, vor broder i himlen,  
-— du, som har givet os del i livets sejr over døden,  
-— vi beder dig: Kristus, forbarm dig!  
-*M* — Forbarm dig over os!  
-*P* — Herre, du, som sidder ved Faderens højre hånd  
-— og går i forbøn for os,  
-— vi beder dig: Herre, forbarm dig!  
-*M* — Forbarm dig over os!
+**P** Herre Jesus, Guds, Søn,  
+      du, som blev menneske for vor frelses skyld,  
+      vi beder dig: Herre, forbarm dig!  
+**M** Forbarm dig over os!  
+**P** Kristus, vor broder i himlen,  
+      du, som har givet os del i livets sejr over døden,  
+      vi beder dig: Kristus, forbarm dig!  
+**M** Forbarm dig over os!  
+**P** Herre, du, som sidder ved Faderens højre hånd  
+      og går i forbøn for os,  
+      vi beder dig: Herre, forbarm dig!  
+**M** Forbarm dig over os!
 
-*Gloria (kan udlades, for eksempel i fastetiden)*
+*Gloria (kan udlades, for eksempel i fastetiden).*
 
 *Præsten:*  
 Ære være Gud i det højeste!  
-og fred på jorden, i mennesker velbehag!  
+og fred på jorden, i mennesker velbehag!
+
 *Menigheden synger følgende vers eller et andet vers fra salmen »Aleneste Gud i Himmerig«:*  
 Vi love, vi prise og takke dig,  
 al æren skal dig tilhøre,  
@@ -111,14 +140,14 @@ thi frygte vi ingen fare.
 *Præsten:*  
 Ære være Gud i det højeste!  
 *Menigheden:*  
-Og fred på jorden, i mennesker velbehag!
-
+Og fred på jorden, i mennesker velbehag!  
+  &nbsp;&nbsp;&nbsp;
 Vi lover dig, vi velsigner dig,  
 vi tilbeder dig, vi ophøjer dig,  
 vi bringer dig taksigelse for din store herlighed,  
 Herre Gud, himmelske Konge,  
-Gud Fader almægtige.
-
+Gud Fader almægtige.  
+  &nbsp;&nbsp;&nbsp;
 Herre, du enbårne Søn, Jesus Kristus,  
 Herre og Gud, Guds Lam og Faderens Søn,  
 du, som bærer verdens synder,  
@@ -126,8 +155,8 @@ forbarm dig over os!
 du, som bærer verdens synder,  
 modtag vor ydmyge begæring!  
 du, som sidder ved Faderens højre hånd,  
-forbarm dig over os!
-
+forbarm dig over os!  
+  &nbsp;&nbsp;&nbsp;
 Thi du alene er hellig,  
 du alene Herre,  
 du alene den højeste,  
@@ -140,7 +169,7 @@ i Gud Faders herlighed. Amen.
 *Præsten siger eller messer (vendt mod menigheden):*  
 Herren være med jer!  
 *Menigheden svarer:*  
-Og med din ånd! *eller*: Og Herren være med dig!
+Og med din ånd! &nbsp;&nbsp;&nbsp;*eller*: Og Herren være med dig!
 
 
 ### 5. Indledningskollekt
@@ -174,14 +203,19 @@ Amen.
 *Trosbekendelsen synges eller siges af præst og menighed (eller af præsten alene). Menigheden står op. Trosbekendelsen kan indledes af præsten med ordene: Lad os bekende vor kristne tro (eller tilsvarende). Præsten kan i stedet fremsige trosbekendelsen fra prædikestolen i forbindelse med prædikenen. Når der er dåb i højmessen, kan trosbekendelsen udelades.*
 
 Vi forsager Djævelen og alle hans gerninger og alt hans væsen.  
+  &nbsp;&nbsp;&nbsp;
 Vi tror på Gud Fader, den Almægtige, himlens og jordens skaber.  
+  &nbsp;&nbsp;&nbsp;
 Vi tror på Jesus Kristus, hans enbårne Søn, vor Herre, som er undfanget ved Helligånden, født af Jomfru Maria, pint under Pontius Pilatus, korsfæstet, død og begravet, nedfaret til dødsriget, på tredje dag opstanden fra de døde, opfaret til himmels, siddende ved Gud Faders, den Almægtiges, højre hånd, hvorfra han skal komme at dømme levende og døde.  
+  &nbsp;&nbsp;&nbsp;
 Vi tror på Helligånden, den hellige, almindelige kirke, de helliges samfund, syndernes forladelse, kødets opstandelse og det evige liv.
 
 *Eller*
 
 Jeg/Vi tror på én Gud, den almægtige Fader, himmelens og jordens, alt det synliges og usynliges skaber.  
+  &nbsp;&nbsp;&nbsp;
 Og på én Herre, Jesus Kristus, Guds enbårne Søn, som er født af Faderen før alle tider, Gud af Gud, lys af lys, sand Gud af sand Gud, født, ikke skabt, af samme væsen som Faderen, ved hvem alt er skabt, som for os mennesker og for vor frelse steg ned fra himmelen og blev kød ved Helligånden af Jomfru Maria og blev menneske, som også blev korsfæstet for os under Pontius Pilatus, blev pint og begravet og opstod på tredje dagen ifølge skrifterne og opfor til himmels, sidder ved Faderens højre hånd og skal komme igen i herlighed for at dømme levende og døde, og der skal ikke være ende på hans rige.  
+  &nbsp;&nbsp;&nbsp;
 Og på Helligånden, som er Herre, og som levendegør, som udgår fra Faderen og fra Sønnen, som tilbedes og æres tillige med Faderen og Sønnen, som har talt ved profeterne. Og på én, hellig, almindelig og apostolisk kirke. Jeg/Vi bekender én dåb til syndernes forladelse og forventer de dødes opstandelse og den
 kommende verdens liv.
 
@@ -225,8 +259,8 @@ og i al evighed. Amen.
 
 *Præsten er frit stillet med hensyn til kirkebønnens ordlyd.*
 
-Trøst og styrk du, vor Gud, alle dem, som er syge og sorgfulde, enten de er fjern eller nær. Vær med din nådige hjælp hos alle dem, som lider under anfægtelser, og stå os alle bi i fristelsens time. Velsign og bevar din hellige, almindelige kirke og os i den. Velsign og bevar dine hellige sakramenter, og lad dit ord have frit løb iblandt os, for at dit rige med retfærdighed og fred og glæde i Helligånden må udbredes og vokse, og nådens lys skinne for alle dem, der sidder i mørke og dødens skygge.
-
+Trøst og styrk du, vor Gud, alle dem, som er syge og sorgfulde, enten de er fjern eller nær. Vær med din nådige hjælp hos alle dem, som lider under anfægtelser, og stå os alle bi i fristelsens time. Velsign og bevar din hellige, almindelige kirke og os i den. Velsign og bevar dine hellige sakramenter, og lad dit ord have frit løb iblandt os, for at dit rige med retfærdighed og fred og glæde i Helligånden må udbredes og vokse, og nådens lys skinne for alle dem, der sidder i mørke og dødens skygge.  
+  &nbsp;&nbsp;&nbsp;
 Hold din beskærmende hånd over vort folk og fædreland og al dets øvrighed, velsign og bevar vor konge (navn nævnes), dronning (navn nævnes) og hele kongens hus (navne nævnes). Giv dem og os alle nåde, fred og velsignelse og efter et kristeligt liv den evige salighed.
 
 *Efter kirkebønnen (eller prædikenen) gives meddelelse og bekendtgørelser. På prædikestolen sluttes med den apostolske velsignelse, hvorunder menigheden står op.*
@@ -241,32 +275,32 @@ være med os alle! Amen.
 
 *Efterfølgende kirkebøn kan bedes fra prædikestolen eller fra alteret.*
 
-Hellige Gud, himmelske Fader! Vi lover og tilbeder dig, som i godhed skænker os livet og alle dets gaver.
-
-Vi takker dig for jorden, som du har skabt, for vore medmennesker, som du giver os at dele livet med, for din elskede Søn, som blev vor broder, døde og opstod for os, for nådens og sandhedens Ånd, som har taget bolig i os, for genfødelsen i dåben, for evangeliets lys og for dit nærvær og din velsignelse i nadveren.
-
-Vi beder dig for din kirke: Tag ikke nådens og sandhedens ord fra os. Bevar os alle i troen og den indbyrdes kærlighed. Lad håbet om dit komme være levende blandt os. Giv os trofaste ledere og forkyndere af dit ord. Forbarm dig over alle, der farer vild, over dem, der lider for dit navns skyld, og lad dit evangelium udgå til alle folkeslag.
-
-Vi beder for vore hjem og vore kære, for vort daglige liv med hinanden i arbejde og fritid. Vi beder dig om fred mellem nationerne og for folkenes regeringer. Bevar os som folk iblandt folkene. Vi beder dig for al lovlig øvrighed, for alle med ansvar i vort samfund. Giv dem troskab og visdom til at forvalte deres magt og viden til værn for de svage og til gavn for alle.
-
-Vær nær hos alle fattige, alle forpinte og bedrøvede, de fængslede og de landflygtige, de forladte og ensomme, dem, der mangler det nødvendigste til livets ophold, de syge og dem, der skal dø.
-
+Hellige Gud, himmelske Fader! Vi lover og tilbeder dig, som i godhed skænker os livet og alle dets gaver.  
+  &nbsp;&nbsp;&nbsp;
+Vi takker dig for jorden, som du har skabt, for vore medmennesker, som du giver os at dele livet med, for din elskede Søn, som blev vor broder, døde og opstod for os, for nådens og sandhedens Ånd, som har taget bolig i os, for genfødelsen i dåben, for evangeliets lys og for dit nærvær og din velsignelse i nadveren.  
+  &nbsp;&nbsp;&nbsp;
+Vi beder dig for din kirke: Tag ikke nådens og sandhedens ord fra os. Bevar os alle i troen og den indbyrdes kærlighed. Lad håbet om dit komme være levende blandt os. Giv os trofaste ledere og forkyndere af dit ord. Forbarm dig over alle, der farer vild, over dem, der lider for dit navns skyld, og lad dit evangelium udgå til alle folkeslag.  
+  &nbsp;&nbsp;&nbsp;
+Vi beder for vore hjem og vore kære, for vort daglige liv med hinanden i arbejde og fritid. Vi beder dig om fred mellem nationerne og for folkenes regeringer. Bevar os som folk iblandt folkene. Vi beder dig for al lovlig øvrighed, for alle med ansvar i vort samfund. Giv dem troskab og visdom til at forvalte deres magt og viden til værn for de svage og til gavn for alle.  
+  &nbsp;&nbsp;&nbsp;
+Vær nær hos alle fattige, alle forpinte og bedrøvede, de fængslede og de landflygtige, de forladte og ensomme, dem, der mangler det nødvendigste til livets ophold, de syge og dem, der skal dø.  
+  &nbsp;&nbsp;&nbsp;
 Forbarm dig over os, giv os ikke løn som forskyldt, men fri os fra det onde, og lad os på den yderste dag få lov at opstå med Kristus og evigt takke dig, ved din elskede Søn, Jesus Kristus. Amen.
 
 #### (b)
 
 *Efterfølgende kirkebøn kan bedes fra prædikestolen eller fra alteret. Hvis den bedes fra alteret, kan den bedes som vekselbøn, hvor de enkelte afsnit eksempelvis afsluttes med ordene »Det beder vi om«, hvorefter menigheden som svar eksempelvis synger »Herre, hør vor bøn!« og slutter med »Amen«.*
 
-Herre, vor Gud, himmelske Fader! Vi beder dig for hele den verden, som du har skabt: Ophold den og forny den, så alt igen bliver godt. Lad der blive fred mellem alle folk og nationer. Velsign jorden og menneskers arbejde. Hjælp os alle til at tage vare på den skabte verden, så vi værner om menneskers velfærd og forvalter naturen til bedste for hverandre.
-
-Herre, vi beder dig for alle, der er ramt af sorg og ulykke og savn: Trøst de bedrøvede og bange, giv frihed og retfærd til de fattige og undertrykte, mæt de sultne, helbred de syge, hjælp de hjemløse og landflygtige, vær hos de fangne, giv nyt mod og håb til de bekymrede og modløse.
-
-Herre, vi beder dig for alle, der har fået magt og ansvar og viden betroet: Giv dem troskab og visdom, så de forvalter mulighederne til gavn for de svage og til at tjene andre mennesker. Velsign og bevar vor dronning og hele dronningens hus. Vær med regering og folketing og al øvrighed her i landet.
-
-Herre, vi beder dig for vort land, vor familie og alle, vi holder af og er forbundet med: Hold din skærmende hånd over os, fri os fra alt ondt og bevar os fra indbyrdes strid og opløsning. Giv os styrke og vilje til at hjælpe hinanden.
-
-Herre, vi beder dig for din kirke her og ud over hele jorden: Velsign den og forny den ved din Ånd, så den kan tale dit befriende ord til alle mennesker. Hold os fast i det fællesskab, som du i dåben satte os i. Styrk os gennem nadverens måltid, og hjælp os alle til at tjene dig med glæde.
-
+Herre, vor Gud, himmelske Fader! Vi beder dig for hele den verden, som du har skabt: Ophold den og forny den, så alt igen bliver godt. Lad der blive fred mellem alle folk og nationer. Velsign jorden og menneskers arbejde. Hjælp os alle til at tage vare på den skabte verden, så vi værner om menneskers velfærd og forvalter naturen til bedste for hverandre.  
+  &nbsp;&nbsp;&nbsp;
+Herre, vi beder dig for alle, der er ramt af sorg og ulykke og savn: Trøst de bedrøvede og bange, giv frihed og retfærd til de fattige og undertrykte, mæt de sultne, helbred de syge, hjælp de hjemløse og landflygtige, vær hos de fangne, giv nyt mod og håb til de bekymrede og modløse.  
+  &nbsp;&nbsp;&nbsp;
+Herre, vi beder dig for alle, der har fået magt og ansvar og viden betroet: Giv dem troskab og visdom, så de forvalter mulighederne til gavn for de svage og til at tjene andre mennesker. Velsign og bevar vor dronning og hele dronningens hus. Vær med regering og folketing og al øvrighed her i landet.  
+  &nbsp;&nbsp;&nbsp;
+Herre, vi beder dig for vort land, vor familie og alle, vi holder af og er forbundet med: Hold din skærmende hånd over os, fri os fra alt ondt og bevar os fra indbyrdes strid og opløsning. Giv os styrke og vilje til at hjælpe hinanden.  
+  &nbsp;&nbsp;&nbsp;
+Herre, vi beder dig for din kirke her og ud over hele jorden: Velsign den og forny den ved din Ånd, så den kan tale dit befriende ord til alle mennesker. Hold os fast i det fællesskab, som du i dåben satte os i. Styrk os gennem nadverens måltid, og hjælp os alle til at tjene dig med glæde.  
+  &nbsp;&nbsp;&nbsp;
 Vær hos os, når vi skal dø. Forbarm dig over os, giv os ikke løn som forskyldt, men skænk os en glædelig opstandelse til det evige liv, hvor du med Søn og Helligånd lever og råder fra evighed til evighed.
 
 #### (c) Litani
@@ -489,14 +523,14 @@ For dit er Riget og magten og æren i evighed!
 
 *Præsten fortsætter med at læse eller messe indstiftelsesordene. Herunder står menigheden op. Mens ordet om brødet, henholdsvis vinen, læses eller messes, holder præsten disken, henholdsvis kalken. Præsten kan herunder vende sig mod menigheden.*
 
-Vor Herre Jesus Kristus i den nat, da han blev forrådt, tog brødet, takkede og brød det, gav sine disciple det og sagde: »Tag dette og spis det; det er mit legeme, som gives for jer. Gør dette til min ihukommelse!«
-
+Vor Herre Jesus Kristus i den nat, da han blev forrådt, tog brødet, takkede og brød det, gav sine disciple det og sagde: »Tag dette og spis det; det er mit legeme, som gives for jer. Gør dette til min ihukommelse!«  
+  &nbsp;&nbsp;&nbsp;
 Ligeså tog han også kalken efter aftensmåltidet, takkede, gav dem den og sagde: »Drik alle heraf; denne kalk er den nye pagt i mit blod, som udgydes for jer til syndernes forladelse. Gør dette, så ofte som I drikker det, til min ihukommelse!«
 
 *I stedet kan anvendes:*
 
-Vor Herre Jesus Kristus tog i den nat, da han blev forrådt, et brød, takkede og brød det, gav sine disciple det og sagde: »Tag det og spis det; dette er mit legeme, som gives for jer. Gør dette til ihukommelse af mig!«
-
+Vor Herre Jesus Kristus tog i den nat, da han blev forrådt, et brød, takkede og brød det, gav sine disciple det og sagde: »Tag det og spis det; dette er mit legeme, som gives for jer. Gør dette til ihukommelse af mig!«  
+  &nbsp;&nbsp;&nbsp;
 Ligeså tog han også bægeret efter måltidet, takkede, gav dem det og sagde: »Drik alle heraf; dette bæger er den nye pagt ved mit blod, som udgydes for jer til syndernes forladelse. Gør dette, hver gang I drikker det, til ihukommelse af mig!«
 
 
@@ -665,6 +699,8 @@ og i liv og død styrkes og trøstes derved. Amen.
 
 *Indsamlingen finder almindeligvis sted i forbindelse med udgangen.*
 
+
+----------------------------------------------------------------------
 
 # Dåb
 
