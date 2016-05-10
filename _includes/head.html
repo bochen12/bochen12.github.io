@@ -18,12 +18,11 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/light.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
-    {% if page.custom_css %}
-      {% for stylesheet in page.custom_css %}
+  {% if page.custom_css %}
+    {% for stylesheet in page.custom_css %}
       <link rel="stylesheet" href="{{ site.baseurl }}public/css/{{ stylesheet }}.css" type="text/css">
-      {% endfor %}
-    {% endif %}
+    {% endfor %}
+  {% endif %}
 
   <!-- Icons -->
   <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">

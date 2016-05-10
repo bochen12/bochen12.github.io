@@ -4,35 +4,74 @@ custom_css: em-red
 title: Ritualbog 1992
 ---
 
-[Højmesse](#hjmesseordning)  
-— [Præludium](#indgang)
-— [Indgangsbøn](#indgangsbn)
-— [Salme](#indgangs)
-— [Kyrie og Gloria](#a-kyrie-og-gloria)
-— [Hilsen](#hilsen)
-— [Kollekt](#indledningskollekt)
-— [GT Læsning](#lsning-fra-det-gamle-testamente)
-— [Salme](#salme-mellem-lsningerne)
-— [NT Læsning](#lsning-fra-det-nye-testamente)
-— [Trosbekendelse](#trosbekendelse)
-— [Salme](#salme-fr-prdikenen)
-— [Evangelielæsning](#evangelielsning)
-— [Prædiken](#prdiken)
-— [Kirkebøn](#kirkebn) [(a)](#a) [(b)](#b) [(litani)](#c-litani)
-— [Salme](#salme-efter-prdikenen)
-— [Nadverbøn](#nadverbn) [(a)](#a-1) [(b)](#b-1) [(c)](#c)
-— [Fadervor](#fadervor)
-— [Indstiftelsesord](#indstiftelsesordene)
-— [Nadvermåltid](#nadvermltidet)
-— [Kollekt](#slutningskollekt)
-— [Velsignelse](#velsignelse)
-— [Salme](#udgangssalme)
-— [Udgangsbøn](#udgangsbn)
-— [Postludium](#udgang)
+[**Højmesse**](#hjmesseordning)  
+— [Præludium](#indgang), 
+[Indgangsbøn](#indgangsbn), 
+[Salme](#indgangs), 
+[Kyrie og Gloria](#a-kyrie-og-gloria), 
+[Hilsen](#hilsen), 
+[Kollekt](#indledningskollekt), 
+[GT Læsning](#lsning-fra-det-gamle-testamente), 
+[Salme](#salme-mellem-lsningerne), 
+[NT Læsning](#lsning-fra-det-nye-testamente), 
+[Trosbekendelse](#trosbekendelse), 
+[Salme](#salme-fr-prdikenen), 
+[Evangelielæsning](#evangelielsning), 
+[Prædiken](#prdiken), 
+[Kirkebøn](#kirkebn) [(a)](#a) [(b)](#b) [(litani)](#c-litani), 
+[Salme](#salme-efter-prdikenen), 
+[Nadverbøn](#nadverbn) [(a)](#a-1) [(b)](#b-1) [(c)](#c), 
+[Fadervor](#fadervor), 
+[Indstiftelsesord](#indstiftelsesordene), 
+[Nadvermåltid](#nadvermltidet), 
+[Kollekt](#slutningskollekt), 
+[Velsignelse](#velsignelse), 
+[Salme](#udgangssalme), 
+[Udgangsbøn](#udgangsbn), 
+[Postludium](#udgang)
 
-[Dåb](#db)
+[**Dåb**](#db)  
+— [**Dåb i kirken**](#db-i-kirken) : 
+[Dåbssalme](#dbssalme), 
+[Lovprisning og bøn](#lovprisning-og-bn), [Skriftlæsning](#skriftlsning), 
+[Korstegnelse](#korstegnelse), 
+[Trosbekendelse](#trosbekendelse-1), 
+[Dåbshandling](#dbshandling), 
+[Fadervor](#fadervor-1), 
+[Faddertiltale](#faddertiltale), 
+[Dåbssalme](#dbssalme-1), 
+[Dåbskollekt](#dbskollekt)  
+— [**Hjemmedåb**](#hjemmedb)  
+— [**Nøddåb**](#nddb) : 
+[Dåbshandling](#dbshandling-1), 
+[Fadervor](#fadervor-2)  
+— [**Fremstilling i kirken af døbte børn**](#fremstilling-i-kirken-af-dbte-brn) : 
+[Salme](#salme), 
+[Lovprisning](#lovprisning), 
+[Skriftlæsning](#skriftlsning-1), 
+[Trosbekendelse](#trosbekendelse), 
+[Bekendtgørelse og bøn](#bekendtgrelse-og-bn), 
+[Fadervor](#fadervor-3), 
+[Faddertiltale](#faddertiltale-1), 
+[Salme](#salme-1)
 
-----------------------------------------------------------------------
+[**Skriftemål**](#skrifteml)  
+— [**Fælles skriftemål forud for gudstjenesten**](#flles-skrifteml-forud-for-gudstjenesten) : 
+[Salme](#salme-2), 
+[Hilsen](#hilsen-1), 
+[Skriftetale](#skriftetale), 
+[Skriftebøn](#skriftebn), 
+[Absolution](#), 
+[Salme](#)  
+— [**Syndsbekendelse og absolution**](#syndsbekendelse-og-absolution)  
+— [**Privat skriftemål**](#privat-skrifteml) : 
+[Syndsbekendelse](#syndsbekendelse), 
+[Absolution](#absolution-1), 
+[Fadervor](#fadervor-4), 
+[Velsignelse](#velsignelse-1)
+
+
+--------------------------------------------------------------------
 
 # Højmesseordning
 
@@ -89,36 +128,36 @@ og hver dag styrkes og bevares i denne tro. Amen.
 
 *Kyrie siges eller synges som vekselbøn imellem P (= præst eller forsanger) og M (= menigheden).*
 
-**P** Herre Gud Fader i Himlen!  
-**M** Forbarm dig over os!  
-**P** Herre Jesus, vor frelsermand!  
-**M** Forbarm dig over os!  
-**P** Herre Helligånd, vort lys og vor trøst!  
-**M** Forbarm dig over os!
+*P* — Herre Gud Fader i Himlen!  
+*M* — Forbarm dig over os!  
+*P* — Herre Jesus, vor frelsermand!  
+*M* — Forbarm dig over os!  
+*P* — Herre Helligånd, vort lys og vor trøst!  
+*M* — Forbarm dig over os!
 
 *Eller*
 
-**P** Kyrie eleison!  
-**M** Gud Fader, forbarme dig!  
-**P** Christe eleison!  
-**M** Kriste, forbarme dig!  
-**P** Kyrie eleison!  
-**M** Herre Helligånd, forbarme dig!
+*P* — Kyrie eleison!  
+*M* — Gud Fader, forbarme dig!  
+*P* — Christe eleison!  
+*M* — Kriste, forbarme dig!  
+*P* — Kyrie eleison!  
+*M* — Herre Helligånd, forbarme dig!
 
 *Eller*
 
-**P** Herre Jesus, Guds, Søn,  
-      du, som blev menneske for vor frelses skyld,  
-      vi beder dig: Herre, forbarm dig!  
-**M** Forbarm dig over os!  
-**P** Kristus, vor broder i himlen,  
-      du, som har givet os del i livets sejr over døden,  
-      vi beder dig: Kristus, forbarm dig!  
-**M** Forbarm dig over os!  
-**P** Herre, du, som sidder ved Faderens højre hånd  
-      og går i forbøn for os,  
-      vi beder dig: Herre, forbarm dig!  
-**M** Forbarm dig over os!
+*P* — Herre Jesus, Guds, Søn,  
+  &nbsp;&nbsp;&nbsp; du, som blev menneske for vor frelses skyld,  
+  &nbsp;&nbsp;&nbsp; vi beder dig: Herre, forbarm dig!  
+*M* — Forbarm dig over os!  
+*P* — Kristus, vor broder i himlen,  
+  &nbsp;&nbsp;&nbsp; du, som har givet os del i livets sejr over døden,  
+  &nbsp;&nbsp;&nbsp; vi beder dig: Kristus, forbarm dig!  
+*M* — Forbarm dig over os!  
+*P* — Herre, du, som sidder ved Faderens højre hånd  
+  &nbsp;&nbsp;&nbsp; og går i forbøn for os,  
+  &nbsp;&nbsp;&nbsp; vi beder dig: Herre, forbarm dig!  
+*M* — Forbarm dig over os!
 
 *Gloria (kan udlades, for eksempel i fastetiden).*
 
@@ -314,17 +353,19 @@ Vær hos os, når vi skal dø. Forbarm dig over os, giv os ikke løn som forskyl
 *P* — Herre Helligånd, vort lys og vor trøst.  
 *M* — Forbarm dig over os!  
 *P* — Vær barmhjertig, kære Herre, og fri os fra alle synder, fra al vildfarelse og fra alt ondt. Skån os for hærgende sygdom, for sult og misvækst, for krig og undertrykkelse, for ulykke og ødelæggelse. Frels os fra en ond og brat død og fra den evige død.  
-*M* — Hør  
-*P* —  
-*M* —  
-*P* —  
-*M* —  
-*P* —  
-*M* —  
-*P* —  
-*M* —  
-*P* —  
-*M* —
+*M* — Hør os, kære Herre Gud!  
+*P* — Hjælp os, Herre, for Kristi fødsels skyld, for hans bitre lidelses og døds skyld, for hans sejrrige opstandelses og himmelfarts skyld. Stå os bi i lykke og nød, i vor sidste time og på dommens dag.  
+*M* — Hør os, kære Herre Gud!  
+*P* — Styr og led din hellige kirke. Foren den i fælles tro og enig gerning. Send trofaste arbejdere ud til din høst, og hold os til dit salige ord. Stands al vrang lære og tom gudsdyrkelse. Giv din Ånd og kraft til ordet, trøst de bedrøvede og bange, styrk dem, som forfølges for dit navns skyld.  
+*M* — Hør os, kære Herre Gud!  
+*P* — Giv alle folk på jorden fred og enighed. Værn vort land og vort folk. Velsign vor konge/dronning og al øvrighed; udrust dem med indsigt og handlekraft. Giv frugt på jorden og forstand til at bruge dine gaver. Velsign os i vort jordiske kald.  
+*M* — Hør os, kære Herre Gud!  
+*P* — Send din hjælp til alle, som er i nød og fare, syge og ensomme, fattige og undertrykte. Gør vel mod dem, som gør ondt mod os. Forbarm dig over alle mennesker.  
+*M* — Hør os, kære Herre Gud!  
+
+*Litaniet følges af nedenstående kollekt eller af en anden kollekt.*  
+*P* — Herre, vor Gud, himmelske Fader! Du, som af din faderlige nåde ikke sparede din enbårne Søn, men gav ham hen til døden på korset; vi beder dig: Giv din Helligånd i vore hjerter, så vi trøster os med denne nåde, vogter os for synden, tålmodigt bærer de lidelser, du tilskikker os, og bliver til evig tid salige hos dig, ved din elskede Søn, Jesus Kristus, vor Herre, som med dig lever og regerer i Helligånds enhed, én sand Gud fra evighed og til evighed.  
+*M* — Amen.
 
 
 ### 14. Salme efter prædikenen
@@ -700,7 +741,551 @@ og i liv og død styrkes og trøstes derved. Amen.
 *Indsamlingen finder almindeligvis sted i forbindelse med udgangen.*
 
 
-----------------------------------------------------------------------
+--------------------------------------------------------------------
 
 # Dåb
 
+*Autoriseret ved kgl. Resolution af 12. Juni 1992*
+
+*Dåb finder i almindelighed sted i kirken under en gudstjeneste. I tilfælde af sygdom kan dåb foregå i hjemmet eller på sygehuset.*
+
+*Dåb under en højmesse kan finde sted på trosbekendelsens plads, i tilknytning til første læsning, efter salmen efter prædikenen eller efter nadveren.*
+
+*Når dåb finder sted ved en særlig dåbsgudstjeneste, kan forud for dåbssalmen indledes med præludium, indgangssalme og dåbstale.*
+
+
+## Dåb i kirken
+
+
+### Dåbssalme
+
+*Ved dåb under en højmesse kan dåbssalmen være en af gudstjenestens
+almindelige salmer.*
+
+*Efter dåbssalmen spørger præsten:*  
+Er barnet hjemmedøbt? — Nej!
+
+*Ved dåb af voksne spørger præsten:*  
+Er du tidligere døbt? — Nej!
+
+
+### Lovprisning og bøn
+
+*Præsten siger:*  
+Lovet være Gud, vor Herre Jesu Kristi Fader,  
+som i sin store barmhjertighed  
+har genfødt os til et levende håb  
+ved Jesu Kristi opstandelse fra de døde.
+
+Lad os alle bede!  
+Vi takker dig, himmelske Fader,  
+fordi du ved din enbårne Søn har givet os den hellige dåb,  
+hvori du gør os til dine børn og skænker os Helligånden  
+med syndernes forladelse og det evige liv.  
+Vi beder dig:  
+Tag i nåde mod dette barn (disse børn),  
+Som vi bærer frem for dit åsyn.  
+Indlem det (dem) i din menighed,  
+og bevar det (dem) i dit samfund både her og hisset!  
+Amen.
+
+*Ved dåb af voksne:*  
+Vi beder dig:  
+Tag i nåde mod ham (hende),  
+som i dag kommer til den kristne dåb.  
+Indlem ham (hende) i din menighed,  
+og bevar ham (hende) i dit samfund både her og hisset!  
+Amen.
+
+
+### Skriftlæsning
+
+*Præsten fortsætter, og menigheden rejser sig.*
+
+Således taler vor Herre Jesus Kristus:  
+Mig er givet al magt i himlen og på jorden. Gå derfor hen og gør alle folkelagene til mine disciple, idet I døber dem i Faderens og Sønnens og Helligåndens navn, og idet I lærer dem at holde alt det, som jeg har befalet jer. Og se, jeg er med jer alle dage indtil verdens ende.
+
+*Evangelisten Markus skriver:*  
+Og de bar nogle små børn til Jesus, for at han skulle røre ved dem; disciplene truede ad dem, men da Jesus så det, blev han vred og sagde til dem: ”Lad de små børn komme til mig, det må I ikke hindre dem i, for Guds rige er deres. Sandelig siger jeg jer: Den, der ikke modtager Guds rige ligesom et lille barn, kommer slet ikke ind i det.” Han tog dem i favn og lagde hænderne på dem og velsignede dem.
+
+Så vil vi nu hjælpe dette barn (disse børn)  
+til hans velsignelse  
+ved at døbe det (dem)  
+i Faderens og Sønnens og Helligåndens navn.
+
+*Ved dåb af voksne:*  
+Så vil vi nu hjælpe dig til hans velsignelse  
+ved at døbe dig  
+i Faderens og Sønnens og Helligåndens navn.
+
+
+### Korstegnelse
+
+Barnet – dersom der er flere børn, hvert barn for sig – bæres hen til døbefonten. Ved dåb af voksne træder den, der skal døbes, selv hen til døbefonten. Præsten tegner derefter med hånden kors for ansigtet og brystet af den, der skal døbes, og siger:
+
+Modtag det hellige korsets tegn  
+Både for dit ansigt og dit bryst,  
+til et vidnesbyrd om,  
+at du skal tilhøre  
+den korsfæstede Herre Jesus Kristus.
+
+Hvad er barnets navn? — N.N.  
+*Ved dåb af voksne udelades dette spørgsmål normalt.*
+
+
+### Trosbekendelse
+
+N.N. Forsager du Djævelen og alle hans gerninger og alt hans væsen? — Ja!  
+  &nbsp;&nbsp;&nbsp;
+Tror du på Gud Fader, den Almægtige, himlens og jordens skaber? — Ja!  
+  &nbsp;&nbsp;&nbsp;
+Tror du på Jesus Kristus, hans enbårne Søn, vor Herre, som er undfanget ved Helligånden, født af Jomfru Maria, pint under Pontius Pilatus, korsfæstet, død og begravet, nedfaret til dødsriget, på tredje dag opstanden fra de døde, opfaret til himmels, siddende ved Gud Faders, den Almægtiges, højre hånd, hvorfra han skal komme at dømme levende og døde? — Ja!  
+  &nbsp;&nbsp;&nbsp;
+Tror du på Helligånden, den hellige, almindelige kirke, de helliges samfund, syndernes forladelse og det evige liv? — Ja!  
+  &nbsp;&nbsp;&nbsp;
+Vil du døbes på denne tro? — Ja!
+
+
+### Dåbshandling
+
+*Præsten øser vand tre gange på hovedet af den, der skal døbes, og siger:*  
+N.N. Jeg døber dig  
+I Faderens og Sønnens og Helligåndens navn. Amen.
+
+*Præsten lægger hånden på den døbtes hoved og siger:*  
+Den almægtige Gud, vor Herre Jesu Kristi Fader,  
+som nu har genfødt dig  
+ved vand og Helligånden  
+og skænket dig syndernes forladelse,  
+han styrke dig med sin nåde til det evige liv!  
+Han bevare din udgang og indgang  
+fra nu og til evig tid! Amen.
+
+
+### Fadervor
+
+*Derefter bedes Fadervor. Herunder lægger præsten hånden på den døbtes (de døbtes) hoved.*
+
+Fader vor, du som er i himlene!  
+Helliget vorde dit navn,  
+komme dit rige,  
+ske din vilje  
+som i himlen således også på jorden;  
+giv os i dag vort daglige brød,  
+og forlad os vor skyld, som også vi forlader vore skyldnere,  
+og led os ikke i fristelse,  
+men fri os fra det onde.  
+Thi dit er riget og magten og æren i evighed! Amen.
+
+
+### Faddertiltale
+
+*Menigheden sætter sig. Til barnets (børnenes) faddere og forældre siger præsten:*  
+I som er faddere til dette barn (disse børn), kan nu bevidne, at det (de) er døbt i Faderens og Sønnens og Helligåndens navn. Og I skal vide, hvad I skylder det barn, hvis faddere I er. Hvis det sker, at forældrene dør, før barnet kommer til skelsalder, da skal I, så vidt I har mulighed for det, drage omsorg for, at det oplæres i den kristne børnelærdom, for at det må blive i Kristus, ligesom det nu ved dåben er indpodet i ham.  
+Fred være med jer!
+
+*Eller*
+
+I forældre og faddere til dette barn (disse børn)er nu vidner på, at det (de) er døbt i Faderens og Sønnens og Helligåndens navn. I forældre skal oplære jeres barn i den kristne tro og bede for det, for at det må blive i Kristus, ligesom det nu ved dåben er indpodet i ham. Og sker det, at forældrene dør, før barnet bliver voksent, da skal I faddere, så vidt det står til jer, drage omsorg for, at det oplæres i den kristne tro.  
+Fred være med jer!
+
+*Præsten er frit stillet med hensyn til faddertiltalens ordlyd, men man kan benytte én af ovenstående tiltaler, der er vejledende for tiltalens indhold. Ved dåb af voksne slutter præsten med en kort fri tiltale til dåbsvidnerne.*
+
+
+### Dåbssalme
+
+*Efter dåben synges en salme. Ved dåb i forbindelse med en højmesse fortsættes herefter som en almindelig højmesse, og salmen kan være en af gudstjenesternes almindelige salmer.*
+
+
+### (Dåbskollekt)
+
+*Ved dåb i forbindelse med gudstjeneste, hvor der også er nadver, kan som slutningskollekt i gudstjenesten anvendes kollekten til Første søndag efter påske. Ved gudstjenester uden nadver og ved særlige dåbsgudstjenester anvendes som slutningskollekt følgende dåbskollekt:*
+
+Lad os alle bede!  
+Herre Gud, himmelske Fader!  
+Vi takker dig af hjertens grund,  
+fordi du har ladet os komme til den nådefulde dåb,  
+hvori du skænkede os syndernes forladelse,  
+Helligånden og det evige liv  
+For din Søns, Jesu Kristi, skyld.  
+Vi beder dig:  
+Bevar os i troen,  
+Så at vi aldrig tvivler om denne din gave,  
+og styrk os ved din Helligånd  
+til at stride mod synden og blive i vor dåbs nåde,  
+indtil vi bliver til evig tid salige,  
+ved din elskede Søn, Jesus Kristus, vor Herre,  
+som med dig lever og regerer i Helligåndens enhed,  
+én sand Gud fra evighed og til evighed.  
+*Menigheden:*  
+Amen.
+
+*Når der holdes dåb ved en særlig dåbsgudstjeneste, afsluttes med velsignelse, udgangssalme og postludium.*
+
+
+## Hjemmedåb
+
+*Hvis et barn på grund af sygdom eller svaghed eller af anden gyldig grund ønskes døbt i hjemmet eller på sygehuset, følger præsten det almindelige ritual for dåb i kirken, dog med udeladelse af faddertiltalen.*
+
+*Når omstændighederne taler derfor, kan dåbsritualet begrænses til: korstegnelse, trosbekendelse, dåbshandling og Fadervor.*
+
+*Når dåben foretages uden for kirken (hjemmedåb), fremstilles barnet senere i kirken ved en højmesse.*
+
+
+## Nøddåb
+
+*Nøddåben kan, hvor der ikke er tid til at hente præsten, foretages af en af de tilstedeværende.*
+
+### Dåbshandling
+
+Herre Jesus, tag i nåde mod dette barn!
+
+*Der øses vand tre gange på barnets hoved, mens man siger:*  
+N.N. Jeg døber dig  
+I Fadderens og Sønnens og Helligåndens navn. Amen.
+
+*(Med håndspålæggelse:)*  
+Den almægtige Gud, vor Herre Jesu Kristi Fader,  
+som nu har genfødt dig  
+ved vand og Helligånden  
+og skænket dig syndernes forladelse,  
+han styrke dig med sin nåde til det evige liv!  
+Han bevare din udgang og indgang  
+fra nu og til evig tid!  
+Amen.
+
+
+### Fadervor
+
+Fader vor, du som er i himlene!  
+Helligt vorde dit navn,  
+komme dit rige,  
+ske din vilje  
+som i himlen således også på jorden;  
+giv os i dag vort daglige brød,  
+og forlad os vor skyld, som også vi forlader vore skyldnere,  
+og led os ikke i fristelse,  
+men fri os fra det onde.  
+Thi dit er riget og magten og æren i evighed! Amen.
+
+Fred være med dig!
+
+*Dåb uden præstens medvirken meddeles snarest denne, og barnet bør siden fremstilles i kirken. Bliver barnets navn ikke nævnt ved dåben, skal dåben ikke af denne grund gentages, men navnet skal blot meddeles senere.*
+
+
+## Fremstilling i kirken af døbte børn
+
+*Fremstillingen af allerede døbte børn foregår i kirken ved en højmesse på dåbshandlingens sædvanlige plads. Er der både dåb og fremstilling, går dåben forud for fremstillingen.*
+
+
+### Salme
+
+*Der indledes med en salme, som kan være en af gudstjenestens almindelige salmer.*
+
+*Efter dåbssalmen indleder præsten med at spørge:*  
+Er barnet hjemmedøbt? — Ja!  
+Er det døbt i Faderens og Sønnens og Helligåndens navn? — Ja!
+
+
+### Lovprisning
+
+*Præsten siger:*  
+Lovet være Gud, vor Herre Jesu Kristi Fader,  
+som i sin store barmhjertighed  
+har genfødt os til et levende håb  
+ved Jesu Kristi opstandelse fra de døde.
+
+
+### Skriftlæsning
+
+*Præsten fortsætter, og menigheden rejser sig.*  
+Således taler vor Herre Jesus Kristus:  
+Mig er givet al magt i himlen og på jorden. Gå derfor hen og gør alle folkelagene til mine disciple, idet I døber dem i Faderens og Sønnens og Helligåndens navn, og idet I lærer dem at holde alt det, som jeg har befalet jer. Og se, jeg er med jer alle dage indtil verdens ende.
+
+*Evangelisten Markus skriver:*  
+Og de bar nogle små børn til Jesus, for at han skulle røre ved dem; disciplene truede ad dem, men da Jesus så det, blev han vred og sagde til dem: ”Lad de små børn komme til mig, det må I ikke hindre dem i, for Guds rige er deres. Sandelig siger jeg jer: Den, der ikke modtager Guds rige ligesom et lille barn, kommer slet ikke ind i det.” Han tog dem i favn og lagde hænderne på dem og velsignede dem.
+
+*Denne indledning udelades, hvis der i samme gudstjeneste er både dåb og fremstilling.*
+
+*Præsten spørger:*  
+Hvad er barnets navn? — N.N.
+
+
+### Trosbekendelse
+
+N.N. Forsager du Djævelen og alle hans gerninger og alt hans væsen? — Ja!  
+  &nbsp;&nbsp;&nbsp;
+Tror du på Gud Fader, den Almægtige, himlens og jordens skaber?
+— Ja!  
+  &nbsp;&nbsp;&nbsp;
+Tror du på Jesus Kristus, hans enbårne Søn, vor Herre, som er undfanget ved Helligånden, født af Jomfru Maria, pint under Pontius Pilatus, korsfæstet, død og begravet, nedfaret til dødsriget, på tredje dag opstanden fra de døde, opfaret til himmels, siddende ved Gud Faders, den Almægtiges, højre hånd, hvorfra han skal komme at dømme levende og døde? — Ja!  
+  &nbsp;&nbsp;&nbsp;
+Tror du på Helligånden, den hellige, almindelige kirke, de helliges samfund, syndernes forladelse og det evige liv? — Ja!
+
+
+### Bekendtgørelse og bøn
+
+*Præsten siger:*  
+Da dette barn (disse børn) allerede er døbt i Faderens og Sønnens og Helligåndens navn, vil vi ikke døbe det (dem) igen og derved ringeagte dåbens hellige gave, men vi kundgør her i menighedens forsamling, at det (de) har fået den rette kristne dåb, og vi takker vor Gud og Fader, som har taget det (dem) til nåde ved Jesus Kristus.
+
+*Præsten lægger hånden på den døbtes hoved og siger:*  
+Den almægtige Gud, vor Herre Jesu Kristi Fader,  
+som nu har genfødt dig  
+ved vand og Helligånden  
+og skænket dig syndernes forladelse,  
+han styrke dig med sin nåde til det evige liv!  
+Han bevare din udgang og indgang fra nu og til evig tid!  
+Amen.
+
+
+### Fadervor
+
+Fader vor, du som er i himlene!  
+Helliget vorde dit navn,  
+komme dit rige,  
+ske din vilje  
+som i himlen således også på jorden;  
+giv os i dag vort daglige brød,  
+og forlad os vor skyld, som også vi forlader vore skyldnere,  
+og led os ikke i fristelse,  
+men fri os fra det onde.  
+Thi dit er riget og magten og æren i evighed! Amen.
+
+Fred være med dig (jer)!
+
+
+### Faddertiltale
+
+*Menigheden sætter sig. Til barnets (børnenes) faddere og forældre siger præsten:*  
+I som er faddere til dette barn (disse børn), kan nu bevidne, at det (de) er døbt i Faderens og Sønnens og Helligåndens navn. Og I skal vide, hvad I skylder det barn, hvis faddere I er. Hvis det sker, at forældrene dør, før barnet kommer til skelsalder, da skal I, så vidt I har mulighed for det, drage omsorg for, at det oplæres i den kristne børnelærdom, for at det må blive i Kristus, ligesom det nu ved dåben er indpodet i ham.  
+Fred være med jer!
+
+*Eller*
+
+I forældre og faddere til dette barn (disse børn) er nu vidner på, at det (de) er døbt i Faderens og Sønnens og Helligåndens navn. I forældre skal oplære jeres barn i den kristne tro og bede for det, for at det må blive i Kristus, ligesom det nu ved dåben er indpodet i ham. Og sker det, at forældrene dør, før barnet bliver voksent, da skal I faddere, så vidt det står til jer, drage omsorg for, at det oplæres i den kristne tro.  
+Fred være med jer!
+
+*Såfremt der har været både dåb og fremstilling, foretages de nødvendige ændringer og tilføjelser i den almindelige faddertiltale.*
+
+
+### Salme
+
+*Efter fremstillingen synges en salme, som kan være en af gudstjenestens almindelige salmer. Og gudstjenesten fortsættes derefter som en almindelig højmesse. Som slutningskollekt kan anvendes kollekten til Første søndag efter påske eller den særlige dåbskollekt.*
+
+
+--------------------------------------------------------------------
+
+# Skriftemål
+
+*Autoriseret ved kgl. resolution af 12. juni 1992*
+
+
+## Fælles skriftemål forud for gudstjenesten
+
+*Fælles skriftemål kan holdes forud for gudstjenesten imellem anden og tredje ringning efter følgende ordning:*
+
+
+### Salme
+
+*En salme kan synges til indledning.*
+
+
+### Hilsen
+
+*Præsten siger:*  
+Nåde være med jer  
+og fred fra Gud, vor Fader,  
+og Herren Jesus Kristus
+
+
+### Skriftetale
+
+*Kan udelades*
+
+*Præsten kan læse et eller flere skrifteord, eventuelt med efterfølgende skriftetale.*
+
+*Følgende skrifteord kan for eksempel anvendes:*  
+2 Mos 20 (de ti bud)  
+Sl 6 / Sl 32 / Sl 51 / Sl 102 / Sl 130 / Sl 143  
+Es 43,25 / Es 53,5–6  
+Matt 11,28 / Matt 22,37–39 / Joh 14,27  
+Rom 5,8 / 1 Joh 1,7b / 1 Joh 1,9 / 1 Joh 4,10
+
+
+### Skriftebøn
+
+*Præsten siger:*  
+Lad os alle bede!  
+Vi bekender for dig, hellige, almægtige Gud,  
+at vi har syndet imod dig  
+i tanke, ord og gerning,  
+og det er vor egen skyld.  
+Vi beder dig:  
+Handl ikke med os efter vore synder,  
+men efter din store barmhjertighed,  
+og forlad os alle vore overtrædelser  
+for Jesu Kristi skyld. Amen.
+
+*Eller*
+
+Herre, vor Gud,  
+du kender vore hemmelige tanker,  
+og det inderste i vore ord og gerninger  
+er ikke skjult for dig.  
+Vi bekender dig, at vi har syndet imod dig  
+og ikke er værd at kaldes dine børn.  
+Men uden dig kan vi ikke leve.  
+Derfor beder vi dig:  
+Kast os ikke bort fra dit ansigt,  
+og tag ikke din Helligånd fra os.  
+Du, som tager imod syndere, tag imod os.  
+Herre, forbarm dig over os! Amen.
+
+*Eller*
+
+Herre, jeg er dig ikke værd,  
+men jeg kan ikke være dig foruden.  
+Du er jo den, som med ét ord skabte himmel og jord.  
+Herre, med et eneste ord  
+kan du gøre min sjæl rask og sund.  
+Gør med mig ikke efter min fortjeneste,  
+men efter din nåde  
+og uudgrundelige barmhjertighed.  
+Gå ikke i rette med mig,  
+men forlad mig min synd  
+og drag nu i dag ind i min sjæl med din nådes kraft,  
+så at min brøst kan blive lægt,  
+og jeg i dig kan finde fred og hvile for min sjæl  
+i troen på din kærlighed og nåde.  
+Oplys min forstand med den sande tros lys,  
+lad mit hjerte glædes ved at føle din nærværelse,  
+gør min vilje fast ved din kærlighed  
+og styrk mig til al god gerning.  
+Før mig så ved din stærke hånd fremad på livets vej  
+og til sidst igennem dødens trange port  
+hjem til evigt liv og salighed. Amen.
+
+
+### Absolution
+
+*Derefter siger præsten:*  
+På Jesu Kristi befaling  
+og for hans lidelses og døds skyld  
+kan jeg tilsige jer alle jeres synders nådige forladelse  
+i Faderens og Sønnens og Helligåndens navn!
+
+*Under håndspålæggelse siger præsten til hver enkelt:*  
+Så tilsiger jeg dig  
+alle dine synders nådige forladelse  
+i Faderens og Sønnens og Helligåndens navn!
+
+*Derefter til hvert hold for sig:*  
+Han, som har begyndt sin gode gerning i jer,  
+vil fuldføre den indtil Jesu Kristi dag.  
+Fred være med jer!
+
+
+### Salme
+
+*Der kan sluttes med en salme.*
+
+
+## Syndsbekendelse og absolution
+
+*Hvor det vedtages, kan indgangsbønnen ved enkelte gudstjenester eller i fastetiden erstattes af »Det lille Litani« eller en syndsbekendelse efterfulgt af absolution.*
+
+*Efter præludiet anvendes på indgangsbønnens plads »Det lille Litani« (DDS nr. 432) som en vekselbøn mellem P (= præst eller forsanger) og M (= menigheden).*
+
+*P* — Herre Gud Fader i himlen!  
+*M* — Forbarm dig over os!  
+*P* — Herre Jesus, vor frelsermand!  
+*M* — Forbarm dig over os!  
+*P* — Herre Helligånd, vort lys og vor trøst!  
+*M* — Forbarm dig over os!  
+*P* — Vi har syndet med vore forfædre!  
+*M* — Vi har forskyldt din vredes domme!  
+*P* — O Herre, handl ikke med os efter vore synder!  
+*M* — Og betal os ikke efter vore misgerninger!  
+*P* — O Herre, hør vor bøn!  
+*M* — Og lad vor røst komme til dig!
+
+*Eller følgende bøn, der kan bedes af kirkesangeren, kordegnen eller et andet medlem af menigheden:*  
+Herre, vor Gud,  
+du kender vore hemmelige tanker  
+og det inderste i vore ord og gerninger  
+er ikke skjult for dig.  
+Vi bekender, at vi har syndet imod dig  
+og ikke er værd at kaldes dine børn.  
+Men uden dig kan vi ikke leve.  
+Derfor beder vi dig:  
+Kast os ikke bort fra dit ansigt,  
+og tag ikke din Helligånd fra os.  
+Du, som tager imod syndere, tag imod os.  
+Herre, forbarm dig over os!
+
+*Menigheden:*  
+Herre, forbarm dig over os!
+
+*Derefter siger præsten:*  
+På Jesu Kristi befaling  
+og for hans lidelses og døds skyld  
+tilsiger jeg jer alle jeres synders nådige forladelse  
+i Faderens og Sønnens og Helligåndens navn!
+
+*Eller*
+
+På hans ord, som har døbt os,  
+tilsiger jeg jer alle jeres synders nådige forladelse  
+i Faderens og Sønnens og Helligåndens navn!
+
+*Menigheden:*  
+Amen.
+
+*Gudstjenesten fortsættes derefter med indgangssalme, hilsen og indledningskollekt. I gudstjenestens afslutning kan udgangsbønnen bortfalde.*
+
+
+## Privat skriftemål
+
+*Ved privat skriftemål henvender man sig til en præst. Skriftemålet kan finde sted i kirken eller hos præsten eller for eksempel ved at sygeleje. Præsten har tavshedspligt.*
+
+
+### Syndsbekendelse
+
+*Den der skrifter, kan med egne ord bekende, hvad der nager hans samvittighed. Derefter læses en salme fra salmebogen, en bibelsk salme eller en af skriftebønnerne fra det fælles skriftemål.*
+
+
+### Absolution
+
+*Præsten siger under håndspålæggelse:*  
+På Jesu Kristi befaling  
+og for hans lidelses og døds skyld  
+tilsiger jeg dig alle dine synders nådige forladelse  
+i Faderens og Sønnens og Helligåndens navn!
+
+Han, som har begyndt sin gode gerning i dig,  
+vil fuldføre den indtil Jesu Kristi dag.  
+Fred være med dig!
+
+
+### Fadervor
+
+Fader vor, du som er i himlene!  
+Helliget vorde dit navn,  
+komme dit rige,  
+ske din vilje  
+som i himlen således også på jorden;  
+giv os i dag vort daglige brød,  
+og forlad os vor skyld, som også vi forlader vore skyldnere,  
+og led os ikke i fristelse,  
+men fri os fra det onde.  
+Thi dit er riget og magten og æren i evighed! Amen.
+
+
+### Velsignelse
+
+*Præsten siger:*  
+Herren velsigne dig og bevare dig!  
+Herren lade sit ansigt lyse over dig og være dig nådig!  
+Herren løfte sit åsyn på dig og give dig fred!
+
+*Der kan sluttes med en salme.*
