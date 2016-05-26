@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using i3 wm with mate
+category: tech
 ---
 
 Instructions for changing the window manager in mate from marco to i3:

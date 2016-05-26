@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building simple .deb package
+category: tech
 ---
 
 Instructions for buliding simple deb package from compiled binary with dpkg-deb. Only recommended for personal use.

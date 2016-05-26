@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Checklist for clean os install
+category: tech
 ---
 
 ##### Applications

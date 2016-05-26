@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Online dictionaries
+category: other
 ---
 
 ##### Danish:

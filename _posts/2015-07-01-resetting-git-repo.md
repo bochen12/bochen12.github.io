@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resetting git repo
+category: tech
 ---
 
 1. delete .git directory
