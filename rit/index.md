@@ -71,7 +71,7 @@ title: Ritualbog 1992
 [Velsignelse](#velsignelse-1)
 
 [**Konfirmation**](#konfirmation)  
-— [**Tale til konfirmanderne**](#tale-til-konfirmanderne), 
+— [Tale til konfirmanderne](#tale-til-konfirmanderne), 
 [Trosbekendelse](#trosbekendelse-3), 
 [Tilspørgsel og svar](#tilsprgsel-og-svar), 
 [Konfirmationsvelsignelse](#konfirmationsvelsignelse), 
