@@ -7,6 +7,25 @@ Welcome to yet another website on the www. This is mainly a personal site for sh
 
 <hr>
 
+
+<h3 style="color:#800000;">Theology posts:</h3>
+
+<p></p>
+
+<div class="posts">
+  {% for post in site.categories.theology %}
+    <h5 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h5>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+  {% endfor %}
+</div>
+
+
 <h3 style="color:#800000;">Tech posts:</h3>
 
 <p></p>
