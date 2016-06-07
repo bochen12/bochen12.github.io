@@ -514,9 +514,171 @@ Han havde taget en meget myndig mine på. Hvor er de voksne dog mærkelige, sagd
 
 ## Kapitel XI
 
+På den næste planet boede en forfængelig mand.
+
+– Nånå, nånå! Besøg af en beundrer! udbrød den forfængelige på lang afstand, så snart han havde fået øje på den lille prins. Thi for den forfængelige er de andre beundrere.
+
+– Goddag, sagde den lille prins. Det var da en mærkelig hat, De har på.
+
+– Den er til at hilse med, svarede den forfængelige mand. Den er til at hilse med, når man tiljubler mig. Der kommer bare aldrig nogen forbi her, desværre.
+
+– Jaså! sagde den lille prins, som ikke forstod et ord af det hele.
+
+Men så sagde den forfængelige: – Prøv at klappe i hænderne.
+
+Den lille prins klappede i hænderne. Den forfængelige mand lettede på hatten og hilste beskedent.
+
+– Dette her er meget morsommere end at være på besøg hos kongen, sagde den lille prins til sig selv. Og han gav sig igen til at klappe i hænderne. Den forfængelige mand hilste igen ved at lette på hatten.
+
+Efter fem minutters eksercits blev den lille prins træt af legens ensformighed.
+
+– Hvad skal man gøre for at få hatten til at falde af? spurgte han. Men den forfængelige mand hørte ham ikke. De forfængelige hører aldrig andet end lovordene.
+
+– Beundrer du mig virkelig så stærkt? spurgte han den lille prins.
+
+– Hvad betyder beundre?
+
+– Beundre betyder at anerkende, at jeg er den smukkeste, den mest velklæte, den rigeste og den klogeste mand på hele planeten.
+
+– Men der er jo ikke andre på planeten!
+
+– Tjen mig nu i at beundre mig alligevel!
+
+– Jeg beundrer dig, sagde den lille prins og trak lidt på skuldrene, men hvilken interesse kan du dog have i det?
+
+Og den lille prins greb flugten.
+
+De voksne er ganske afgjort meget mærkelige, sagde han til sig selv, da han drog videre ud i verden.
+
 ## Kapitel XII
 
+På den næste planet boede en dranker. Det blev et meget kort besøg, men det hensatte den lille prins i det dybeste mismod.
+
+– Hvad bestiller du der? spurgte han drankeren, som han fandt siddende tavs foran en hær af tomme flasker og en hær af fulde flasker.
+
+– Jeg drikker, svarede drankeren og så dyster ud.
+
+– Hvorfor drikker du? spurgte den lille prins.
+
+– For at glemme, svarede drankeren.
+
+– For at glemme hvad, forhørte den lille prins sig. Han var allerede ved at få ondt af drankeren.
+
+– For at glemme at jeg skammer mig, tilstod drankeren og bøjede hovedet.
+
+– Skammer dig over hvad? spurgte den lille prins, som gerne ville hjælpe ham.
+
+– Over at jeg drikker, sagde drankeren afsluttende og indhyllede sig i fuldkommen tavshed.
+
+Og den lille prins flygtede forvirret.
+
+De voksne er bestemt meget mærkelige, sagde han til sig selv, da han drog videre ud i verden.
+
 ## Kapitel XIII
+
+Den fjerde planet var forretningsmandens planet. Denne mand var så optaget, at han ikke engang så op, da den lille prins kom.
+
+– Goddag, sagde den lille prins. Deres cigaret er gået ud.
+
+– To og tre er fem. Fem og syv er tolv. Tolv og tre er femten. Goddag. Femten og syv er toogtyve. Toogtyve og seks er otteogtyve. Har ikke tid til at tænde den igen. Seksogtyve og fem er enogtredive. Se så! Det bliver altså femhundrede og én million sekshundrede og toogtyve tusind syvhundrede og enogtredive.
+
+– Fem hundrede millioner hvadfornoget?
+
+– Hvad for noget? Er du der endnu? Fem hundrede og én million … det kan jeg ikke huske mere … jeg har så forfærdelig travlt. Jeg er nemlig alvormand. Jeg spilder ikke min tid med snak! To og fem er syv …
+
+– Fem hundrede og én million hvadfornoget? sagde den lille prins, som aldrig i sit liv havde ladet sig snyde for et svar, når han én gang havde stillet sit spørgsmål.
+
+Forretningsmanden løftede hovedet.
+
+– I de fireoghalvfjerds år jeg har boet her, er jeg kun blevet forstyrret tre gange. Første gang – det er nu toogtyve år siden – det var en oldenborre, der dumpede ned her, guderne må vide hvorfra. Den lavede et forfærdeligt spektakel, og jeg lavede fire fejl i en sammentælling. Anden gang, for elleve år siden, var det reumatisme. Jeg får ingen motion. Jeg har ikke tid til at gå tur. Jeg er alvorsmand. Tredje gang … det er nu! Hvor var det, jeg kom til: fem hundrede og én millioner …
+
+– Millioner hvadfornoget?
+
+Forretningsmanden forstod, at der ikke var noget håb om fred.
+
+– Af disse små tingester, man somme tider ser på himmelen.
+
+– Fluer?
+
+– Nej, nej, de små, der skinner.
+
+– Bier da?
+
+– Nej, nej. De små gyldne tingester, der får døgenigte til at hengive sig til drømmerier. Men jeg er en alvorsmand. Jeg har ikke tid til at drømme.
+
+– Nåh! Stjerner?
+
+– Ja, netop. Stjerner.
+
+– Og hvad skal du med fem hundrede og én millioner stjerner?
+
+– Fem hundrede og én millioner seks hundrede og toogtyve tusind syv hundrede og enogtredive. Jeg tager det nemlig højtideligt. Jeg er meget nøjagtig.
+
+– Og hvad skal du så med alle de stjerner?
+
+– Hvad jeg skal med dem?
+
+– Ja.
+
+– Ikke noget. Jeg ejer dem.
+
+– Ejer du stjernerne?
+
+– Ja.
+
+– Men jeg har lige truffet en konge, der …
+
+– Konger ejer ingenting. De »hersker« over. Det er noget helt andet.
+
+– Og hvad har du så ud af at eje stjernerne?
+
+– Det, at jeg er rig.
+
+– Og hvad gavner det dig, at du er rig?
+
+– Så kan jeg købe flere stjerner, hvis der skulle findes nogen.
+
+Han tænker jo næsten ligesom den fulde mand, sagde den lille prins til sig selv.
+
+– Hvordan kan man egentlig eje stjerner?
+
+– Hvem skulle de ellers tilhøre? riposterede forretningsmanden gnavent.
+
+– Det ved jeg ikke. Ingen vel.
+
+– Så er de altså mine. For det er mig, der først har tænkt på det.
+
+– Er det nok?
+
+– Ja, ja. Når du finder en diamant, der ikke tilhører nogen, så er den din. Finder du en ø, som ikke tilhører nogen, så er den din. Når du er den første, der får en idé, tager du patent på den, og den er din. Og jeg ejer altså stjernerne, fordi der ikke er nogen før mig, der har tænkt på at eje dem.
+
+– Det kan være rigtig nok, sagde den lille prins, men hvad bruger du dem til?
+
+– Jeg forvalter dem. Jeg tæller dem om og om igen, sagde forretningsmanden. Det er svært. Men jeg er jo alvorsmand.
+
+Den lille prins var endnu ikke tilfreds.
+
+– Jamen, hvis jeg ejer et tørklæde, så kan jeg tage det om halsen og tage det med mig. Og hvis jeg ejer en blomst, kan jeg plukke den og tage den med mig. Men du kan ikke plukke dine stjerner!
+
+– Nej, men jeg kan sætte dem i banken.
+
+– Hvad betyder det?
+
+– Det betyder, at jeg skriver op på et stykke papir, hvor mange stjerner jeg har. Og så låser jeg det stykke papir ned i en skuffe.
+
+– Er det det hele?
+
+– Det er nok!
+
+Det var morsomt, tænkte den lille prins. Det er ganske poetisk. Men særlig alvorligt er det nu ikke.
+
+Den lille prins’ forestillinger om, hvad der var alvorligt, var meget forskellig fra de voksnes.
+
+– Jamen, vedblev han, jeg ejer en blomst, som jeg vander hver dag. Jeg ejer tre vulkaner, som jeg fejer én gang om ugen. Jeg fejer nemlig også den, der er udslukt. Man kan jo aldrig vide. Det er til gavn for mine vulkaner og det er til gavn for min blomst, at jeg ejer dem. Men du er ikke til nogen gavn for dine stjerner …
+
+Forretningsmanden åbnede munden, men kunne ikke finde på noget at svare, og den lille prins løb sin vej.
+
+– De voksne er nu bestemt meget mærkelige, sagde han til sig selv, da han drog videre ud i verden.
 
 ## Kapitel XIV
 
