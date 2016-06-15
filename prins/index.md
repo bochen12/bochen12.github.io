@@ -682,28 +682,840 @@ Forretningsmanden åbnede munden, men kunne ikke finde på noget at svare, og de
 
 ## Kapitel XIV
 
+Den femte planet var meget ejendommelig. Den var ganske lillebitte. Der var lige akkurat plads til, at der kunne stå en lygtepæl og en lygtetænder. Den lille prins kunne slet ikke forstå, hvad en lygtepæl og en lygtetænder havde at gøre helt heroppe i himmelen på en planet uden huse og uden beboere. Men han tænkte som så:
+
+– Det kan godt være, han er meningsløs, men han er ikke nær så meningsløs som kongen og den forfængelige eller som forretningsmanden og drankeren. Hans arbejde er der da mening i. Når han tænder sin lygte, så er det, som om han skaber en stjerne til, en ny blomst. Når han slukker sin lygte, slumrer blomsten eller stjernen ind. Det er en meget smuk beskæftigelse. Og den er virkelig til gavn, eftersom den er smuk.
+
+Da han kom til planeten, hilste han ærbødigt på lygtetænderen.
+
+– Goddag. Hvorfor har du lige slukket din lygte?
+
+– Sådan lyder instruksen. Goddag.
+
+– Hvad går dine instrukser ud på?
+
+– At slukke lygten. Godaften.
+
+Og han tændte den igen.
+
+– Men hvorfor tænder du den igen?
+
+– Sådan lyder instruksen, svarede lygtetænderen.
+
+– Den forstår jeg ikke.
+
+– Der er ikke noget at forstå. Instrukser er instrukser. God morgen.
+
+Og han slukkede sin gadelygte.
+
+Så tørrede han sig i panden med et rødternet lommetørklæde.
+
+– Det er en rædselsfuld bestilling, jeg har. Tidligere var der mening i den. Da slukkede jeg om morgenen og tændte om aftenen. Jeg havde hele dagen at hvile ud i, og hele natten at sove i.
+
+– Men instrukserne er altså blevet ændret siden da?
+
+– Instrukserne er uforandrede, svarede lygtetænderen. Det er det, der er tragedien. Planeten drejer hurtigere og hurtigere rundt for hvert år, der går, og instrukserne er ikke blevet ændret!
+
+– Og hvad så? spurgte den lille prins.
+
+– Så har jeg ikke et øjebliks ro, nu da den drejer en omgang i minuttet. Jeg tænder og slukker én gang i minuttet.
+
+– Det var sjovt. Så varer en dag her hos dig altså kun ét minut?
+
+– Det er der ikke noget sjovt i, svarede lygtetænderen. Vi har allerede stået og snakket med hinanden i en måned.
+
+– En måned.
+
+– Ja. Tredive minutter. Tredive dage. Godaften.
+
+Og han tændte atter sin gadelygte.
+
+Den lille prins stod og så på ham, og han kom til at holde så meget af denne lygtetænder, der var så tro mod sine instrukser. Han mindedes solnedgangene, han selv før i tiden var gået hen for at betragte, trækkende sin lille stol efter sig. Han ville hjælpe sin ven:
+
+– Ved du hvad … jeg ved en udvej, så du kan hvile dig, når du vil …
+
+– Det vil jeg altid, sagde lygtetænderen.
+
+For man kan godt på én gang være pligttro og doven.
+
+Den lille prins fortsatte:
+
+– Din planet er så lille, at du kan gå rundt om den i tre skridt. Du behøver bare at gå ganske langsomt for at holde dig i solen hele tiden. Så når du vil hvile dig, behøver du bare at gå … og dagen vil vare så længe, du ønsker det.
+
+– Det hjælper mig ikke stort, svarede lygtetænderen. Det jeg holder mest af her i livet er nu engang at sove.
+
+– Ja, så er der ikke noget at gøre, sagde den lille prins.
+
+– Nej, der er ikke noget at gøre, sagde lygtetænderen. Godmorgen.
+
+Og han slukkede sin gadelygte.
+
+Denne mand, sagde den lille prins til sig selv, medens han drog videre ud i verden, vil alle de andre se ned på, både kongen og den forfængelige, drankeren og forretningsmanden. Men han er nu den eneste, jeg ikke finder latterlig. Det er måske fordi han beskæftiger sig med andre ting end sig selv.
+
+Han drog et længselsfuldt suk og tænkte videre:
+
+– Han var den eneste, jeg kunne være blevet ven med. Men hans planet er faktisk for lille. Der er ikke plads til to …
+
+Men hvad den lille prins ikke turde indrømme over for sig selv, det var at han længtes efter lygtetænderens velsignede lille planet, navnlig på grund af dens fjorten hundrede og fyrretyve solnedgange i døgnet.
+
 ## Kapitel XV
+
+Den sjette planet var ti gange så stor. På den boede en gammel herre, der skrev tykke bøger.
+
+– Nåda, der har vi nok en opdagelsesrejsende! udbrød han, da han fik øje på den lille prins.
+
+Den lille prins satte sig op på bordet og pustede lidt. Han havde allerede rejst så forfærdelig længe.
+
+– Hvor kommer du fra? spurgte den gamle herre.
+
+– Hvad er det for en tyk bog? spurgte den lille prins. Hvad bestiller De her?
+
+– Jeg er geograf.
+
+– Hvad er det for noget?
+
+– Det er en videnskabsmand, der ved, hvor alle have, floder, byer, bjerge og ørkener ligger.
+
+– Det var interessant, sagde den lille prins. Det var da endelig en rigtig bestilling. Og så så han sig om på geografens planet. Han havde aldrig set så imponerende en planet.
+
+– Hvor er det dog en dejlig planet, De har. Er der også store have på den?
+
+– Det ved jeg ikke noget om.
+
+– Åh – den lille prins var skuffet – men så bjerge da?
+
+– Det ved jeg skam ikke noget om.
+
+– Og byer og floder og ørkener?
+
+– Det ved jeg skam heller ikke noget om, sagde geografen.
+
+– Jamen, De er jo geograf?
+
+– Netop, sagde geografen, men jeg er ikke opdagelsesrejsende. Jeg har i højeste grad brug for opdagelsesrejsende. Det er ikke geograferne, der foretager optællingen af byer, floder, bjerge, søer, have og ørkener. Geografen er alt for betydelig en mand til at strejfe om. Han forlader ikke sit studereværelse, men her modtager han sine opdagelsesrejsende. Han spørger dem ud, han skriver ned, hvad de kan huske. Og hvis geografen synes, at en af dem kan huske interessante ting, indhenter han oplysninger om vedkommendes moralske habitus.
+
+– Hvorfor?
+
+– Fordi en opdagelsesrejsende, der lyver, fører til en masse katastrofer i geografibøgerne. Det samme gælder opdagelsesrejsende, der drikker for meget.
+
+– Hvorfor? spurgte den lille prins.
+
+– Fordi fulde folk ser dobbelt, og så kommer geografen til at skrive to bjerge op, hvor der kun er et.
+
+– Så kender jeg en, der ville være en meget dårlig opdagelsesrejsende, sagde den lille prins.
+
+– Det er muligt. Men hvis nu den opdagelsesrejsendes moralske vandel synes at være i orden, underkaster man hans opdagelser en nærmere undersøgelse.
+
+– Rejser man ud og ser efter, om de passer?
+
+– Nej. Det bliver for indviklet. Man forlanger, at han skal komme med beviser. Hvis der for eksempel er tale om et stort bjerg, forlanger man, at han skal medbringe store sten derfra.
+
+Geografen kom pludselig i stærk bevægelse.
+
+– Men du, du kommer jo langvejs fra! Du er opdagelsesrejsende! Nu må du beskrive din planet for mig.
+
+Og geografen, der havde slået op i sin protokol, gav sig til at spidse blyant. Først nedskriver man de opdagelsesrejsendes beretning med blyant. Man venter med at skrive det rent med blæk, til han har leveret sine beviser.
+
+– Nå, begyndte geografen sit forhør.
+
+– Åh, sagde den lille prins. Hjemme hos mig er her ikke særlig interessant. Der er alting ganske småt. Jeg har tre vulkaner, to virksomme og en udslukt. Men man kan jo aldrig vide.
+
+– Nej, man kan aldrig vide, sagde geografen.
+
+– Jeg har også en blomst.
+
+– Blomster skriver vi ikke op, sagde geografen.
+
+– Hvorfor ikke? Blomster er da det smukkeste, man har.
+
+– Fordi blomster er efemeriske.
+
+– Hvad betyder efemeriske?
+
+– Geografibøger, sagde geografen, er de værdifuldeste af alle bøger. De bliver aldrig forældede. Det er meget sjældent, at et bjerg skifter plads. Det er meget sjældent, at et hav tørrer ud. Vi skriver om de evige ting …
+
+– Jamen udslukte vulkaner kan vågne op igen, afbrød den lille prins. Og hvad betyder »efemerisk«?
+
+– Om det er ildsprudende eller ej, det er os det samme, sagde geografen. For os er det bare bjerget, der tæller. Og det forandrer sig ikke.
+
+– Men hvad betyder efemerisk? spurgte den lille prins, som aldrig i sit liv havde ladet et spørgsmål ligge, når han én gang havde stillet det.
+
+– Det betyder »det, der trues af snarlig forsvinden«.
+
+– Trues min blomst af snarlig forsvinden?
+
+– Ja, det gør den rigtignok.
+
+Min blomst er efemerisk, sagde den lille prins til sig selv, og den har kun fire torne at forsvare sig mod verden med! Og den har jeg ladet blive helt alene tilbage derhjemme!
+
+Det var første gang han fik anfægtelser, men han fattede atter mod:
+
+– Hvad vil De råde mig til at besøge? spurgte han.
+
+– Planeten Jorden, svarede geografen. Det er en meget anset planet …
+
+Og den lille prins drog bort. Han tænkte på sin blomst.
 
 ## Kapitel XVI
 
+Den syvende planet blev altså Jorden.
+
+Jorden er ikke nogen helt almindelig planet. Den kan opvise ét hundrede og elleve konger (heri naturligvis medregnet negerkonger), syv tusinde geografer, ni hundrede tusinde forretningsmænd, syv en halv millioner drankere, tre hundrede og elleve millioner forfængelige, dvs. ca. to milliarder voksne.
+
+For at give dig en forestilling om Jordens størrelse kan jeg fortælle dig, at man, før elektriciteten blev opfundet, på de seks kontinenter tilsammen måtte holde en regulær hær på fire hundrede og toogtres tusind fem hundrede og elleve lygtetændere.
+
+Set lidt på afstand var det af strålende virkning. – Denne hær bevægede sig lige så præcist som et balletkorps. Først var det de new-zealandske og australske lygtetænderes tur. Og når de havde tændt deres lygter, lagde de sig til at sove; så blev det de kinesiske og sibiriske lygtetænderes tur til at træde ind i dansen, og derpå trak de sig også ud i kulissen. Så kom de russiske og indiske lygtetænderes tur, derefter de afrikanske og europæiske, så de sydamerikanske og endelig de nordamerikanske. Og aldrig kludrede de med, i hvilken rækkefølge de skulle på scenen. Det var pragtfuldt.
+
+Kun den lygtetænder, der passede Nordpolens eneste lygtepæl, og hans kollega, der tog sig af Sydpolens eneste lygtepæl, levede et liv i lediggang og sløvhed: de arbejdede to gange om året.
+
 ## Kapitel XVII
+
+Når man vil være åndfuld, kommer man let til at lyve lidt, jeg har ikke holdt mig helt til sandheden, da jeg fortalte dig om lygtetænderne. Jeg kan risikere at give dem, der ikke kender vor klode, et helt falsk billede af den. Menneskene optager kun lidt plads på Jorden. Hvis de to milliarder indbyggere, der udgør Jordens befolkning, stod oprejst og tæt rykket sammen som til et folkemøde, ville de kunne være på en offentlig plads på tyve gange tyve mil. Hele menneskeheden kunne klemmes sammen på den mindste ø i Stillehavet.
+
+Men det vil de voksne skam ikke tro på. De tror, de fylder så meget. De betragter sig selv som noget lige så vigtigt som baobaberne. Men foreslå dem engang at regne det ud. De elsker tal: det er noget, de kan lide. Men spild ikke selv din tid på dette kedelig stykke ekstraarbejde. Det er ganske unødvendigt. Du stoler jo på mig.
+
+Da den lille prins endelig var kommet ned på Jorden, blev han derfor meget forbavset over ikke at møde nogen. Han var allerede begyndt at blive bange for, at han havde taget fejl af planeterne, da en ring af samme farve som månen begyndte at røre på sig i sandet.
+
+– Godaften, sagde den lille prins.
+
+– Godaften, svarede slangen.
+
+– Hvad er det for en planet, jeg er dalet ned på? spurgte den lille prins.
+
+– På Jorden, i Afrika, svarede slangen.
+
+– Ah … er der da ingen mennesker på Jorden?
+
+– Vi befinder os i ørkenen, og i ørkenen er der ingen mennesker. Jorden er stor, sagde slangen.
+
+Den lille prins satte sig på en sten og vendte blikket mod himmelen:
+
+– Jeg gad vide, om stjernerne mon skinner, for at vi alle en dag skal finde vor stjerne, sagde han. Se engang min planet. Den er lige her oven over os. Men hvor er den dog langt borte.
+
+– Den er smuk, sagde slangen. Hvad vil du hernede?
+
+– Jeg havde visse vanskeligheder med en blomst, svarede den lille prins.
+
+– Ah, sagde slangen.
+
+Og så tav de begge.
+
+– Hvor er menneskene henne? begyndte den lille prins igen. Der er lidt ensomt herude i ørkenen …
+
+– Der er ensomt blandt mennesker også, svarede slangen.
+
+Den lille prins smilte:
+
+– Du kan ikke være særlig mægtig … du har ikke engang lemmer … du kan ikke engang drage ud i verden …
+
+– Jeg kunne føre dig længere bort end noget skib, svarede slangen og snoede sig som en guldarmring om den lille prins’ ankel.
+
+– Den jeg rører ved, giver jeg tilbage til jorden, hvoraf han er kommet. Men du er ren, og du kommer fra en stjerne …
+
+Den lille prins svarede ikke.
+
+– Du vækker min medlidenhed – svag som du er på denne granitjord. Hvis du en dag kommer til at længes alt for meget efter din planet, kan jeg hjælpe dig. Jeg kan …
+
+– Åh! Jeg har forstået dig, sagde den lille prins. Men hvorfor taler du altid i gåder?
+
+– Jeg løser alle gåder, svarede slangen.
+
+Og så tav de begge.
 
 ## Kapitel XVIII
 
+Den lille prins drog tværs gennem ørkenen og mødte ikke andre end en blomst. En blomst med tre kronblade, en lille uanselig blomst …
+
+– Goddag, sagde prinsen.
+
+– Goddag, sagde blomsten.
+
+– Hvor er menneskene henne? spurgte den lille prins høfligt.
+
+Blomsten havde en dag set en karavane drage forbi:
+
+– Menneskene. Der er vist bare en seks-syv stykker. Jeg så dem engang for flere år siden. Men det er ikke godt at vide, hvor de er. Vinden fører dem med sig. De har ingen rødder, det er højst ubehageligt for dem.
+
+– Farvel, sagde den lille prins.
+
+– Farvel, sagde blomsten.
+
 ## Kapitel XIX
+
+Den lille prins besteg derefter et højt bjerg. De eneste bjerge, han hidtil havde kendt, var tre vulkaner, der nåede ham til knæet. Den udslukte vulkan brugte han som skammel.
+
+– Oppe fra så højt et bjerg må jeg på én gang kunne se ud over hele kloden og alle menneskene … sagde han til sig selv. Men han kunne ikke få øje på andet end sylespidse klippetinder.
+
+– Goddag, sagde han lige ud i luften.
+
+– Goddag … Goddag … Goddag … svarede ekkoet.
+
+– Hvem er du? spurgte den lille prins.
+
+– Hvem er du … hvem er du … hvem er du? svarede ekkoet.
+
+– Lad os være venner, jeg er så alene, sagde han.
+
+– Jeg er så alene … så alene … så alene … svarede ekkoet.
+
+Hvilken ejendommelig planet! tænkte den lille prins da. Den er fuldkommen udtørret, spids og salt. Og menneskene er ganske uden fantasi. De gentager blot det, man siger … Hjemme havde jeg en blomst. Den begyndte altid samtalen …
 
 ## Kapitel XX
 
+Men nu skete det, at den lille prins efter længe at have vandret gennem sand, klipper og sne, fik øje på en vej. Og alle veje fører til menneskene.
+
+– Goddag, sagde han.
+
+Han stod i en have fuld af blomstrende roser.
+
+– Goddag, sagde roserne.
+
+Den lille prins stirrede på dem. De lignede alle hans blomst.
+
+– Hvem er I? spurgte han forbløffet.
+
+– Vi er roserne, svarede de.
+
+– Ah! sagde den lille prins.
+
+Og han følte sig meget ulykkelig. Hans blomst havde fortalt ham, at den var den eneste i sin art i hele verden. Og her var nu fem tusinde akkurat mage til i en enkelt have!
+
+Det ville ærgre den grusomt, hvis den vidste det, tænkte han … den ville hoste voldsomt og lade, som om den var ved at dø, for at slippe for at blive til grin. Og jeg ville være nødt til at lade, som om jeg plejede og passede den, ellers kunne den godt finde på at lægge sig til at dø for alvor for også at ydmyge mig …
+
+Og han sagde endvidere til sig selv: Jeg troede, den var den eneste, og følte mig rig, og så er det bare en ganske almindelig rose, jeg ejer. Den og så mine tre vulkaner, der går mig til knæet og hvoraf den ene måske for altid er udslukt – det bliver jeg ikke nogen særlig stor prins af …
+
+Og han lagde sig ned i græsset og græd.
+
 ## Kapitel XXI
+
+Da var det ræven dukkede op.
+
+– Goddag, sagde ræven.
+
+– Goddag, svarede den lille prins høfligt og vendte sig om, men han kunne ikke se nogen.
+
+– Jeg er her, sagde stemmen, under æbletræet.
+
+– Hvem er du? spurgte den lille prins, du ser så pæn ud …
+
+– Jeg er en ræv, sagde ræven.
+
+– Vil du ikke lege med mig? spurgte den lille prins. Jeg er så ked af det.
+
+– Jeg kan ikke lege med dig, sagde ræven, jeg er ikke gjort tam.
+
+– Ah, så må du undskylde, sagde den lille prins.
+
+Men da han havde tænkt sig lidt om, tilføjede han:
+
+– Hvad er det at blive gjort tam?
+
+– Du stammer nok ikke herfra, sagde ræven. Hvad søger du egentlig?
+
+– Jeg søger mennesker, svarede den lille prins. Men hvad betyder »gøre tam«?
+
+– Mennesker har bøsser, sagde ræven, og de går på jagt. Det er meget generende! De opdrætter også høns. Det er det eneste interessante ved dem. Leder du også efter høns?
+
+– Nej, sagde den lille prins, jeg leder efter venner. Hvad betyder »gøre tam«?
+
+– Noget man i alt for høj grad har glemt. Det betyder at knytte bånd.
+
+– Knytte bånd?
+
+– Ja vist, sagde ræven. Endnu betyder du ikke andet for mig end en lille dreng, mage til hundrede tusinde andre små drenge. Jeg har ikke brug for dig, og du har heller ikke brug for mig. For dig er jeg bare en ræv mage til hundrede tusinde andre ræve. Men hvis du gør mig tam, så vil vi få brug for hinanden. Så bliver du den eneste i verden for mig, og jeg bliver den eneste i verden for dig.
+
+– Nu begynder jeg at forstå, sagde den lille prins. Der er en blomst … den har vist gjort mig tam …
+
+– Det er muligt, sagde ræven. På Jorden kan man komme ud for lidt af hvert …
+
+– Jamen det var skam ikke på Jorden, sagde den lille prins. Det så ud, som om rævens nysgerrighed var blevet vakt.
+
+– Var det på en anden planet!
+
+– Ja.
+
+– Var der nogen jægere på den planet?
+
+– Nej.
+
+– Det var højst interessant. Og høns?
+
+– Nej.
+
+– Intet er fuldkomment, sukkede ræven.
+
+Men ræven forfulgte sin tanke fra før.
+
+– Mit liv er ensformigt. Jeg jager høns, og menneskene jager mig. Alle høns ligner hinanden, og alle mennesker ligner hinanden. Og derfor keder jeg mig lidt. Men hvis du ville gøre mig tam, ville der komme solskin i mit liv. Jeg ville da kende lyden af skridt, der var helt forskellige fra alle andre. De andres skridt vil få mig til at søge ned under jorden. Men dine ville som lokkende toner kalde mig frem af min underjordiske bolig. Se dig engang om! Kan du se kornmarkerne dernede? Jeg spiser ikke korn. For mig er kornmarker noget ganske unødvendigt. De siger mig ikke noget. Og det er så kedeligt! Men dit hår har farve som guld. Og derfor ville det være så vidunderligt, hvis du ville gøre mig tam. For så ville kornet, som også er gyldent, få mig til at tænke på dig. Og jeg ville komme til at elske lyden af vinden, der stryger gennem kornet …
+
+Ræven holdt inde og stirrede længe på den lille prins:
+
+– Åh, vil du ikke godt … vil du ikke nok gøre mig tam? sagde den.
+
+– Jeg ville gerne, sagde den lille prins, men jeg har ikke megen tid. Jeg skal have fundet venner, og der er så meget, jeg skal lære at kende.
+
+– Man lærer kun det at kende, som man gør tamt, sagde ræven. Menneskene har ikke mere tid til at lære noget at kende. De køber alting færdigt hos de handlende. Men der findes ingen butikker, hvor man hnadler med venner. Menneskene har ikke mere nogen venner. Hvis du ønsker en ven, så gør mig tam.
+
+– Hvordan bærer man sig ad? spurgte den lille prins.
+
+– Man skal være meget tålmodig, svarede ræven. Først skal du sætte dig et stykke fra mig, således, i græsset. Jeg skæver til dig, og du siger ingenting. Ordene er misforståelsens kilde. Men for hver dag ville du kunne rykke lidt nærmere …
+
+Næste dag kom den lille prins tilbage.
+
+– Det var bedre, hvis du kunne komme på samme tid, sagde ræven. Hvis du for eksempel kom klokken fire om eftermiddagen, så ville jeg allerede kunne begynde at glæde mig klokken tre. Jo mere tiden nærmer sig, des gladere vil jeg være. Klokken fire er jeg allerede begyndt at blive rastløs og urolig; jeg lærer, at lykken har sin pris. Men hvis du kommer på et vilkårligt tidspunkt, vil jeg aldrig vide, hvornår jeg skal klæde mit hjerte i festdragt. Et ritual må der til.
+
+– Hvad er et ritual? spurgte den lille prins.
+
+– Det er også noget, man i alt for høj grad har glemt, sagde ræven. Det er det, der får en dag til at blive forskellig fra alle andre dage, en time forskellig fra alle andre timer. Blandt mine jægere for eksempel findes der et ritual. Hver torsdag danser de med landsbyens unge piger. Og derfor er torsdag en dejlig dag. Jeg kan spadsere helt ned til vinmarkerne. Hvis jægerne dansede når som helst, ville alle dage ligne hinanden, og jeg ville aldrig have nogen fridag.
+
+Så gjorde den lille prins da ræven tam, og da afrejsens stund nærmede sig, sagde ræven:
+
+– Åh, hvor vil jeg komme til at græde.
+
+– Det er din egen skyld, sagde den lille prins. Det er ikke, fordi jeg er skadefro, men du har selv ønsket, at jeg skulle gøre dig tam …
+
+– Ja, naturligvis, sagde ræven.
+
+– Men du vil komme til at græde, sagde den lille prins.
+
+– Naturligvis, sagde ræven.
+
+– Jamen, så har du ikke fået noget ud af det!
+
+– Jo, det har jeg, sagde ræven. Takket være kornets farve.
+
+Derefter tilføjede han:
+
+– Gå hen og se på roserne igen, og du vil forstå, at din er den eneste i verden.
+
+– Kom så tilbage og sig farvel, og jeg skal som afskedsgave betro dig en hemmelighed.
+
+Den lille prins gik hen og så på roserne.
+
+– I ligner slet ikke min rose, I er slet ingenting endnu, sagde han til dem. Ingen har gjort jer tamme, og I har ikke gjort nogen tamme. I er ligesom ræven var. Den var bare en ræv ligesom hundrede tusinde andre ræve. Men jeg gjorde den til min ven, og nu er den den eneste ræv i verden.
+
+Og roserne blev helt flove.
+
+– I er smukke, men tomme, vedblev han. Man går ikke i døden for jer. En almindelig forbipasserende ville nok tro, at min rose var ligesom I. Den alene er mere betydningsfuld end jer alle sammen, fordi det er den, jeg har vandet. Fordi det er den, jeg har dækket med en skærm. Fordi det er den, jeg har slået kålorme ihjel for (lige med undtagelse af det par stykker, der skulle blive til sommerfugle). Fordi det er den, jeg har hørt beklage sig eller småprale, ja undertiden endog tie. Fordi det er min rose.
+
+Og han gik tilbage til ræven:
+
+– Farvel, sagde han …
+
+– Farvel, sagde ræven, og nu skal jeg betro dig min hemmelighed. Den er ganske ligetil: kun med hjertet kan man se rigtigt. Det væsentlige er usynligt for øjet.
+
+– Det væsentlige er usynligt for øjet, gentog den lille prins for bedre at kunne huske det.
+
+– Det er den tid, du har spildt på din rose, der gør den så betydningsfuld.
+
+– Det er den tid, jeg har spildt på min rose … sagde den lille prins for bedre at huske det.
+
+– Menneskene har glemt den sandhed, sagde ræven. Men du må ikke glemme den. Du har for evigt ansvaret for det, du har gjort tam. Du har ansvaret for din rose …
+
+– Jeg har ansvaret for min rose … gentog den lille prins for bedre at huske det.
 
 ## Kapitel XXII
 
+– Goddag, sagde den lille prins.
+
+– Goddag, sagde sporskifteren.
+
+– Hvad bestiller du her? spurgte den lille prins.
+
+– Jeg sorterer de rejsende i bundter på tusinde, sagde sporskifteren. Jeg sender togene af sted med dem, snart mod øst og snart mod vest.
+
+Og et oplyst hurtigtog, der buldrede forbi som et tordenvejr, fik sporskifterens træskur til at ryste.
+
+– Hvor har de dog travlt, sagde den lille prins. Hvad rejser de efter?
+
+– Selv lokomotivføreren ved det ikke engang, svarede sporskifteren.
+
+Og et andet oplyst hurtigtog kom buldrende i modsat retning.
+
+– Kommer de allerede tilbage? spurgte den lille prins.
+
+– Det var ikke dem, sagde sporskifteren. De bytter bare plads.
+
+– Men var de da ikke glade for at være, hvor de var?
+
+– Man er aldrig tilfreds der, hvor man er, sagde sporskifteren.
+
+Og et tredje oplyst eksprestog lod sin buldrende torden høre.
+
+– Forfølger det nu det første hold rejsende? spurgte den lille prins.
+
+– Det forfølger ikke noget som helst. De sidder og sover i toget, eller også gaber de. Kun børnene trykker næserne mod ruden.
+
+– Kun børnene ved, hvad de søger, sagde den lille prins. De spilder deres tid på en kludedukke, og den kommer til at betyde noget for dem. Hvis man tager den fra dem, græder de …
+
+– De kan sagtens, sagde sporskifteren.
+
 ## Kapitel XXIII
+
+– Goddag, sagde den lille prins.
+
+– Goddag, sagde købmanden.
+
+Det var en købmand, der solgte vidunderpiller, som var i stand til at stille tørst. Man tager én om ugen, og så føler man ikke mere trang til at drikke.
+
+– Hvorfor sælger du dem? spurgte den lille prins.
+
+– Det er kolossalt tidsbesparende, sagde købmanden. Vi har haft eksperter til at regne det ud. Man sparer treoghalvtreds minutter om ugen.
+
+– Og hvad bruger man så de treoghalvtreds minutter til?
+
+– Til hvad der passer en …
+
+– Ja, hvis det var mig, der havde treoghalvtreds minutter til min rådighed, svarede den lille prins, så ville jeg bruge dem til i fred og ro at vandre til en kilde.
 
 ## Kapitel XXIV
 
+Vi lå nu på ottende dag i ørkenen med maskinskade, og jeg havde hørt på historien om købmanden, medens jeg drak de sidste dråber af mit vandforråd.
+
+– Ja, sagde jeg til den lille prins. Dine små historier er virkelig forfærdelig søde, men jeg har endnu ikke fået repareret min flyvemaskine, jeg har ikke mere at drikke, og også jeg ville være lykkelig, hvis jeg i fred og ro kunne vandre til en kilde.
+
+– Min ven ræven, sagde han …
+
+– Det er ikke mere ræven, der er tale om, lille du.
+
+– Hvorfor ikke?
+
+– Fordi vi vil dø af tørst …
+
+Han forstod ikke mit ræsonnement og svarede:
+
+– Det er da dejligt at have haft en ven, selv om man skal dø. Jeg er i hvert fald glad for, jeg har haft en ræveven …
+
+Han aner ikke, hvor overhængende faren er, sagde jeg til mig selv. Han er aldrig hverken sulten eller tørstig. Lidt solskin er ham nok …
+
+Men han så på mig og svarede på mine tanker:
+
+– Jeg er også tørstig … lad os finde en brønd …
+
+Jeg gjorde en træt opgivende bevægelse: det er meningsløst på lykke og fromme at vandre ud i ørkenens uendelighed for at lede efter en brønd. Alligevel begav vi os på vej.
+
+Da vi havde vandret i timevis i tavshed, faldt natten på, og stjernerne begyndte at tændes. Jeg opfattede dem som i en drøm, for tørsten havde givet mig lidt feber. Den lille prins’ ord dansede i mine tanker.
+
+– Nå, du er også tørstig? spurgte jeg.
+
+Men han svarede ikke på mit spørgsmål. Han sagde blot:
+
+– Vand kan også være godt for hjertet …
+
+Jeg forstod ikke, hvad han mente, men jeg tav …
+
+Jeg vidste jo, at det ikke kunne nytte at spørge ham ud.
+
+Han var træt, han satte sig ned. Jeg satte mig ved siden af ham. Da han havde siddet lidt uden at sige noget, sagde han:
+
+– Stjernerne er smukke, og det takket være en blomst, man ikke kan se …
+
+Jeg svarede »Ja« og stirrede uden at sige mere ud over sandbølgerne under månen.
+
+– Ørkenen er smuk, tilføjede han …
+
+Og det var sandt. Jeg har altid elsket ørkenen. Man slår sig ned på en sanddrive. Der er intet at se. Intet at høre. Og alligevel er der noget, der lyser i stilheden …
+
+– At ørkenen er så smuk, sagde den lille prins, det skyldes, at den et eller andet sted gemmer en brønd …
+
+Jeg blev overrasket over pludselig at forstå sandets gådefulde stråleglans. Da jeg var lille, boede jeg i et gammelt hus, og sagnet fortalte, at der lå en skat gemt i huset. Nu var der ganske vist aldrig nogen, der havde fundet den, og måske var der ikke engang nogen, der havde prøvet. Men den lagde sin fortryllelse over hele huset. Mit hjem gemte en skat i sit hjertes dyb …
+
+– Ja, sagde jeg til den lille prins. Det er med et hjem som med stjernerne eller med ørkenen. Det, der giver dem deres skønhed, er usynligt!
+
+– Jeg er glad for, du er enig med min ræv, sagde han.
+
+Da den lille prins var faldet i søvn, tog jeg ham i mine arme og begav mig atter på vandring. Jeg var ganske bevæget. Det var som at bære på en skrøbelig skat. Det forekom mig endog, at intet på Jorden kunne være mere skrøbeligt. Jeg betragtede i månelyset den blege pande, de lukkede øjne, lokkerne der skælvede i vinden, og jeg sagde til mig selv: Hvad jeg ser her, er kun en skal. Det væsentligste er usynligt …
+
+Og da hans læber skiltes let som til et lille smil, tænkte jeg endnu en gang. »Det der rører mig så dybt hos denne lille sovende prins, det er hans trofasthed over for en blomst. Det er dette billede af blomsten, der lyser i ham som en lampe, selv når han sover …« Og det anede mig, at han var endnu skrøbeligere, end jeg før havde troet. Lamper må man værne godt om: et vindpust kan blæse dem ud …
+
+Således vandrede jeg videre og fik ved daggry øje på en brønd.
+
 ## Kapitel XXV
+
+– Menneskene stuves ind i hurtigtoget, sagde den lille prins, men de ved ikke mere, hvad de drager ud efter, og så farer de rundt og vender hjem igen til det sted, hvorfra de kom …
+
+Og han tilføjede:
+
+– Det er ikke umagen værd …
+
+Brønden, vi var kommet til, lignede ikke Saharas sædvanlige brønde, Saharas brønde er simpelt hen huller, gravet ned i sandet. Denne brønd lignede en landsbybrønd. Men her var ingen landsby, og jeg troede, jeg drømte.
+
+– Det var da mærkeligt, sagde jeg til den lille prins. Alt er i den skønneste orden: Hejseværket, spanden, rebet …
+
+Han lo, rørte ved tovet og fik trissen til at gå rundt. Og hejseværket sukkede som en gammel vejrhane, når vinden vågner op efter en rigtig lang søvn.
+
+– Der kan du høre, sagde den lille prins. Vi har vækket brønden, og nu synger den …
+
+Jeg ville ikke have, han skulle anstrenge sig for meget:
+
+– Lad mig, sagde jeg. Den er alt for tung for dig.
+
+Langsomt hejsede jeg spanden op lige til stenkanten. Her fik jeg den til at hænge i ligevægt. I mine øren lød endnu hejseværkets sang, og i vandet, der endnu ikke var faldet til ro, så jeg solen sitre.
+
+– Hvor jeg længes efter det vand, sagde den lille prins. Lad mig drikke …
+
+Og jeg forstod, hvad det var, han havde søgt.
+
+Jeg løftede spanden op til hans læber. Han drak med lukkede øjne. Det var livsaligt som en højtid. Dette vand var noget ganske andet et næringsmiddel. Det var født af vandringen under stjernerne, af hejseværkets sang, af min arms styrke. Det gjorde hjertet godt som en gave. Da jeg var lille, var det også skæret fra juletræet, midnatsmessens orgeltoner og mildheden i mine kæres smil, der skabte stråleglansen om den julegave jeg fik.
+
+– Menneskene på din planet dyrker fem tusinde roser i den samme have, sagde den lille prins … og i den finder de ikke, hvad de søger …
+
+– Nej, det gør de ikke, svarede jeg …
+
+– Og dog kunne det, de søger, findes i en eneste rose eller en smule vand …
+
+– Ja netop, svarede jeg.
+
+Og den lille prins tilføjede:
+
+– Mine øjne er blinde. Det gælder om at søge med hjertet.
+
+Jeg havde drukket vand. Jeg trak vejret let. Sandet har i morgengryet samme farve som honning. Også den honninggule farve fyldte mig med glæde. Hvorfor skulle jeg også absolut have bekymringer …
+
+– Nu må du holde dit løfte, sagde den lille prins blidt. Han havde atter sat sig ved siden af mig.
+
+– Hvilket løfte?
+
+– Jo, du ved … den mundkurv til mit får … Jeg er jo ansvarlig for blomsten!
+
+Jeg trak mine udkast op af lommen, og da den lille prins så dem, sagde han leende:
+
+– Dine baobaber minder nu lidt om kålhoveder …
+
+– Nå-å!
+
+Og jeg som var så stolt af mine baobab-træer!
+
+– Og ræven … ørerne ligner jo næsten horn … og så er de alt for lange!
+
+Og han lo igen.
+
+– Nu er du uretfærdig, lille du. Jeg har aldrig kunnet tegne andet end åbne og lukkede kvælerslanger.
+
+– Det skal nok gå, sagde han. Børn forstår jo!
+
+Så lavede jeg en blyantstegning af en mundkurv. Det var med beklemt hjerte, jeg gav ham den.
+
+– Du har planer, som jeg ikke kender …
+
+Men han svarede ikke. Han sagde:
+
+– Forstår du … i morgen er det lige et år siden … jeg kom herned på Jorden …
+
+Og efter en lille pause sagde han:
+
+– Jeg landede lige her i nærheden …
+
+Og så rødmede han.
+
+Og atter mærkede jeg, uden at vide hvorfor, en sælsom bedrøvelse, men jeg fik en indskydelse og spurgte:
+
+– Så var det altså ikke noget tilfælde, at du den dag for en uge siden, da jeg lærte dig at kende, gik rundt her ganske alene, tusinder og tusinder af mile borte fra beboede egne! Du søgte tilbage til den plet, hvor du var dalet ned?
+
+Den lille prins rødmede igen.
+
+Og jeg tilføjede tøvende:
+
+– Det var måske, fordi det er lige et år siden? …
+
+Den lille prins rødmede igen. Han svarer aldrig på spørgsmål, men når han rødmer, så betyder det jo Ja, ikke?
+
+– Åh, sagde jeg, jeg er så bange …
+
+Men han svarede:
+
+– Nu må du til at arbejde. Du må tilbage til din maskine, jeg venter her. Kom tilbage i morgen aften …
+
+Men jeg var ikke beroliget, jeg huskede på ræven. Man risikerer at komme til at græde lidt, når man har gjort en tam.
 
 ## Kapitel XXVI
 
+Ved siden af brønden stod der en ruin af en gammel stenmur. Da jeg næste dags aften vendte tilbage fra arbejdet, så jeg på lang afstand min lille prins sidde på den og dingle med benene. Og jeg hørte ham tale:
+
+– Kan du da ikke huske det, sagde han. Det var ikke lige her.
+
+En anden stemme må åbenbart have svaret ham, for nu genmælede han:
+
+– Jo, jo – dagen er rigtig nok, men stedet er ikke helt rigtigt.
+
+Jeg blev ved med at gå hen mod muren, jeg kunne stadig hverken se eller høre nogen. Og dog svarede den lille prins.
+
+– … Ja, netop. Du kan bare se efter, hvor mine spor i sandet begynder, og vente der. Jeg kommer i nat.
+
+Jeg var nu tyve meter fra muren og så stadig ingenting.
+
+Efter en lille pause sagde den lille prins:
+
+– Er det nu ordentlig gift, du har? Er du sikker på, at jeg ikke kommer til at lide længe?
+
+Jeg standsede brat med beklemt hjerte, men jeg forstod stadig ingenting.
+
+– Og gå nu din vej, sagde han … nu vil jeg ned igen. Da lod jeg blikket glide ned til foden af muren og sprang tilbage. Der, foran den lille prins, svajede en af disse gule slanger, der kan dræbe et menneske på et halvt minut. Idet jeg famlede i lommen for at trække min revolver frem, satte jeg i løb, men den støj, jeg gjorde, fik slangen til lige så stille at glide tilbage i sandet som en vandstråle, der synker ned igen, og uden hast snoede den sig bort mellem stenene med en svag metalklirrende lyd.
+
+Jeg nåede hen til muren lige tidsnok til at gribe min lille ven i mine arme, han var hvid som sne.
+
+– Hvad er nu det for noget? Er du begyndt at tale med slanger?
+
+Jeg løsnede hans evindelige gule halstørklæde, fugtede hans tindinger og fik ham til at drikke lidt. Og nu turde jeg ikke spørge ham om mere. Han så alvorligt på mig og slog sine arme om min hals. Jeg mærkede, hvorledes hans hjerte bankede som fuglens, når den er ved at dø af et bøsseskud. Han sagde:
+
+– Jeg er glad for, du har fundet ud af, hvad der var i vejen med din maskine. Nu vil du kunne vende hjem …
+
+– Hvor ved du det fra?
+
+Jeg skulle nemlig til at fortælle ham, at jeg imod al forventning havde haft held med mine bestræbelser.
+
+Han svarede slet ikke på mit spørgsmål, men han tilføjede:
+
+– Også jeg vender hjem i dag.
+
+Og lidt efter vemodigt:
+
+– Men det er meget længere borte … Det er meget mere besværligt.
+
+Jeg kunne tydeligt mærke, at der var noget usædvanligt på færde. Jeg knugede ham i mine arme, og dog forekom det mig, at han sank lige ned i en afgrund, uden at jeg kunne gøre noget for at forhindre det …
+
+Hans øjne var alvorlige, blikket fortabt i det fjerne.
+
+– Her har jeg fåret, og buret til dit får og mundkurven.
+
+Han smilte vemodigt.
+
+Længe sad jeg og ventede, så mærkede jeg, at han lidt efter lidt fik varmen igen:
+
+– Du var nok blevet bange, lille du …
+
+Ja, han havde rigtignok været bange, men nu lo han stille:
+
+– Jeg bliver meget mere bange i aften …
+
+På ny fik jeg en fornemmelse af noget uopretteligt og blev iskold. Og jeg forstod, at jeg ikke kunne bære tanken om aldrig mere at høre hen lille prins’ latter. Den var for mig som en kilde i ørkenen.
+
+– Kære lille du, jeg vil høre dig le igen …
+
+Men han sagde:
+
+– I aften er det et år siden. Min stjerne står lige oven over den plet, hvor jeg faldt ned sidste år …
+
+– Lille ven, sig at det kun er en ond drøm, alt det der med slanger og aftaler og stjerner …
+
+Men det svarede han ikke på. Han sagde:
+
+– Det, der betyder noget, kan man ikke se …
+
+– Ja, det er rigtigt nok …
+
+– Det er som med blomsten … Hvis du elsker en blomst, der befinder sig på en stjerne, er det dejligt at stirre op i himmelen om natten. På alle stjerner er der blomster.
+
+– Det er rigtigt nok …
+
+– Det er ligesådan med vandet. Vandet, du gav mig at drikke, blev til musik, takket være hejseværket og rebet, husker du det … det var godt vand.
+
+– Ja vist, men …
+
+– Du skal se på stjernerne om natten. Oppe hos mig er alting for småt til, at jeg kan vise dig, hvor min stjerne er. Det er også det bedste. Min stjerne bliver for dig til en af stjernerne. Og du vil komme til at elske at se på alle stjerner … De vil alle være dine venner. Og desuden vil jeg give dig en gave …
+
+Han lo på ny.
+
+– Åh, kære lille du, hvor jeg elsker at høre dig le!
+
+– Det var netop min gave … det bliver det samme som med vandet …
+
+– Hvad mener du?
+
+– De stjerner folk har, er ikke de samme. For nogle, for dem der rejser, bliver stjernerne til vejvisere. For andre er de ikke andet end små lysskær. For de lærde bliver de til problemer. For min forretningsmand var de guld. Men alle disse stjerner tier. Men du, du vil have stjerner, som ingen anden har …
+
+– Hvad mener du?
+
+– Når du betragter himmelen om natten. Så vil det for dig være, som om alle stjernerne ler, fordi jeg bor på en af dem. Og derfor vil du have stjerner, der kan le!
+
+Og han lo igen.
+
+– Og når du har trøstet dig – man trøster sig altid – vil det være dig nok, at du har kendt mig. Du vil altid være min ven. Du vil komme til at længes efter at le sammen med mig. Og en gang imellem vil du derfor åbne dit vindue for at opleve denne glæde … Og dine venner vil blive meget forbavsede over at se dig stå og le med blikket vendt mod himmelen. Og du vil sige til dem: »Ja, stjerner får mig nu altid til at le!« Og så vil de tro, du er gal. Det er et slemt puds, jeg der har spillet dig.
+
+Og han lo igen.
+
+– Det vil blive som om jeg i stedet for stjerner havde givet dig en hel bunke bjælder, der kan le …
+
+Og endnu en gang lo han, men blev straks alvorlig:
+
+– Ved du hvad … i nat … skal du ikke komme!
+
+– Jeg forlader dig ikke.
+
+– Jeg kommer til at se syg ud. En lille smule døende. Sådan er det nu engang. Kom ikke og se det. Det er ikke umagen værd …
+
+– Jeg forlader dig ikke.
+
+Men han var bekymret.
+
+– Jeg skal sige dig noget … det er også på grund af slangen. Den må ikke bide dig. Slanger, de er slemme. De kan give sig til at bide for sjov …
+
+– Jeg forlader dig ikke.
+
+Men nu kom han i tanker om noget, der beroligede ham:
+
+– De har for resten ikke gift til mere end ét bid … Den aften lagde jeg slet ikke mærke til, han begav sig på vej. Han slap lydløst bort. Da jeg fik indhentet ham, gik han med faste, hurtige skridt. Han sagde blot:
+
+– Åh, er du der …
+
+Og han tog mig i hånden, men endnu var der én ting, der plagede ham:
+
+– Det var forkert af dig. Det vil gøre dig ondt, jeg kommer til at se ud, som om jeg er død, og det er jeg slet ikke …
+
+Jeg sagde ingenting.
+
+– Du forstår nok. Det er alt for langt. Jeg kan ikke føre min krop med mig. Den er for tung.
+
+Jeg sagde ingenting.
+
+– Men den vil bare være som en gammel afskudt ham, og der er ikke noget sørgeligt ved en afskudt ham …
+
+Jeg sagde ingenting.
+
+Han begyndte at blive forknyt, men han gjorde endnu et forsøg:
+
+– Det bliver dejligt, kan du tro. Og så vil jeg se på stjernerne, og alle stjernerne bliver til brønde med rustent hejseværk. Og alle stjernerne skænker mig vand at drikke.
+
+Jeg sagde ingenting.
+
+– Det bliver da morsomt! Du får fem hundrede millioner bjælder, og jeg får fem hundrede millioner brønde.
+
+Og nu tav han også, fordi han græd …
+
+– Det er her. Lad mig nu gå et par skridt alene.
+
+Og han satte sig ned, fordi han var bange.
+
+Endnu en gang sagde han:
+
+– Min blomst … den er jeg jo ansvarlig for! Og den er så umådelig svag, og den er så umådelig naiv. Den har fire latterligt små torne at forsvare sig mod verden med …
+
+Jeg satte mig ned, fordi jeg ikke kunne holde mig oprejst. Han sagde:
+
+– Ja, det er altså det hele …
+
+Han tøvede lidt endnu, så rejste han sig atter. Han tog et skridt. Jeg kunne ikke røre mig.
+
+Der var et gult lyn lige ved hans ankel. Han stod et øjeblik ubevægelig. Han skreg ikke. Han segnede til jorden, langsomt og stille som et træ. Det kunne ikke engang høres, takket være sandet.
+
 ## Kapitel XXVII
+
+Og nu er det skam allerede seks år siden … Jeg har aldrig fortalt historien før. De kammerater, der genså mig, var glade over at finde mig i live, jeg var ked af det, men jeg sagde til dem: Det er bare fordi jeg er så træt …
+
+Nu har jeg trøstet mig lidt. Det vil sige … ikke rigtigt. Men jeg ved bestemt, at han er vendt tilbage til sin planet, for ved daggry var hans legem forsvundet. Det var ikke særlig tungt … Og jeg elsker at lytte til stjernerne om natten. Det er som fem hundrede millioner bjælder …
+
+Men der er sket noget højst besynderligt.
+
+Jeg havde glemt at sætte læderrem på den mundkurv, jeg havde tegnet til den lille prins. Han har aldrig kunnet binde den på sit får. Og jeg må spørge mig selv:
+
+– Hvad er der sket på hans planet? Måske har fåret virkelig spist hans blomst …
+
+Snart siger jeg til mig selv: »Nej, bestemt ikke. Den lille prins lukker hver aften sin blomst inde under en glasklokke, og han skal nok passe på sit får …« Og så er jeg glad, og alle stjernerne ler.
+
+Snart siger jeg til mig selv: »Man bliver jo adspredt en gang imellem, og mere skal der ikke til! En aften har han måske glemt glasklokken, eller også er fåret lydløst sluppet ud en nat …« Og så forvandler alle bjælderne sig til tårer! …
+
+Det er et meget stort mysterium. For dig, der også holder af den lille prins, såvel som for mig, vil intet i verden mere være det samme, alt eftersom et ukendt får et eller andet sted, ingen ved hvor, har eller ikke har spist en rose.
+
+Se engang på himmelen og spørg dig selv: Har fåret spist blomsten, eller har det det ikke? Og du skal se, hvor alt bliver anderledes …
+
+Og ingen voksne vil nogen sinde kunne forstå, at det er så umådelig vigtigt.
