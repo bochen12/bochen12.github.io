@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1, DR - DR P1
+http://live-icy.gss.dr.dk:80/A/A03H.mp3
+#EXTINF:-1, DR - DR P2
+http://live-icy.gss.dr.dk:80/A/A04H.mp3
+#EXTINF:-1, DR - DR P3
+http://live-icy.gss.dr.dk:80/A/A05H.mp3
+#EXTINF:-1, DR - DR P4 København
+http://live-icy.gss.dr.dk:80/A/A08H.mp3
+#EXTINF:-1, DR - DR P5
+http://live-icy.gss.dr.dk:80/A/A25H.mp3
+#EXTINF:-1, DR - DR P6 Beat
+http://live-icy.gss.dr.dk:80/A/A29H.mp3
+#EXTINF:-1, DR - DR P7 Mix
+http://live-icy.gss.dr.dk:80/A/A21H.mp3
+#EXTINF:-1, DR - DR P8 Jazz
+http://live-icy.gss.dr.dk:80/A/A22H.mp3
+
+#EXTINF:-1, BBC - BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1, BBC - BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+
+#EXTINF:-1, WNYC - NPR WNYC New York City, NY
+http://fm939.wnyc.org/wnycfm
+#EXTINF:-1, KQED - NPR KQED San Francisco, CA
+http://streams2.kqed.org:80/kqedradio
+#EXTINF:-1, WBUR - NPR WBUR Boston, MA
+http://wbur-sc.streamguys.com/wbur
+#EXTINF:-1, WBEZ - NPR WBEZ Chicago, IL
+http://stream.wbez.org/wbez64.mp3
+#EXTINF:-1, WKSU - NPR WKSU Kent, OH
+http://66.225.205.8:8010/
+
+#EXTINF:-1, RTE - RTE Radio 1
+http://av.rasset.ie/av/live/radio/radio1.m3u
