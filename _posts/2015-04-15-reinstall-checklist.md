@@ -24,6 +24,7 @@ category: tech
 - for ssd: add mount options noatime,discard in /etc/fstab
 - symlink fonts folder
 - copy .bashrc, .vimrc, .vimperatorrc
+- .ac-url-text { color: #6b8e23 !important; } as .mozilla/firefox/\*.default/chrome/userChrome.css
 - download [radio stream list](http://bochen.dk/public/radio.m3u)
 - add »alias radio='vlc -I ncurses /path/to/radio.m3u'« to .bashrc
 - copy [trackball config](http://bochen.dk/public/trackball) to /usr/share/X11/xorg.conf.d/
