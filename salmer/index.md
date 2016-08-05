@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Salmefod
+lang: da
 ---
 
 ### Forkortelser:

@@ -2,6 +2,7 @@
 layout: page
 custom_css: em-red
 title: Ritualbog 1992
+lang: da
 ---
 
 [**Højmesse**](#hjmesseordning)  

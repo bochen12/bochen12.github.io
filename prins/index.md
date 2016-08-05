@@ -2,6 +2,7 @@
 layout: page
 custom_css: parindent
 title: Den lille Prins
+lang: da
 ---
 
 *Antoine de Saint-Exupéry. Oversat af Asta Hoff-Jørgensen*
