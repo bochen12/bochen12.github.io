@@ -7,156 +7,152 @@ lang: da
 
 
 
-Den Danske Salmebog 2003
-========================
-
-
 Indhold
 -------
 
 
-**[Lovsange](#lovsange)**  
+**Lovsange**  
 [001](#001) [002](#002) [003](#003) [004](#004) [005](#005) [006](#006) [007](#007) [008](#008) [009](#009) [010](#010) [011](#011) [012](#012) [013](#013) [014](#014)
 
-**[Troen på Gud Fader – Skabelsen og forsynet](#troen-på-gud-fader-–-skabelsen-og-forsynet)**  
+**Troen på Gud Fader – Skabelsen og forsynet**  
 [015](#015) [016](#016) [017](#017) [018](#018) [019](#019) [020](#020) [021](#021) [022](#022) [023](#023) [024](#024) [025](#025) [026](#026) [027](#027) [028](#028) [029](#029)
 
-**[Troen på Gud Fader – Guds omsorg](#troen-på-gud-fader-–-guds-omsorg)**  
+**Troen på Gud Fader – Guds omsorg**  
 [030](#030) [031](#031) [032](#032) [033](#033) [034](#034) [035](#035) [036](#036) [037](#037) [038](#038) [039](#039) [040](#040) [041](#041) [042](#042) [043](#043) [044](#044) [045](#045) [046](#046) [047](#047) [048](#048) [049](#049) [050](#050) [051](#051)
 
-**[Troen på Guds Søn – Jesus Kristus](#troen-på-guds-søn-–-jesus-kristus)**  
+**Troen på Guds Søn – Jesus Kristus**  
 [052](#052) [053](#053) [054](#054) [055](#055) [056](#056) [057](#057) [058](#058) [059](#059) [060](#060) [061](#061) [062](#062) [063](#063) [064](#064) [065](#065) [066](#066) [067](#067) [068](#068) [069](#069) [070](#070)
 
-**[Troen på Guds Søn – Tidens fylde](#troen-på-guds-søn-–-tidens-fylde)**  
+**Troen på Guds Søn – Tidens fylde**  
 [071](#071) [072](#072) [073](#073) [074](#074) [075](#075) [076](#076) [077](#077) [078](#078) [079](#079) [080](#080) [081](#081) [082](#082) [083](#083) [084](#084) [085](#085) [086](#086) [087](#087) [088](#088) [089](#089) [090](#090) [091](#091) [092](#092) [093](#093)
 
-**[Troen på Guds Søn – Jesu fødsel](#troen-på-guds-søn-–-jesu-fødsel)**  
+**Troen på Guds Søn – Jesu fødsel**  
 [094](#094) [095](#095) [096](#096) [097](#097) [098](#098) [099](#099) [100](#100) [101](#101) [102](#102) [103](#103) [104](#104) [105](#105) [106](#106) [107](#107) [108](#108) [109](#109) [110](#110) [111](#111) [112](#112) [113](#113) [114](#114) [115](#115) [116](#116) [117](#117) [118](#118) [119](#119) [120](#120) [121](#121) [122](#122) [123](#123) [124](#124) [125](#125) [126](#126) [127](#127) [128](#128) [129](#129) [130](#130) [131](#131) [132](#132) [133](#133) [134](#134) [135](#135)
 
-**[Troen på Guds Søn – Helligtrekonger](#troen-på-guds-søn-–-helligtrekonger)**  
+**Troen på Guds Søn – Helligtrekonger**  
 [136](#136) [137](#137) [138](#138)
 
-**[Troen på Guds Søn – Jesu liv](#troen-på-guds-søn-–-jesu-liv)**  
+**Troen på Guds Søn – Jesu liv**  
 [139](#139) [140](#140) [141](#141) [142](#142) [143](#143) [144](#144) [145](#145) [146](#146) [147](#147) [148](#148) [149](#149) [150](#150) [151](#151) [152](#152) [153](#153) [154](#154) [155](#155) [156](#156) [157](#157) [158](#158) [159](#159) [160](#160) [161](#161) [162](#162) [163](#163) [164](#164) [165](#165) [166](#166) [167](#167) [168](#168) [169](#169) [170](#170) [171](#171) [172](#172) [173](#173) [174](#174) [175](#175)
 
-**[Troen på Guds Søn – Påske](#troen-på-guds-søn-–-påske)**  
+**Troen på Guds Søn – Påske**  
 [176](#176) [177](#177) [178](#178) [179](#179) [180](#180) [181](#181) [182](#182) [183](#183) [184](#184) [185](#185) [186](#186) [187](#187) [188](#188) [189](#189) [190](#190) [191](#191) [192](#192) [193](#193) [194](#194) [195](#195) [196](#196) [197](#197) [198](#198) [199](#199) [200](#200) [201](#201) [202](#202) [203](#203) [204](#204) [205](#205) [206](#206) [207](#207) [208](#208) [209](#209) [210](#210) [211](#211) [212](#212) [213](#213) [214](#214) [215](#215) [216](#216) [217](#217) [218](#218) [219](#219) [220](#220) [221](#221) [222](#222) [223](#223) [224](#224) [225](#225) [226](#226) [227](#227) [228](#228) [229](#229) [230](#230) [231](#231) [232](#232) [233](#233) [234](#234) [235](#235) [236](#236) [237](#237) [238](#238) [239](#239) [240](#240) [241](#241) [242](#242) [243](#243) [244](#244) [245](#245) [246](#246) [247](#247) [248](#248) [249](#249)
 
-**[Troen på Guds Søn – Kristi himmelfart](#troen-på-guds-søn-–-kristi-himmelfart)**  
+**Troen på Guds Søn – Kristi himmelfart**  
 [250](#250) [251](#251) [252](#252) [253](#253) [254](#254) [255](#255) [256](#256) [257](#257) [258](#258) [259](#259) [260](#260)
 
-**[Troen på Guds Søn – Kristi herredømme](#troen-på-guds-søn-–-kristi-herredømme)**  
+**Troen på Guds Søn – Kristi herredømme**  
 [261](#261) [262](#262) [263](#263) [264](#264) [265](#265) [266](#266) [267](#267)
 
-**[Troen på Guds Søn – Kristi komme](#troen-på-guds-søn-–-kristi-komme)**  
+**Troen på Guds Søn – Kristi komme**  
 [268](#268) [269](#269) [270](#270) [271](#271) [272](#272) [273](#273) [274](#274) [275](#275) [276](#276) [277](#277) [278](#278) [279](#279)
 
-**[Troen på Gud Helligånd – Helligåndens komme](#troen-på-gud-helligånd-–-helligåndens-komme)**  
+**Troen på Gud Helligånd – Helligåndens komme**  
 [280](#280) [281](#281) [282](#282) [283](#283) [284](#284) [285](#285) [286](#286) [287](#287) [288](#288)
 
-**[Troen på Gud Helligånd – Helligåndens gerning](#troen-på-gud-helligånd-–-helligåndens-gerning)**  
+**Troen på Gud Helligånd – Helligåndens gerning**  
 [289](#289) [290](#290) [291](#291) [292](#292) [293](#293) [294](#294) [295](#295) [296](#296) [297](#297) [298](#298) [299](#299)
 
-**[Troen på Gud Helligånd – Bøn til Helligånden](#troen-på-gud-helligånd-–-bøn-til-helligånden)**  
+**Troen på Gud Helligånd – Bøn til Helligånden**  
 [300](#300) [301](#301) [302](#302) [303](#303) [304](#304) [305](#305) [306](#306) [307](#307) [308](#308) [309](#309) [310](#310) [311](#311) [312](#312) [313](#313) [314](#314) [315](#315) [316](#316) [317](#317)
 
-**[Den hellige, almindelige kirke – Guds rige](#den-hellige-almindelige-kirke-–-guds-rige)**  
+**Den hellige, almindelige kirke – Guds rige**  
 [318](#318) [319](#319) [320](#320) [321](#321)
 
-**[Den hellige, almindelige kirke – Kirken](#den-hellige-almindelige-kirke-–-kirken)**  
+**Den hellige, almindelige kirke – Kirken**  
 [322](#322) [323](#323) [324](#324) [325](#325) [326](#326) [327](#327) [328](#328) [329](#329) [330](#330) [331](#331) [332](#332)
 
-**[Den hellige, almindelige kirke – Kirkens enhed](#den-hellige-almindelige-kirke-–-kirkens-enhed)**  
+**Den hellige, almindelige kirke – Kirkens enhed**  
 [333](#333) [334](#334) [335](#335)
 
-**[Den hellige, almindelige kirke – Kirkens bevarelse](#den-hellige-almindelige-kirke-–-kirkens-bevarelse)**  
+**Den hellige, almindelige kirke – Kirkens bevarelse**  
 [336](#336) [337](#337) [338](#338) [339](#339) [340](#340) [341](#341) [342](#342) [343](#343) [344](#344) [345](#345)
 
-**[Den hellige, almindelige kirke – Kirkens fornyelse](#den-hellige-almindelige-kirke-–-kirkens-fornyelse)**  
+**Den hellige, almindelige kirke – Kirkens fornyelse**  
 [346](#346) [347](#347) [348](#348) [349](#349) [350](#350) [351](#351) [352](#352) [353](#353) [354](#354)
 
-**[Den hellige, almindelige kirke – Kirkens mission](#den-hellige-almindelige-kirke-–-kirkens-mission)**  
+**Den hellige, almindelige kirke – Kirkens mission**  
 [355](#355) [356](#356) [357](#357) [358](#358) [359](#359) [360](#360) [361](#361) [362](#362) [363](#363) [364](#364)
 
-**[Den hellige, almindelige kirke – Kirkens diakoni](#den-hellige-almindelige-kirke-–-kirkens-diakoni)**  
+**Den hellige, almindelige kirke – Kirkens diakoni**  
 [365](#365) [366](#366) [367](#367) [368](#368) [369](#369) [370](#370) [371](#371) [372](#372) [373](#373) [374](#374)
 
-**[De helliges samfund – Fællesskabet](#de-helliges-samfund-–-fællesskabet)**  
+**De helliges samfund – Fællesskabet**  
 [375](#375) [376](#376) [377](#377) [378](#378) [379](#379) [380](#380) [381](#381) [382](#382) [383](#383) [384](#384)
 
-**[De helliges samfund – Ordet](#de-helliges-samfund-–-ordet)**  
+**De helliges samfund – Ordet**  
 [385](#385) [386](#386) [387](#387) [388](#388) [389](#389) [390](#390) [391](#391) [392](#392) [393](#393) [394](#394) [395](#395) [396](#396) [397](#397) [398](#398) [399](#399) [400](#400) [401](#401)
 
-**[De helliges samfund – Gudstjenesten](#de-helliges-samfund-–-gudstjenesten)**  
+**De helliges samfund – Gudstjenesten**  
 [402](#402) [403](#403) [404](#404) [405](#405) [406](#406) [407](#407) [408](#408) [409](#409) [410](#410) [411](#411) [412](#412) [413](#413) [414](#414) [415](#415) [416](#416) [417](#417) [418](#418) [419](#419) [420](#420) [421](#421) [422](#422) [423](#423) [424](#424) [425](#425) [426](#426) [427](#427) [428](#428) [429](#429) [430](#430) [431](#431) [432](#432) [433](#433) [434](#434) [435](#435) [436](#436) [437](#437) [438](#438) [439](#439) [440](#440)
 
-**[De helliges samfund – Dåb](#de-helliges-samfund-–-dåb)**  
+**De helliges samfund – Dåb**  
 [441](#441) [442](#442) [443](#443) [444](#444) [445](#445) [446](#446) [447](#447) [448](#448) [449](#449) [450](#450) [451](#451) [452](#452) [453](#453) [454](#454)
 
-**[De helliges samfund – Nadver](#de-helliges-samfund-–-nadver)**  
+**De helliges samfund – Nadver**  
 [455](#455) [456](#456) [457](#457) [458](#458) [459](#459) [460](#460) [461](#461) [462](#462) [463](#463) [464](#464) [465](#465) [466](#466) [467](#467) [468](#468) [469](#469) [470](#470) [471](#471) [472](#472) [473](#473) [474](#474) [475](#475) [476](#476) [477](#477)
 
-**[De helliges samfund – Konfirmation](#de-helliges-samfund-–-konfirmation)**  
+**De helliges samfund – Konfirmation**  
 [478](#478) [479](#479) [480](#480) [481](#481) [482](#482) [483](#483) [484](#484)
 
-**[Syndernes forladelse – Præstevielse](#syndernes-forladelse-–-præstevielse)**  
+**Syndernes forladelse – Præstevielse**  
 [485](#485) [486](#486)
 
-**[Syndernes forladelse – Guds kærlighed](#syndernes-forladelse-–-guds-kærlighed)**  
+**Syndernes forladelse – Guds kærlighed**  
 [487](#487) [488](#488) [489](#489) [490](#490) [491](#491) [492](#492) [493](#493) [494](#494)
 
-**[Syndernes forladelse – Syndsbekendelse](#syndernes-forladelse-–-syndsbekendelse)**  
+**Syndernes forladelse – Syndsbekendelse**  
 [495](#495) [496](#496) [497](#497) [498](#498) [499](#499) [500](#500) [501](#501) [502](#502) [503](#503) [504](#504)
 
-**[Syndernes forladelse – Guds tilgivelse](#syndernes-forladelse-–-guds-tilgivelse)**  
+**Syndernes forladelse – Guds tilgivelse**  
 [505](#505) [506](#506) [507](#507) [508](#508) [509](#509) [510](#510) [511](#511) [512](#512) [513](#513) [514](#514) [515](#515) [516](#516) [517](#517) [518](#518) [519](#519) [520](#520) [521](#521) [522](#522) [523](#523)
 
-**[Kødets opstandelse og det evige liv – Døden](#kødets-opstandelse-og-det-evige-liv-–-døden)**  
+**Kødets opstandelse og det evige liv – Døden**  
 [524](#524) [525](#525) [526](#526) [527](#527) [528](#528) [529](#529) [530](#530) [531](#531) [532](#532) [533](#533) [534](#534) [535](#535) [536](#536) [537](#537) [538](#538) [539](#539) [540](#540) [541](#541) [542](#542) [543](#543) [544](#544) [545](#545) [546](#546) [547](#547) [548](#548) [549](#549) [550](#550) [551](#551) [552](#552)
 
-**[Kødets opstandelse og det evige liv – Evighedshåbet](#kødets-opstandelse-og-det-evige-liv-–-evighedshåbet)**  
+**Kødets opstandelse og det evige liv – Evighedshåbet**  
 [553](#553) [554](#554) [555](#555) [556](#556) [557](#557) [558](#558) [559](#559) [560](#560) [561](#561) [562](#562) [563](#563) [564](#564) [565](#565) [566](#566) [567](#567) [568](#568) [569](#569)
 
-**[Kødets opstandelse og det evige liv – Allehelgen](#kødets-opstandelse-og-det-evige-liv-–-allehelgen)**  
+**Kødets opstandelse og det evige liv – Allehelgen**  
 [570](#570) [571](#571) [572](#572) [573](#573) [574](#574) [575](#575)
 
-**[Kristenlivet – Tro](#kristenlivet-–-tro)**  
+**Kristenlivet – Tro**  
 [576](#576) [577](#577) [578](#578) [579](#579) [580](#580) [581](#581) [582](#582)
 
-**[Kristenlivet – Bøn](#kristenlivet-–-bøn)**  
+**Kristenlivet – Bøn**  
 [583](#583) [584](#584) [585](#585) [586](#586) [587](#587) [588](#588)
 
-**[Kristenlivet – Omvendelse](#kristenlivet-–-omvendelse)**  
+**Kristenlivet – Omvendelse**  
 [589](#589) [590](#590) [591](#591) [592](#592) [593](#593) [594](#594) [595](#595) [596](#596) [597](#597)
 
-**[Kristenlivet – Kristi efterfølgelse](#kristenlivet-–-kristi-efterfølgelse)**  
+**Kristenlivet – Kristi efterfølgelse**  
 [598](#598) [599](#599) [600](#600) [601](#601) [602](#602) [603](#603) [604](#604) [605](#605) [606](#606) [607](#607) [608](#608) [609](#609) [610](#610) [611](#611) [612](#612) [613](#613)
 
-**[Kristenlivet – Forsagelse og kamp](#kristenlivet-–-forsagelse-og-kamp)**  
+**Kristenlivet – Forsagelse og kamp**  
 [614](#614) [615](#615) [616](#616) [617](#617) [618](#618) [619](#619) [620](#620) [621](#621) [622](#622) [623](#623) [624](#624) [625](#625) [626](#626) [627](#627) [628](#628) [629](#629) [630](#630) [631](#631) [632](#632) [633](#633) [634](#634) [635](#635) [636](#636) [637](#637)
 
-**[Kristenlivet – Modgang og håb](#kristenlivet-–-modgang-og-håb)**  
+**Kristenlivet – Modgang og håb**  
 [638](#638) [639](#639) [640](#640) [641](#641) [642](#642) [643](#643) [644](#644) [645](#645) [646](#646) [647](#647) [648](#648) [649](#649) [650](#650) [651](#651) [652](#652) [653](#653) [654](#654) [655](#655) [656](#656) [657](#657) [658](#658) [659](#659) [660](#660) [661](#661)
 
-**[Kristenlivet – Trøst og fred](#kristenlivet-–-trøst-og-fred)**  
+**Kristenlivet – Trøst og fred**  
 [662](#662) [663](#663) [664](#664) [665](#665) [666](#666) [667](#667) [668](#668) [669](#669) [670](#670) [671](#671) [672](#672) [673](#673) [674](#674) [675](#675) [676](#676) [677](#677) [678](#678)
 
-**[Kristenlivet – Kærlighed til Gud og næsten](#kristenlivet-–-kærlighed-til-gud-og-næsten)**  
+**Kristenlivet – Kærlighed til Gud og næsten**  
 [679](#679) [680](#680) [681](#681) [682](#682) [683](#683) [684](#684) [685](#685) [686](#686) [687](#687) [688](#688) [689](#689) [690](#690) [691](#691) [692](#692) [693](#693) [694](#694) [695](#695) [696](#696) [697](#697) [698](#698)
 
-**[Menneskelivet – Bryllup / Vielse](#menneskelivet-–-bryllup--vielse)**  
+**Menneskelivet – Bryllup / Vielse**  
 [699](#699) [700](#700) [701](#701) [702](#702) [703](#703) [704](#704) [705](#705) [706](#706)
 
-**[Menneskelivet – Fædrelandet](#menneskelivet-–-fædrelandet)**  
+**Menneskelivet – Fædrelandet**  
 [707](#707) [708](#708) [709](#709) [710](#710) [711](#711)
 
-**[Menneskelivet – Årstiderne](#menneskelivet-–-årstiderne)**  
+**Menneskelivet – Årstiderne**  
 [712](#712) [713](#713) [714](#714) [715](#715) [716](#716) [717](#717) [718](#718) [719](#719) [720](#720) [721](#721) [722](#722) [723](#723) [724](#724) [725](#725) [726](#726) [727](#727) [728](#728) [729](#729) [730](#730) [731](#731) [732](#732) [733](#733)
 
-**[Menneskelivet – Morgen](#menneskelivet-–-morgen)**  
+**Menneskelivet – Morgen**  
 [734](#734) [735](#735) [736](#736) [737](#737) [738](#738) [739](#739) [740](#740) [741](#741) [742](#742) [743](#743) [744](#744) [745](#745) [746](#746) [747](#747) [748](#748) [749](#749) [750](#750) [751](#751) [752](#752) [753](#753) [754](#754) [755](#755) [756](#756)
 
-**[Menneskelivet – Aften](#menneskelivet-–-aften)**  
+**Menneskelivet – Aften**  
 [757](#757) [758](#758) [759](#759) [760](#760) [761](#761) [762](#762) [763](#763) [764](#764) [765](#765) [766](#766) [767](#767) [768](#768) [769](#769) [770](#770) [771](#771) [772](#772) [773](#773) [774](#774) [775](#775) [776](#776) [777](#777) [778](#778) [779](#779) [780](#780) [781](#781) [782](#782) [783](#783) [784](#784) [785](#785) [786](#786) [787](#787) [788](#788) [789](#789) [790](#790) [791](#791)
 
 
@@ -165,6 +161,8 @@ Indhold
 Lovsange
 --------
 
+
+<a id="001"></a>
 
 ### 001
 
@@ -188,6 +186,8 @@ Så liflig lege vi for vor Herre!
 
 N.F.S. Grundtvig 1847.
 
+
+<a id="002"></a>
 
 ### 002
 
@@ -226,6 +226,8 @@ Amen, han selv dig det lære!
 Sl 103  
 Joachim Neander 1679. Dansk 1740.
 
+
+<a id="003"></a>
 
 ### 003
 
@@ -284,6 +286,8 @@ Skaberens pris, hvor han troner i glans!
 Sl 103  
 N.F.S. Grundtvig 1836.
 
+
+<a id="004"></a>
 
 ### 004
 
@@ -349,6 +353,8 @@ Sl 92
 N.F.S. Grundtvig 1836 og 1868.
 
 
+<a id="005"></a>
+
 ### 005
 
 *Mel.: Johann Balthasar König 1738*  
@@ -407,6 +413,8 @@ Johann Mentzer 1704. Hans Adolph Brorson 1742.
 Jf. nr. 6.
 
 
+<a id="006"></a>
+
 ### 006
 
 *Mel.: O, havde jeg dog tusind tunger*  
@@ -437,6 +445,8 @@ Johann Mentzer 1704. Hans Adolph Brorson 1742.
 Bearbejdet 1885. Oprindelig del af nr. 5.
 
 
+<a id="007"></a>
+
 ### 007
 
 *Mel.: Norsk folkemelodi 1877*  
@@ -462,6 +472,8 @@ Guds rige.
 
 Petter Dass 1698. Gustav Jensen 1909.
 
+
+<a id="008"></a>
 
 ### 008
 
@@ -518,6 +530,8 @@ sin Salomon i favn!
 Petter Dass omkring 1704.  
 Morten Eskesen 1881.
 
+
+<a id="009"></a>
 
 ### 009
 
@@ -578,6 +592,8 @@ Te Deum, 4. årh.
 Dansk (1528. 1729.) 1798. 1850. 1951.
 
 
+<a id="010"></a>
+
 ### 010
 
 *Mel.: Thomas Laub 1915*
@@ -620,6 +636,8 @@ for ånde, røst og vinger!
 N.F.S. Grundtvig 1851.
 
 
+<a id="011"></a>
+
 ### 011
 
 *Mel.: Johann Crüger 1647*
@@ -655,6 +673,8 @@ Sir 50,22–24
 Martin Rinckart omkring 1630.  
 Dansk 1740. 1885. 1889. 1890.
 
+
+<a id="012"></a>
 
 ### 012
 
@@ -717,6 +737,8 @@ Johan Gramann (Poliander) (1530).
 Dansk 1569. C.J. Brandt 1888.
 
 
+<a id="013"></a>
+
 ### 013
 
 *Mel: Egil Hovland 1974*
@@ -757,6 +779,8 @@ Herre, vi synger dit hellige navn.
 Britt G. Hallqvist 1973.  
 Holger Lissner 1978.
 
+
+<a id="014"></a>
 
 ### 014
 
@@ -834,6 +858,8 @@ Troen på Gud Fader – Skabelsen og forsynet
 ------------------------------------------
 
 
+<a id="015"></a>
+
 ### 015
 
 *Mel.: Tjekkisk sangbog 1576*  
@@ -891,6 +917,8 @@ Og Himlen svare: Amen!
 
 Hans Adolph Brorson 1734.
 
+
+<a id="016"></a>
 
 ### 016
 
@@ -964,6 +992,8 @@ jeg vil op, min Gud at skue.
 
 Hans Adolph Brorson 1734.
 
+
+<a id="017"></a>
 
 ### 017
 
@@ -1044,6 +1074,8 @@ Johannes Jørgensen 1895.
 Johannes Johansen 1978.
 
 
+<a id="018"></a>
+
 ### 018
 
 *Mel.: Guds Søn kom ned fra Himmerig*  
@@ -1109,6 +1141,8 @@ dér danse vi på roser.
 N.F.S. Grundtvig 1843–45.
 
 
+<a id="019"></a>
+
 ### 019
 
 *Mel.: Joseph Klug 1533*
@@ -1167,6 +1201,8 @@ Johann Hermann Schrader 1731.
 Hans Adolph Brorson 1734.
 
 
+<a id="020"></a>
+
 ### 020
 
 *Mel.: Sperontes 1736. (Freylinghausen)*  
@@ -1212,6 +1248,8 @@ Sl 73,25
 Ambrosius Stub 1754–1758.
 
 
+<a id="021"></a>
+
 ### 021
 
 *Mel.: Til dig alene, Herre Krist*
@@ -1249,6 +1287,8 @@ et livets ord til trøst at få?
 Sl 139  
 K.L. Aastrup 1971.
 
+
+<a id="022"></a>
 
 ### 022
 
@@ -1299,6 +1339,8 @@ vil dit åsyn ligne hans.
 Lisbeth Smedegaard Andersen 1993.
 
 
+<a id="023"></a>
+
 ### 023
 
 *Mel.: Guds Søn kom ned fra Himmerig*
@@ -1339,6 +1381,8 @@ Lampert Gedicke 1711.
 Hans Adolph Brorson 1742.
 
 
+<a id="024"></a>
+
 ### 024
 
 *Mel.: William Croft 1708*  
@@ -1374,6 +1418,8 @@ Martha Cook omkr. 1864.
 C.J. Brandt 1875 og 1885. Niels Møller 1947.
 
 
+<a id="025"></a>
+
 ### 025
 
 *Mel.: A.P. Berggreen 1870*  
@@ -1408,6 +1454,8 @@ i din søde faderfavn!
 
 W.A. Wexels 1840.
 
+
+<a id="026"></a>
 
 ### 026
 
@@ -1456,6 +1504,8 @@ hjemme hos dig.
 1 Mos 28,10–19  
 Sarah Adams 1841. Henry Ussing 1881.
 
+
+<a id="027"></a>
 
 ### 027
 
@@ -1534,6 +1584,8 @@ genfød os ved din Helligånd!
 K.L. Aastrup 1935.
 
 
+<a id="028"></a>
+
 ### 028
 
 Mel.: Jens W. Pedersen 1988
@@ -1595,6 +1647,8 @@ på jorden, mens dagene går.
 Jens Rosendal 1990.
 
 
+<a id="029"></a>
+
 ### 029
 
 *Mel.: Hans Holm 1988*
@@ -1631,6 +1685,8 @@ Leif Rasmussen 1988.
 Troen på Gud Fader – Guds omsorg
 --------------------------------
 
+
+<a id="030"></a>
 
 ### 030
 
@@ -1671,6 +1727,8 @@ Paul Gerhardt 1647. Dansk 1740.
 C.J. Brandt 1885.
 
 
+<a id="031"></a>
+
 ### 031
 
 *Mel.: J.P.E. Hartmann 1852*
@@ -1698,6 +1756,8 @@ og lys i dit lys skal vi skue.
 Sl 36, 6–10  
 B.S. Ingemann 1845.
 
+
+<a id="032"></a>
 
 ### 032
 
@@ -1743,6 +1803,8 @@ Georg Neumark 1641. Frederik Rostgaard 1693.
 N.F.S. Grundtvig 1856.  
 Bearbejdet 1885.
 
+
+<a id="033"></a>
 
 ### 033
 
@@ -1807,6 +1869,8 @@ og fattes i Guds rige!
 
 N.F.S. Grundtvig 1845–50.
 
+
+<a id="034"></a>
 
 ### 034
 
@@ -1884,6 +1948,8 @@ Ernst Stockmann 1701.
 Hans Adolph Brorson 1734.
 
 
+<a id="035"></a>
+
 ### 035
 
 *Mel.: H.O.C. Zinck 1801*
@@ -1946,6 +2012,8 @@ til Himmeriges sal!«
 Dansk (1611).  
 C.J. Brandt 1885.
 
+
+<a id="036"></a>
 
 ### 036
 
@@ -2012,6 +2080,8 @@ St. J. Stenersen 1826.
 W.A. Wexels 1840.
 
 
+<a id="037"></a>
+
 ### 037
 
 *Mel.: Nederlandsk psalter 1540*  
@@ -2065,6 +2135,8 @@ og dig til pris og ære.
 
 Paul Gerhardt 1647. Carsten Hauch 1842.. Fr. Hammerich 1850 og 1852.
 
+
+<a id="038"></a>
 
 ### 038
 
@@ -2130,6 +2202,8 @@ Paul Gerhardt 1653.
 N.F.S. Grundtvig 1853–1855.
 
 
+<a id="039"></a>
+
 ### 039
 
 *Mel.: Aldrig er jeg uden våde*
@@ -2162,6 +2236,8 @@ gerne! når jeg har kun dig.
 Christopher Tietze 1663.  
 Hans Adolph Brorson 1734.
 
+
+<a id="040"></a>
 
 ### 040
 
@@ -2216,6 +2292,8 @@ Johann Heermann 1630.
 Johannes Brunsmand 1680.  
 N.F.S. Grundtvig 1864.
 
+
+<a id="041"></a>
 
 ### 041
 
@@ -2273,6 +2351,8 @@ Matt 6,25–34
 N.F.S. Grundtvig 1855–56.
 
 
+<a id="042"></a>
+
 ### 042
 
 *Mel.: Op, al den ting, som Gud har gjort*  
@@ -2301,6 +2381,8 @@ og leve skal de døde!
 Mark 8, 1–9  
 B.S. Ingemann 1825.
 
+
+<a id="043"></a>
 
 ### 043
 
@@ -2365,6 +2447,8 @@ Ulrich Bogislaus von Bonin 1724.
 Hans Adolph Brorson 1734.
 
 
+<a id="044"></a>
+
 ### 044
 
 *Mel.: Viggo Kalhauge 1856*  
@@ -2412,6 +2496,8 @@ hvor hun har sit sæde, er Guds Paradis.
 
 N.F.S. Grundtvig 1851.
 
+
+<a id="045"></a>
 
 ### 045
 
@@ -2474,6 +2560,8 @@ Jeg går til Himlen, hvor jeg går.
 
 Hans Adolph Brorson 1734.
 
+
+<a id="046"></a>
 
 ### 046
 
@@ -2539,6 +2627,8 @@ blomstre på Himle-lyksaligheds ø!
 Thomas Kingo 1681.
 
 
+<a id="047"></a>
+
 ### 047
 
 *Mel.: O hjertekære Jesus Krist*
@@ -2590,6 +2680,8 @@ Hans Thomissøn 1565.
 Fr. Hammerich 1850.
 
 
+<a id="048"></a>
+
 ### 048
 
 *Mel.: August Winding 1893*
@@ -2639,6 +2731,8 @@ uforsagt, ihvor det går.
 Ambrosius Stub 1754–58.
 
 
+<a id="049"></a>
+
 ### 049
 
 *Mel.: Svensk folkemelodi 19. årh.*
@@ -2683,6 +2777,8 @@ Fredrik Engelke 1873. P.D. Koch 1891.
 Bearbejdet 1895. 1953.
 
 
+<a id="050"></a>
+
 ### 050
 
 *Mel.: J.P.E. Hartmann 1860*
@@ -2724,6 +2820,8 @@ jeg må slumre ind i fred!
 
 H.A. Timm 1852.
 
+
+<a id="051"></a>
 
 ### 051
 
@@ -2773,6 +2871,8 @@ Erling Tobiassen 1932. Dansk 1989.
 Troen på Guds Søn – Jesus Kristus
 ---------------------------------
 
+
+<a id="052"></a>
 
 ### 052
 
@@ -2832,6 +2932,8 @@ Hans Christensen Sthen 1588.
 Fr. Hammerich 1850.
 
 
+<a id="053"></a>
+
 ### 053
 
 *Mel.: Ernst Vesterlund 1970*
@@ -2867,6 +2969,8 @@ Glæden er min ved Kristus alene.
 Hans Christensen Sthen 1589.  
 Richard Fangel 1966.
 
+
+<a id="054"></a>
 
 ### 054
 
@@ -2925,6 +3029,8 @@ med lovsang ud.
 K.L. Aastrup 1941.
 
 
+<a id="055"></a>
+
 ### 055
 
 *Mel.: Freylinghausen 1704*
@@ -2946,6 +3052,8 @@ og få ved Jesu navn nyt navn i evig ære!
 ApG 4,12  
 Ambrosius Stub 1754–1758.
 
+
+<a id="056"></a>
 
 ### 056
 
@@ -2978,6 +3086,8 @@ Frelser til Faderens ære!
 Fil 2,9–11  
 N.F.S. Grundtvig 1856.
 
+
+<a id="057"></a>
 
 ### 057
 
@@ -3024,6 +3134,8 @@ Olov Hartman 1970.
 Helge Severinsen 1998.
 
 
+<a id="058"></a>
+
 ### 058
 
 *Mel.: Helligånd, de frommes glæde*  
@@ -3059,6 +3171,8 @@ skænker mig min Herres glæde.
 N.F.S. Grundtvig 1856.
 
 
+<a id="059"></a>
+
 ### 059
 
 *Mel.: Rind nu op i Jesu navn*  
@@ -3086,6 +3200,8 @@ Hans Adolph Brorson 1732.
 Bearbejdet 1890.  
 Oprindelig del af nr. 135.
 
+
+<a id="060"></a>
 
 ### 060
 
@@ -3128,6 +3244,8 @@ Hallgrímur Pétursson 1656–60.
 C.J. Brandt 1854 og 1885.
 
 
+<a id="061"></a>
+
 ### 061
 
 *Mel.: Hannover 1646*  
@@ -3161,6 +3279,8 @@ og lad din vilje ske, så går det altid ret!
 Johann Conrad Ziegler 1718.  
 Hans Adolph Brorson 1734.
 
+
+<a id="062"></a>
 
 ### 062
 
@@ -3196,6 +3316,8 @@ tag mig til sidst i din herlighed ind!
 
 Ole Theodor Moe 1904.
 
+
+<a id="063"></a>
 
 ### 063
 
@@ -3239,6 +3361,8 @@ og den evige ære få.
 
 Johan Friderichsen 1639.
 
+
+<a id="064"></a>
 
 ### 064
 
@@ -3313,6 +3437,8 @@ P. A. Fenger 1857.
 Del af samme salme som nr. 525.
 
 
+<a id="065"></a>
+
 ### 065
 
 *Mel.: Freylinghausen 1714*
@@ -3338,6 +3464,8 @@ hjertets perle og juvel!
 Gottfried Wilh. Sacer 1661.  
 Harald Vilstrup 1925.
 
+
+<a id="066"></a>
 
 ### 066
 
@@ -3414,6 +3542,8 @@ N.F.S. Grundtvig 1843. 1847.
 Bearbejdet 1913.
 
 
+<a id="067"></a>
+
 ### 067
 
 *Mel.: Norsk folkemelodi 1840*
@@ -3455,6 +3585,8 @@ da hilser jeg ham med et smil, med det sidste.
 
 Vilh. Birkedal 1858.
 
+
+<a id="068"></a>
 
 ### 068
 
@@ -3517,6 +3649,8 @@ Sådan er Gud!
 Hans Anker Jørgensen 1987.
 
 
+<a id="069"></a>
+
 ### 069
 
 *Mel.: Erik Haumann 1987*
@@ -3566,6 +3700,8 @@ i dig her til jord.
 Lisbeth Smedegaard Andersen 1984 og 1996.
 
 
+<a id="070"></a>
+
 ### 070
 
 *Mel.: Hans Dammeyer 1990*
@@ -3614,6 +3750,8 @@ Sten Kaalø 1990.
 Troen på Guds Søn – Tidens fylde
 --------------------------------
 
+
+<a id="071"></a>
 
 ### 071
 
@@ -3673,6 +3811,8 @@ N.F.S. Grundtvig 1837.
 Frederik Hammerich 1852.
 
 
+<a id="072"></a>
+
 ### 072
 
 *Mel.: Joachim a Burck 1594*
@@ -3731,6 +3871,8 @@ N.F.S. Grundtvig 1837.
 Bearbejdet 1889 og 1951.
 
 
+<a id="073"></a>
+
 ### 073
 
 *Mel.: Harald Gullichsen 1980*
@@ -3775,6 +3917,8 @@ Eyvind Skeie 1980.
 Peter Balslev-Clausen 1993.
 
 
+<a id="074"></a>
+
 ### 074
 
 *Mel.: A.P. Berggreen 1852*
@@ -3806,6 +3950,8 @@ Velkommen, nytår, og velkommen her!
 Dansk adventssalme (1556).  
 N.F.S. Grundtvig 1849.
 
+
+<a id="075"></a>
 
 ### 075
 
@@ -3862,6 +4008,8 @@ fra nu og indtil evig tid!
 
 Hans Adolph Brorson 1742.
 
+
+<a id="076"></a>
 
 ### 076
 
@@ -3929,6 +4077,8 @@ Hans Adolph Brorson 1733.
 Bearbejdet 1885.
 
 
+<a id="077"></a>
+
 ### 077
 
 *Mel.: Fransk 15. årh. / Thomas Helmore 1854*
@@ -3971,6 +4121,8 @@ vil komme til dig, Israel.
 Latin 1710. John Mason Neale 1851.  
 Beate Højlund 1980.
 
+
+<a id="078"></a>
 
 ### 078
 
@@ -4035,6 +4187,8 @@ Sarons yndigheder.«
 Es 35,1–6  
 N.F.S. Grundtvig 1837.
 
+
+<a id="079"></a>
 
 ### 079
 
@@ -4101,6 +4255,8 @@ Sl 68
 N.F.S. Grundtvig 1837.
 
 
+<a id="080"></a>
+
 ### 080
 
 *Mel.: Georg Christoph Strattner 1691*
@@ -4137,6 +4293,8 @@ og retfærdig for dig stå.
 
 Heinrich Held 1658. N.J. Holm 1829.
 
+
+<a id="081"></a>
 
 ### 081
 
@@ -4197,6 +4355,8 @@ P. Hjort 1840. J.P. Mynster 1845.
 Bearbejdet 1889. 1951.
 
 
+<a id="082"></a>
+
 ### 082
 
 *Mel.: Fryd dig, du Kristi brud*
@@ -4238,6 +4398,8 @@ til Himlens bryllupsglæde.
 
 Hans Adolph Brorson 1733.
 
+
+<a id="083"></a>
 
 ### 083
 
@@ -4283,6 +4445,8 @@ Matt 21,1–9.
 B.S. Ingemann 1825.
 
 
+<a id="084"></a>
+
 ### 084
 
 *Mel.: Genève 1551*
@@ -4327,6 +4491,8 @@ Georg Weissel (1642).
 N.J. Holm 1829.
 
 
+<a id="085"></a>
+
 ### 085
 
 *Mel.: Jeg vil din pris udsjunge*
@@ -4352,6 +4518,8 @@ kom, fyld min sjæl og sind!
 Thomas Kingo 1689.  
 P.A. Fenger 1857.
 
+
+<a id="086"></a>
 
 ### 086
 
@@ -4415,6 +4583,8 @@ Paul Gerhardt 1653.
 Hans Adolph Brorson 1733.
 
 
+<a id="087"></a>
+
 ### 087
 
 *Mel.: Peter Møller 1978*
@@ -4441,6 +4611,8 @@ kan tænde kun en lille kerte.
 
 Johannes Johansen 1963, 1971 og 1974.
 
+
+<a id="088"></a>
 
 ### 088
 
@@ -4475,6 +4647,8 @@ vi i dette ord i møde går.
 
 K.L. Aastrup 1950.
 
+
+<a id="089"></a>
 
 ### 089
 
@@ -4520,6 +4694,8 @@ Luk 1,67–80
 Johannes Johansen 1996.
 
 
+<a id="090"></a>
+
 ### 090
 
 *Mel.: O, kommer hid dog til Guds Søn*  
@@ -4549,6 +4725,8 @@ som aldrig kan bortfare!
 Fil 4,4–7  
 Thomas Kingo 1689.
 
+
+<a id="091"></a>
 
 ### 091
 
@@ -4591,6 +4769,8 @@ Thomas Kingo 1689.
 Jf. nr. 92.
 
 
+<a id="092"></a>
+
 ### 092
 
 *Mel.: Mæt min sjæl, o Jesus sød*
@@ -4606,6 +4786,8 @@ gør en liflig julefest!
 Thomas Kingo 1689.  
 N.F.S. Grundtvig 1831 og 1868. Oprindelig del af nr. 91.
 
+
+<a id="093"></a>
 
 ### 093
 
@@ -4638,6 +4820,8 @@ Hans Adolph Brorson 1732. Bearbejdet 1844.
 Troen på Guds Søn – Jesu fødsel
 -------------------------------
 
+
+<a id="094"></a>
 
 ### 094
 
@@ -4692,6 +4876,8 @@ Martin Luther 1535.
 N.F.S. Grundtvig 1817. Bearbejdet 1852.  
 Jf. nr. 95.
 
+
+<a id="095"></a>
 
 ### 095
 
@@ -4753,6 +4939,8 @@ J.L.A. Kolderup-Rosenvinge 1845.
 Jf. nr. 94.
 
 
+<a id="096"></a>
+
 ### 096
 
 *Mel.: 15. årh. / Spangenberg 1568*
@@ -4792,6 +4980,8 @@ Hans Thomissøn 1569. N.F.S. Grundtvig 1837.
 Bearbejdet 1889.
 
 
+<a id="097"></a>
+
 ### 097
 
 *Mel.: Pontoppidan 1740*  
@@ -4829,6 +5019,8 @@ og hvad vi er og har, til evigt offer givet.
 Johann Daniel Herrnschmidt 1714.  
 Hans Adolph Brorson 1733.
 
+
+<a id="098"></a>
 
 ### 098
 
@@ -4876,6 +5068,8 @@ det er Gud, det er menneskets lys.
 
 Johannes Johansen 1977.
 
+
+<a id="099"></a>
 
 ### 099
 
@@ -4941,6 +5135,8 @@ lad julesorgen slukkes!
 N.F.S. Grundtvig 1824.
 
 
+<a id="100"></a>
+
 ### 100
 
 *Mel.: Henrik Rung 1857*
@@ -4966,6 +5162,8 @@ barnet til Guds velbehag.
 N.F.S. Grundtvig 1856.
 
 
+<a id="101"></a> 
+
 ### 101 
 
 *Mel.: Kraften fra det høje*
@@ -4990,6 +5188,8 @@ af Paradisets fuglesang!
 
 N.F.S. Grundtvig 1850.
 
+
+<a id="102"></a>
 
 ### 102
 
@@ -5023,6 +5223,8 @@ Arvid Pedersen 1529.
 N.F.S. Grundtvig 1837, 1843 og 1845.
 
 
+<a id="103"></a>
+
 ### 103
 
 *Mel.: Niels W. Gade 1859*
@@ -5045,6 +5247,8 @@ Halleluja, halleluja, barn Jesus!
 
 H.C. Andersen 1832.
 
+
+<a id="104"></a>
 
 ### 104
 
@@ -5095,6 +5299,8 @@ Latin 14. årh. Tysk 1545. Dansk 1544. 1569.
 N.F.S. Grundtvig 1820 og 1845.
 
 
+<a id="105"></a>
+
 ### 105
 
 *Mel.: Henrik Rung 1857*
@@ -5136,6 +5342,8 @@ i hjertekammerets krybberum!
 
 N.F.S. Grundtvig 1846. Bearbejdet 1857.
 
+
+<a id="106"></a>
 
 ### 106
 
@@ -5201,6 +5409,8 @@ Hans Christensen Sthen omkr. 1600.
 Bearbejdet 1850.
 
 
+<a id="107"></a>
+
 ### 107
 
 *Mel.: 15. årh. / Michael Weisse 1531*
@@ -5253,6 +5463,8 @@ Latin 14. årh. (Dansk 1535).
 N.F.S. Grundtvig 1837 og 1847.
 
 
+<a id="108"></a>
+
 ### 108
 
 *Mel.: Førreformatorisk leise / Johann Walter 1524*  
@@ -5298,6 +5510,8 @@ Str. 1: Tysk 15. årh. Str. 1–6: Martin Luther 1523.
 Claus Mortensen? 1528.  
 N.F.S. Grundtvig 1837 og 1845.
 
+
+<a id="109"></a>
 
 ### 109
 
@@ -5383,6 +5597,8 @@ med ham til Himmerige!
 Hans Adolph Brorson 1732 og 1739.
 
 
+<a id="110"></a>
+
 ### 110
 
 *Mel.: Thomas Laub 1881*
@@ -5437,6 +5653,8 @@ Hans Christensen Sthen 1578.
 C.J. Brandt 1848 og 1884.
 
 
+<a id="111"></a>
+
 ### 111
 
 *Mel.: Felix Mendelssohn-Bartholdy 1840*
@@ -5490,6 +5708,8 @@ Charles Wesley 1739. Dansk 1981.
 Henrik E. Frederiksen 1993.
 
 
+<a id="112"></a>
+
 ### 112
 
 *Mel.: John F. Wade 1751*
@@ -5528,6 +5748,8 @@ Latin 18. årh.
 Fr. Oakeley 1841 og 1852.  
 Dansk 1981.
 
+
+<a id="113"></a>
 
 ### 113
 
@@ -5585,6 +5807,8 @@ for denne juleglæde!
 Hebr 1,1–5  
 Thomas Kingo 1689.
 
+
+<a id="114"></a>
 
 ### 114
 
@@ -5648,6 +5872,8 @@ Paul Gerhardt 1653.
 C.J. Brandt 1878.
 
 
+<a id="115"></a>
+
 ### 115
 
 *Mel.: Førreformatorisk julevise /*  
@@ -5700,6 +5926,8 @@ N.F.S. Grundtvig 1837.
 Thomas Laub 1918.
 
 
+<a id="116"></a>
+
 ### 116
 
 *Mel.: Trier 1482 / Joseph Klug 1533*
@@ -5741,6 +5969,8 @@ Latin-dansk 1569.
 N.F.S. Grundtvig 1837.
 
 
+<a id="117"></a>
+
 ### 117
 
 *Mel.: Köln 1599*
@@ -5773,6 +6003,8 @@ Str. 1–2: Tysk 16. årh. Michael Praetorius 1609.
 Th. Laub 1920. Str. 3: F. Layritz 1844.  
 Uffe Hansen 1935.
 
+
+<a id="118"></a>
 
 ### 118
 
@@ -5822,6 +6054,8 @@ N.F.S. Grundtvig 1837 og 1851.
 B.S. Ingemann 1854.
 
 
+<a id="119"></a>
+
 ### 119
 
 *Mel.: C.E.F. Weyse 1841*
@@ -5856,6 +6090,8 @@ og lover os englevinger.
 B.S. Ingemann 1839.
 
 
+<a id="120"></a>
+
 ### 120
 
 *Mel.: Franz Gruber 1818*
@@ -5887,6 +6123,8 @@ fryd dig, hver sjæl, han har frelst!
 B.S. Ingemann 1850 og 1852.
 
 
+<a id="121"></a>
+
 ### 121
 
 *Mel.: Schlesisk 18. årh.*
@@ -5914,6 +6152,8 @@ os er en evig frelser fød!
 
 B.S. Ingemann 1850.
 
+
+<a id="122"></a>
 
 ### 122
 
@@ -5962,6 +6202,8 @@ min rose jeg aldrig vil miste!
 Højs 2,1–2  
 Hans Adolph Brorson 1732.
 
+
+<a id="123"></a>
 
 ### 123
 
@@ -6016,6 +6258,8 @@ Hans Adolph Brorson 1732.
 Bearbejdet 1850.
 
 
+<a id="124"></a>
+
 ### 124
 
 *Mel.: Chr. Vestergaard-Pedersen 1985*  
@@ -6068,6 +6312,8 @@ lad mig din livegen være!
 
 Thomas Kingo 1689.
 
+
+<a id="125"></a>
 
 ### 125
 
@@ -6158,6 +6404,8 @@ udi mit hjerte svøbt.
 Hans Adolph Brorson 1732.
 
 
+<a id="126"></a>
+
 ### 126
 
 *Mel.: Jeg vil din pris udsjunge*  
@@ -6211,6 +6459,8 @@ igennem dødens port.
 Højs 1,4  
 Thomas Kingo 1689.
 
+
+<a id="127"></a>
 
 ### 127
 
@@ -6282,6 +6532,8 @@ skal Jesus ene være.
 Hans Adolph Brorson 1732.
 
 
+<a id="128"></a>
+
 ### 128
 
 *Mel.: Jesus, dine dybe vunder*  
@@ -6346,6 +6598,8 @@ Thomas Kingo 1689.
 N.F.S. Grundtvig 1832.
 
 
+<a id="129"></a>
+
 ### 129
 
 *Mel.: J.P.E. Hartmann 1890*  
@@ -6382,6 +6636,8 @@ løft dit hoved, og tak for livet!
 J. Chr. Hostrup 1881 og 1884.
 
 
+<a id="130"></a>
+
 ### 130
 
 *Mel.: Henrik Fibiger Nørfelt 1978*
@@ -6413,6 +6669,8 @@ Barnet er givet til frelse og fred!
 
 Marcus Lauesen 1973.
 
+
+<a id="131"></a>
 
 ### 131
 
@@ -6467,6 +6725,8 @@ i tro og håb.
 Lisbeth Smedegaard Andersen 1988.
 
 
+<a id="132"></a>
+
 ### 132
 
 *Mel.: Carl Nielsen 1919*  
@@ -6489,6 +6749,8 @@ med Jesus, vor helt og vor Herre!
 
 N.F.S. Grundtvig 1849.
 
+
+<a id="133"></a>
 
 ### 133
 
@@ -6527,6 +6789,8 @@ Martin Luther 1524. (Arvid Pedersen 1529).
 N.F.S. Grundtvig 1845. Bearbejdet 1890 og 1947.
 
 
+<a id="134"></a>
+
 ### 134
 
 *Mel.: Nordisk visemelodi (1624)*  
@@ -6564,6 +6828,8 @@ Thi vor Fader i det høje, han lever!
 
 N.F.S. Grundtvig 1845 og 1857.
 
+
+<a id="135"></a>
 
 ### 135
 
@@ -6643,6 +6909,8 @@ Troen på Guds Søn – Helligtrekonger
 -----------------------------------
 
 
+<a id="136"></a>
+
 ### 136
 
 *Mel.: C.E.F. Weyse omkring 1837*  
@@ -6693,6 +6961,8 @@ til at lyse for vor fod.
 
 N.F.S. Grundtvig 1810 og 1853.
 
+
+<a id="137"></a>
 
 ### 137
 
@@ -6757,6 +7027,8 @@ Thomas Kingo 1689.
 N.F.S. Grundtvig 1843 og 1853.
 
 
+<a id="138"></a>
+
 ### 138
 
 *Mel.: Johann G.C. Störl 1710*  
@@ -6802,6 +7074,8 @@ Frederik Hammerich 1850–1852.
 Troen på Guds Søn – Jesu liv
 ----------------------------
 
+
+<a id="139"></a>
 
 ### 139
 
@@ -6865,6 +7139,8 @@ så har jeg visdom nok!
 Luk 2,42–47  
 Thomas Kingo 1689.
 
+
+<a id="140"></a>
 
 ### 140
 
@@ -6932,6 +7208,8 @@ Luk 2,51–52
 N.F.S. Grundtvig 1845 og 1853.
 
 
+<a id="141"></a>
+
 ### 141
 
 *Mel.: Jeg vil din pris udsjunge*
@@ -6985,6 +7263,8 @@ Matt 3,13–17
 Thomas Kingo 1689.  
 N.F.S. Grundtvig 1832 og 1844.
 
+
+<a id="142"></a>
 
 ### 142
 
@@ -7057,6 +7337,8 @@ Matt 3,13–17
 N.F.S. Grundtvig 1853.
 
 
+<a id="143"></a>
+
 ### 143
 
 *Mel.: Op, alle folk på denne jord*  
@@ -7121,6 +7403,8 @@ forgår, men kun forklares.
 
 N.F.S. Grundtvig omkr. 1844.
 
+
+<a id="144"></a>
 
 ### 144
 
@@ -7188,6 +7472,8 @@ Thomas Kingo 1689.
 B.S. Ingemann 1854.  
 Bearbejdet 1890.
 
+
+<a id="145"></a>
 
 ### 145
 
@@ -7257,6 +7543,8 @@ Joh 3,1–15
 M.B. Landstad 1861.
 
 
+<a id="146"></a>
+
 ### 146
 
 *Mel.: Henrik Fibiger Nørfelt 1978*
@@ -7304,6 +7592,8 @@ forkynder det os.
 Luk 4,16–30  
 Jørgen Michaelsen 1967.
 
+
+<a id="147"></a>
 
 ### 147
 
@@ -7385,6 +7675,8 @@ Luk 5,1–11
 N.F.S. Grundtvig 1838.
 
 
+<a id="148"></a>
+
 ### 148
 
 *Mel.: Johann Schop 1642*
@@ -7441,6 +7733,8 @@ Luk 7,11–17
 N.F.S. Grundtvig 1853.
 
 
+<a id="149"></a>
+
 ### 149
 
 *Mel.: Jeg vil din pris udsjunge*  
@@ -7496,6 +7790,8 @@ Thomas Kingo 1689.
 P. A. Fenger 1857.
 
 
+<a id="150"></a>
+
 ### 150
 
 *Mel.: Jeg råber fast, o Herre*  
@@ -7550,6 +7846,8 @@ Matt 8,23–27
 Gustav Biering 1989.
 
 
+<a id="151"></a>
+
 ### 151
 
 *Mel.: Ånden opgav enkesønnen*
@@ -7599,6 +7897,8 @@ Kassia omkr. 800. N.F.S. Grundtvig 1837.
 Bearbejdet 1935.
 
 
+<a id="152"></a>
+
 ### 152
 
 *Mel.: Nu blomstertiden kommer*  
@@ -7644,6 +7944,8 @@ Luk 8,4–15
 Thomas Kingo 1689.  
 B.S. Ingemann 1854.
 
+
+<a id="153"></a>
 
 ### 153
 
@@ -7708,6 +8010,8 @@ Luk 8,4–15
 N.F.S. Grundtvig 1837.
 
 
+<a id="154"></a>
+
 ### 154
 
 *Mel.: Seth Calvisius 1594*
@@ -7766,6 +8070,8 @@ Luk 8,4–8
 Johannes Johansen 1975.
 
 
+<a id="155"></a>
+
 ### 155
 
 *Mel.: Helligånd, de frommes glæde*  
@@ -7821,6 +8127,8 @@ N.F.S. Grundtvig 1853.
 Bearbejdet 1913.
 
 
+<a id="156"></a>
+
 ### 156
 
 *Mel.: Guds Søn kom ned fra Himmerig*  
@@ -7855,6 +8163,8 @@ N.F.S. Grundtvig 1836 og 1853.
 Bearbejdet 1885.  
 Oprindelig del af nr. 444.
 
+
+<a id="157"></a>
 
 ### 157
 
@@ -7937,6 +8247,8 @@ Joh 5,1–15
 K.L. Aastrup 1963.
 
 
+<a id="158"></a>
+
 ### 158
 
 *Mel.: Johann Horn 1544*
@@ -7990,6 +8302,8 @@ Matt 15,21–28
 N.F.S. Grundtvig 1853.
 
 
+<a id="159"></a>
+
 ### 159
 
 *Mel.: Når tid og time er for hånd*  
@@ -8040,6 +8354,8 @@ Johann Jacob Rambach 1725.
 Hans Adolph Brorson 1734.  
 Bearbejdet 1854.
 
+
+<a id="160"></a>
 
 ### 160
 
@@ -8102,6 +8418,8 @@ et lille paradis!
 Mark 7,31–37  
 N.F.S. Grundtvig 1839–41.
 
+
+<a id="161"></a>
 
 ### 161
 
@@ -8166,6 +8484,8 @@ Matt 17,1–9
 N.F.S. Grundtvig 1836 og 1853.
 
 
+<a id="162"></a>
+
 ### 162
 
 *Mel.: Bernhard Christensen 1965*
@@ -8202,6 +8522,8 @@ Matt 17,1–9; 2 Pet 1,16–18.
 K.L. Aastrup 1951 og 1957.
 
 
+<a id="163"></a>
+
 ### 163
 
 *Mel.: Thomas Laub 1921*
@@ -8237,6 +8559,8 @@ deler dem ærligt med hver, som tror:
 Luk 9,58  
 N.F.S. Grundtvig 1856.
 
+
+<a id="164"></a>
 
 ### 164
 
@@ -8297,6 +8621,8 @@ Luk 10,23–24
 N.F.S. Grundtvig 1864 og 1868.
 
 
+<a id="165"></a>
+
 ### 165
 
 *Mel.: Freylinghausen 1704*
@@ -8341,6 +8667,8 @@ Luk 10,38–42
 Johann Heinrich Schröder 1695.  
 Hans Adolph Brorson 1734.
 
+
+<a id="166"></a>
 
 ### 166
 
@@ -8414,6 +8742,8 @@ Luk 11,14–28
 Thomas Kingo 1689.
 
 
+<a id="167"></a>
+
 ### 167
 
 *Mel.: Kirken er som Himmerige*  
@@ -8478,6 +8808,8 @@ Luk 15,11–32.
 N.F.S. Grundtvig 1853.
 
 
+<a id="168"></a>
+
 ### 168
 
 *Mel.: Kirken den er et gammelt hus*
@@ -8517,6 +8849,8 @@ himmelblå ere hans telte.
 Joh 10,14–16  
 N.F.S. Grundtvig 1855.
 
+
+<a id="169"></a>
 
 ### 169
 
@@ -8564,6 +8898,8 @@ saliggør dem i dit navn!
 
 N.F.S. Grundtvig 1836 og 1844.
 
+
+<a id="170"></a>
 
 ### 170
 
@@ -8614,6 +8950,8 @@ Thomas Kingo 1689.
 B.S. Ingemann 1854. Bearbejdet 1951.
 
 
+<a id="171"></a>
+
 ### 171
 
 *Mel.: Niels Viggo Bentzon 1985*  
@@ -8647,6 +8985,8 @@ findes det levende ord.
 Johannes Møllehave 1985.
 
 
+<a id="172"></a>
+
 ### 172
 
 *Mel.: Svensk / Koralpsalmboken 1697*
@@ -8674,6 +9014,8 @@ dér vil han, at vi skal være.
 Paul Nilsson 1906.  
 Helge Severinsen 1997.
 
+
+<a id="173"></a>
 
 ### 173
 
@@ -8709,6 +9051,8 @@ Luk 18,31–43
 K.L. Aastrup 1958.
 
 
+<a id="174"></a>
+
 ### 174
 
 *Mel.: Tysk visemelodi 17. årh.*  
@@ -8738,6 +9082,8 @@ Jerusalem!
 Luk 19,41–44  
 Johan Nordahl Brun 1786.
 
+
+<a id="175"></a>
 
 ### 175
 
@@ -8790,6 +9136,8 @@ W.A. Wexels 1849.
 Troen på Guds Søn – Påske
 -------------------------
 
+
+<a id="176"></a>
 
 ### 176
 
@@ -8850,6 +9198,8 @@ Matt 21,1–9
 Thomas Kingo 1689. J.P. Mynster 1845.
 
 
+<a id="177"></a>
+
 ### 177
 
 *Mel.: Her ser jeg da et lam at gå*
@@ -8889,6 +9239,8 @@ og vær en nådig dommer!
 
 C.J. Boye 1835.
 
+
+<a id="178"></a>
 
 ### 178
 
@@ -8938,6 +9290,8 @@ det er hans legems samfund.
 Michael Nielsen Schmidth 1839.
 
 
+<a id="179"></a>
+
 ### 179
 
 *Mel.: Bøj, o Helligånd, os alle*  
@@ -8973,6 +9327,8 @@ og kun kærlighed oplader
 
 N.F.S. Grundtvig 1833.
 
+
+<a id="180"></a>
 
 ### 180
 
@@ -9053,6 +9409,8 @@ syngende i Himmerige!
 Matt 26,30. Lidelseshistorien. Afsnit 1.  
 Thomas Kingo 1689.
 
+
+<a id="181"></a>
 
 ### 181
 
@@ -9135,6 +9493,8 @@ Lidelseshistorien. Afsnit 1–2
 Thomas Kingo 1689.
 
 
+<a id="182"></a>
+
 ### 182
 
 *Mel.: Jesus, Jesus, Jesus sigter*
@@ -9170,6 +9530,8 @@ Lær os, Herre, at opstå!
 James Montgomery 1820 og 1825.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="183"></a>
 
 ### 183
 
@@ -9242,6 +9604,8 @@ Matt 26,36–46. Lidelseshistorien. Afsnit 2.
 Thomas Kingo 1689.
 
 
+<a id="184"></a>
+
 ### 184
 
 *Mel.: Jesus, dine dybe vunder*
@@ -9313,6 +9677,8 @@ Matt 26,46–52. Lidelseshistorien. Afsnit 3–4.
 Thomas Kingo 1689.
 
 
+<a id="185"></a>
+
 ### 185
 
 *Mel.: Jesus, dine dybe vunder*
@@ -9383,6 +9749,8 @@ dødens tanker mig forsøde.
 Matt 26,57–68. Lidelseshistorien. Afsnit 5–6.  
 Thomas Kingo, 1689 og 1699.
 
+
+<a id="186"></a>
 
 ### 186
 
@@ -9473,6 +9841,8 @@ Matt 26,69–75. Lidelseshistorien. Afsnit 7.
 Thomas Kingo 1689.
 
 
+<a id="187"></a>
+
 ### 187
 
 *Mel.: Jesus, dine dybe vunder*
@@ -9526,6 +9896,8 @@ Matt 27,22–26. Lidelseshistorien. Afsnit 8–9.
 Thomas Kingo 1689.
 
 
+<a id="188"></a>
+
 ### 188
 
 *Mel.: Med sorgen og klagen hold måde*
@@ -9548,6 +9920,8 @@ gled skyggen af drømmens konturer
 Joh 19,17  
 Lisbeth Smedegaard Andersen 1991.
 
+
+<a id="189"></a>
 
 ### 189
 
@@ -9592,6 +9966,8 @@ Jesus Kristus, vor forsoner.
 1 Mos 22,1–18; 1 Kor 5,7; 2 Kor 5,15  
 N.F.S. Grundtvig 1858.
 
+
+<a id="190"></a>
 
 ### 190
 
@@ -9656,6 +10032,8 @@ Joh 1,29
 Paul Gerhardt 1647.  
 Hans Adolph Brorson 1735.
 
+
+<a id="191"></a>
 
 ### 191
 
@@ -9748,6 +10126,8 @@ N.F.S. Grundtvig 1832–45.
 Bearbejdet 1850, 1889 og 1951.
 
 
+<a id="192"></a>
+
 ### 192
 
 *Mel.: C.Chr. Hoffman 1878*  
@@ -9810,6 +10190,8 @@ Sig: vi går til Paradis!
 Arnulf af Louvain før 1250.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="193"></a>
 
 ### 193
 
@@ -9874,6 +10256,8 @@ Paul Gerhardt 1656.
 Frederik Rostgaard 1738.
 
 
+<a id="194"></a>
+
 ### 194
 
 *Mel.: Freylinghausen 1704*
@@ -9916,6 +10300,8 @@ skal nå din Gud og finde Himlen åben.
 Matt 27,46  
 Ambrosius Stub 1754–1758.
 
+
+<a id="195"></a>
 
 ### 195
 
@@ -9978,6 +10364,8 @@ Bearbejdet 1889 og 1951.
 Jf. nr. 196.
 
 
+<a id="196"></a>
+
 ### 196
 
 *Mel.: Førreformatorisk sekvens / Peter Møller 1995*  
@@ -10015,6 +10403,8 @@ Jacopone da Todi omkring 1300.
 N.F.S. Grundtvig 1837. Bearbejdet 1935.  
 Jf. nr. 195.
 
+
+<a id="197"></a>
 
 ### 197
 
@@ -10087,6 +10477,8 @@ forladt mig.
 Hans Anker Jørgensen 1991–1993.
 
 
+<a id="198"></a>
+
 ### 198
 
 *Mel.: Morten Nyord 1999*
@@ -10115,6 +10507,8 @@ din stemmes ekko i Guds hjerte.
 Luk 23,46  
 Ambrosius Stub 1754–1758.
 
+
+<a id="199"></a>
 
 ### 199
 
@@ -10178,6 +10572,8 @@ Johann Heermann 1644.
 Niels Christensen Arctander 1689.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="200"></a>
 
 ### 200
 
@@ -10243,6 +10639,8 @@ B.S. Ingemann 1854.
 C.J. Brandt 1885.
 
 
+<a id="201"></a>
+
 ### 201
 
 *Mel.: Førreformatorisk dansk*
@@ -10272,6 +10670,8 @@ Morten Hegelund 1553.
 N.F.S. Grundtvig 1837.
 
 
+<a id="202"></a>
+
 ### 202
 
 *Mel.: Thomas Laub 1924*
@@ -10290,6 +10690,8 @@ under tornekrone.
 Græsk.  
 N.F.S. Grundtvig 1837. 1846.
 
+
+<a id="203"></a>
 
 ### 203
 
@@ -10323,6 +10725,8 @@ Joh 1,29
 Agnus Dei. Oldkirkelig latin.  
 Nicolaus Decius omkring 1525. Dansk 1529.
 
+
+<a id="204"></a>
 
 ### 204
 
@@ -10366,6 +10770,8 @@ al min fortrøstning står til dig.
 H.P. Resen (omkring 1640).  
 Søren Jonæsøn 1693.
 
+
+<a id="205"></a>
 
 ### 205
 
@@ -10437,6 +10843,8 @@ mig livets dyre krone.
 Thomas Kingo 1699.
 
 
+<a id="206"></a>
+
 ### 206
 
 *Mel.: Jeg vil din pris udsjunge*
@@ -10462,6 +10870,8 @@ til Himmeriges bord.
 N.F.S. Grundtvig 1853–55 og 1864.
 
 
+<a id="207"></a>
+
 ### 207
 
 *Mel.: Jesus, dine dybe vunder*
@@ -10479,6 +10889,8 @@ Arnulf af Louvain før 1250. Paul Gerhardt 1653.
 Hans Adolph Brorson 1735. Bearbejdet 1850.
 
 
+<a id="208"></a>
+
 ### 208
 
 *Mel.: Jesus, dine dybe vunder*
@@ -10495,6 +10907,8 @@ og min salighed skal være!
 Thomas Kingo 1689.  
 Bearbejdet 1844.
 
+
+<a id="209"></a>
 
 ### 209
 
@@ -10533,6 +10947,8 @@ da går jeg let, hvor vejene er svære!
 Chr. Richardt 1861.
 
 
+<a id="210"></a>
+
 ### 210
 
 *Mel.: Udrust dig, helt fra Golgata*
@@ -10560,6 +10976,8 @@ den mindste, ham har kær!
 Isaac Watts 1707–09.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="211"></a>
 
 ### 211
 
@@ -10604,6 +11022,8 @@ Venantius Fortunatus omkr. 600.
 N.F.S. Grundtvig 1837.
 
 
+<a id="212"></a>
+
 ### 212
 
 *Mel.: Se, hvor nu Jesus træder*  
@@ -10627,6 +11047,8 @@ Gud har forbarmet sig!
 Latin, 14. årh.  
 Peder Palladius (1569). N.F.S. Grundtvig 1837.
 
+
+<a id="213"></a>
 
 ### 213
 
@@ -10736,6 +11158,8 @@ Kædmon før 680.
 N.F.S. Grundtvig 1837.
 
 
+<a id="214"></a>
+
 ### 214
 
 *Mel.: Thomas Laub 1926*
@@ -10779,6 +11203,8 @@ Johannes af Damaskus 8. årh.
 N.F.S. Grundtvig 1837.
 
 
+<a id="215"></a>
+
 ### 215
 
 *Mel.: Kirken er som Himmerige*
@@ -10815,6 +11241,8 @@ juble vi: Halleluja!
 
 B.S. Ingemann 1845.
 
+
+<a id="216"></a>
 
 ### 216
 
@@ -10869,6 +11297,8 @@ og kalder dødt til live.
 K.L. Aastrup 1937–38. 1939.
 
 
+<a id="217"></a>
+
 ### 217
 
 *Mel.: Carl Nielsen 1914*  
@@ -10898,6 +11328,8 @@ Biørn Christian Lund 1764.
 Bearbejdet 1778.  
 N.F.S. Grundtvig 1846.
 
+
+<a id="218"></a>
 
 ### 218
 
@@ -10933,6 +11365,8 @@ Dansk 1528. Bearbejdet 1642.
 N.F.S. Grundtvig 1815 og 1845.  
 Thomas Laub 1889.
 
+
+<a id="219"></a>
 
 ### 219
 
@@ -10990,6 +11424,8 @@ Wipo 11. årh. Dansk 1528.
 Helge Severinsen 1998.
 
 
+<a id="220"></a>
+
 ### 220
 
 *Mel.: Johann Walter 1524*
@@ -11043,6 +11479,8 @@ Martin Luther 1524. Dansk (1528).
 N.F.S. Grundtvig 1837.
 
 
+<a id="221"></a>
+
 ### 221
 
 *Mel.: Guds godhed vil vi prise*  
@@ -11087,6 +11525,8 @@ og sejerskrone få!
 Georg Werner 1639. Søren Jonæsøn 1693.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="222"></a>
 
 ### 222
 
@@ -11135,6 +11575,8 @@ Halleluja!
 Latin 14. årh. Dansk omkr. 1620.  
 N.F.S. Grundtvig 1815 og 1845.
 
+
+<a id="223"></a>
 
 ### 223
 
@@ -11186,6 +11628,8 @@ Sl 68
 Græsk. N.F.S. Grundtvig 1837.
 
 
+<a id="224"></a>
+
 ### 224
 
 *Mel.: Thomas Laub 1909*
@@ -11234,6 +11678,8 @@ med guld i mund!
 
 W.A. Wexels 1858.
 
+
+<a id="225"></a>
 
 ### 225
 
@@ -11293,6 +11739,8 @@ Thomas Kingo 1689.
 Jf. nr. 232.
 
 
+<a id="226"></a>
+
 ### 226
 
 *Mel.: Den yndigste rose er funden*
@@ -11330,6 +11778,8 @@ og påskefest holde med glæde!
 1 Kor 5,6–8  
 Thomas Kingo 1689.
 
+
+<a id="227"></a>
 
 ### 227
 
@@ -11419,6 +11869,8 @@ dér skal jeg dig se og finde!
 Thomas Kingo 1689.
 
 
+<a id="228"></a>
+
 ### 228
 
 *Mel.: Severus Gastorius 1681*
@@ -11490,6 +11942,8 @@ Just Henning Böhmer 1705.
 Hans Adolph Brorson 1734.
 
 
+<a id="229"></a>
+
 ### 229
 
 *Mel.: Af højheden oprunden er*
@@ -11552,6 +12006,8 @@ Jesus er, han er opstanden!
 Hans Adolph Brorson 1734.
 
 
+<a id="230"></a>
+
 ### 230
 
 *Mel.: Thomas Laub 1917*
@@ -11607,6 +12063,8 @@ op vi fare fra grav i sky!
 
 N.F.S. Grundtvig 1843.
 
+
+<a id="231"></a>
 
 ### 231
 
@@ -11666,6 +12124,8 @@ Anselm af Canterbury 11. årh.
 N.F.S. Grundtvig 1837.
 
 
+<a id="232"></a>
+
 ### 232
 
 *Mel.: Fryd dig, du Kristi brud*
@@ -11688,6 +12148,8 @@ Thomas Kingo 1689.
 Oprindelig del af nr. 225.
 
 
+<a id="233"></a>
+
 ### 233
 
 *Mel.: Herre Jesus, vi er her*
@@ -11708,6 +12170,8 @@ Jesus vandt, og jeg har vundet!
 
 Johan Nordahl Brun 1786.
 
+
+<a id="234"></a>
 
 ### 234
 
@@ -11736,6 +12200,8 @@ som årle, så og silde.
 
 N.F.S. Grundtvig 1846.
 
+
+<a id="235"></a>
 
 ### 235
 
@@ -11785,6 +12251,8 @@ vinker os til Eden.
 Adam af St. Victor 12. årh.  
 N.F.S. Grundtvig 1837 og 1845.
 
+
+<a id="236"></a>
 
 ### 236
 
@@ -11848,6 +12316,8 @@ han, som svor os bod for vånde.
 N.F.S. Grundtvig 1817. Bearbejdet 1935.
 
 
+<a id="237"></a>
+
 ### 237
 
 *Mel.: Bernhard Christensen 1976*
@@ -11875,6 +12345,8 @@ Før død og begravet, nu oprejst til livet.
 
 K.L. Aastrup 1954.
 
+
+<a id="238"></a>
 
 ### 238
 
@@ -11908,6 +12380,8 @@ de vist skal arve med ham der.
 
 K.L. Aastrup 1961.
 
+
+<a id="239"></a>
 
 ### 239
 
@@ -11956,6 +12430,8 @@ stråler påskemorgen.
 Sten Kaalø 1998.
 
 
+<a id="240"></a>
+
 ### 240
 
 *Mel.: Georg Friedrich Händel 1746*
@@ -12003,6 +12479,8 @@ Kristus underlagt.
 Edmond Louis Budry 1885.  
 Arne Fjelberg 1947. Dansk 1993.
 
+
+<a id="241"></a>
 
 ### 241
 
@@ -12057,6 +12535,8 @@ vokser sjælens fuglevinger.
 Joh 20,11–18
 N.F.S. Grundtvig 1832 og 1846.
 
+
+<a id="242"></a>
 
 ### 242
 
@@ -12131,6 +12611,8 @@ evig pris vi bære.
 Hans Adolph Brorson 1734.
 
 
+<a id="243"></a>
+
 ### 243
 
 *Mel.: Jeg ved et evigt Himmerig*  
@@ -12173,6 +12655,8 @@ velsignelsen modtage!
 
 N.F.S. Grundtvig 1846 og 1864.
 
+
+<a id="244"></a>
 
 ### 244
 
@@ -12227,6 +12711,8 @@ Luk 24,13–35
 Thomas Kingo 1689. Jf. nr. 782.
 
 
+<a id="245"></a>
+
 ### 245
 
 *Mel.: Du er, opstandne sejershelt*
@@ -12280,6 +12766,8 @@ Luk 24,13–35
 Johannes Johansen 1976 og 1990.
 
 
+<a id="246"></a>
+
 ### 246
 
 *Mel.: Thomas Laub 1926*
@@ -12325,6 +12813,8 @@ Johannes af Damaskus 8. årh.
 N.F.S. Grundtvig 1837.
 
 
+<a id="247"></a>
+
 ### 247
 
 *Mel.: Herre Jesus, vi er her*
@@ -12345,6 +12835,8 @@ freden, som du købte, smage!
 
 Johan Nordahl Brun 1786.
 
+
+<a id="248"></a>
 
 ### 248
 
@@ -12388,6 +12880,8 @@ min thomastro, mit svage mod
 Joh 20,24–29  
 Lisbeth Smedegaard Andersen 1988.
 
+
+<a id="249"></a>
 
 ### 249
 
@@ -12465,6 +12959,8 @@ Troen på Guds Søn – Kristi himmelfart
 -------------------------------------
 
 
+<a id="250"></a>
+
 ### 250
 
 *Mel.: Thomas Laub 1915*  
@@ -12523,6 +13019,8 @@ Kynewulf omkr. 800.
 N.F.S. Grundtvig 1837.
 
 
+<a id="251"></a>
+
 ### 251
 
 *Mel.: Kraften fra det høje*
@@ -12547,6 +13045,8 @@ Bøjer alle knæ for vor frelser!
 
 N.F.S. Grundtvig 1850.
 
+
+<a id="252"></a>
 
 ### 252
 
@@ -12596,6 +13096,8 @@ Latin 15. årh. Dansk omkr. 1620.
 N.F.S. Grundtvig 1837.
 
 
+<a id="253"></a>
+
 ### 253
 
 *Mel.: O Gud, du ved og kender*
@@ -12630,6 +13132,8 @@ med almagts spir i hånd!
 
 Hans Adolph Brorson (1765).
 
+
+<a id="254"></a>
 
 ### 254
 
@@ -12683,6 +13187,8 @@ Mark 16, 14–20
 B.S. Ingemann 1825.
 
 
+<a id="255"></a>
+
 ### 255
 
 *Mel.: Johan Chr. Gebauer omkring 1870*  
@@ -12722,6 +13228,8 @@ Joh 12,32
 Friedrich Funcke 1686.  
 Hans Adolph Brorson 1734.
 
+
+<a id="256"></a>
 
 ### 256
 
@@ -12770,6 +13278,8 @@ det Gud af nåde give!
 Johannes Zwick 1536.  
 Hans Adolph Brorson 1734.
 
+
+<a id="257"></a>
 
 ### 257
 
@@ -12824,6 +13334,8 @@ siger: Del din Herres glæde!
 N.F.S. Grundtvig 1832.
 
 
+<a id="258"></a>
+
 ### 258
 
 *Mel.: Bernhard Christensen 1965*
@@ -12864,6 +13376,8 @@ ApG 1,6–8
 K.L. Aastrup 1958.
 
 
+<a id="259"></a>
+
 ### 259
 
 *Mel.: Egil Hovland 1989*
@@ -12897,6 +13411,8 @@ Svein Ellingsen 1977 og 1988.
 Helge Severinsen 1999.
 
 
+<a id="260"></a>
+
 ### 260
 
 *Mel.: Merete Wendler 1986*
@@ -12929,6 +13445,8 @@ Hans Anker Jørgensen 1986.
 Troen på Guds Søn – Kristi herredømme
 -------------------------------------
 
+
+<a id="261"></a>
 
 ### 261
 
@@ -12968,6 +13486,8 @@ al mørkheds magt til trods!
 Isaac Watts 1707.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="262"></a>
 
 ### 262
 
@@ -13018,6 +13538,8 @@ Svensk 1864.
 Chr. Dick 1867. Bearbejdet 1895.
 
 
+<a id="263"></a>
+
 ### 263
 
 *Mel.: Henrik Rung 1847*  
@@ -13058,6 +13580,8 @@ Dem vis er livets krone!
 N.F.S. Grundtvig 1843.
 
 
+<a id="264"></a>
+
 ### 264
 
 *Mel.: Helligånd, de frommes glæde*  
@@ -13075,6 +13599,8 @@ alle jordens slægter! Amen.
 M.B. Landstad 1865.  
 Bearbejdet 1913.
 
+
+<a id="265"></a>
 
 ### 265
 
@@ -13112,6 +13638,8 @@ Anders Arrebo 1623 og 1627.
 Fr. Hammerich 1850.
 
 
+<a id="266"></a>
+
 ### 266
 
 *Mel.: Friedrich F. Flemming 1811*
@@ -13134,6 +13662,8 @@ Hos os du blive!
 Matthäus Apelles von Löwenstern 1644.  
 Dansk 1740.
 
+
+<a id="267"></a>
 
 ### 267
 
@@ -13178,6 +13708,8 @@ H.P. Mollerup? 1895.
 Troen på Guds Søn – Kristi komme
 --------------------------------
 
+
+<a id="268"></a>
 
 ### 268
 
@@ -13227,6 +13759,8 @@ Philipp Nicolai 1599. M.B. Landstad omkr. 1825.
 Fr. Hammerich 1850 og 1852.
 
 
+<a id="269"></a>
+
 ### 269
 
 *Mel.: Tysk folkevise 1544*
@@ -13249,6 +13783,8 @@ og gør mig salig til evig tid!
 Åb 22,20  
 Dansk, rimet bøn 1650.
 
+
+<a id="270"></a>
 
 ### 270
 
@@ -13281,6 +13817,8 @@ skal evig gå til grunde.
 Rom 15,4–9  
 Thomas Kingo 1689.
 
+
+<a id="271"></a>
 
 ### 271
 
@@ -13335,6 +13873,8 @@ Matt 25,1–13
 Lorenz Lorenzen (Laurentius Laurentii) 1700.  
 Hans Adolph Brorson 1739.
 
+
+<a id="272"></a>
 
 ### 272
 
@@ -13400,6 +13940,8 @@ Christoph Anton Müller 1725.
 Hans Adolph Brorson 1735.
 
 
+<a id="273"></a>
+
 ### 273
 
 *Mel.: Vor Gud han er så fast en borg*
@@ -13447,6 +13989,8 @@ udråbe: Herren lever!
 Luk 21,25–36  
 B.S. Ingemann 1825.
 
+
+<a id="274"></a>
 
 ### 274
 
@@ -13519,6 +14063,8 @@ da stråler livets krone!
 N.F.S. Grundtvig 1837.
 
 
+<a id="275"></a>
+
 ### 275
 
 *Mel.: Klokken slår, tiden går*
@@ -13562,6 +14108,8 @@ så skal vi nok komme hjem!
 H. Agerbek 1848.
 
 
+<a id="276"></a>
+
 ### 276
 
 *Mel.: Asger Pedersen 1978*
@@ -13597,6 +14145,8 @@ dybt i solopgangen fra det høje.
 1 Kor 4,3–5.  
 Johannes Johansen 1975.
 
+
+<a id="277"></a>
 
 ### 277
 
@@ -13654,6 +14204,8 @@ Vi skal se dig, som du er!
 Svein Ellingsen 1976. Holger Lissner 1992.
 
 
+<a id="278"></a>
+
 ### 278
 
 *Mel.: Trond Kverno 1978*
@@ -13689,6 +14241,8 @@ Hvert knæ sig bøje!
 Al ære til vor frelser i det høje!
 
 
+<a id="279"></a>
+
 ### 279
 
 *Mel.: Vaj nu, Dannebrog, på voven*  
@@ -13712,6 +14266,8 @@ Bearbejdet 1878.
 Troen på Gud Helligånd – Helligåndens komme
 -------------------------------------------
 
+
+<a id="280"></a>
 
 ### 280
 
@@ -13768,6 +14324,8 @@ hvis modersmål er Guds-ordet.
 N.F.S. Grundtvig 1860.  
 Bearbejdet 1918.
 
+
+<a id="281"></a>
 
 ### 281
 
@@ -13828,6 +14386,8 @@ Thomas Kingo 1699.
 Jf. nr. 300.
 
 
+<a id="282"></a>
+
 ### 282
 
 *Mel.: Der stander et hus i vort høje Nord*  
@@ -13876,6 +14436,8 @@ at Himmerigs klokker kime!
 ApG 2,1–11  
 N.F.S. Grundtvig 1843 og 1857.
 
+
+<a id="283"></a>
 
 ### 283
 
@@ -13940,6 +14502,8 @@ Halleluja!
 N.F.S. Grundtvig 1840, 1843 og 1845.
 
 
+<a id="284"></a>
+
 ### 284
 
 *Mel.: Guds Søn kom ned fra Himmerig*
@@ -13988,6 +14552,8 @@ ApG 2,1–11
 B.S. Ingemann 1825.
 
 
+<a id="285"></a>
+
 ### 285
 
 *Mel.: Ole Schmidt 1986*
@@ -14030,6 +14596,8 @@ er ingen sjæl alene mer!
 
 Jørgen Gustava Brandt 1986.
 
+
+<a id="286"></a>
 
 ### 286
 
@@ -14096,6 +14664,8 @@ det af Zions heltesang.
 N.F.S. Grundtvig 1836 og 1850.
 
 
+<a id="287"></a>
+
 ### 287
 
 *Mel.: Henrik Rung 1847*  
@@ -14121,6 +14691,8 @@ Takker alle Gud for hans gave!
 
 N.F.S. Grundtvig 1850.
 
+
+<a id="288"></a>
 
 ### 288
 
@@ -14154,6 +14726,8 @@ N.F.S. Grundtvig 1837.
 Troen på Gud Helligånd – Helligåndens gerning
 ---------------------------------------------
 
+
+<a id="289"></a>
 
 ### 289
 
@@ -14203,6 +14777,8 @@ Tysk 12. årh.
 Martin Luther 1524. (Dansk 1529).  
 Ove Malling 1798. N.F.S. Grundtvig 1836.
 
+
+<a id="290"></a>
 
 ### 290
 
@@ -14260,6 +14836,8 @@ gav os med ham dit Himmerig.
 N.F.S. Grundtvig 1843 og 1853.
 
 
+<a id="291"></a>
+
 ### 291
 
 *Mel.: Melchior Franck 1628 / Thomas Laub 1902*  
@@ -14310,6 +14888,8 @@ går kun fortabelsens æt fortabt!
 James Montgomery 1823.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="292"></a>
 
 ### 292
 
@@ -14368,6 +14948,8 @@ Det gør enigheden!
 Adam af St. Victor 12. årh.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="293"></a>
 
 ### 293
 
@@ -14441,6 +15023,8 @@ så vore tunger gløde!
 N.F.S. Grundtvig 1846.
 
 
+<a id="294"></a>
+
 ### 294
 
 *Mel.: L.M. Lindeman 1876*  
@@ -14488,6 +15072,8 @@ did, hvor der er evig fred!
 
 N.F.S. Grundtvig 1837.
 
+
+<a id="295"></a>
 
 ### 295
 
@@ -14541,6 +15127,8 @@ til Himlens frydeskat!
 Paul Gerhardt 1648.  
 Hans Adolph Brorson 1734.
 
+
+<a id="296"></a>
 
 ### 296
 
@@ -14599,6 +15187,8 @@ med kraft i os til Kristi Dag!
 N.F.S. Grundtvig 1826 og 1843.
 
 
+<a id="297"></a>
+
 ### 297
 
 *Mel.: Guds godhed vil vi prise*
@@ -14643,6 +15233,8 @@ Georg Werner 1639.
 Søren Jonæsøn 1693.
 
 
+<a id="298"></a>
+
 ### 298
 
 *Mel.: Alt står i Guds faderhånd*
@@ -14674,6 +15266,8 @@ evigt liv med salighed.
 N.F.S. Grundtvig 1859.
 
 
+<a id="299"></a>
+
 ### 299
 
 *Mel.: Jesus, din søde forening at smage*
@@ -14696,6 +15290,8 @@ N.F.S. Grundtvig 1845.
 Troen på Gud Helligånd – Bøn til Helligånden
 --------------------------------------------
 
+
+<a id="300"></a>
 
 ### 300
 
@@ -14720,6 +15316,8 @@ Thomas Kingo 1699.
 N.F.S. Grundtvig 1826, 1837 og 1864.  
 Oprindelig del af nr. 281.
 
+
+<a id="301"></a>
 
 ### 301
 
@@ -14760,6 +15358,8 @@ Martin Luther 1524. Claus Mortensen 1529.
 Fr. Hammerich 1843 og 1850.
 
 
+<a id="302"></a>
+
 ### 302
 
 *Mel.: August Winding 1861*  
@@ -14798,6 +15398,8 @@ og vi blev fjendens bytte.
 Joseph Hart 1759.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="303"></a>
 
 ### 303
 
@@ -14839,6 +15441,8 @@ Olaus Petri 1536. Dansk 1569.
 N.F.S. Grundtvig 1837 og 1864.
 
 
+<a id="304"></a>
+
 ### 304
 
 *Mel.: Engelsk melodi omkring 1536*
@@ -14858,6 +15462,8 @@ Veni sancte spiritus reple 11. årh.
 Tysk 15. årh.. Dansk 1514 (Chr. Pedersen).  
 Dansk 1569. N.F.S. Grundtvig 1837.
 
+
+<a id="305"></a>
 
 ### 305
 
@@ -14904,6 +15510,8 @@ Stephan Langton omkr. 1200. (Dansk 1569).
 N.F.S. Grundtvig 1837 og 1868.
 
 
+<a id="306"></a>
+
 ### 306
 
 *Mel.: Af højheden oprunden er*
@@ -14944,6 +15552,8 @@ Gud, og hver mand godt bevise!
 Michael Schirmer 1640.  
 Søren Jonæsøn 1693 og 1697.
 
+
+<a id="307"></a>
 
 ### 307
 
@@ -14992,6 +15602,8 @@ til vi blir ny fra top til tå!
 N.F.S. Grundtvig 1852–53.
 
 
+<a id="308"></a>
+
 ### 308
 
 *Mel.: Heinrich Albert 1642*
@@ -15015,6 +15627,8 @@ A.M. Toplady 1776. Edw. Bickersteth 1833.
 N.F.S. Grundtvig 1837.
 
 
+<a id="309"></a>
+
 ### 309
 
 *Mel.: Knud Jeppesen 1930*  
@@ -15036,6 +15650,8 @@ Herrens liv og Ånd sig rører!
 
 N.F.S. Grundtvig 1834. Bearbejdet 1895.
 
+
+<a id="310"></a>
 
 ### 310
 
@@ -15068,6 +15684,8 @@ i evig ro at gemmes!
 Bartholomäus Ringwaldt 1581.  
 Søren Jonæsøn 1693.
 
+
+<a id="311"></a>
 
 ### 311
 
@@ -15116,6 +15734,8 @@ og støvet rolig hvile!
 Bartholomäus Ringwaldt 1581.  
 Søren Jonæsøn 1693. J.P. Mynster 1845.
 
+
+<a id="312"></a>
 
 ### 312
 
@@ -15191,6 +15811,8 @@ Benjamin Schmolck 1715.
 M.B. Landstad 1861. Bearbejdet 1924.
 
 
+<a id="313"></a>
+
 ### 313
 
 *Mel.: Freylinghausen 1714*  
@@ -15254,6 +15876,8 @@ Johann Caspar Stegman 1714.
 Hans Adolph Brorson 1734.
 
 
+<a id="314"></a>
+
 ### 314
 
 *Mel.: Vor Gud han er så fast en borg*
@@ -15292,6 +15916,8 @@ Gottfried Wilh. Sacer 1665.
 Søren Jonæsøn 1693.
 
 
+<a id="315"></a>
+
 ### 315
 
 *Mel.: Johann G. Ebeling 1667*
@@ -15328,6 +15954,8 @@ Hans Adolph Brorson 1734.
 Bearbejdet 1885.
 
 
+<a id="316"></a>
+
 ### 316
 
 *Mel.: Bøj, o Helligånd, os alle.*  
@@ -15343,6 +15971,8 @@ hvor kun før var død og mørke!
 William Hiley Bathurst 1831.  
 N.F.S. Grundtvig 1837
 
+
+<a id="317"></a>
 
 ### 317
 
@@ -15381,6 +16011,8 @@ Den hellige, almindelige kirke – Guds rige
 ------------------------------------------
 
 
+<a id="318"></a>
+
 ### 318
 
 *Mel.: Lover den Herre*
@@ -15417,6 +16049,8 @@ alting af kærlighed sødes.
 
 N.F.S. Grundtvig 1853–55 og 1864.
 
+
+<a id="319"></a>
 
 ### 319
 
@@ -15481,6 +16115,8 @@ med ret og fred og glæde.
 N.F.S. Grundtvig 1829 og 1853.
 
 
+<a id="320"></a>
+
 ### 320
 
 *Mel.: Kirken er som Himmerige*  
@@ -15533,6 +16169,8 @@ synlig som han selv i sky.
 
 N.F.S. Grundtvig 1853.
 
+
+<a id="321"></a>
 
 ### 321
 
@@ -15598,6 +16236,8 @@ Jf. nr. 561.
 Den hellige, almindelige kirke – Kirken
 ---------------------------------------
 
+
+<a id="322"></a>
 
 ### 322
 
@@ -15672,6 +16312,8 @@ Hans Thomissøn 1569.
 N.F.S. Grundtvig 1836 og 1845.
 
 
+<a id="323"></a>
+
 ### 323
 
 *Mel.: L.M. Lindeman 1840*
@@ -15736,6 +16378,8 @@ N.F.S. Grundtvig 1836 og 1853.
 Jf. nr. 329.
 
 
+<a id="324"></a>
+
 ### 324
 
 *Mel.: Thomas Laub 1913*
@@ -15778,6 +16422,8 @@ af tak for Guds Søn.
 1 Kong 8,27  
 N.F.S. Grundtvig 1836.
 
+
+<a id="325"></a>
 
 ### 325
 
@@ -15826,6 +16472,8 @@ Guds-Åndens billedtale!
 N.F.S. Grundtvig 1837 og 1853.
 
 
+<a id="326"></a>
+
 ### 326
 
 *Mel.: Viggo Kalhauge 1876*  
@@ -15868,6 +16516,8 @@ end kimes der mildt ifra tårne.
 
 Anders Reitan 1866.
 
+
+<a id="327"></a>
 
 ### 327
 
@@ -15916,6 +16566,8 @@ i vor frelsers kærlighed.
 
 N.F.S. Grundtvig 1836 og 1851.
 
+
+<a id="328"></a>
 
 ### 328
 
@@ -15974,6 +16626,8 @@ Sl 127,1
 N.F.S. Grundtvig 1843.
 
 
+<a id="329"></a>
+
 ### 329
 
 *Mel.: Kirken den er et gammelt hus*
@@ -15997,6 +16651,8 @@ Ordet kun helliger huset.
 N.F.S. Grundtvig 1836. Bearbejdet 1976.  
 Oprindelig del af nr. 323.
 
+
+<a id="330"></a>
 
 ### 330
 
@@ -16039,6 +16695,8 @@ som kun kærligheden ved.
 
 Jens Rosendal 1973.
 
+
+<a id="331"></a>
 
 ### 331
 
@@ -16088,6 +16746,8 @@ og da føler vi en stund,
 at vi står på hellig grund,  
 og at livets mening lyder fra vor skabers egen mund.
 
+
+<a id="332"></a>
 
 ### 332
 
@@ -16139,6 +16799,8 @@ Den hellige, almindelige kirke – Kirkens enhed
 ----------------------------------------------
 
 
+<a id="333"></a>
+
 ### 333
 
 *Mel.: Lyon 1547*
@@ -16169,6 +16831,8 @@ thi evig fast står sandheds ord.
 
 N.F.S. Grundtvig 1837 og 1853.
 
+
+<a id="334"></a>
 
 ### 334
 
@@ -16224,6 +16888,8 @@ Samuel John Stone 1866.
 Severin Widding 1912. Axel Rosendal 1949.
 
 
+<a id="335"></a>
+
 ### 335
 
 *Mel. Olle Widestrand 1974*
@@ -16263,6 +16929,8 @@ Henrik E. Frederiksen 1985 og 1993.
 Den hellige, almindelige kirke – Kirkens bevarelse
 --------------------------------------------------
 
+
+<a id="336"></a>
 
 ### 336
 
@@ -16314,6 +16982,8 @@ Dansk 1533. Bearbejdet 1798.
 P. Hjort 1840. J.P. Mynster 1845.
 
 
+<a id="337"></a>
+
 ### 337
 
 *Mel.: Wittenberg 1543*
@@ -16336,6 +17006,8 @@ led os til livet fra vor død!
 Martin Luther 1542. Dansk 1556.  
 N.F.S. Grundtvig 1837. H.S. Prahl 1888.
 
+
+<a id="338"></a>
 
 ### 338
 
@@ -16371,6 +17043,8 @@ Martin Luther 1524. Dansk 1529.
 N.F.S. Grundtvig 1811 og 1843.
 
 
+<a id="339"></a>
+
 ### 339
 
 *Mel.: Finn Mathiassen 1999*
@@ -16394,6 +17068,8 @@ vort åndedrag.
 Sl 124  
 Jørgen Michaelsen 1995.
 
+
+<a id="340"></a>
 
 ### 340
 
@@ -16444,6 +17120,8 @@ Thomas Knudsen 1569.
 N.F.S. Grundtvig 1837.
 
 
+<a id="341"></a>
+
 ### 341
 
 *Mel.: O Herre Krist! dig til os vend*
@@ -16493,6 +17171,8 @@ Nicolaus Selnecker 1572. Bearbejdet 1611.
 N.F.S. Grundtvig 1837 og 1853.
 
 
+<a id="342"></a>
+
 ### 342
 
 *Mel.: Jeg ved et evigt Himmerig*
@@ -16530,6 +17210,8 @@ en uforvisnet krone.
 Joh 14,1–11  
 Thomas Kingo 1699.
 
+
+<a id="343"></a>
 
 ### 343
 
@@ -16593,6 +17275,8 @@ alle med hinandens tunge.
 N.F.S. Grundtvig 1826 og 1836.
 
 
+<a id="344"></a>
+
 ### 344
 
 *Mel.: Thomas Laub 1919*
@@ -16641,6 +17325,8 @@ Sl 65
 N.F.S. Grundtvig 1864.
 
 
+<a id="345"></a>
+
 ### 345
 
 *Mel.: Anfinn Øien 1967*
@@ -16675,6 +17361,8 @@ Ronald Fangen 1942. Dansk 1989.
 Den hellige, almindelige kirke – Kirkens fornyelse
 --------------------------------------------------
 
+
+<a id="346"></a>
 
 ### 346
 
@@ -16731,6 +17419,8 @@ Arvid Pedersen 1529. N.F.S. Grundtvig 1836.
 B.S. Ingemann 1854.
 
 
+<a id="347"></a>
+
 ### 347
 
 *Mel.: Johann Hermann Schein 1627*
@@ -16764,6 +17454,8 @@ og purpur. Lad det ske!
 
 Hans Adolph Brorson (1765).
 
+
+<a id="348"></a>
 
 ### 348
 
@@ -16846,6 +17538,8 @@ Sl 137,1–6; Hagg 2,1–9
 N.F.S. Grundtvig 1825 og 1853.
 
 
+<a id="349"></a>
+
 ### 349
 
 *Mel.: Carl Chr. Nic. Balle? 1850*  
@@ -16899,6 +17593,8 @@ glæden vor salmetone!
 N.F.S. Grundtvig 1836 og 1853.
 
 
+<a id="350"></a>
+
 ### 350
 
 *Mel.: Hvo ikkun lader Herren råde*
@@ -16949,6 +17645,8 @@ Zak 4,6–10
 N.F.S. Grundtvig 1837 og 1853.
 
 
+<a id="351"></a>
+
 ### 351
 
 *Mel.: Fryd dig, du Kristi brud*
@@ -16990,6 +17688,8 @@ til Himlen med hverandre!
 
 Harald Vilstrup 1935.
 
+
+<a id="352"></a>
 
 ### 352
 
@@ -17043,6 +17743,8 @@ soned han i Jesu blod.
 K.L. Aastrup 1936.
 
 
+<a id="353"></a>
+
 ### 353
 
 *Mel.: Den signede dag med fryd vi ser*  
@@ -17059,6 +17761,8 @@ Nordisk dagvise 14. årh. Dansk 1569.
 N.F.S. Grundtvig 1826. Bearbejdet 1943.  
 Oprindelig del af nr. 402.
 
+
+<a id="354"></a>
 
 ### 354
 
@@ -17128,6 +17832,8 @@ Den hellige, almindelige kirke – Kirkens mission
 ------------------------------------------------
 
 
+<a id="355"></a>
+
 ### 355
 
 *Mel.: Lover den Herre*
@@ -17159,6 +17865,8 @@ tak ham af hjertet frembære!
 Henrik Kampmann 1791–1794.  
 Bearbejdet 1798.
 
+
+<a id="356"></a>
 
 ### 356
 
@@ -17196,6 +17904,8 @@ Te Deum 4. årh. Ignaz Franz 1771.
 Henri Louis Empaytaz 1817.  
 Bernhard Paludan-Müller 1884.
 
+
+<a id="357"></a>
 
 ### 357
 
@@ -17253,6 +17963,8 @@ Es 60,1–6
 Thomas Kingo 1689.
 
 
+<a id="358"></a>
+
 ### 358
 
 *Mel.: Nu velan, vær frisk til mode*
@@ -17277,6 +17989,8 @@ til at redde mange sjæle!
 
 Hans Adolph Brorson 1739.
 
+
+<a id="359"></a>
 
 ### 359
 
@@ -17307,6 +18021,8 @@ Carl Heinrich von Bogatzky 1750.
 John Hansen 1888.  
 Theodor Løgstrup 1890.
 
+
+<a id="360"></a>
 
 ### 360
 
@@ -17353,6 +18069,8 @@ Annie Coghill 1854. Siri Dahlquist 1913.
 Niels Møller 1950.
 
 
+<a id="361"></a>
+
 ### 361
 
 *Mel.: Kaiserswerth 1866*
@@ -17392,6 +18110,8 @@ de priser Herren stor.
 
 Karl Ludvig Reichelt 1912.
 
+
+<a id="362"></a>
 
 ### 362
 
@@ -17450,6 +18170,8 @@ Es 60,1–6
 K.L. Aastrup 1935 og 1938.
 
 
+<a id="363"></a>
+
 ### 363
 
 *Mel.: Almindelig er Kristi kirke*
@@ -17505,6 +18227,8 @@ for dig som han dit kære barn.
 K.L. Aastrup 1970.
 
 
+<a id="364"></a>
+
 ### 364
 
 *Mel.: O, havde jeg dog tusind tunger*
@@ -17553,6 +18277,8 @@ Johannes Johansen 1980 og 1995.
 Den hellige, almindelige kirke – Kirkens diakoni
 ------------------------------------------------
 
+
+<a id="365"></a>
 
 ### 365
 
@@ -17603,6 +18329,8 @@ Ernst Frithiof Lönegren 1916.
 Niels Møller 1948.
 
 
+<a id="366"></a>
+
 ### 366
 
 *Mel.: Trond Kverno 1975*
@@ -17627,6 +18355,8 @@ er vi hos dig, du vor Gud!
 
 Svein Ellingsen 1975. Estrid Hessellund 1987.
 
+
+<a id="367"></a>
 
 ### 367
 
@@ -17666,6 +18396,8 @@ Svein Ellingsen 1975.
 Peter Balslev-Clausen 1993.
 
 
+<a id="368"></a>
+
 ### 368
 
 *Mel.: Peter Møller 1995*  
@@ -17699,6 +18431,8 @@ næres af stammen og bærer dens frugt.
 Joh 15,1–11  
 Jørgen Kristensen 1976.
 
+
+<a id="369"></a>
 
 ### 369
 
@@ -17749,6 +18483,8 @@ giv os liv og lys, og gør os glade!
 Hans Anker Jørgensen 1982.
 
 
+<a id="370"></a>
+
 ### 370
 
 *Mel.: Willy Egmose 1987*
@@ -17798,6 +18534,8 @@ nådig skjult i evighed.
 Lars Busk Sørensen 1986.
 
 
+<a id="371"></a>
+
 ### 371
 
 *Mel.: Egil Hovland 1978*
@@ -17830,6 +18568,8 @@ at jeg tilhører dig!
 Holger Lissner 1977 og 1978.
 
 
+<a id="372"></a>
+
 ### 372
 
 *Mel.: Jeg ved et evigt Himmerig*
@@ -17853,6 +18593,8 @@ Natanael Beskow 1885.
 Vilhelm Gregersen 1910.
 
 
+<a id="373"></a>
+
 ### 373
 
 *Mel.: Du, som vejen er og livet*
@@ -17873,6 +18615,8 @@ vished, at jeg tjener dig!
 
 Kristian Østergaard 1891.
 
+
+<a id="374"></a>
 
 ### 374
 
@@ -17908,6 +18652,8 @@ De helliges samfund – Fællesskabet
 ----------------------------------
 
 
+<a id="375"></a>
+
 ### 375
 
 *Mel.: Henrik Rung 1857*  
@@ -17933,6 +18679,8 @@ i vor Herres Jesu navn.
 
 N.F.S. Grundtvig 1856.
 
+
+<a id="376"></a>
 
 ### 376
 
@@ -17995,6 +18743,8 @@ med nøglerne til Paradiset!
 N.F.S. Grundtvig 1852–53.
 
 
+<a id="377"></a>
+
 ### 377
 
 *Mel.: Freylinghausen 1704*
@@ -18051,6 +18801,8 @@ Christian Andreas Bernstein 1704.
 Hans Adolph Brorson 1734.
 
 
+<a id="378"></a>
+
 ### 378
 
 *Mel.: Hvad kan os komme til for nød*
@@ -18106,6 +18858,8 @@ Guds salighed at finde!
 1 Thess 5,12–23  
 Thomas Kingo 1699. Bearbejdet 1854.
 
+
+<a id="379"></a>
 
 ### 379
 
@@ -18179,6 +18933,8 @@ og af vor Faders engleskare.
 N.F.S. Grundtvig 1856–60.
 
 
+<a id="380"></a>
+
 ### 380
 
 *Mel.: J.P.E. Hartmann 1860*  
@@ -18216,6 +18972,8 @@ til vor Herres glæde ind.
 
 N.F.S. Grundtvig 1851 og 1856.
 
+
+<a id="381"></a>
 
 ### 381
 
@@ -18261,6 +19019,8 @@ til frelsens Paradis.
 Rom 15,4–9; Ef 4,4–8  
 B.S. Ingemann 1843.
 
+
+<a id="382"></a>
 
 ### 382
 
@@ -18315,6 +19075,8 @@ Gerhard Tersteegen 1738.
 Edv. Ottosen Schwartzkopf? før 1753.
 
 
+<a id="383"></a>
+
 ### 383
 
 *Mel.: Thomas Laub 1923*
@@ -18348,6 +19110,8 @@ vort Gud ske lov!
 
 N.F.S. Grundtvig 1861.
 
+
+<a id="384"></a>
 
 ### 384
 
@@ -18403,6 +19167,8 @@ De helliges samfund – Ordet
 ---------------------------
 
 
+<a id="385"></a>
+
 ### 385
 
 *Mel.: Heinrich Schütz 1628*
@@ -18442,6 +19208,8 @@ i Jesu rige nåde!
 Hans Adolph Brorson 1739.
 
 
+<a id="386"></a>
+
 ### 386
 
 *Mel.: Carl Nielsen 1917*  
@@ -18470,6 +19238,8 @@ kan med Guds hjælp og lykkes os.
 
 N.F.S. Grundtvig 1833
 
+
+<a id="387"></a>
 
 ### 387
 
@@ -18522,6 +19292,8 @@ Bearbejdet 1943 og 1947.
 Oprindelig del af nr. 580.
 
 
+<a id="388"></a>
+
 ### 388
 
 *Mel.: August Winding før 1874*  
@@ -18569,6 +19341,8 @@ som Guds vin og Himlens brød.
 
 N.F.S. Grundtvig 1860 og 1864.
 
+
+<a id="389"></a>
 
 ### 389
 
@@ -18635,6 +19409,8 @@ Sl 119,103
 Hans Adolph Brorson 1739.
 
 
+<a id="390"></a>
+
 ### 390
 
 *Mel.: Hvo ikkun lader Herren råde*
@@ -18678,6 +19454,8 @@ Matt 7,15–21
 M.B. Landstad 1861.
 
 
+<a id="391"></a>
+
 ### 391
 
 *Mel.: Hvo ikkun lader Herren råde*  
@@ -18707,6 +19485,8 @@ og finde nådens Betlehem!
 Carl Bernhard Garve 1825.  
 C.J. Boye 1835.
 
+
+<a id="392"></a>
 
 ### 392
 
@@ -18745,6 +19525,8 @@ vismænd det gør af vankundige små.
 Sl 19  
 N.F.S. Grundtvig 1837.
 
+
+<a id="393"></a>
 
 ### 393
 
@@ -18809,6 +19591,8 @@ Jak 1,17–21
 Thomas Kingo 1699.
 
 
+<a id="394"></a>
+
 ### 394
 
 *Mel.: Erfurt 1524*  
@@ -18866,6 +19650,8 @@ Sl 12
 Martin Luther 1523. (Dansk 1528).  
 W.A. Wexels 1840.
 
+
+<a id="395"></a>
 
 ### 395
 
@@ -18938,6 +19724,8 @@ sin bedste ledetråd.
 N.F.S. Grundtvig 1837.
 
 
+<a id="396"></a>
+
 ### 396
 
 *Mel.: L.M. Lindeman 1863*  
@@ -18970,6 +19758,8 @@ og Ordet, vor saligheds grund.
 Rom 10,9–10  
 N.F.S. Grundtvig 1837 og 1853.
 
+
+<a id="397"></a>
 
 ### 397
 
@@ -19015,6 +19805,8 @@ Rom 10,6–10
 N.F.S. Grundtvig 1836 og 1864.
 
 
+<a id="398"></a>
+
 ### 398
 
 *Mel.: Johann Balthasar König 1738*  
@@ -19049,6 +19841,8 @@ før os ind til livets eje!
 
 Theodor Wilhelm Oldenburg 1840.
 
+
+<a id="399"></a>
 
 ### 399
 
@@ -19099,6 +19893,8 @@ Amen! Halleluja! Tak!
 C.J. Brandt 1870 og 1885.
 
 
+<a id="400"></a>
+
 ### 400
 
 *Mel.: Stralsund 1665*
@@ -19134,6 +19930,8 @@ med Jesus skal få.
 K.L. Aastrup 1962.
 
 
+<a id="401"></a>
+
 ### 401
 
 *Mel.: Vor Gud han er så fast en borg*
@@ -19156,6 +19954,8 @@ N.F.S. Grundtvig 1817.
 De helliges samfund – Gudstjenesten
 -----------------------------------
 
+
+<a id="402"></a>
 
 ### 402
 
@@ -19215,6 +20015,8 @@ N.F.S. Grundtvig 1826 og 1846.
 Jf. nr. 734 og 353.
 
 
+<a id="403"></a>
+
 ### 403
 
 *Mel.: Melchior Vulpius 1609 / Thomas Laub 1896*
@@ -19259,6 +20061,8 @@ Sl 118,24–29
 N.F.S. Grundtvig 1837.
 
 
+<a id="404"></a>
+
 ### 404
 
 *Mel.: Herre Jesus, vi er her*
@@ -19279,6 +20083,8 @@ til vi ser dig i dit rige!
 
 B.S. Ingemann 1822.
 
+
+<a id="405"></a>
 
 ### 405
 
@@ -19322,6 +20128,8 @@ på den dag, som Herren gjorde.
 N.F.S. Grundtvig 1837 og 1853.
 
 
+<a id="406"></a>
+
 ### 406
 
 *Mel.: Herre, jeg har handlet ilde*
@@ -19349,6 +20157,8 @@ dødens drot og mørkets rige.
 
 N.F.S. Grundtvig 1837.
 
+
+<a id="407"></a>
 
 ### 407
 
@@ -19384,6 +20194,8 @@ som det lyder, sagt til os.
 N.F.S. Grundtvig 1836.  
 Bearbejdet 1951.
 
+
+<a id="408"></a>
 
 ### 408
 
@@ -19427,6 +20239,8 @@ vor frelser stod op af graven.
 B.S. Ingemann 1837.
 
 
+<a id="409"></a>
+
 ### 409
 
 *Mel.: August Winding 1864*
@@ -19450,6 +20264,8 @@ som hønens for de spæde!
 Matt 23,37  
 N.F.S. Grundtvig 1836.
 
+
+<a id="410"></a>
 
 ### 410
 
@@ -19514,6 +20330,8 @@ til lov og til pris for min Gud.
 Sl 42 og 43  
 N.F.S. Grundtvig 1811.
 
+
+<a id="411"></a>
 
 ### 411
 
@@ -19587,6 +20405,8 @@ Sl 84
 N.F.S. Grundtvig 1836.
 
 
+<a id="412"></a>
+
 ### 412
 
 *Mel.: Walter Bjerborg 1961*
@@ -19636,6 +20456,8 @@ Guds nådes frugt.
 Jørgen Michaelsen 1973.
 
 
+<a id="413"></a>
+
 ### 413
 
 *Mel.: Erik Haumann 1982*  
@@ -19684,6 +20506,8 @@ til blomst i dine hænder!
 Lisbeth Smedegaard Andersen 1982.
 
 
+<a id="414"></a>
+
 ### 414
 
 *Mel.: Som tørstige hjort monne skrige*  
@@ -19716,6 +20540,8 @@ og sandheden lyse af liv.
 Holger Lissner 1989 og 1996.
 
 
+<a id="415"></a>
+
 ### 415
 
 *Mel.: 15. årh. / Michael Weisse 1531*
@@ -19738,6 +20564,8 @@ Hellig, hellig, hellig i det højeste!
 Middelalderlig latinsk Sanctus-trope.  
 Dansk 1528. Harald Vilstrup 1961.
 
+
+<a id="416"></a>
 
 ### 416
 
@@ -19768,6 +20596,8 @@ Str. 4: Tysk 1651.
 B.C. Ægidius 1717. Bearbejdet 1850.
 
 
+<a id="417"></a>
+
 ### 417
 
 *Mel.: Johann Rudolph Ahle 1664*
@@ -19797,6 +20627,8 @@ Tobias Clausnitzer 1663. Dansk 1740.
 N.F.S. Grundtvig 1837. B.S. Ingemann 1854.  
 Bearbejdet 1947.
 
+
+<a id="418"></a>
 
 ### 418
 
@@ -19834,6 +20666,8 @@ Thomas Kingo 1699.
 Bearbejdet 1844 og 1850.
 
 
+<a id="419"></a>
+
 ### 419
 
 *Mel.: Jacques Berthier 1982*
@@ -19847,6 +20681,8 @@ Jacques Berthier. Henrik E. Frederiksen 1998.
 
 Song from Taizé. (C) Ateliers et Presses de Taizé, 71250 Taizé, France
 
+
+<a id="420"></a>
 
 ### 420
 
@@ -19862,6 +20698,8 @@ Sindre Eide 1987.
 
 Song from Taizé. (C) Ateliers et Presses de Taizé, 71250 Taizé, France
 
+
+<a id="421"></a>
 
 ### 421
 
@@ -19947,6 +20785,8 @@ og for dig mig bøje!
 Gerhard Teerstegen 1729. Harald Vilstrup 1934.
 
 
+<a id="422"></a>
+
 ### 422
 
 *Mel.: John Bacchus Dykes 1861*
@@ -19975,6 +20815,8 @@ Gud i det høje! Ære være dig!
 Reginald Heber før 1826. Chr. Ludwigs 1911.  
 Bearbejdet 1951.
 
+
+<a id="423"></a>
 
 ### 423
 
@@ -20007,6 +20849,8 @@ kan Jesus Kristus gøre!
 C.J. Boye 1835. Bearbejdet 1850.
 
 
+<a id="424"></a>
+
 ### 424
 
 *Mel.: Guds Søn kom ned fra Himmerig*
@@ -20029,6 +20873,8 @@ i Himmerig kan finde!
 
 Theodor Wilhelm Oldenburg 1840.
 
+
+<a id="425"></a>
 
 ### 425
 
@@ -20063,6 +20909,8 @@ i skybrud til Guds menighed.
 N.F.S. Grundtvig 1862 og 1864.
 
 
+<a id="426"></a>
+
 ### 426
 
 *Mel.: J.P.E. Hartmann 1864*  
@@ -20085,6 +20933,8 @@ nu og i al evighed!
 N.F.S. Grundtvig 1843 og 1845.
 
 
+<a id="427"></a>
+
 ### 427
 
 *Mel.: Nu velan, vær frisk til mode*
@@ -20102,6 +20952,8 @@ Thomas Kingo 1689. Bearbejdet 1845.
 Oprindelig del af nr. 227.
 
 
+<a id="428"></a>
+
 ### 428
 
 *Mel.: Helligånd, de frommes glæde*  
@@ -20118,6 +20970,8 @@ giv os vilje, giv os evne!
 
 Peter Christian Kierkegaard 1872.
 
+
+<a id="429"></a>
 
 ### 429
 
@@ -20143,6 +20997,8 @@ Str. 1–2: Peder Sørensen 1852.
 Str. 3–4: Frederik Boye 1750.  
 Bearbejdet 1866.
 
+
+<a id="430"></a>
 
 ### 430
 
@@ -20179,6 +21035,8 @@ evig i vor Herres glæde!
 
 N.F.S. Grundtvig 1843.
 
+
+<a id="431"></a>
 
 ### 431
 
@@ -20223,6 +21081,8 @@ levet for din evighed!
 C.J. Boye 1840.
 
 
+<a id="432"></a>
+
 ### 432
 
 *Mel.: Thomas Laub 1922*  
@@ -20246,6 +21106,8 @@ Martin Luther 1529. Dansk 1533.
 Hans Bagger 1688. Thomas Laub 1922.
 
 
+<a id="433"></a>
+
 ### 433
 
 *Synges som vekselbøn mellem præsten (p) og menigheden (m).*
@@ -20259,6 +21121,8 @@ Forbarm dig over os!
 
 Kyrie.
 
+
+<a id="434"></a>
 
 ### 434
 
@@ -20280,6 +21144,8 @@ thi frygte vi ingen fare.
 Luk 2,14  
 Gloria.
 
+
+<a id="435"></a>
 
 ### 435
 
@@ -20324,6 +21190,8 @@ Arvid Pedersen 1529.
 C.J. Brandt 1888.
 
 
+<a id="436"></a>
+
 ### 436
 
 *Mel.: Johann Walter 1524*
@@ -20352,6 +21220,8 @@ Sl 117
 Johann Agricola 1524. (Dansk 1528 og 1529).  
 M.B. Landstad 1861.
 
+
+<a id="437"></a>
 
 ### 437
 
@@ -20395,6 +21265,8 @@ Martin Luther 1524. Dansk 1529.
 C.H. Biering 1793. Bearbejdet 1798.
 
 
+<a id="438"></a>
+
 ### 438
 
 Hellig, hellig, hellig er Herren,  
@@ -20404,6 +21276,8 @@ Hosianna i det højeste!
 
 Nadverritual C.
 
+
+<a id="439"></a>
 
 ### 439
 
@@ -20434,6 +21308,8 @@ Agnus Dei. Oldkirkelig latin.
 Tysk omkr. 1500. N.F.S. Grundtvig 1837.
 
 
+<a id="440"></a>
+
 ### 440
 
 *Mel.: Oldkirkelig latinsk hymne*
@@ -20460,6 +21336,8 @@ Dansk 1528.
 De helliges samfund – Dåb
 -------------------------
 
+
+<a id="441"></a>
 
 ### 441
 
@@ -20498,6 +21376,8 @@ med alt, hvad jeg evig bar i mig!
 N.F.S. Grundtvig 1856–60.
 
 
+<a id="442"></a>
+
 ### 442
 
 *Mel.: Guds Søn kom ned fra Himmerig*
@@ -20520,6 +21400,8 @@ til dig i ærens rige!
 
 Thomas Kingo 1689. N.F.S. Grundtvig 1843.
 
+
+<a id="443"></a>
 
 ### 443
 
@@ -20584,6 +21466,8 @@ i os har velbehag!
 N.F.S. Grundtvig 1856.
 
 
+<a id="444"></a>
+
 ### 444
 
 *Mel.: Guds Søn kom ned fra Himmerig*  
@@ -20625,6 +21509,8 @@ N.F.S. Grundtvig 1836 og 1853.
 Jf. nr. 156.
 
 
+<a id="445"></a>
+
 ### 445
 
 *Mel.: Guds Søn kom ned fra Himmerig*  
@@ -20656,6 +21542,8 @@ så deres øjne tindre!
 
 N.F.S. Grundtvig 1843.
 
+
+<a id="446"></a>
 
 ### 446
 
@@ -20691,6 +21579,8 @@ Edward Bickersteth 1833.
 N.F.S. Grundtvig 1837.
 
 
+<a id="447"></a>
+
 ### 447
 
 *Mel.: Til vor lille gerning ud*
@@ -20706,6 +21596,8 @@ sig fra dig forvilde!
 
 Engelsk (1834). N.F.S. Grundtvig 1837.
 
+
+<a id="448"></a>
 
 ### 448
 
@@ -20740,6 +21632,8 @@ Svein Ellingsen 1971.
 Str. 1–5: Jens Kristian Krarup 1974.  
 Str. 6: Jens Lyster 1978.
 
+
+<a id="449"></a>
 
 ### 449
 
@@ -20778,6 +21672,8 @@ at de må leve livet!
 Jørgen Gustava Brandt 1985.
 
 
+<a id="450"></a>
+
 ### 450
 
 *Mel.: Gak ud, min sjæl, betragt med flid*
@@ -20806,6 +21702,8 @@ som dine nye grene!
 Johannes Johansen 1992.
 
 
+<a id="451"></a>
+
 ### 451
 
 *Mel.: Mæt min sjæl, o Jesus sød*
@@ -20821,6 +21719,8 @@ stoler på, hvad du har sagt.
 Peder Jensen Roskilde omkring 1610.  
 N.F.S. Grundtvig 1832. Bearbejdet 1935.
 
+
+<a id="452"></a>
 
 ### 452
 
@@ -20870,6 +21770,8 @@ Paul Gerhardt 1667.
 Hans Adolph Brorson 1739.
 
 
+<a id="453"></a>
+
 ### 453
 
 *Mel.: Vor tro er den forvisning på*  
@@ -20894,6 +21796,8 @@ som første pinsedagen.
 N.F.S. Grundtvig 1836.  
 Bearbejdet 1850.
 
+
+<a id="454"></a>
 
 ### 454
 
@@ -20945,6 +21849,8 @@ De helliges samfund – Nadver
 ----------------------------
 
 
+<a id="455"></a>
+
 ### 455
 
 *Mel.: J.P.E.Hartmann 1860*  
@@ -20982,6 +21888,8 @@ Gerard T. Noel 1810.
 N.F.S. Grundtvig 1837.
 
 
+<a id="456"></a>
+
 ### 456
 
 *Mel.: Jeg ved et evigt Himmerig*
@@ -21008,6 +21916,8 @@ hvor Jesus med os beder.
 
 K.L. Aastrup 1941.
 
+
+<a id="457"></a>
 
 ### 457
 
@@ -21037,6 +21947,8 @@ ud i alverden!
 Olov Hartman 1968.  
 N.J. Rald 1969.
 
+
+<a id="458"></a>
 
 ### 458
 
@@ -21081,6 +21993,8 @@ søskend hist om Himlens bord!
 Thomas af Aquino 1264.  
 M.B. Landstad 1861.
 
+
+<a id="459"></a>
 
 ### 459
 
@@ -21132,6 +22046,8 @@ livet i Guds kærlighed.
 
 N.F.S. Grundtvig 1837 og 1864.
 
+
+<a id="460"></a>
 
 ### 460
 
@@ -21204,6 +22120,8 @@ J.L.C. Allendorf (?) 1712. P.J. Hygom 1740.
 Bearbejdet 1845.
 
 
+<a id="461"></a>
+
 ### 461
 
 *Mel.: Førreformatorisk hymne / Erfurt 1524*  
@@ -21260,6 +22178,8 @@ Martin Luther 1524. (Dansk 1528).
 F.L. Mynster 1863. Bearbejdet 1873.
 
 
+<a id="462"></a>
+
 ### 462
 
 *Mel.: Johann Crüger 1649*
@@ -21278,6 +22198,8 @@ Hans Adolph Brorson 1739.
 Bearbejdet 1885.
 
 
+<a id="463"></a>
+
 ### 463
 
 *Mel.: Førreformatorisk / Johann Horn 1544*
@@ -21292,6 +22214,8 @@ dig al tak og ære ske!
 
 Peder Jensen Roskilde omkring 1610.
 
+
+<a id="464"></a>
 
 ### 464
 
@@ -21315,6 +22239,8 @@ og styrk mig ved din Helligånd!
 Jens Martin Georg Bondesen 1840.  
 Bearbejdet 1850.
 
+
+<a id="465"></a>
 
 ### 465
 
@@ -21348,6 +22274,8 @@ så dør i dig jeg fro og glad!
 1 Kor 11, 23–29  
 Thomas Kingo 1689. Bearbejdet 1852.
 
+
+<a id="466"></a>
 
 ### 466
 
@@ -21407,6 +22335,8 @@ for Jesus, i al evighed!
 N.F.S. Grundtvig 1843 og 1845.
 
 
+<a id="467"></a>
+
 ### 467
 
 *Mel.: Når i den største nød vi stå*
@@ -21460,6 +22390,8 @@ Latin omkr. 1200. J.J. Otthense 1625.
 N.F.S. Grundtvig 1837–40.
 
 
+<a id="468"></a>
+
 ### 468
 
 *Mel.: Vor Herres Jesu mindefest*
@@ -21511,6 +22443,8 @@ og jeg har nok i dig at se.
 
 Thomas Kingo 1681. Bearbejdet 1852.
 
+
+<a id="469"></a>
 
 ### 469
 
@@ -21579,6 +22513,8 @@ at du skal aldrig slippe mig.
 Hans Adolph Brorson 1739.
 
 
+<a id="470"></a>
+
 ### 470
 
 *Mel.: Spiritual*
@@ -21600,6 +22536,8 @@ vær nådig, Herre, mod os!
 
 Spiritual. Holger Lissner 1971.
 
+
+<a id="471"></a>
 
 ### 471
 
@@ -21638,6 +22576,8 @@ M.B. Landstad 1861.
 Bearbejdet 1951.
 
 
+<a id="472"></a>
+
 ### 472
 
 *Mel.: Vor Herres Jesu mindefest*  
@@ -21655,6 +22595,8 @@ tak, tak, hvor er min glæde stor!
 
 Thomas Kingo 1689.
 
+
+<a id="473"></a>
 
 ### 473
 
@@ -21675,6 +22617,8 @@ Petter Dass (1715).
 Bearbejdet 1951.
 
 
+<a id="474"></a>
+
 ### 474
 
 *Mel.: Nu velan, vær frisk til mode*
@@ -21692,6 +22636,8 @@ over dig mig selv forglemmer!
 Birgitte Kaas 1734. Ove Malling 1798.  
 N.F.S. Grundtvig 1837.
 
+
+<a id="475"></a>
 
 ### 475
 
@@ -21719,6 +22665,8 @@ Matt 15,27
 N.F.S. Grundtvig 1837.  
 Bearbejdet 1872.
 
+
+<a id="476"></a>
 
 ### 476
 
@@ -21752,6 +22700,8 @@ Svein Ellingsen 1976.
 Holger Lissner 1992.
 
 
+<a id="477"></a>
+
 ### 477
 
 *Mel.: Nu blomstertiden kommer*
@@ -21784,6 +22734,8 @@ Str. 1–2: Poul Dam 1993.
 De helliges samfund – Konfirmation
 ----------------------------------
 
+
+<a id="478"></a>
 
 ### 478
 
@@ -21822,6 +22774,8 @@ som første gang i dåben.
 
 Johannes Johansen 1974 og 2001.
 
+
+<a id="479"></a>
 
 ### 479
 
@@ -21869,6 +22823,8 @@ for glæden i sin glans!
 
 N.F.S. Grundtvig 1843 og 1845.
 
+
+<a id="480"></a>
 
 ### 480
 
@@ -21918,6 +22874,8 @@ Johan Nordahl Brun 1786.
 Bearbejdet 1798 og 1844.
 
 
+<a id="481"></a>
+
 ### 481
 
 *Mel.: Helligånd, de frommes glæde*  
@@ -21962,6 +22920,8 @@ Gud er mægtig i de svage!
 N.F.S. Grundtvig 1843 og 1845.
 
 
+<a id="482"></a>
+
 ### 482
 
 *Mel.: O, kommer hid dog til Guds Søn*
@@ -21989,6 +22949,8 @@ og smage så din glæde!
 
 Peter Christian Kierkegaard 1838 og 1857.
 
+
+<a id="483"></a>
 
 ### 483
 
@@ -22027,6 +22989,8 @@ Chr. Gregor 1778. N.J. Holm 1829.
 H.S. Prahl 1889.
 
 
+<a id="484"></a>
+
 ### 484
 
 *Mel.: A.P. Berggreen 1849*  
@@ -22054,6 +23018,8 @@ Christian Richardt 1885.
 Syndernes forladelse – Præstevielse
 -----------------------------------
 
+
+<a id="485"></a>
 
 ### 485
 
@@ -22117,6 +23083,8 @@ Joh 20,19–31
 Thomas Kingo 1689. Fr. Hammerich 1850.
 
 
+<a id="486"></a>
+
 ### 486
 
 *Mel.: Fra Himlen højt kom budskab her*  
@@ -22175,6 +23143,8 @@ N.F.S. Grundtvig 1843 og 1845.
 Syndernes forladelse – Guds kærlighed
 -------------------------------------
 
+
+<a id="487"></a>
 
 ### 487
 
@@ -22243,6 +23213,8 @@ N.F.S. Grundtvig 1837. F.L. Mynster 1862.
 C.J. Brandt 1888.
 
 
+<a id="488"></a>
+
 ### 488
 
 *Mel.: Førreformatorisk / Nürnberg 1524*  
@@ -22308,6 +23280,8 @@ Paul Speratus 1523. Arvid Pedersen 1529.
 N.F.S. Grundtvig 1845.
 
 
+<a id="489"></a>
+
 ### 489
 
 *Mel.: Burkhard Waldis 1553*  
@@ -22352,6 +23326,8 @@ hvor evig den skal hvile.
 Hans Christensen Sthen 1586.  
 Bearbejdet 1844.
 
+
+<a id="490"></a>
 
 ### 490
 
@@ -22423,6 +23399,8 @@ og livsens herlig krone!
 Joh 3,16–21  
 Thomas Kingo 1699.
 
+
+<a id="491"></a>
 
 ### 491
 
@@ -22496,6 +23474,8 @@ Thomas Kingo 1699.
 N.F.S. Grundtvig 1837 og 1853.
 
 
+<a id="492"></a>
+
 ### 492
 
 *Mel.: Ansbach 1664*  
@@ -22552,6 +23532,8 @@ Halleluja, halleluja!
 Hans Adolph Brorson 1735.  
 C.J. Brandt 1885. Thomas Laub 1896.
 
+
+<a id="493"></a>
 
 ### 493
 
@@ -22617,6 +23599,8 @@ skal salighed jeg finde.
 N.F.S. Grundtvig 1845.
 
 
+<a id="494"></a>
+
 ### 494
 
 *Mel.: J.P.E. Hartmann 1876*
@@ -22650,6 +23634,8 @@ Jens Schjørring 1854.
 Syndernes forladelse – Syndsbekendelse
 --------------------------------------
 
+
+<a id="495"></a>
 
 ### 495
 
@@ -22705,6 +23691,8 @@ Martin Luther 1524.
 Dansk (1528) 1931.
 
 
+<a id="496"></a>
+
 ### 496
 
 *Mel.: Johann Walter 1524*  
@@ -22755,6 +23743,8 @@ Martin Luther 1524. (Dansk 1528).
 Peder Hjort 1843.
 
 
+<a id="497"></a>
+
 ### 497
 
 *Mel.: Strassburg 1539*  
@@ -22802,6 +23792,8 @@ Ambrosius Lobwasser 1564.
 Sten Bille 1612.  
 Fr. Hammerich 1850.
 
+
+<a id="498"></a>
 
 ### 498
 
@@ -22853,6 +23845,8 @@ Rom 8,19
 Hans Christensen Sthen 1589.  
 B.S. Ingemann 1854.
 
+
+<a id="499"></a>
 
 ### 499
 
@@ -22908,6 +23902,8 @@ Hans Christensen Sthen 1589.
 C.J. Brandt 1885.
 
 
+<a id="500"></a>
+
 ### 500
 
 *Mel.: Af dybsens nød, o Gud, til dig*
@@ -22924,6 +23920,8 @@ Johann Heermann 1630.
 Søren Jonæsøn 1693.  
 Bearbejdet 1935.
 
+
+<a id="501"></a>
 
 ### 501
 
@@ -22976,6 +23974,8 @@ Bearbejdet 1798.
 M.B. Landstad 1861. Bearbejdet 1889.
 
 
+<a id="502"></a>
+
 ### 502
 
 *Mel.: Egil Harder 1996*  
@@ -23005,6 +24005,8 @@ når hele verden falder fra!
 H.C. Andersen 1864.
 
 
+<a id="503"></a>
+
 ### 503
 
 *Mel.: O, Gud ske lov til evig tid*
@@ -23022,6 +24024,8 @@ og giv mig min fred tilbage!
 Sl 51  
 C.F. Balslev 1844.
 
+
+<a id="504"></a>
 
 ### 504
 
@@ -23042,6 +24046,8 @@ N.F.S. Grundtvig omkr. 1837. Bearbejdet 1913.
 Syndernes forladelse – Guds tilgivelse
 --------------------------------------
 
+
+<a id="505"></a>
 
 ### 505
 
@@ -23091,6 +24097,8 @@ Conrad Hubert før 1540.
 Hans Thomissøn 1569. Bearbejdet 1798.  
 Fr. Hammerich 1850.
 
+
+<a id="506"></a>
 
 ### 506
 
@@ -23164,6 +24172,8 @@ Paul Gerhardt 1647.
 Hans Adolph Brorson 1734.
 
 
+<a id="507"></a>
+
 ### 507
 
 *Mel.: Bryd frem, mit hjertes trang at lindre*
@@ -23214,6 +24224,8 @@ Christian Friedrich Richter 1698.
 Hans Adolph Brorson 1734.
 
 
+<a id="508"></a>
+
 ### 508
 
 *Mel.: H.O.C. Zinck 1801*
@@ -23263,6 +24275,8 @@ må derved rig og salig blive!
 Ludwig Andreas Gotter 1714.  
 Hans Adolph Brorson 1734.
 
+
+<a id="509"></a>
 
 ### 509
 
@@ -23328,6 +24342,8 @@ Johann Hermann Schrader 1731.
 Hans Adolph Brorson 1739.
 
 
+<a id="510"></a>
+
 ### 510
 
 *Mel.: Hvo ikkun lader Herren råde*
@@ -23377,6 +24393,8 @@ Barmhjertighed! hvor er du stor!
 Johann Andreas Rothe 1722.  
 Hans Adolph Brorson 1735.
 
+
+<a id="511"></a>
 
 ### 511
 
@@ -23429,6 +24447,8 @@ Johann Hermann Schrader 1731.
 Hans Adolph Brorson 1735.
 
 
+<a id="512"></a>
+
 ### 512
 
 *Mel.: Gud skal alting mage*
@@ -23458,6 +24478,8 @@ hvo vil da fordømme?
 Rom 8,33–39  
 Hans Adolph Brorson 1735.
 
+
+<a id="513"></a>
 
 ### 513
 
@@ -23512,6 +24534,8 @@ hos Herren hist et sted at få.
 N.L. von Zinzendorf 1739. (Dansk 1743).  
 N.J. Holm 1829. Bearbejdet 1951.
 
+
+<a id="514"></a>
 
 ### 514
 
@@ -23583,6 +24607,8 @@ til friheds rette egn.
 Hans Adolph Brorson (1765).
 
 
+<a id="515"></a>
+
 ### 515
 
 *Mel.: Dybe, stille, stærke, milde*
@@ -23618,6 +24644,8 @@ af mig evig vorde priset.
 Hans Adolph Brorson (1765).
 
 
+<a id="516"></a>
+
 ### 516
 
 *Mel.: Efter Johann Crüger 1653*  
@@ -23646,6 +24674,8 @@ skænker os forsmag af Himlen på jord.
 
 N.F.S. Grundtvig 1837.
 
+
+<a id="517"></a>
 
 ### 517
 
@@ -23711,6 +24741,8 @@ N.F.S. Grundtvig 1855–56.
 Bearbejdet 1935.
 
 
+<a id="518"></a>
+
 ### 518
 
 *Mel.: Herrens røst, som aldrig brister*  
@@ -23747,6 +24779,8 @@ kan forene
 N.F.S. Grundtvig 1855–56.
 
 
+<a id="519"></a>
+
 ### 519
 
 *Mel.: Hans Matthison-Hansen 1860*  
@@ -23782,6 +24816,8 @@ thi kun synd dem skilte ad.
 N.F.S. Grundtvig 1837.
 
 
+<a id="520"></a>
+
 ### 520
 
 *Mel.: Herre, jeg vil gerne tjene*
@@ -23796,6 +24832,8 @@ du Guds Salvede, Guds Søn!
 Chr. Richardt 1880.  
 Bearbejdet 1895.
 
+
+<a id="521"></a>
 
 ### 521
 
@@ -23851,6 +24889,8 @@ C.O. Rosenius (str. 3,5–7) 1844.
 Dansk 1895.
 
 
+<a id="522"></a>
+
 ### 522
 
 *Mel.: Niels Viggo Bentzon 1985*  
@@ -23883,6 +24923,8 @@ får vi kun af nåde.
 
 Johannes Møllehave 1985.
 
+
+<a id="523"></a>
 
 ### 523
 
@@ -23917,6 +24959,8 @@ Johannes Johansen 1983 og 1995.
 Kødets opstandelse og det evige liv – Døden
 -------------------------------------------
 
+
+<a id="524"></a>
 
 ### 524
 
@@ -23957,6 +25001,8 @@ Bernt Støylen 1921.
 Helge Severinsen 1997 og 1999.
 
 
+<a id="525"></a>
+
 ### 525
 
 *Mel.: Jeg vil mig Herren love*  
@@ -23975,6 +25021,8 @@ Dansk Mariavise 15. årh.
 Hans Thomissøn 1569. Fr. Hammerich 1850.  
 Oprindelig del af samme salme som nr. 64.
 
+
+<a id="526"></a>
 
 ### 526
 
@@ -24034,6 +25082,8 @@ N.F.S. Grundtvig 1845.
 Jf. nr. 527.
 
 
+<a id="527"></a>
+
 ### 527
 
 *Mel.: Michael Weisse 1531*  
@@ -24064,6 +25114,8 @@ R. Katholm 1569. W.A. Wexels 1840.
 Bearbejdet 1844, 1850, 1889 og 1951.  
 Jf. nr. 526.
 
+
+<a id="528"></a>
 
 ### 528
 
@@ -24098,6 +25150,8 @@ Nicolaus Herman 1562. Hans Thomissøn 1569.
 Fr. Hammerich 1850. B.S. Ingemann 1854.  
 Bearbejdet 1885.
 
+
+<a id="529"></a>
 
 ### 529
 
@@ -24153,6 +25207,8 @@ Peder Hegelund 1586. C.U. Sundt 1840.
 Jf. nr. 565.
 
 
+<a id="530"></a>
+
 ### 530
 
 *Mel.: Melchior Vulpius 1609*
@@ -24196,6 +25252,8 @@ Tysk 1609.
 Hans Adolph Brorson 1742.
 
 
+<a id="531"></a>
+
 ### 531
 
 *Mel.: Oluf Ring 1936*
@@ -24236,6 +25294,8 @@ Dansk 1639. Olaus Forsselius 1668.
 J.O. Wallin 1816 og 1819.  
 Fr. Hammerich 1850.
 
+
+<a id="532"></a>
 
 ### 532
 
@@ -24280,6 +25340,8 @@ kom hid til mig, I små!
 Hallgrimur Pétursson omkring 1650.  
 C.J. Brandt 1854, 1856 og 1885.
 
+
+<a id="533"></a>
 
 ### 533
 
@@ -24344,6 +25406,8 @@ Joachim Neander 1680.
 Hans Adolph Brorson 1739.
 
 
+<a id="534"></a>
+
 ### 534
 
 *Mel.: Hvo ikkun lader Herren råde*
@@ -24387,6 +25451,8 @@ min afskeds stund må være god!
 Frederik Rostgaard 1718.
 
 
+<a id="535"></a>
+
 ### 535
 
 *Mel.: Anders Arrebo 1627*  
@@ -24429,6 +25495,8 @@ i Lammets højtidsfærd.
 Hans Adolph Brorson 1742.
 
 
+<a id="536"></a>
+
 ### 536
 
 *Mel.: Niels W. Gade 1856*
@@ -24450,6 +25518,8 @@ på dens nedbrudte ler.
 
 Johannes Ewald 1781.
 
+
+<a id="537"></a>
 
 ### 537
 
@@ -24485,6 +25555,8 @@ men skøn var påskemorgen!
 
 Adam Oehlenschläger 1813.
 
+
+<a id="538"></a>
 
 ### 538
 
@@ -24559,6 +25631,8 @@ i dine frelserarme.
 N.F.S. Grundtvig 1843 og 1845.
 
 
+<a id="539"></a>
+
 ### 539
 
 *Mel.: O hjertekære Jesus Krist*
@@ -24600,6 +25674,8 @@ en klædning lig din kroningsdragt!
 
 N.F.S. Grundtvig 1844.
 
+
+<a id="540"></a>
 
 ### 540
 
@@ -24651,6 +25727,8 @@ N.F.S. Grundtvig omkr. 1846.
 Bearbejdet 1885.
 
 
+<a id="541"></a>
+
 ### 541
 
 *Mel.: William Henry Monk 1861*
@@ -24688,6 +25766,8 @@ I liv, i død, min Gud, vær du mig nær!
 Henry Francis Lyte 1847.  
 Even Nicolaj Marstrand 1915.
 
+
+<a id="542"></a>
 
 ### 542
 
@@ -24727,6 +25807,8 @@ Evigheds halleluja.
 N.F.S. Grundtvig 1851.
 
 
+<a id="543"></a>
+
 ### 543
 
 *Mel.: A. P. Berggreen 1873*
@@ -24758,6 +25840,8 @@ hver stund, jeg i verden mon leve!
 Str. 1: Martin Luther 1531.  
 Str. 1–4: B.S. Ingemann 1851.
 
+
+<a id="544"></a>
 
 ### 544
 
@@ -24792,6 +25876,8 @@ vort sidste kuldegys.
 
 N.F.S. Grundtvig 1860 og 1864.
 
+
+<a id="545"></a>
 
 ### 545
 
@@ -24829,6 +25915,8 @@ N.F.S. Grundtvig 1862.
 Bearbejdet 1882.
 
 
+<a id="546"></a>
+
 ### 546
 
 *Mel.: L.M. Lindeman 1862*
@@ -24855,6 +25943,8 @@ mødes skal for sidste gang!«
 
 Jens Schjørring 1866.
 
+
+<a id="547"></a>
 
 ### 547
 
@@ -24903,6 +25993,8 @@ med ham i Himmerigs sale.
 Hans Kristian Rørdam 1877.
 
 
+<a id="548"></a>
+
 ### 548
 
 *Mel.: Hvor er det godt, i Jesu arme*
@@ -24942,6 +26034,8 @@ og priser med ham livets Gud.
 
 K.L. Aastrup 1942.
 
+
+<a id="549"></a>
 
 ### 549
 
@@ -24991,6 +26085,8 @@ en fremtid i dit ord.
 K.L. Aastrup 1965.
 
 
+<a id="550"></a>
+
 ### 550
 
 *Mel.: Svend S. Schultz 1978*
@@ -25022,6 +26118,8 @@ Ingen er glemt af Gud.
 
 Svein Ellingsen 1977. Jens Lyster 1978.
 
+
+<a id="551"></a>
 
 ### 551
 
@@ -25065,6 +26163,8 @@ vi får bag tidens rand.
 
 Holger Lissner 1991.
 
+
+<a id="552"></a>
 
 ### 552
 
@@ -25123,6 +26223,8 @@ Holger Lissner 1993 og 1999.
 Kødets opstandelse og det evige liv – Evighedshåbet
 ---------------------------------------------------
 
+
+<a id="553"></a>
 
 ### 553
 
@@ -25198,6 +26300,8 @@ Hans Poulsen Resen 1632.
 Fr. Hammerich 1850. C.J. Brandt 1885.  
 Bearbejdet 1890.
 
+
+<a id="554"></a>
 
 ### 554
 
@@ -25278,6 +26382,8 @@ det give Gud Fader, amen!
 Dansk 1569. N.F.S. Grundtvig 1857.
 
 
+<a id="555"></a>
+
 ### 555
 
 *Mel.: Tysk folkevisemelodi omkr. 1640*
@@ -25331,6 +26437,8 @@ Tysk (1612).
 Hans Christensen Sthen omkr. 1600.  
 Bearbejdet (C.J. Brandt) 1872 og 1885.
 
+
+<a id="556"></a>
 
 ### 556
 
@@ -25396,6 +26504,8 @@ Laurentius Laurentii Laurinus 1622.
 M.B. Landstad 1861.
 
 
+<a id="557"></a>
+
 ### 557
 
 *Mel.: A.P. Berggreen 1854*  
@@ -25446,6 +26556,8 @@ lad dig skue med olieblad!
 Højs 2,11–14  
 Hans Adolph Brorson (1765).
 
+
+<a id="558"></a>
 
 ### 558
 
@@ -25500,6 +26612,8 @@ vil du hente mig herfra?
 Hans Adolph Brorson (1765).
 
 
+<a id="559"></a>
+
 ### 559
 
 *Mel.: Svensk 1859*  
@@ -25535,6 +26649,8 @@ Jeg snart i Himlen står.
 Hans Adolph Brorson (1765).
 
 
+<a id="560"></a>
+
 ### 560
 
 *Mel.: Johann H. Schein 1628*
@@ -25562,6 +26678,8 @@ opvækker støv til herlighed.
 
 N.F.S. Grundtvig 1822. Bearbejdet 1857.
 
+
+<a id="561"></a>
 
 ### 561
 
@@ -25663,6 +26781,8 @@ N.F.S. Grundtvig 1824.
 Jf. nr. 321.
 
 
+<a id="562"></a>
+
 ### 562
 
 *Mel.: Niels W. Gade omkr. 1860*  
@@ -25706,6 +26826,8 @@ har også støvet evighed.
 N.F.S. Grundtvig 1825.
 
 
+<a id="563"></a>
+
 ### 563
 
 *Mel.: Jesus er mit liv i live*
@@ -25740,6 +26862,8 @@ Husker, det er Herrens trøst!
 1 Thess 4,13–18  
 N.F.S. Grundtvig 1837.
 
+
+<a id="564"></a>
 
 ### 564
 
@@ -25782,6 +26906,8 @@ og lokke smilet gennem tårer frem.
 
 W.A. Wexels 1841.
 
+
+<a id="565"></a>
 
 ### 565
 
@@ -25837,6 +26963,8 @@ N.F.S. Grundtvig 1844 og 1864.
 Jf. nr. 529.
 
 
+<a id="566"></a>
+
 ### 566
 
 *Mel.: Den yndigste rose er funden*
@@ -25884,6 +27012,8 @@ Guds herligheds håb os husvale!
 Åb 21,1–4  
 N.F.S. Grundtvig 1848. Bearbejdet 1885.
 
+
+<a id="567"></a>
 
 ### 567
 
@@ -25964,6 +27094,8 @@ Ludvig Høyer 1855 (str. 1, 2, 4 og 6).
 Jens Larsen 1856 (str. 3).
 
 
+<a id="568"></a>
+
 ### 568
 
 *Mel.: Knud Jeppesen 1951*
@@ -25999,6 +27131,8 @@ hans ære i evigheds tider forkynder.
 Natanael Beskow 1886.  
 Chr. Ludwigs 1913.
 
+
+<a id="569"></a>
 
 ### 569
 
@@ -26050,6 +27184,8 @@ Kødets opstandelse og det evige liv – Allehelgen
 ------------------------------------------------
 
 
+<a id="570"></a>
+
 ### 570
 
 *Mel.: Oluf Ring 1936*
@@ -26096,6 +27232,8 @@ med livets brudekrans!
 Luk 15,11–32  
 Hans Adolph Brorson (1765).
 
+
+<a id="571"></a>
 
 ### 571
 
@@ -26155,6 +27293,8 @@ vor Gud og Lammet sagt!
 Hans Adolph Brorson (1765).
 
 
+<a id="572"></a>
+
 ### 572
 
 *Mel.: Hjemlandstoner 1900*
@@ -26208,6 +27348,8 @@ tak, tak i evighed!
 Hans Adolph Brorson (1765).
 
 
+<a id="573"></a>
+
 ### 573
 
 *Mel.: Herrens røst, som aldrig brister*  
@@ -26254,6 +27396,8 @@ Thomas Cotterill 1815 (str. 1–7).
 N.F.S. Grundtvig 1837.
 
 
+<a id="574"></a>
+
 ### 574
 
 *Mel.: Joseph Barnby 1868*  
@@ -26289,6 +27433,8 @@ William Walsham How 1864.
 Nathan Söderblom 1911. Aja Heurlin 1917.  
 Gustav Fog 1948 (str. 3).
 
+
+<a id="575"></a>
 
 ### 575
 
@@ -26330,6 +27476,8 @@ Holger Lissner 1975.
 Kristenlivet – Tro
 ------------------
 
+
+<a id="576"></a>
 
 ### 576
 
@@ -26387,6 +27535,8 @@ Luk 17,5
 David Denicke 1657.  
 Hans Adolph Brorson 1735.
 
+
+<a id="577"></a>
 
 ### 577
 
@@ -26461,6 +27611,8 @@ Johann Hermann Schrader 1731.
 Hans Adolph Brorson 1735.
 
 
+<a id="578"></a>
+
 ### 578
 
 *Mel.: Jeg vil din pris udsjunge*
@@ -26522,6 +27674,8 @@ end høre Jesus til!
 1 Joh 5,5  
 Hans Adolph Brorson 1735.
 
+
+<a id="579"></a>
 
 ### 579
 
@@ -26596,6 +27750,8 @@ Hans Adolph Brorson 1735.
 Bearbejdet 1951.
 
 
+<a id="580"></a>
+
 ### 580
 
 *Mel.: Herre, jeg har handlet ilde*
@@ -26637,6 +27793,8 @@ over sky med fryd og gammen.
 
 N.F.S. Grundtvig 1834. Jf. nr. 387.
 
+
+<a id="581"></a>
 
 ### 581
 
@@ -26682,6 +27840,8 @@ skænk mig i liv og død!
 Matt 9,18–26  
 B.S. Ingemann 1825.
 
+
+<a id="582"></a>
 
 ### 582
 
@@ -26739,6 +27899,8 @@ Kristenlivet – Bøn
 ------------------
 
 
+<a id="583"></a>
+
 ### 583
 
 *Mel.: Helligånd, de frommes glæde*
@@ -26792,6 +27954,8 @@ Johann Olearius 1671.
 Hans Adolph Brorson 1739.
 
 
+<a id="584"></a>
+
 ### 584
 
 *Mel.: Herre Jesus, vi er her*
@@ -26821,6 +27985,8 @@ Matt 7,7–8; Joh 16,23–28
 Johan Nordahl Brun 1786.
 
 
+<a id="585"></a>
+
 ### 585
 
 *Mel.: Fryd dig, du Kristi brud*
@@ -26848,6 +28014,8 @@ den henter trøst i døden.
 
 W.A. Wexels 1840.
 
+
+<a id="586"></a>
 
 ### 586
 
@@ -26888,6 +28056,8 @@ Gud deres Fader at kalde.
 Joh 16,23–28  
 N.F.S. Grundtvig 1855.
 
+
+<a id="587"></a>
 
 ### 587
 
@@ -26938,6 +28108,8 @@ mit Fadervor han beder.
 K.L. Aastrup 1936 og 1938.
 
 
+<a id="588"></a>
+
 ### 588
 
 *Mel.: Stille er min sjæl til Gud*
@@ -26978,6 +28150,8 @@ Johannes Johansen 1989, 1990 og 1994.
 Kristenlivet – Omvendelse
 -------------------------
 
+
+<a id="589"></a>
 
 ### 589
 
@@ -27040,6 +28214,8 @@ til jeg ind i Himlen stiger!
 Hans Adolph Brorson 1732.
 
 
+<a id="590"></a>
+
 ### 590
 
 *Mel.: Min Jesus er for mig*  
@@ -27077,6 +28253,8 @@ så skal I nåde få! der har I selv mit ord.
 
 Hans Adolph Brorson 1734.
 
+
+<a id="591"></a>
 
 ### 591
 
@@ -27127,6 +28305,8 @@ om du begyndte nu i dette øjeblik!
 
 Hans Adolph Brorson 1735.
 
+
+<a id="592"></a>
 
 ### 592
 
@@ -27183,6 +28363,8 @@ Tysk 1731.
 Hans Adolph Brorson 1735.
 
 
+<a id="593"></a>
+
 ### 593
 
 *Mel.: O, kommer hid dog til Guds Søn*
@@ -27220,6 +28402,8 @@ Lorenz Lorenzen 1700.
 Hans Adolph Brorson 1735.
 
 
+<a id="594"></a>
+
 ### 594
 
 *Mel.: Herrnhut omkring 1740*
@@ -27254,6 +28438,8 @@ af min fylde dag for dag!
 Joh 10,10  
 N.J. Holm 1823 og 1829.
 
+
+<a id="595"></a>
 
 ### 595
 
@@ -27327,6 +28513,8 @@ J.O. Wallin 1813 og 1816.
 M.B. Landstad 1861 og 1869.
 
 
+<a id="596"></a>
+
 ### 596
 
 *Mel.: A.P. Berggreen 1841*
@@ -27370,6 +28558,8 @@ let os natten overvælder!
 Joh 7,37  
 H.A. Timm 1834.
 
+
+<a id="597"></a>
 
 ### 597
 
@@ -27420,6 +28610,8 @@ Kristenlivet – Kristi efterfølgelse
 -----------------------------------
 
 
+<a id="598"></a>
+
 ### 598
 
 *Mel.: Genève 1542*
@@ -27449,6 +28641,8 @@ Thomas Kingo 1681.
 Bearbejdet 1935.
 
 
+<a id="599"></a>
+
 ### 599
 
 *Mel.: Jesus, dine dybe vunder*
@@ -27473,6 +28667,8 @@ tag dem aldrig fra mit hjerte!
 
 Thomas Kingo 1689.
 
+
+<a id="600"></a>
 
 ### 600
 
@@ -27521,6 +28717,8 @@ og tage livets krone fat!
 Joh 16,5–15  
 Thomas Kingo 1699.
 
+
+<a id="601"></a>
 
 ### 601
 
@@ -27572,6 +28770,8 @@ Johan Anastasius Freylinghausen 1704.
 Hans Adolph Brorson 1734. Bearbejdet 1951.
 
 
+<a id="602"></a>
+
 ### 602
 
 *Mel.: Freylinghausen 1704*
@@ -27615,6 +28815,8 @@ Hjælp, Jesus, dig at følge alle vegne!
 Christian Friedrich Richter 1704.  
 Hans Adolph Brorson 1734.
 
+
+<a id="603"></a>
 
 ### 603
 
@@ -27660,6 +28862,8 @@ Ulrich Bogislaus von Bonin 1725.
 Hans Adolph Brorson 1734.
 
 
+<a id="604"></a>
+
 ### 604
 
 *Mel.: Peter Sohr 1668*
@@ -27697,6 +28901,8 @@ Så får jeg kraft og mod og lyst på ny.
 Johann Jacob Rambach 1729.  
 Hans Adolph Brorson 1735.
 
+
+<a id="605"></a>
 
 ### 605
 
@@ -27750,6 +28956,8 @@ hvem der vil til Himmerige!
 
 Hans Adolph Brorson 1734.
 
+
+<a id="606"></a>
 
 ### 606
 
@@ -27813,6 +29021,8 @@ Johann Anastasius Freylinghausen 1714.
 Hans Adolph Brorson 1734.
 
 
+<a id="607"></a>
+
 ### 607
 
 *Mel.: J.A.P. Schulz 1793*
@@ -27834,6 +29044,8 @@ gør os døden sejerrig!
 
 Frederik Plum (?) 1793.
 
+
+<a id="608"></a>
 
 ### 608
 
@@ -27892,6 +29104,8 @@ Kol 3,1–17
 N.F.S. Grundtvig 1836.
 
 
+<a id="609"></a>
+
 ### 609
 
 *Mel.: Freylinghausen 1714*
@@ -27938,6 +29152,8 @@ han sig selv fornedrer.
 
 N.F.S. Grundtvig 1860.
 
+
+<a id="610"></a>
 
 ### 610
 
@@ -27988,6 +29204,8 @@ Luk 24,29
 H.A. Timm 1834.
 
 
+<a id="611"></a>
+
 ### 611
 
 *Mel.: Friedrich Silcher 1842*
@@ -28023,6 +29241,8 @@ Matt 8,19
 Julie Hausmann 1862.  
 Emil Claussen 1876.
 
+
+<a id="612"></a>
 
 ### 612
 
@@ -28063,6 +29283,8 @@ så er hans gerning alt sket.
 Mal 3,3  
 B.S. Ingemann 1841.
 
+
+<a id="613"></a>
 
 ### 613
 
@@ -28105,6 +29327,8 @@ Holger Lissner 1973.
 Kristenlivet – Forsagelse og kamp
 ---------------------------------
 
+
+<a id="614"></a>
 
 ### 614
 
@@ -28177,6 +29401,8 @@ i Abrahams skød!
 Thomas Kingo 1681.  
 Bearbejdet 1854 og 1899.
 
+
+<a id="615"></a>
 
 ### 615
 
@@ -28305,6 +29531,8 @@ i Abrahams skød!
 Thomas Kingo 1681.
 
 
+<a id="616"></a>
+
 ### 616
 
 *Mel.: Herrnhut omkring 1740*
@@ -28354,6 +29582,8 @@ Hans Adolph Brorson 1739.
 N.F.S. Grundtvig 1851 og 1864.
 
 
+<a id="617"></a>
+
 ### 617
 
 *Mel.: Jeg vil din pris udsjunge*  
@@ -28398,6 +29628,8 @@ hjælp, Jesus, af den nød!
 Rom 6,1–14  
 Thomas Kingo 1699. Bearbejdet 1890.
 
+
+<a id="618"></a>
 
 ### 618
 
@@ -28461,6 +29693,8 @@ til I ser ham komme!
 Hans Adolph Brorson 1735.
 
 
+<a id="619"></a>
+
 ### 619
 
 *Mel.: Genève 1542*  
@@ -28519,6 +29753,8 @@ Es 21,11–12
 Christian Friedrich Richter 1704.  
 Hans Adolph Brorson 1734.
 
+
+<a id="620"></a>
 
 ### 620
 
@@ -28580,6 +29816,8 @@ skal aldrig mere savne!
 
 Hans Adolph Brorson 1735.
 
+
+<a id="621"></a>
 
 ### 621
 
@@ -28644,6 +29882,8 @@ Matt 6,24–25
 Hans Adolph Brorson 1734.
 
 
+<a id="622"></a>
+
 ### 622
 
 *Mel.: Eja, min sjæl ret inderlig sig fryder*  
@@ -28697,6 +29937,8 @@ med Jesus tale.
 Hans Adolph Brorson 1735.
 
 
+<a id="623"></a>
+
 ### 623
 
 *Mel.: Thomas Laub 1916*
@@ -28749,6 +29991,8 @@ at hjertet er dér!
 N.F.S. Grundtvig 1846.
 
 
+<a id="624"></a>
+
 ### 624
 
 *Mel.: Jesus, dine dybe vunder*
@@ -28774,6 +30018,8 @@ at min tro da ej skal svigte!
 Thomas Kingo 1674.  
 Bearbejdet 1947.
 
+
+<a id="625"></a>
 
 ### 625
 
@@ -28848,6 +30094,8 @@ Justus Falckner 1695.
 Hans Adolph Brorson 1735.
 
 
+<a id="626"></a>
+
 ### 626
 
 *Mel.: Herrnhut omkring 1740*  
@@ -28912,6 +30160,8 @@ Emil Claussen. og H.S. Prahl 1889.
 Severin Widding 1912. Bearbejdet 1951.
 
 
+<a id="627"></a>
+
 ### 627
 
 *Mel.: Jesus han er syndres ven*
@@ -28962,6 +30212,8 @@ Benjamin Schmolck 1704.
 Hans Adolph Brorson 1734.
 
 
+<a id="628"></a>
+
 ### 628
 
 *Mel.: Vor Gud han er så fast en borg*
@@ -28980,6 +30232,8 @@ Johann Hermann Schrader 1731.
 Hans Adolph Brorson 1739.  
 Bearbejdet 1885.
 
+
+<a id="629"></a>
 
 ### 629
 
@@ -29042,6 +30296,8 @@ af sjælens brudekrans.
 Hans Adolph Brorson 1735.
 
 
+<a id="630"></a>
+
 ### 630
 
 *Mel.: Jeg råber fast, o Herre*  
@@ -29095,6 +30351,8 @@ min pryd på dommens dag!
 Hans Adolph Brorson 1735.
 
 
+<a id="631"></a>
+
 ### 631
 
 *Mel.: Nu! jeg har vunden*  
@@ -29136,6 +30394,8 @@ til Gud i Himlen hjem.
 Ef 6,10–17  
 Hans Adolph Brorson 1735.
 
+
+<a id="632"></a>
 
 ### 632
 
@@ -29199,6 +30459,8 @@ stå fast og vinde.
 Hans Adolph Brorson 1735.
 
 
+<a id="633"></a>
+
 ### 633
 
 *Mel.: Johann Schop 1641*  
@@ -29243,6 +30505,8 @@ Nu evig er vor glæde!
 N.F.S. Grundtvig 1836.
 
 
+<a id="634"></a>
+
 ### 634
 
 *Mel.: Min død er mig til gode*
@@ -29259,6 +30523,8 @@ men større er dog Gud.
 
 Kaj Munk 1938.
 
+
+<a id="635"></a>
 
 ### 635
 
@@ -29291,6 +30557,8 @@ Guds løfterige fremtid.
 Svein Ellingsen 1971.  
 Dansk 1978.
 
+
+<a id="636"></a>
 
 ### 636
 
@@ -29327,6 +30595,8 @@ blive lys i tvivlens mørke.
 Svein Ellingsen 1978.  
 Helge Severinsen 1999.
 
+
+<a id="637"></a>
 
 ### 637
 
@@ -29386,6 +30656,8 @@ Kristenlivet – Modgang og håb
 -----------------------------
 
 
+<a id="638"></a>
+
 ### 638
 
 *Mel.: Tysk folkevise / Nürnberg 1534*
@@ -29444,6 +30716,8 @@ Georg Grünwald 1530. Hans Thomissøn 1569.
 N.F.S. Grundtvig omkr. 1837.
 
 
+<a id="639"></a>
+
 ### 639
 
 *Mel.: Lyon 1547*  
@@ -29480,6 +30754,8 @@ Paul Eber 1566. Dansk 1569.
 N.F.S. Grundtvig 1853.
 
 
+<a id="640"></a>
+
 ### 640
 
 *Mel.: Thomas Laub 1912*
@@ -29512,6 +30788,8 @@ Thi at sorgen hun tvinger så mange.
 Hans Christensen Sthen 1589.  
 Jf. nr. 641.
 
+
+<a id="641"></a>
 
 ### 641
 
@@ -29557,6 +30835,8 @@ C.J. Brandt 1872.
 Oprindelig del af nr. 640.
 
 
+<a id="642"></a>
+
 ### 642
 
 *Mel.: Mattheus Le Maistre 1566*  
@@ -29597,6 +30877,8 @@ når her jeg ej er mere!
 Thomas Knudsen 1569.  
 Fr. Hammerich 1854.
 
+
+<a id="643"></a>
 
 ### 643
 
@@ -29695,6 +30977,8 @@ jeg må dø i den tillid!
 Thomas Kingo 1681.
 
 
+<a id="644"></a>
+
 ### 644
 
 *Mel.: Johann Horn 1544*  
@@ -29728,6 +31012,8 @@ altid overvægten få!
 Thomas Kingo 1681.  
 Bearbejdet 1850.
 
+
+<a id="645"></a>
 
 ### 645
 
@@ -29771,6 +31057,8 @@ du skal komme vel til land!
 Abraham Hinckelmann 1684.  
 Hans Adolph Brorson 1734.
 
+
+<a id="646"></a>
 
 ### 646
 
@@ -29826,6 +31114,8 @@ Christian Friedrich Richter 1704.
 Hans Adolph Brorson omkr. 1730 og 1735.
 
 
+<a id="647"></a>
+
 ### 647
 
 *Mel.: Thomas Laub 1924*
@@ -29876,6 +31166,8 @@ August Hermann Francke (?) 1714.
 Hans Adolph Brorson 1734.
 
 
+<a id="648"></a>
+
 ### 648
 
 *Mel.: Freylinghausen 1716*
@@ -29919,6 +31211,8 @@ Tysk 1711.
 Hans Adolph Brorson 1734.
 
 
+<a id="649"></a>
+
 ### 649
 
 *Mel.: Forsamlingsmelodi 1875*
@@ -29952,6 +31246,8 @@ vor drift til Himlen går.
 
 Hans Adolph Brorson (1765).
 
+
+<a id="650"></a>
 
 ### 650
 
@@ -29987,6 +31283,8 @@ evig søde brudesange.
 Hans Adolph Brorson (1765).
 
 
+<a id="651"></a>
+
 ### 651
 
 *Mel.: Knud Jeppesen 1951*
@@ -30013,6 +31311,8 @@ bøje den fattiges ret!
 
 Hans Adolph Brorson (1765).
 
+
+<a id="652"></a>
 
 ### 652
 
@@ -30077,6 +31377,8 @@ mit hjerte, hvi vil du dig græmme!
 N.F.S. Grundtvig 1840.
 
 
+<a id="653"></a>
+
 ### 653
 
 *Mel.: Thomas Laub 1922*
@@ -30140,6 +31442,8 @@ O min sjæl! hvad vil mer du forlange?
 N.F.S. Grundtvig 1845.
 
 
+<a id="654"></a>
+
 ### 654
 
 *Mel.: Jesus, dine dybe vunder*
@@ -30192,6 +31496,8 @@ kommer du med morgenrøden.
 N.F.S. Grundtvig 1849.  
 Bearbejdet 1880.
 
+
+<a id="655"></a>
 
 ### 655
 
@@ -30246,6 +31552,8 @@ med Jesu barne-dåb.
 N.F.S. Grundtvig 1850–51.
 
 
+<a id="656"></a>
+
 ### 656
 
 *Mel.: Klynke og klage*
@@ -30289,6 +31597,8 @@ C.O. Rosenius 1847.
 Dansk 1895 (str. 1–3).  
 Niels Møller 1951 (str. 4–5).
 
+
+<a id="657"></a>
 
 ### 657
 
@@ -30343,6 +31653,8 @@ Rom 13,11–14
 M.B. Landstad 1861.
 
 
+<a id="658"></a>
+
 ### 658
 
 *Mel.: Lasse Lunderskov 1975.*  
@@ -30379,6 +31691,8 @@ der kan os skille.
 Hans Anker Jørgensen 1986.
 
 
+<a id="659"></a>
+
 ### 659
 
 *Mel.: Nina Broms-Löfman 1982*
@@ -30407,6 +31721,8 @@ og fylder alt med nærvær og med fred.
 Svein Ellingsen 1977.  
 Helge Severinsen 1999.
 
+
+<a id="660"></a>
 
 ### 660
 
@@ -30451,6 +31767,8 @@ ind på min slidte krop!
 Holger Lissner 1993.
 
 
+<a id="661"></a>
+
 ### 661
 
 *Mel.: Gud, efter dig jeg længes*
@@ -30472,6 +31790,8 @@ Bearbejdet 1913.
 Kristenlivet – Trøst og fred
 ----------------------------
 
+
+<a id="662"></a>
 
 ### 662
 
@@ -30531,6 +31851,8 @@ N.F.S. Grundtvig 1837. B.S. Ingemann 1854.
 Bearbejdet 1897.
 
 
+<a id="663"></a>
+
 ### 663
 
 *Mel.: Johann Walter 1524*  
@@ -30588,6 +31910,8 @@ Sl 23
 Anders Arrebo 1623. Bearbejdet 1885.
 
 
+<a id="664"></a>
+
 ### 664
 
 *Mel.: Christian Barnekow 1858*
@@ -30620,6 +31944,8 @@ rækker mig saligheds bæger.
 Sl 23; Joh 10,11–16  
 B.S. Ingemann 1840.
 
+
+<a id="665"></a>
 
 ### 665
 
@@ -30695,6 +32021,8 @@ Hans Adolph Brorson 1735.
 Jf. nr. 666.
 
 
+<a id="666"></a>
+
 ### 666
 
 *Mel.: Jeg ved, på hvem jeg bygger*  
@@ -30733,6 +32061,8 @@ Hans Adolph Brorson 1735.
 Bearbejdet 1850.  
 Oprindelig samme salme som nr. 665.
 
+
+<a id="667"></a>
 
 ### 667
 
@@ -30797,6 +32127,8 @@ Paul Gerhardt 1653.
 C.J. Brandt 1879 og 1885.
 
 
+<a id="668"></a>
+
 ### 668
 
 *Mel.: Aldrig er jeg uden våde*
@@ -30829,6 +32161,8 @@ i Guds engles selskabs fryd.
 Tysk 1661.  
 Hans Adolph Brorson 1739.
 
+
+<a id="669"></a>
 
 ### 669
 
@@ -30881,6 +32215,8 @@ Christian Friedrich Richter 1698.
 Hans Adolph Brorson 1735.
 
 
+<a id="670"></a>
+
 ### 670
 
 *Mel.: Michael Prætorius 1610*  
@@ -30925,6 +32261,8 @@ enddog det vared længe.
 Dansk 1740.
 
 
+<a id="671"></a>
+
 ### 671
 
 *Mel.: Freylinghausen 1704*  
@@ -30960,6 +32298,8 @@ Jesus, Jesus, evig tak!
 
 Hans Adolph Brorson (1765).
 
+
+<a id="672"></a>
 
 ### 672
 
@@ -31005,6 +32345,8 @@ E.M. Arndt 1819. A. Knapp 1837.
 Carsten Hauch 1840.
 
 
+<a id="673"></a>
+
 ### 673
 
 *Mel.: Gak ud, min sjæl, betragt med flid*  
@@ -31041,6 +32383,8 @@ at sprænge himlens bue.
 N.F.S. Grundtvig 1835.  
 Bearbejdet 1857.
 
+
+<a id="674"></a>
 
 ### 674
 
@@ -31113,6 +32457,8 @@ N.F.S. Grundtvig 1844, 1850 og 1864.
 Bearbejdet 1872.
 
 
+<a id="675"></a>
+
 ### 675
 
 *Mel.: Willy Egmose 1986*  
@@ -31156,6 +32502,8 @@ evig mættes vi med glæde.
 N.F.S. Grundtvig 1853–55.
 
 
+<a id="676"></a>
+
 ### 676
 
 *Mel.: Carl Nielsen 1914*  
@@ -31198,6 +32546,8 @@ vi indgå til Guds herlighed.
 
 N.F.S. Grundtvig 1855–56.
 
+
+<a id="677"></a>
 
 ### 677
 
@@ -31255,6 +32605,8 @@ Einar Billing 1922.
 Holger Lissner 1973, 1978 og 1995.
 
 
+<a id="678"></a>
+
 ### 678
 
 *Mel.: Guds fred er mer end englevagt*  
@@ -31303,6 +32655,8 @@ Holger Lissner 1983.
 Kristenlivet – Kærlighed til Gud og næsten
 ------------------------------------------
 
+
+<a id="679"></a>
 
 ### 679
 
@@ -31357,6 +32711,8 @@ Hans Christensen Sthen 1586.
 C.J. Brandt 1885.
 
 
+<a id="680"></a>
+
 ### 680
 
 *Mel.: Op dog, Zion, ser du ej*
@@ -31379,6 +32735,8 @@ Himlen alt jeg ejer her.
 Johann Scheffler 1657. (Dansk 1740).  
 Diderik Peter Svendsen 1860.
 
+
+<a id="681"></a>
 
 ### 681
 
@@ -31422,6 +32780,8 @@ O Jesus, kald mig din!
 Johann Scheffler 1657.  
 Hans Egede Glahn 1863.
 
+
+<a id="682"></a>
 
 ### 682
 
@@ -31467,6 +32827,8 @@ Ludämilie Elisabeth af Schwarzburg-Rudolstadt 1673.
 Hans Adolph Brorson 1734.
 
 
+<a id="683"></a>
+
 ### 683
 
 *Mel.: Guds Søn kom ned fra Himmerig*
@@ -31498,6 +32860,8 @@ nu og foruden ende.
 1 Pet 4,7–11  
 Thomas Kingo 1699.
 
+
+<a id="684"></a>
 
 ### 684
 
@@ -31531,6 +32895,8 @@ og evig glæde nyde!
 Thomas Kingo 1699.  
 Bearbejdet 1850 og 1951.
 
+
+<a id="685"></a>
 
 ### 685
 
@@ -31585,6 +32951,8 @@ til dig og til min næste!
 Thomas Kingo 1699.
 
 
+<a id="686"></a>
+
 ### 686
 
 *Mel.: Jeg ved et evigt Himmerig*
@@ -31632,6 +33000,8 @@ mig skænke skal og give.
 Jak 1,22–27  
 Thomas Kingo 1699.
 
+
+<a id="687"></a>
 
 ### 687
 
@@ -31690,6 +33060,8 @@ jeg sjunger med halleluja!
 Thomas Kingo 1699.
 
 
+<a id="688"></a>
+
 ### 688
 
 *Mel.: Vor Herres Jesu mindefest*  
@@ -31744,6 +33116,8 @@ Matt 5,43–48
 Hans Adolph Brorson 1734.
 
 
+<a id="689"></a>
+
 ### 689
 
 *Mel.: O hjertekære Jesus Krist*
@@ -31785,6 +33159,8 @@ til evig tid i samfund stå!
 
 Hans Adolph Brorson 1734.
 
+
+<a id="690"></a>
 
 ### 690
 
@@ -31850,6 +33226,8 @@ din kærlighed til ære!
 Hans Adolph Brorson 1734.
 
 
+<a id="691"></a>
+
 ### 691
 
 *Mel.: Rind nu op i Jesu navn*
@@ -31902,6 +33280,8 @@ så vor gerning sker i Gud.
 Hans Adolph Brorson 1739.
 
 
+<a id="692"></a>
+
 ### 692
 
 *Mel.: O store Gud, din kærlighed*
@@ -31944,6 +33324,8 @@ Johan Nordahl Brun 1786.
 Bearbejdet 1947.
 
 
+<a id="693"></a>
+
 ### 693
 
 *Mel.: C.E.F. Weyse 1838*
@@ -31978,6 +33360,8 @@ thi vist du hører den, som dig med tro anråber.
 
 Henrik Kampmann 1798.
 
+
+<a id="694"></a>
 
 ### 694
 
@@ -32040,6 +33424,8 @@ vokser, modnes kærligheden.
 
 N.F.S. Grundtvig omkr. 1851.
 
+
+<a id="695"></a>
 
 ### 695
 
@@ -32104,6 +33490,8 @@ nådens og sandhedens kilde.
 N.F.S. Grundtvig 1853.
 
 
+<a id="696"></a>
+
 ### 696
 
 *Mel.: Jesus er mit liv i live*
@@ -32137,6 +33525,8 @@ vorde skal vi og ved den
 
 N.F.S. Grundtvig 1853.
 
+
+<a id="697"></a>
 
 ### 697
 
@@ -32174,6 +33564,8 @@ om en mild og mægtig Gud!
 Ef 2,10  
 Liv Nordhaug 1969. Dansk 1989.
 
+
+<a id="698"></a>
 
 ### 698
 
@@ -32229,6 +33621,8 @@ Menneskelivet – Bryllup / Vielse
 --------------------------------
 
 
+<a id="699"></a>
+
 ### 699
 
 *Mel.: Knud Jeppesen 1936*  
@@ -32265,6 +33659,8 @@ deres ægte-kærlighed.
 Paul Gerhardt 1666.  
 N.F.S. Grundtvig 1844.
 
+
+<a id="700"></a>
 
 ### 700
 
@@ -32309,6 +33705,8 @@ på kærlighed sig grunder.
 
 N.F.S. Grundtvig 1843.
 
+
+<a id="701"></a>
 
 ### 701
 
@@ -32383,6 +33781,8 @@ Matt 7,24–25; 16,16–18
 N.F.S. Grundtvig omkring 1846.
 
 
+<a id="702"></a>
+
 ### 702
 
 *Mel.: Lille Guds barn, hvad skader dig*
@@ -32414,6 +33814,8 @@ O, Gud ske lov!
 N.F.S. Grundtvig 1847.  
 Bearbejdet 1889.
 
+
+<a id="703"></a>
 
 ### 703
 
@@ -32467,6 +33869,8 @@ er kærlighed.
 N.F.S. Grundtvig 1855.
 
 
+<a id="704"></a>
+
 ### 704
 
 *Mel.: J.P.E. Hartmann 1870*
@@ -32502,6 +33906,8 @@ ved Guds kærligheds magt!
 Jacob Paulli 1878.
 
 
+<a id="705"></a>
+
 ### 705
 
 *Mel.: Nu sol i øst oprinder mild*
@@ -32524,6 +33930,8 @@ før livets sol går ned!
 Viktor Friedrich von Strauss und Torney 1843.  
 Jørgen Kristensen 1974.
 
+
+<a id="706"></a>
 
 ### 706
 
@@ -32581,6 +33989,8 @@ Menneskelivet – Fædrelandet
 ---------------------------
 
 
+<a id="707"></a>
+
 ### 707
 
 *Mel.: Valentin Schumann 1539*  
@@ -32637,6 +34047,8 @@ C.J. Brandt 1885.
 Bearbejdet 1890.
 
 
+<a id="708"></a>
+
 ### 708
 
 *Mel.: O store Gud, din kærlighed*  
@@ -32663,6 +34075,8 @@ så vi dig aldrig glemme!
 Thomas Kingo 1689.  
 Bearbejdet 1947.
 
+
+<a id="709"></a>
 
 ### 709
 
@@ -32711,6 +34125,8 @@ må tone takkesange!
 
 N.F.S. Grundtvig 1848.
 
+
+<a id="710"></a>
 
 ### 710
 
@@ -32775,6 +34191,8 @@ Danmarks livslys! Hjertensglæde!
 N.F.S. Grundtvig 1853. Bearbejdet 1939.
 
 
+<a id="711"></a>
+
 ### 711
 
 *Mel.: Efter førreformatorisk hymne / Nürnberg 1531*
@@ -32809,6 +34227,8 @@ Menneskelivet – Årstiderne
 --------------------------
 
 
+<a id="712"></a>
+
 ### 712
 
 *Mel.: A.P. Berggreen 1852*
@@ -32839,6 +34259,8 @@ Velkommen, nytår, og velkommen her!
 
 N.F.S. Grundtvig 1849.
 
+
+<a id="713"></a>
 
 ### 713
 
@@ -32883,6 +34305,8 @@ med solebjærgs-skær det blide!
 Sl 90  
 N.F.S. Grundtvig 1841, 1857 og 1864.
 
+
+<a id="714"></a>
 
 ### 714
 
@@ -32937,6 +34361,8 @@ Sl 90,12
 Hans Adolph Brorson 1732.
 
 
+<a id="715"></a>
+
 ### 715
 
 *Mel.: Guds godhed vil vi prise*
@@ -32970,6 +34396,8 @@ i døden salighed!
 
 Hans Adolph Brorson 1742.
 
+
+<a id="716"></a>
 
 ### 716
 
@@ -33014,6 +34442,8 @@ Råd bod på alle savn!
 Paul Eber (1571). Rasmus Katholm 1575.  
 N.F.S. Grundtvig 1845.
 
+
+<a id="717"></a>
 
 ### 717
 
@@ -33067,6 +34497,8 @@ i evighedens år.
 Lisbeth Smedegaard Andersen 1994 og 2000.
 
 
+<a id="718"></a>
+
 ### 718
 
 *Mel.: Helligånd, de frommes glæde*  
@@ -33085,6 +34517,8 @@ N.F.S. Grundtvig 1851.
 Bearbejdet 1890.
 
 
+<a id="719"></a>
+
 ### 719
 
 *Mel.: Guds godhed vil vi prise*
@@ -33101,6 +34535,8 @@ og tjene til vort gavn!
 Thomas Kingo 1689.  
 Bearbejdet 1857.
 
+
+<a id="720"></a>
 
 ### 720
 
@@ -33200,6 +34636,8 @@ spirelag.
 Ole Sarvig 1952.
 
 
+<a id="721"></a>
+
 ### 721
 
 *Mel.: Piae cantiones 1582*
@@ -33240,6 +34678,8 @@ takke Gud for livet.
 Morten Børup omkr. 1500. 1577.  
 Frederik Moth 1895.
 
+
+<a id="722"></a>
 
 ### 722
 
@@ -33304,6 +34744,8 @@ Israel Kolmodin 1694. W.A. Wexels 1840.
 M.B. Landstad 1861. C.J. Brandt 1885.  
 Bearbejdet 1889.
 
+
+<a id="723"></a>
 
 ### 723
 
@@ -33378,6 +34820,8 @@ mig synger skovens due.
 C.J. Boye 1834.
 
 
+<a id="724"></a>
+
 ### 724
 
 *Mel.: Morten Nyord 1989*  
@@ -33415,6 +34859,8 @@ skønne på hans nåde!
 
 C.J. Brandt omkr. 1864. Bearbejdet 1885.
 
+
+<a id="725"></a>
 
 ### 725
 
@@ -33468,6 +34914,8 @@ da gryr en evig sommer.
 Carl David af Wirsén 1889.  
 Johannes Johansen 1985, 1988, 1993, 1995 og 1996.
 
+
+<a id="726"></a>
 
 ### 726
 
@@ -33534,6 +34982,8 @@ Paul Gerhardt 1653.
 Chr. M. Kragballe 1855.
 
 
+<a id="727"></a>
+
 ### 727
 
 *Mel.: Lover den Herre*
@@ -33558,6 +35008,8 @@ vogte os vel for al skade!
 
 N.F.S. Grundtvig 1844.
 
+
+<a id="728"></a>
 
 ### 728
 
@@ -33601,6 +35053,8 @@ som er i din livsbog indskrevet!
 
 C.R. Sundell 1934. K.L. Aastrup 1945.
 
+
+<a id="729"></a>
 
 ### 729
 
@@ -33660,6 +35114,8 @@ til Himlen os ledsage!
 N.F.S. Grundtvig 1844.
 
 
+<a id="730"></a>
+
 ### 730
 
 *Mel.: J.A.P. Schultz omkring 1800*
@@ -33708,6 +35164,8 @@ Jane M. Campbell 1861.
 Jacob Knudsen 1891.
 
 
+<a id="731"></a>
+
 ### 731
 
 *Mel.: Henning Wellejus 1993*  
@@ -33743,6 +35201,8 @@ den nat, da kulden kommer.
 
 Lars Busk Sørensen 1990 og 1993.
 
+
+<a id="732"></a>
 
 ### 732
 
@@ -33791,6 +35251,8 @@ som Kristus gennembrød.
 
 C.J. Boye 1833.
 
+
+<a id="733"></a>
 
 ### 733
 
@@ -33859,6 +35321,8 @@ Menneskelivet – Morgen
 ----------------------
 
 
+<a id="734"></a>
+
 ### 734
 
 *Mel.: Førreformatorisk*  
@@ -33897,6 +35361,8 @@ Bearbejdet 1889 og 1951.
 Oprindelig del af samme salme som nr. 353 og 402.
 
 
+<a id="735"></a>
+
 ### 735
 
 *Mel.: Carl Nielsen 1919.*  
@@ -33925,6 +35391,8 @@ og tage mod hans fred.
 Latin 5. årh. (Dansk 1569. 1575).  
 C.J. Brandt 1874.
 
+
+<a id="736"></a>
 
 ### 736
 
@@ -33969,6 +35437,8 @@ sin nådes lys os tilsende!
 Hans Christensen Sthen 1589.  
 Bearbejdet 1857.
 
+
+<a id="737"></a>
 
 ### 737
 
@@ -34023,6 +35493,8 @@ Georg Niege før 1582.
 Hans Christensen Sthen efter 1592.  
 Jacob Madsen senest 1600.
 
+
+<a id="738"></a>
 
 ### 738
 
@@ -34081,6 +35553,8 @@ alt efter sin vilje den rene!
 Hans Christensen Sthen 1589.  
 C.J. Brandt 1885.
 
+
+<a id="739"></a>
 
 ### 739
 
@@ -34152,6 +35626,8 @@ smuldre med mit jordelin!
 Thomas Kingo 1674.
 
 
+<a id="740"></a>
+
 ### 740
 
 *Mel.: Johann Schop 1654*  
@@ -34191,6 +35667,8 @@ Det 3. morgensuk.
 Thomas Kingo 1677.
 
 
+<a id="741"></a>
+
 ### 741
 
 *Mel.: Freylinghausen 1704*
@@ -34225,6 +35703,8 @@ gør da dødens time god!
 Det 4. morgensuk.  
 Thomas Kingo 1684.
 
+
+<a id="742"></a>
 
 ### 742
 
@@ -34262,6 +35742,8 @@ derpå min tro skal bygge.
 Det 5. morgensuk.  
 Thomas Kingo 1684.
 
+
+<a id="743"></a>
 
 ### 743
 
@@ -34334,6 +35816,8 @@ Lad Gud kun råde!
 Thomas Kingo 1674.
 
 
+<a id="744"></a>
+
 ### 744
 
 *Mel.: Tiden skrider, dagen rinder*
@@ -34377,6 +35861,8 @@ Det 7. morgensuk.
 Thomas Kingo 1684.
 
 
+<a id="745"></a>
+
 ### 745
 
 *Mel.: Hamburg 1690*
@@ -34419,6 +35905,8 @@ og evigheden forestår.
 Thomas Kingo 1674.
 
 
+<a id="746"></a>
+
 ### 746
 
 *Mel.: Jeg vil mig Herren love*  
@@ -34446,6 +35934,8 @@ Vægterversene 1683. 1784.
 W.A. Wexels 1840. Bearbejdet 1850.  
 Jf. nr. 781 og 791.
 
+
+<a id="747"></a>
 
 ### 747
 
@@ -34484,6 +35974,8 @@ og vor glade morgensang fornemmer.
 B.S. Ingemann 1837.
 
 
+<a id="748"></a>
+
 ### 748
 
 *Mel.: C.E.F. Weyse 1837*
@@ -34510,6 +36002,8 @@ du hører småbørnenes pris i din jublende vrimmel.
 
 B.S. Ingemann 1837.
 
+
+<a id="749"></a>
 
 ### 749
 
@@ -34553,6 +36047,8 @@ og fra dit Paradis!
 B.S. Ingemann 1837.
 
 
+<a id="750"></a>
+
 ### 750
 
 *Mel.: C.E.F. Weyse 1837*
@@ -34584,6 +36080,8 @@ evindelig være du lovpriset!
 
 B.S. Ingemann 1837.
 
+
+<a id="751"></a>
 
 ### 751
 
@@ -34619,6 +36117,8 @@ Vi har kærligheds-asylet fundet.
 
 B.S. Ingemann 1837.
 
+
+<a id="752"></a>
 
 ### 752
 
@@ -34663,6 +36163,8 @@ Da randt for os guldterning.
 N.F.S. Grundtvig 1853.
 
 
+<a id="753"></a>
+
 ### 753
 
 *Mel.: August Winding 1877*
@@ -34694,6 +36196,8 @@ nu og evindelig siden!
 
 C.J. Brandt 1874.
 
+
+<a id="754"></a>
 
 ### 754
 
@@ -34738,6 +36242,8 @@ Lyset stander stille på livets kyst!
 Jakob Knudsen 1891.
 
 
+<a id="755"></a>
+
 ### 755
 
 *Mel.: Oluf Ring 1938*
@@ -34759,6 +36265,8 @@ med ordet om din frelse!
 
 K.L. Aastrup 1936.
 
+
+<a id="756"></a>
 
 ### 756
 
@@ -34807,6 +36315,8 @@ K.L. Aastrup 1940.
 Menneskelivet – Aften
 ---------------------
 
+
+<a id="757"></a>
 
 ### 757
 
@@ -34864,6 +36374,8 @@ Hans Christensen Sthen 1589.
 C.J. Brandt 1885.
 
 
+<a id="758"></a>
+
 ### 758
 
 *Mel.: Johann Schop 1642*
@@ -34907,6 +36419,8 @@ også dem, jeg ikke kender!
 Johann Rist 1642.. Hans Pedersøn 1663..  
 Fr. Hammerich 1850–1852.
 
+
+<a id="759"></a>
 
 ### 759
 
@@ -34958,6 +36472,8 @@ Paul Gerhardt 1647. Peder Møller 1682.
 Fr. Hammerich 1850. Bearbejdet 1889.
 
 
+<a id="760"></a>
+
 ### 760
 
 *Mel.: Tiden skrider, dagen rinder*
@@ -34986,6 +36502,8 @@ Jesus var min sol i nat!
 Det 1. aftensuk.  
 Thomas Kingo 1677.
 
+
+<a id="761"></a>
 
 ### 761
 
@@ -35036,6 +36554,8 @@ til liv evindelig.
 Thomas Kingo 1674.
 
 
+<a id="762"></a>
+
 ### 762
 
 *Mel.: Thomas Laub 1917*
@@ -35084,6 +36604,8 @@ Det 4. aftensuk.
 Thomas Kingo 1684.
 
 
+<a id="763"></a>
+
 ### 763
 
 *Mel.: Tysk visemelodi omkring 1650*
@@ -35125,6 +36647,8 @@ i liv og død alt lige fuld af tro.
 
 Thomas Kingo 1674.
 
+
+<a id="764"></a>
 
 ### 764
 
@@ -35196,6 +36720,8 @@ i evig glæde.
 Thomas Kingo 1674.
 
 
+<a id="765"></a>
+
 ### 765
 
 *Mel.: Tiden skrider, dagen rinder*
@@ -35224,6 +36750,8 @@ lad mig dø i salig tro!
 Det 6. aftensuk.  
 Thomas Kingo 1684.
 
+
+<a id="766"></a>
 
 ### 766
 
@@ -35282,6 +36810,8 @@ og selv sin vagt omkring har sat.
 Thomas Kingo 1674.
 
 
+<a id="767"></a>
+
 ### 767
 
 *Mel.: Thomas Laub 1916*
@@ -35324,6 +36854,8 @@ salig, rolig, sagte, sød.
 Det 7. aftensuk.  
 Thomas Kingo 1684.
 
+
+<a id="768"></a>
 
 ### 768
 
@@ -35382,6 +36914,8 @@ kalder mig til evig fryd.
 Dorothe Engelbrethsdatter 1677.
 
 
+<a id="769"></a>
+
 ### 769
 
 *Mel.: J.A.P. Schulz 1790*
@@ -35432,6 +36966,8 @@ Matthias Claudius 1779.
 Carsten Hauch 1838.
 
 
+<a id="770"></a>
+
 ### 770
 
 *Mel.: Jørgen Malling 1869*
@@ -35459,6 +36995,8 @@ i vor Herres Jesu tro!
 Luise Hensel 1817.  
 Kristian Arentzen 1846.
 
+
+<a id="771"></a>
 
 ### 771
 
@@ -35497,6 +37035,8 @@ gik det, som det skulle.
 B.S. Ingemann 1838.
 
 
+<a id="772"></a>
+
 ### 772
 
 *Mel.: C.E.F. Weyse 1838*
@@ -35531,6 +37071,8 @@ i din høje Himmel!
 B.S. Ingemann 1838.
 
 
+<a id="773"></a>
+
 ### 773
 
 *Mel.: C.E.F. Weyse 1838*
@@ -35563,6 +37105,8 @@ af nattens sluser ud.
 B.S. Ingemann 1838.
 
 
+<a id="774"></a>
+
 ### 774
 
 *Mel.: C.E.F. Weyse 1838*
@@ -35589,6 +37133,8 @@ som skjuler sig i dit rige.
 
 B.S. Ingemann 1838.
 
+
+<a id="775"></a>
 
 ### 775
 
@@ -35623,6 +37169,8 @@ fra Paradiset i østen.
 
 B.S. Ingemann 1838.
 
+
+<a id="776"></a>
 
 ### 776
 
@@ -35667,6 +37215,8 @@ ved skabningens store vugge.
 B.S. Ingemann 1838.
 
 
+<a id="777"></a>
+
 ### 777
 
 *Mel.: C.E.F. Weyse 1838*
@@ -35688,6 +37238,8 @@ og jorderigs sjælevrimle!
 
 B.S. Ingemann 1838.
 
+
+<a id="778"></a>
 
 ### 778
 
@@ -35732,6 +37284,8 @@ og dem, jeg aldrig så.
 B.S. Ingemann 1822.
 
 
+<a id="779"></a>
+
 ### 779
 
 *Mel.: A.P. Berggreen 1841*
@@ -35771,6 +37325,8 @@ Guds fred er sjælesolen, som aldrig går ned.
 
 B.S. Ingemann 1841.
 
+
+<a id="780"></a>
 
 ### 780
 
@@ -35819,6 +37375,8 @@ når Herren åbenbares.
 N.F.S. Grundtvig 1833.
 
 
+<a id="781"></a>
+
 ### 781
 
 *Mel.: Befal du dine veje*
@@ -35845,6 +37403,8 @@ Vægterversene 1683. 1686. 1731.
 W. A. Wexels 1840.  
 Jf. nr. 746 og 791.
 
+
+<a id="782"></a>
 
 ### 782
 
@@ -35874,6 +37434,8 @@ Thomas Kingo 1689.
 N.F.S. Grundtvig 1853.  
 Oprindelig del af nr. 244.
 
+
+<a id="783"></a>
 
 ### 783
 
@@ -35932,6 +37494,8 @@ Han sov hen, som sol i høst går ned.
 N.F.S. Grundtvig 1845.
 
 
+<a id="784"></a>
+
 ### 784
 
 *Mel.: Dagen går med raske fjed*
@@ -35953,6 +37517,8 @@ døden ikke heller.
 
 Chr. Richardt 1867.
 
+
+<a id="785"></a>
 
 ### 785
 
@@ -36006,6 +37572,8 @@ tak, du lysets Fader!
 Jakob Knudsen 1890.
 
 
+<a id="786"></a>
+
 ### 786
 
 *Mel.: Erik Sommer 1980*
@@ -36048,6 +37616,8 @@ når du er iblandt os, da sover vi trygt.
 Holger Lissner 1980.
 
 
+<a id="787"></a>
+
 ### 787
 
 *Mel.: Erik Sommer 1981*
@@ -36079,6 +37649,8 @@ lys i det mørke, som kommer fra os.
 
 Johannes Johansen 1981 og 1982.
 
+
+<a id="788"></a>
 
 ### 788
 
@@ -36141,6 +37713,8 @@ Fader og vor Gud!
 Jørgen Michaelsen 1981, 1987 og 1995.
 
 
+<a id="789"></a>
+
 ### 789
 
 *Mel.: Sig månen langsomt hæver*  
@@ -36155,6 +37729,8 @@ som ledet har min fod i dag!
 
 Peter Foersom 1813.
 
+
+<a id="790"></a>
 
 ### 790
 
@@ -36171,6 +37747,8 @@ Hør du os i Jesu navn!
 
 N.F.S. Grundtvig 1813 og 1832.
 
+
+<a id="791"></a>
 
 ### 791
 
