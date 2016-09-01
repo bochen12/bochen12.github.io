@@ -2,6 +2,7 @@
 layout: page
 title: Den Danske Salmebog
 lang: da
+custom_css: em-red
 --- 
 
 
@@ -263,17 +264,6 @@ Lovsange
 ### 001
 
 *Mel: Svensk folkemelodi 1814*  
-```
-Em 2/2
-E  | E  .  B  A  | G  .  F# E  |
-   | G  .  A  A  | B  .  .  .  |
-   | G  G  F# A  | G  .  x  B  |
-   | B  .  G  B  | d  .  B  B  |
-   | A  .  F# G  | A  .  x  A  |
-   | B  B  G  E  | G  .  F# F# |
-   | E  .  E  ||
-```
-
 *A.P. Berggreen 1852*
 
 Guds menighed, syng for vor skaber i løn!  
@@ -18769,7 +18759,6 @@ Johannes Johansen 1980 og 1995.
 Den hellige, almindelige kirke – Kirkens diakoni
 ------------------------------------------------
 
-[– tilbage –](#toc365)
 
 <a id="365"></a>
 
@@ -18821,7 +18810,7 @@ Matt 20,25–28
 Ernst Frithiof Lönegren 1916.  
 Niels Møller 1948.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="366"></a>
 
@@ -18849,7 +18838,7 @@ er vi hos dig, du vor Gud!
 
 Svein Ellingsen 1975. Estrid Hessellund 1987.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="367"></a>
 
@@ -18890,7 +18879,7 @@ tag bolig i vor fattigdom!
 Svein Ellingsen 1975.  
 Peter Balslev-Clausen 1993.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="368"></a>
 
@@ -18927,7 +18916,7 @@ næres af stammen og bærer dens frugt.
 Joh 15,1–11  
 Jørgen Kristensen 1976.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="369"></a>
 
@@ -18979,7 +18968,7 @@ giv os liv og lys, og gør os glade!
 
 Hans Anker Jørgensen 1982.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="370"></a>
 
@@ -19031,7 +19020,7 @@ nådig skjult i evighed.
 
 Lars Busk Sørensen 1986.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="371"></a>
 
@@ -19066,7 +19055,7 @@ at jeg tilhører dig!
 
 Holger Lissner 1977 og 1978.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="372"></a>
 
@@ -19092,7 +19081,7 @@ dit navn, o Gud, til ære!
 Natanael Beskow 1885.  
 Vilhelm Gregersen 1910.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="373"></a>
 
@@ -19116,7 +19105,7 @@ vished, at jeg tjener dig!
 
 Kristian Østergaard 1891.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 <a id="374"></a>
 
@@ -19147,7 +19136,7 @@ for det allerstørste!
 
 Vilh. Gregersen 1895.
 
-[– tilbage –](#toc355)
+[– tilbage –](#toc365)
 
 
 
