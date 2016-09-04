@@ -1,0 +1,14 @@
+---
+layout: post
+custom_js: dvorak
+title: Dvorak Converter
+category: other
+---
+
+<p>This is a simple tool to convert dvorak to qwerty.</p>
+<textarea rows="12" cols="72" id="input"></textarea>
+<br>
+<textarea rows="12" cols="72" id="output"></textarea>
+<br>
+<input type="button" value="D to Q" onClick="document.getElementById('output').value = convertDvorakQwerty( true, document.getElementById('input').value );">
+<input type="button" value="Q to D" onClick="document.getElementById('output').value = convertDvorakQwerty( false, document.getElementById('input').value );">

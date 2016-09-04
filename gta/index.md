@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Det gamle testamente 1
+title: Det gamle testamente (1 Mos – 5 Mos)
 lang: da
 ---
 
 ------------------------------------------------------------------------
 
-[GTa: 1 Mos – 5 Mos](http://bochen.dk/gta/)  
-[GTb: Jos – Est](http://bochen.dk/gtb/)  
-[GTc: Job – Højs](http://bochen.dk/gtc/)  
-[GTd: Es – Mal](http://bochen.dk/gtd/)  
-[NT](http://bochen.dk/nt/)
+[GTb: Jos – Est](http://www.bochen.dk/gtb/)  
+[GTc: Job – Højs](http://www.bochen.dk/gtc/)  
+[GTd: Es – Mal](http://www.bochen.dk/gtd/)  
+[NT](http://www.bochen.dk/nt/)
 
 ------------------------------------------------------------------------
 

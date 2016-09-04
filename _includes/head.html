@@ -24,6 +24,13 @@
     {% endfor %}
   {% endif %}
 
+  <!-- JS -->
+  {% if page.custom_js %}
+    {% for script in page.custom_js %}
+      <script src="{{ site.baseurl }}public/js/{{ script }}.js"></script>
+    {% endfor %}
+  {% endif %}
+
   <!-- Icons -->
   <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
 
