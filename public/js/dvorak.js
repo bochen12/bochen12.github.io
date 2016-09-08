@@ -1,7 +1,7 @@
 function convertDvorakQwerty( bType, strConvert )
 {
-  var qwerty = "-=qwertyuiop[]asdfghjkl;'zxcvbnm,./_+QWERTYUIOP{}ASDFGHJKL:\"ZXCVBNM<>?";
-  var dvorak = "[]',.pyfgcrl/=aoeuidhtns-;qjkxbmwvz{}\"<>PYFGCRL?+AOEUIDHTNS_:QJKXBMWVZ";
+  var qwerty = "qwertyuiopasdfghjklæzxcvbnm,.-QWERTYUIOPASDFGHJKLÆZXCVBNM;:_";
+  var dvorak = "',.pyfgcrlaoeuidhtns;qjkxbmwvz\"<>PYFGCRLAOEUIDHTNS:QJKXBMWVZ";
   var conv = "";
 
   if( bType == true )
