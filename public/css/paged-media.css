@@ -1,0 +1,46 @@
+/* This is a template for publishing html in paged format.
+ * Use with Prince for generating a pdf */
+
+@import 'https://fonts.googleapis.com/css?family=Lato|Roboto+Slab';
+
+
+@page {
+    size: A5;
+    margin: 2cm;
+    font-family: serif;
+    font-size: 10pt;
+    @bottom { content: counter(page) }
+}
+
+body {
+    font-family: "Roboto Slab";
+    font-style: normal;         /* normal or italic */
+    font-weight: normal;        /* normal or bold */
+    font-variant: normal;       /* normal or small-caps */
+    font-size: 12pt;
+    text-align: left;
+}
+
+h1, h2, h3 {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    page-break-after: avoid;
+}
+
+h1 {
+    font-size: 24pt;
+}
+
+h2 {
+    font-size: 20pt;
+}
+
+h3 {
+    font-size: 16pt;
+}
+
+p {
+    line-height: 1.5;
+}
