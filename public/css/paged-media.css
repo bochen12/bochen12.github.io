@@ -1,17 +1,14 @@
 /* This is a template for publishing html in paged format.
  * Use with Prince for generating a pdf */
 
-/* @import 'https://fonts.googleapis.com/css?family=Roboto|Crimson+Text'; */
-
-
 @page {
     size: A5;
     margin-top: 20mm;
     margin-bottom: 20mm;
-    margin-left: 15mm;
-    margin-right: 15mm;
-    font-family: "Crimson Text";
-    font-size: 10pt;
+    margin-left: 20mm;
+    margin-right: 20mm;
+    font-family: "Arno Pro";
+    font-size: 12pt;
     @bottom {
         content: counter(page) " / " counter(pages);
         vertical-align: top;
@@ -19,40 +16,45 @@
 }
 
 body {
-    font-family: "Crimson Text";
+    font-family: "Arno Pro";
     font-style: normal;         /* normal or italic */
     font-weight: normal;        /* normal or bold */
     font-variant: normal;       /* normal or small-caps */
-    font-size: 13pt;
+    font-size: 12pt;
+    line-height: 16pt;
     text-align: left;
 }
 
-h1, h2, h3 {
-    font-family: "Roboto";
+h1, h2, h3, h4, h5, h6 {
+    font-size: 12pt;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
+    line-height: 16pt;
     page-break-after: avoid;
-    margin-top: 2em;
-    margin-bottom: 1em;
+    margin-top: 16pt;
+    margin-bottom: 12pt;
 }
 
 h1 {
-    font-size: 20pt;
+    font-size: 14pt;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
 }
 
 h2 {
-    font-size: 16pt;
+    font-size: 13pt;
+    font-variant: small-caps;
 }
 
 h3 {
-    font-size: 14pt;
+    font-style: italic;
 }
 
 p {
-    line-height: 1.3;
     margin-top: 0;
-    margin-bottom: 0.7em;
+    margin-bottom: 8pt;
 }
 
 .newpage {
