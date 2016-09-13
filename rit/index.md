@@ -3,6 +3,7 @@ layout: page
 custom_css: em-red
 title: Ritualbog 1992
 lang: da
+published: true
 ---
 
 [**Højmesse**](#hjmesseordning)  
@@ -1822,7 +1823,7 @@ og Herren Jesus Kristus.
 
 ### Trosbekendelse
 
-*Efter læsningen kan trosbekendelsen siges, eller trosbekendelsen kan erstatte læsningenp*
+*Efter læsningen kan trosbekendelsen siges, eller trosbekendelsen kan erstatte læsningen.*
 
 ### Prædiken
 
