@@ -1,6 +1,10 @@
 # Permalinks
 permalink:        pretty
 
+# Kramdown settings
+kramdown:
+  hard_wrap: true
+
 # Setup
 title:            www.bochen.dk
 tagline:          just another website
