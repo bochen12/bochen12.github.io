@@ -1,0 +1,36 @@
+filetype plugin indent on       " filetype detection and settings
+syntax on                       " syntax highlighting
+set nocompatible                " not strictly necessary but useful
+set encoding=utf-8              " set encoding
+
+"let g:solarized_termcolors=256  " required for terminal colors
+"set t_Co=256                    " set terminal colors to 256
+"set background=dark             " dark background for solarized
+"set background=light
+"colorscheme solarized           " requires solarized.vim in ~/.vim/colors/
+colorscheme tomorrow-night
+
+set backspace=indent,eol,start  " let the backspace work normally
+set hidden                      " hide unsaved buffers
+set incsearch                   " incremental search rules
+set laststatus=2                " good for consistency
+set ruler                       " show line number in status line
+set number                      " show line number
+set wildmenu                    " better command line completion
+
+set autoindent                  " copies indentation to new line
+set expandtab                   " always use softtabstop
+set shiftwidth=4                " indentation width
+set softtabstop=4               " tab width
+
+set wrap                        " wrap long lines visually
+set linebreak                   " wrap whole words
+noremap <silent> <Up> gk        " move by visual lines
+noremap <silent> <Down> gj
+noremap <silent> k gk
+noremap <silent> j gj
+inoremap <silent> <Up> <C-o>gk
+inoremap <silent> <Down> <C-o>gj
+
+set nrformats-=octal            " no octal number formats
+set formatoptions+=j            " delete comment character when joining lines
