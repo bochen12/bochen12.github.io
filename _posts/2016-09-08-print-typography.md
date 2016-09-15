@@ -2,6 +2,7 @@
 layout: post
 title: Typesetting pdf with html and css
 category: other
+published: true
 ---
 
 This is how I create pdf files from markdown using [Prince](http://www.princexml.com).
@@ -10,4 +11,4 @@ This is how I create pdf files from markdown using [Prince](http://www.princexml
 2. Create custum css-file. Here is [my template](http://www.bochen.dk/public/css/paged-media.css).
 3. Run Prince:
 
-        prince -o paged-media.css file.html
+        prince -s paged-media.css file.html
