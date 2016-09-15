@@ -3,12 +3,7 @@ syntax on                       " syntax highlighting
 set nocompatible                " not strictly necessary but useful
 set encoding=utf-8              " set encoding
 
-"let g:solarized_termcolors=256  " required for terminal colors
-"set t_Co=256                    " set terminal colors to 256
-"set background=dark             " dark background for solarized
-"set background=light
-"colorscheme solarized           " requires solarized.vim in ~/.vim/colors/
-colorscheme tomorrow-night
+colorscheme tomorrow-night		" put theme file in ~/.vim/colors/
 
 set backspace=indent,eol,start  " let the backspace work normally
 set hidden                      " hide unsaved buffers
@@ -34,3 +29,5 @@ inoremap <silent> <Down> <C-o>gj
 
 set nrformats-=octal            " no octal number formats
 set formatoptions+=j            " delete comment character when joining lines
+
+set directory^=$HOME/.vim/tmp// " store swp files in own directory
