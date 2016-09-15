@@ -2,20 +2,21 @@
 layout: post
 title: Checklist for clean os install
 category: tech
+published: true
 ---
 
 ##### Applications
-- System: i3, synaptic, gdebi, dconf-editor, tlp/laptop-mode-tools, lm-sensors
+- System: i3, gdebi, dconf-editor, tlp/laptop-mode-tools
 - Terminal: guake/tilda, ranger
 - Networking: openvpn, network-manager-openvpn-gnome, ufw
 - Web browser: chrome/chromium, firefox
-- Document processing: texlive, xetex, memoir, biber, texlive-fonts-extra, texworks, prince
+- Document processing: texlive, xetex, memoir, biber, texlive-fonts-extra, kramdown, princexml
 - Editor: vim, geany, haroopad, atom, texworks
 - Media: mpv, vlc, livestreamer
 - Programming: ruby (-dev), jekyll, git
 - Gaming: steam, wine-staging [ppa:pipelight/stable], ppsspp [ppa:ppsspp/stable], retroarch [ppa:libretro/stable]
 - Theme: numix [ppa:numix/ppa]
-- Syncing: rclone [golang]
+- Syncing: caja-dropbox, rclone [golang]
 
 ##### Settings
 - xkb: copy [custom layout](http://www.bochen.dk/public/al) to /usr/share/X11/xkb/symbols/
@@ -23,7 +24,7 @@ category: tech
 - org.mate.desktop.media-handling: automount 0, automount-open 0, automount-never 1
 - for ssd: add mount options noatime,discard in /etc/fstab
 - symlink fonts folder
-- copy .bashrc, .vimrc, .vimperatorrc
+- edit .bashrc, [.vimrc](http://www.bochen.dk/public/vimrc)
 - .ac-url-text { color: #6b8e23 !important; } as .mozilla/firefox/\*.default/chrome/userChrome.css
 - download [radio stream list](http://www.bochen.dk/public/radio.m3u)
 - add »alias radio='vlc -I ncurses /path/to/radio.m3u'« to .bashrc
