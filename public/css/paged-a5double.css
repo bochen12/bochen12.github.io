@@ -1,0 +1,61 @@
+/* This is a template for publishing html in paged format.
+ * Use with Prince for generating a pdf */
+
+@page {
+    size: A4 landscape;
+    margin-top: 20mm;
+    margin-bottom: 20mm;
+    margin-left: 20mm;
+    margin-right: 20mm;
+    font-family: "Arno Pro";
+    font-size: 12pt;
+}
+
+body {
+    column-count: 2;
+    column-gap: 40mm;
+    font-family: "Arno Pro";
+    font-style: normal;         /* normal or italic */
+    font-weight: normal;        /* normal or bold */
+    font-variant: normal;       /* normal or small-caps */
+    font-size: 14pt;
+    line-height: 18pt;
+    text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 14pt;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 18pt;
+    page-break-after: avoid;
+    margin-top: 36pt;
+    margin-bottom: 18pt;
+}
+
+h1 {
+    font-size: 15pt;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    font-size: 15pt;
+    font-variant: small-caps;
+}
+
+h3 {
+    font-style: italic;
+    margin-top: 18pt;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 9pt;
+}
+
+.newpage {
+    column-break-before: always;
+}
