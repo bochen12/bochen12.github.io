@@ -3,7 +3,9 @@ layout: page
 title: Den Danske Salmebog
 lang: da
 custom_css: em-red
---- 
+published: true
+---
+ 
 
 
 
@@ -17367,7 +17369,7 @@ Jesu Kristi kirke,
 lemmerne er mange, kroppen er én,  
 vi er ét i ham!
 
-2 Kor 12  
+1 Kor 12  
 Anders Frostenson 1972 og 1986.  
 Henrik E. Frederiksen 1985 og 1993.
 
