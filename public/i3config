@@ -52,6 +52,7 @@ bindsym $mod+Ctrl+m exec pavucontrol
 
 # Start Applications
 bindsym $mod+w exec chromium
+bindsym $mod+Shift+w exec chromium --incognito
 
 # focus_follows_mouse no
 
@@ -314,4 +315,3 @@ exec --no-startup-id redshift-gtk
 
 exec --no-startup-id setxkbmap -option "caps:backspace"
 exec --no-startup-id xmodmap -e 'clear Lock'
-
