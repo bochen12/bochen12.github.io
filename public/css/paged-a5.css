@@ -11,7 +11,7 @@
     font-size: 12pt;
     @bottom {
         content: counter(page) " / " counter(pages);
-        vertical-align: top;
+        margin-bottom: 10mm;
     }
 }
 
