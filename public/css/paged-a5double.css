@@ -9,6 +9,19 @@
     margin-right: 20mm;
     font-family: "Arno Pro";
     font-size: 12pt;
+    @bottom-left {
+        content: counter(page) "a";
+        margin-bottom: 10mm;
+        text-align: center;
+    }
+    @bottom-right {
+        content: counter(page) "b";
+        margin-bottom: 10mm;
+        text-align: center;
+    }
+    @bottom-center {
+        width: 40mm;            /* equals column-gap */
+    }
 }
 
 body {
