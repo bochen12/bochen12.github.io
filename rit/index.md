@@ -1507,7 +1507,7 @@ Og med din ånd! &nbsp;&nbsp;&nbsp;*eller:* Og Herren være med dig!
 
 *Præsten siger:*  
 Lad os alle bede!  
-**Præsten læser derefter én af de følgende bønner:**
+*Præsten læser derefter én af de følgende bønner:*
 
 Almægtige, evige Gud,  
 barmhjertighedens Fader, og al trøsts Gud,  
