@@ -1596,9 +1596,9 @@ Es 53,8-11 / Es 55,8-11
 
 *Fra Det Nye Testamente:*  
 Matt 28,1-10 / Mark 16,1-8  
-Luk 7,11-16 / Luk 12, 36-37 / Luk 24,1-6  
+Luk 7,11-16 / Luk 12,36-37 / Luk 24,1-6  
 Joh 3,16 / Joh 5,24-25 / Joh 11,25-26a / Joh 14,1-6  
-Rom 6,3-5 / Rom 8,31b-32 / Rom 8,38-39 / Rom 14, 7-9  
+Rom 6,3-5 / Rom 8,31b-32 / Rom 8,38-39 / Rom 14,7-9  
 1 Kor 15,20-22 / 1 Kor 15,54-57 / 2 Kor 5,1-8 / Fil 2,5-11  
 Hebr 3,7-8 / Hebr 9,27-28 / Åb 21,3-5a
 
