@@ -1303,9 +1303,9 @@ Og med din ånd! &nbsp;&nbsp;&nbsp;*eller*: Og Herren være med dig!
 
 *Hilsenen kan undlades, eller præsten kan sige:*
 Vor Herre Jesu Kristi nåde
-Og Guds kærlighed
-Og Helligåndens fællesskab
-Være med jer alle!
+og Guds kærlighed
+og Helligåndens fællesskab
+være med jer alle!
 
 ### Indledende bøn og læsning
 
