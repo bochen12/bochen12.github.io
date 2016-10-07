@@ -1349,9 +1349,9 @@ i hvad lykke Gud den almægtige vil tilskikke jer,
 som en ægtemand bør leve med sin ægtehustru,
 indtil døden skiller jer ad? — Ja!
 
-Ligeså tilspørger jeg dig (brudens navn):
+Ligeså tilspørger jeg dig N.N. (brudens navn):
 Vil du have N.N. (brudgommens navn),
-Som hos dig står, til din ægtemand? — Ja!
+som hos dig står, til din ægtemand? — Ja!
 Vil du elske og ære ham,
 og leve med ham både i medgang og modgang,
 i hvad lykke Gud den almægtige vil tilskikke jer,
@@ -1430,20 +1430,20 @@ hvor du med Søn og Helligånd lever og regerer,
 
 Herre, vor Gud, himmelske Fader!
 Vi takker dig for ægteskabet,
-Og vi beder dig:
+og vi beder dig:
 Vær med din nåde hos dem,
-Der i dag har indgået ægteskab,
+der i dag har indgået ægteskab,
 og giv din velsignelse til,
 at de kan leve med hinanden i gudsfrygt og kærlighed
 og ikke give årsag til vrede og strid.
 Lad dem altid,
-Også selvom de ikke bliver fri for prøvelser,
+også selv om de ikke bliver fri for prøvelser,
 erfare din nådige hjælp!
 Giv dem og os alle at leve vort liv her på jorden
-I tro og lydighed
-Og blive til evig tid salige
-Ved din elskede Søn, Jesus Kristus, vor Herre,
-som med dig lever og regerer i Helligåndens enhed,
+i tro og lydighed
+og blive til evig tid salige
+ved din elskede Søn, Jesus Kristus, vor Herre,
+som med dig lever og regerer i Helligånds enhed,
 én sand Gud fra evighed og til evighed.
 
 *Menigheden svarer:*
@@ -1451,9 +1451,9 @@ Amen.
 
 ### Velsignelse
 
-Præsten siger eller messer:
+*Præsten siger eller messer:*
 Herren være med jer!
-Menigheden svarer:
+*Menigheden svarer:*
 Og med din ånd! &nbsp;&nbsp;&nbsp;*eller:* Og Herren være med dig!
 
 *Hilsenen kan udelades eller anvendes forud for slutningskollekten.*
