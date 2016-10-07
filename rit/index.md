@@ -1223,7 +1223,7 @@ så din glæde må leve i dem. Amen.
 
 *Med navns nævnelse spørger præsten hver enkelt konfirmand, og denne svarer ja til hvert spørgsmål:*  
 N.N. Forsager du Djævelen og alle hans gerninger og alt hans væsen? — Ja!  
-Tror du på Gud Fader, den Almægtige, og på Jesus Kristus, hans enbårne Søn, og på Helligånden? — JA!
+Tror du på Gud Fader, den Almægtige, og på Jesus Kristus, hans enbårne Søn, og på Helligånden? — Ja!
 
 *Eller præsten spørger med navn nævnelse hver enkelt konfirmand:*  
 N.N. Vil du konfirmeres i den kristne tro?  
@@ -1323,8 +1323,7 @@ som med dig lever og regerer i Helligånds enhed,
 
 *Præsten fortsætter:*  
 Således står der skrevet:  
-Da Gud havde skabt himlen og jorden, havet, solen, månen og stjernerne, planterne og dyrene sagde han: ”Lad os skabe mennesker i vort billede, så de ligner os! De skal herske over havets fisk, himlens fugle, kvæget, alle de vilde dyr og alle krybdyr, der kryber på jorden.” Gud skabte mennesket i sit billede; i Guds billede skabte han det, som mand og kvinde skabte han dem. Og Gud
-velsignede dem.
+Da Gud havde skabt himlen og jorden, havet, solen, månen og stjernerne, planterne og dyrene sagde han: ”Lad os skabe mennesker i vort billede, så de ligner os! De skal herske over havets fisk, himlens fugle, kvæget, alle de vilde dyr og alle krybdyr, der kryber på jorden.” Gud skabte mennesket i sit billede; i Guds billede skabte han det, som mand og kvinde skabte han dem. Og Gud velsignede dem.
 
 Og vor Herre Jesus Kristus siger:  
 Har I ikke læst, at Skaberen fra begyndelsen skabte dem som mand og kvinde og sagde: ”Derfor skal en mand forlade sin far og mor og binde sig til sin hustru, og de skal blive ét kød”? Derfor er de ikke længere to, men ét kød. Hvad Gud altså har sammenføjet, må et menneske ikke adskille.
