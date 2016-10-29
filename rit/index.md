@@ -589,7 +589,7 @@ så vi af hjertet tror dit ord
 og gennem dåben og nadveren styrkes i troen
 fra dag til dag,
 indtil vi bliver til evig tid salige
-ved sin Søn, Jesus Kristus, vor Herre
+ved din Søn, Jesus Kristus, vor Herre
 som med dig lever og regerer i Helligånds enhed,
 én sand Gud fra evighed og til evighed.
 
