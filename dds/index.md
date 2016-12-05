@@ -1715,7 +1715,7 @@ K.L. Aastrup 1935.
 
 ### 028
 
-Mel.: Jens W. Pedersen 1988
+*Mel.: Jens W. Pedersen 1988*
 
 De dybeste lag i mit hjerte  
 er længsel, umålelig stor.  
