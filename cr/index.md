@@ -9,3 +9,4 @@ title: Clash Royale Decks
 
 [archers]: archers.png
 [arrows]: arrows.png
+{: width="30px" }
