@@ -761,7 +761,7 @@ i Faderens og Sønnens og Helligåndens navn.
 *Barnet – dersom der er flere børn, hvert barn for sig – bæres hen til døbefonten. Ved dåb af voksne træder den, der skal døbes, selv hen til døbefonten. Præsten tegner derefter med hånden kors for ansigtet og brystet af den, der skal døbes, og siger:*
 
 Modtag det hellige korses tegn
-Både for dit ansigt og for dit bryst,
+både for dit ansigt og for dit bryst,
 til et vidnesbyrd om,
 at du skal tilhøre
 den korsfæstede Herre Jesus Kristus.
@@ -777,7 +777,7 @@ Tror du på Gud Fader, den Almægtige, himlens og jordens skaber? — Ja!
   &nbsp;&nbsp;&nbsp;
 Tror du på Jesus Kristus, hans enbårne Søn, vor Herre, som er undfanget ved Helligånden, født af Jomfru Maria, pint under Pontius Pilatus, korsfæstet, død og begravet, nedfaret til dødsriget, på tredje dag opstanden fra de døde, opfaret til himmels, siddende ved Gud Faders, den Almægtiges, højre hånd, hvorfra han skal komme at dømme levende og døde? — Ja!
   &nbsp;&nbsp;&nbsp;
-Tror du på Helligånden, den hellige, almindelige kirke, de helliges samfund, syndernes forladelse og det evige liv? — Ja!
+Tror du på Helligånden, den hellige, almindelige kirke, de helliges samfund, syndernes forladelse, kødets opstandelse og det evige liv? — Ja!
   &nbsp;&nbsp;&nbsp;
 Vil du døbes på denne tro? — Ja!
 
@@ -785,7 +785,7 @@ Vil du døbes på denne tro? — Ja!
 
 *Præsten øser vand tre gange på hovedet af den, der skal døbes, og siger:*
 N.N. Jeg døber dig
-I Faderens og Sønnens og Helligåndens navn. Amen.
+i Faderens og Sønnens og Helligåndens navn. Amen.
 
 *Præsten lægger hånden på den døbtes hoved og siger:*
 Den almægtige Gud, vor Herre Jesu Kristi Fader,
@@ -833,10 +833,10 @@ Vi takker dig af hjertens grund,
 fordi du har ladet os komme til den nådefulde dåb,
 hvori du skænkede os syndernes forladelse,
 Helligånden og det evige liv
-For din Søns, Jesu Kristi, skyld.
+for din Søns, Jesu Kristi, skyld.
 Vi beder dig:
 Bevar os i troen,
-Så at vi aldrig tvivler om denne din gave,
+så at vi aldrig tvivler om denne din gave,
 og styrk os ved din Helligånd
 til at stride mod synden og blive i vor dåbs nåde,
 indtil vi bliver til evig tid salige,
@@ -868,7 +868,7 @@ Herre Jesus, tag i nåde mod dette barn!
 
 *Der øses vand tre gange på barnets hoved, mens man siger:*
 N.N. Jeg døber dig
-I Fadderens og Sønnens og Helligåndens navn. Amen.
+i Fadderens og Sønnens og Helligåndens navn. Amen.
 
 *(Med håndspålæggelse:)*
 Den almægtige Gud, vor Herre Jesu Kristi Fader,
