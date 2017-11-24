@@ -6029,7 +6029,7 @@ Thomas Kingo 1689.
 
 ### 114
 
-Mel.: Johann Crüger 1653
+*Mel.: Johann Crüger 1653*
 
 Hjerte, løft din glædes vinger!  
 Over muld  
