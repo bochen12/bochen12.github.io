@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hymns in English
-lang: en
 custom_css: em-red
 pulished: true
 ---
@@ -71,8 +70,6 @@ Contents
 
 ### 2
 
-*Tune: Stralsund 1665*
-
 Praise to the Lord, the Almighty, the King of creation!  
 O my soul, praise Him, for He is thy health and salvation!  
 All ye who hear,  
@@ -103,23 +100,118 @@ Let the Amen
 Sound from His people again,  
 Gladly for aye we adore Him.
 
-Joachim Neander 1679.  
-Trans.: Catherine Winkworth 1863.
+*Catherine Winkworth 1863.*
 
 <a id="7"></a>
 
 ### 7
 
+Lord, our God, Your precious name and glory  
+through the world shall sound in song and story;  
+and every people in bondage yearning  
+shall raise their voices, to You returning  
+their praises.
 
-<a id=""></a>
+God is God, though every land should vanish,  
+God is God, though every man should perish;  
+though generations like stardust streaming  
+should fade away, heav'n with new life teeming  
+is fruitful.
 
-### 
+Highest hill to deepest dale shall tumble,  
+earth and heavens shall to nothing crumble;  
+though every fell-side and summit vanish,  
+yet like the sunrise God shall establish  
+His kingdom.
 
+*Edward Broadbridge 2009.*
 
+<a id="15"></a>
 
-<a id=""></a>
+### 15
 
-### 
+Rise up, all things that God has made,  
+and to His name sing praises!  
+The least in glory is arrayed,  
+and with His might amazes!
+
+Were all the kings on earth to show  
+their greatest pomp and power,  
+the smallest leaf they could not grow,  
+nor graft it on a flower.
+
+The smallest blade of grass or grain  
+in wood and dale I ponder:  
+From where should I the wisdom gain  
+to name them with due wonder?
+
+What shall I say each time I see  
+the woods with life so swarming,  
+the many birds all flying free  
+for heav'n's delight performing?
+
+What shall I say when, as I go  
+mid meadow flowers swaying,
+and countless birds sing out as though  
+a thousand harps are playing?
+
+Where shall I fasten my mind's eye,  
+as over oceans skimming  
+I peer below but only spy  
+how many mounths come swimming?
+
+How shall I praise the evening sky,  
+the many stars there blinking,  
+that gently smile into my eye  
+while up to heaven winking?
+
+What shall I say, when up I rise  
+to God in spirit winging,  
+where hosts of angels in the skies  
+His heav'nly praise are singing?
+
+What shall I say then? My own praise  
+can never tell a story  
+to match the wisdom of Your ways,  
+Your kingdom, pow'r and glory.
+
+Arise, all people, and create  
+a song of joy resounding:  
+Alleluiá, our God is great!  
+Hear heav'n's Amen rebounding!
+
+*Edward Broadbridge 2009.*
+
+<a id="26"></a>
+
+### 26
+
+Nearer, my God, to Thee,  
+Nearer to Thee!  
+E'en though it be a cross  
+that raiseth me.  
+Still all my song shall be,  
+nearer, my God, to Thee,  
+nearer, my God, to Thee,  
+nearer to Thee!
+
+Though like the wanderer,  
+the sun goes down,  
+dearkness be over me,  
+my rest a stone.  
+Yet in my dreams I'd be  
+nearer, my God, to Thee,  
+nearer, my God, to Thee,  
+nearer to Thee!
+
+There let the way appear,  
+steps unto Heav'n;  
+all that Thou sendest me,  
+in mercy given;  
+angels to beckon me  
+nearer, my God, to Thee,  
+nearer, my God, to Thee,  
+nearer to Thee!
 
 <a id=""></a>
 
