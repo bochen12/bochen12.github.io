@@ -10,7 +10,7 @@ Contents
 
 * [2 Praise to the Lord, the Almighty, the King of creation (Lover den Herre)](#2)
 * [7 Lord, our God, Your precious name and glory (Herre Gud, dit dyre navn)](#7)
-* [11 (Nu takker alle Gud)](#11)
+* [11 Now thank we all our God (Nu takker alle Gud)](#11)
 * [15 (Op al den ting)](#15)
 * [26 (Nærmere, Gud, til dig)](#26)
 * [31 (Til himlene rækker)](#31)
@@ -100,7 +100,7 @@ Let the Amen
 Sound from His people again,  
 Gladly for aye we adore Him.
 
-*Catherine Winkworth 1863.*
+*Trans.: Catherine Winkworth 1863.*
 
 <a id="7"></a>
 
@@ -124,7 +124,40 @@ though every fell-side and summit vanish,
 yet like the sunrise God shall establish  
 His kingdom.
 
-*Edward Broadbridge 2009.*
+*Trans.: Edward Broadbridge 2009.*
+
+<a id="11"></a>
+
+### 11
+
+Now thank we all our God,  
+with heart and hands and voices,  
+Who wondrous things has done,  
+in Whom this world rejoices;  
+Who from our mothers' arms  
+has blessed us on our way  
+with countless gifts of love,  
+and still is ours today.
+
+O may this bounteous God  
+through all our life be near us,  
+With ever joyful hearts  
+and blesséd peace to cheer us;  
+And keep us in His grace,  
+and guide us when perplexed;  
+And free us from all ills,  
+in this world and the next!
+
+All praise and thanks to God  
+the Father now be given;  
+The Son and Him Who reigns  
+with Them in highest Heaven;  
+The one eternal God,  
+whom earth and Heaven adore;  
+For thus it was, is now,  
+and shall be evermore.
+
+*Trans.: Catherine Winkworth 1856*
 
 <a id="15"></a>
 
@@ -180,7 +213,7 @@ a song of joy resounding:
 Alleluiá, our God is great!  
 Hear heav'n's Amen rebounding!
 
-*Edward Broadbridge 2009.*
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="26"></a>
 
@@ -213,19 +246,57 @@ nearer, my God, to Thee,
 nearer, my God, to Thee,  
 nearer to Thee!
 
-<a id=""></a>
+Then, with my waking thoughts  
+bright with Thy praise,  
+out of my stony griefs  
+Bethel I'11 raise;  
+so by my woes to be  
+nearer, my God, to Thee,  
+nearer, my God, to The,  
+nearer to Thee!
 
-### 
+There in my Father's home,  
+safe and at rest,  
+there in my Saviour's love,  
+perfectly blest;  
+age after age to be  
+nearer, my God, to Thee,  
+nearer, my God, to Thee,  
+nearer to Thee!
 
+*Sarah Adams 1841.*  
+*Henry Ussing 1881*
 
-<a id=""></a>
+<a id="31"></a>
 
-### 
+### 31
 
+Your mercy, O God, fills the heavens above,  
+Your fathfulness springs like a fountain,  
+Your righteous hand with eternal love  
+is stretched over city and mountain.
 
-<a id=""></a>
+Your kindness, O God, is as heaven's embrace,  
+Your judgements life's deepest foundation.  
+All souls you save by Your wonderful grace,  
+You heed the deep sigh of creation.
 
-### 
+How precious, O God, is the mercy You shed,  
+wherever Your children are living.  
+In darkness the wing of Your love is outspread,  
+we hide in the shade it is giving.
+
+You quench in the desert our soul-searing thirst,  
+You rescue the dove when forsaken.  
+In You for ever our life is immersed,  
+to light in Your light we awaken.
+
+*Trans.: Edward Broadbridge 2009.*
+
+<a id="36"></a>
+
+### 36
+
 
 
 <a id=""></a>
