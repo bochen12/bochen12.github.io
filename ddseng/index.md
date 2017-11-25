@@ -73,37 +73,37 @@ Contents
 
 *Tune: Stralsund 1665*
 
-Praise to the Lord, the Almighty, the King of creation!
-O my soul, praise Him, for He is thy health and salvation!
-All ye who hear,
-Now to His temple draw near;
+Praise to the Lord, the Almighty, the King of creation!  
+O my soul, praise Him, for He is thy health and salvation!  
+All ye who hear,  
+Now to His temple draw near;  
 Praise Him in glad adoration.
 
-Praise to the Lord, who o'er all things so wondrously reigneth,
-Shelters thee under His wings, yea, so gently sustaineth!
-Hast thou not seen
-How thy heart's wishes have been
+Praise to the Lord, who o'er all things so wondrously reigneth,  
+Shelters thee under His wings, yea, so gently sustaineth!  
+Hast thou not seen  
+How thy heart's wishes have been  
 Granted in what He ordaineth?
 
-Praise to the Lord, who hath fearfully, wondrously, made thee;
-Health hath vouchsafed and, when heedlessly falling, hath stayed thee.
-What need or grief
-Ever hath failed of relief?
+Praise to the Lord, who hath fearfully, wondrously, made thee;  
+Health hath vouchsafed and, when heedlessly falling, hath stayed thee.  
+What need or grief  
+Ever hath failed of relief?  
 Wings of His mercy did shade thee.
 
-Praise to the Lord, who doth prosper thy work and defend thee;
-Surely His goodness and mercy shall daily attend thee.
-Ponder anew
-What the Almighty can do,
+Praise to the Lord, who doth prosper thy work and defend thee;  
+Surely His goodness and mercy shall daily attend thee.  
+Ponder anew  
+What the Almighty can do,  
 If with His love He befriend thee.
 
-Praise to the Lord, O let all that is in me adore Him!
-All that hath life and breath come now with praises before Him.
-Let the Amen
-Sound from His people again,
+Praise to the Lord, O let all that is in me adore Him!  
+All that hath life and breath come now with praises before Him.  
+Let the Amen  
+Sound from His people again,  
 Gladly for aye we adore Him.
 
-Joachim Neander 1679.
+Joachim Neander 1679.  
 Trans.: Catherine Winkworth 1863.
 
 <a id="7"></a>
