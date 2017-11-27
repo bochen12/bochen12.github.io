@@ -11,60 +11,60 @@ Contents
 * [2 Praise to the Lord, the Almighty, the King of creation (Lover den Herre)](#2)
 * [7 Lord, our God, Your precious name and glory (Herre Gud, dit dyre navn)](#7)
 * [11 Now thank we all our God (Nu takker alle Gud)](#11)
-* [15 (Op al den ting)](#15)
-* [26 (Nærmere, Gud, til dig)](#26)
-* [31 (Til himlene rækker)](#31)
-* [36 (Befal du dine veje)](#36)
-* [46 (Sorrig og glæde)](#46)
-* [52 (Du, Herre Krist)](#52)
-* [74 (Vær velkommen)](#74)
-* [78 (Blomstre som en rosengård)](#78)
-* [104 A child is born (Et barn er født)](#104)
-* [119 (Julen har bragt)](#119)
-* [120 (Glade jul)](#120)
-* [121 (Dejlig er jorden)](#121)
-* [136 (Dejlig er den himmel blå)](#136)
-* [192 (Hil dig, Frelser)](#192)
-* [218 (Krist stod op)](#218)
-* [224 (Stat op, min sjæl)](#224)
-* [236 (Påskeblomst)](#236)
-* [260 (Du satte dig selv)](#260)
-* [289 (Nu bede vi den Helligånd)](#)
-* [290 (I al sin glans)](#290)
-* [292 (Kærlighed og sandheds Ånd)](#292)
-* [321 (O kristelighed)](#321)
-* [335 (Flammerne er mange)](#335)
-* [336 (Vor Gud han er så fast)](#336)
-* [402 (Den signede dag)](#402)
-* [403 (Denne er dagen)](#403)
-* [439 (O du Guds Lam)](#439)
-* [441 All my living well-springs (Alle mine kilder)](#441)
-* [447 (Herren strækker ud sin arm)](#447)
-* [448 (Fyldt af glæde)](#448)
-* [478 (Vi kommer til din kirke)](#478)
-* [487 (Nu fryde sig)](#487)
-* [541 Abide with me (Vær du mig nær)](#541)
-* [551 (Der er en vej)](#551)
-* [613 (Herre, du vandrer forsoningens vej)](#613)
-* [636 (Midt i alt det meningsløse)](#636)
-* [674 (Sov sødt, barnlille)](#674)
-* [700 (Jeg ved en blomst)](#700)
-* [703 (Det er så yndigt)](#703)
-* [706 (I blev skabt)](#706)
-* [712 (Vær velkommen)](#712)
-* [722 (Nu blomstertiden kommer)](#722)
-* [725 (Det dufter lysegrønt)](#725)
-* [728 (Du gav mig, o Herre)](#728)
-* [729 (Nu falmer skoven)](#729)
-* [743 (Nu rinder solen op)](#743)
-* [747 (Lysets engel)](#747)
-* [749 (I østen stiger)](#749)
-* [750 (Nu titte til hinanden)](#750)
-* [754 (Se, nu stiger solen)](#754)
-* [769 (Sig månen langsomt hæver)](#769)
+* [15 Rise up, all things that God has made (Op al den ting)](#15)
+* [26 Nearer, my God, to Thee (Nærmere, Gud, til dig)](#26)
+* [31 Your mercy, O God, fills the heavens above (Til himlene rækker)](#31)
+* [36 Entrust your ways and grieving (Befal du dine veje)](#36)
+* [46 Sadness and joyfulness (Sorrig og glæde)](#46)
+* [52 Lord Jesus Christ (Du, Herre Krist)](#52)
+* [74 Welcome, New Year of our Lord (Vær velkommen)](#74)
+* [78 Then the wilderness shall bloom (Blomstre som en rosengård)](#78)
+* [104 A child is born in Bethlehem (Et barn er født)](#104)
+* [119 Christmas has brought a message blessed (Julen har bragt)](#119)
+* [120 Silent night, holy night (Glade jul)](#120)
+* [121 Beautiful is the earth (Dejlig er jorden)](#121)
+* [136 Lovely is the midnight sky (Dejlig er den himmel blå)](#136)
+* [192 Hail, our reconciling Saviour (Hil dig, Frelser)](#192)
+* [218 Christ is risen from the dead (Krist stod op)](#218)
+* [224 Rise up, my soul, it is the dawn (Stat op, min sjæl)](#224)
+* [236 Easter flow'r, now what on earth (Påskeblomst)](#236)
+* [260 You set Yourself down in the lowest ones' fare (Du satte dig selv)](#260)
+* [289 O Holy Spirit, let us pray (Nu bede vi den Helligånd)](#)
+* [290 The sun now shines in all its splendour (I al sin glans)](#290)
+* [292 Spirit of all truth and love (Kærlighed og sandheds Ånd)](#292)
+* [321 O life lived in Christ (O kristelighed)](#321)
+* [335 Many are the light beams (Flammerne er mange)](#335)
+* [336 A mighty fortress is our God (Vor Gud han er så fast)](#336)
+* [402 We welcome with joy this blesséd day (Den signede dag)](#402)
+* [403 This is the day the Lord Jesus has giv'n (Denne er dagen)](#403)
+* [439 O Lamb of God (O du Guds Lam)](#439)
+* [441 All my living well-springs in You shall begin (Alle mine kilder)](#441)
+* [447 See, His arms are open wide (Herren strækker ud sin arm)](#447)
+* [448 Filled with gladness we are lost in wonder (Fyldt af glæde)](#448)
+* [478 Dear Lord, we come to church and find (Vi kommer til din kirke)](#478)
+* [487 Let ev'ry Christian man rejoice (Nu fryde sig)](#487)
+* [541 Abide with me, fast falls the eventide (Vær du mig nær)](#541)
+* [551 There is a path (Der er en vej)](#551)
+* [613 Jesus, the road of atonement You tread (Herre, du vandrer forsoningens vej)](#613)
+* [636 In the midst of pointless suff'ring (Midt i alt det meningsløse)](#636)
+* [674 Dear child, sleep sweetly (Sov sødt, barnlille)](#674)
+* [700 I know a flow'r so sweet and fine (Jeg ved en blomst)](#700)
+* [703 How sweet to travel the road ahead (Det er så yndigt)](#703)
+* [706 Man and woman with His Spirit (I blev skabt)](#706)
+* [712 Welcome, New Year of our Lord (Vær velkommen)](#712)
+* [722 Now spring bursts forth in flowers (Nu blomstertiden kommer)](#722)
+* [725 The scent of grass pervades the air (Det dufter lysegrønt)](#725)
+* [728 You gave me, dear Father, a plot I could tread (Du gav mig, o Herre)](#728)
+* [729 The forest leaves are fading fast (Nu falmer skoven)](#729)
+* [743 Far in the east the morning sun ascending (Nu rinder solen op)](#743)
+* [747 Angel of God's radiant light (Lysets engel)](#747)
+* [749 The sun is rising in the east (I østen stiger)](#749)
+* [750 Now all the pretty flowers to one another peep (Nu titte til hinanden)](#750)
+* [754 See the sun arise from the ocean's flow (Se, nu stiger solen)](#754)
+* [769 The moon is slowly climbing (Sig månen langsomt hæver)](#769)
 * [784 Always dauntless when you tread (Altid frejdig)](#784)
-* [785 (Tunge, mørke natteskyer)](#785)
-* [787 (Du, som har tændt)](#787)
+* [785 Heavy clouds draw through the skies (Tunge, mørke natteskyer)](#785)
+* [787 You who have lit all the stars in the heavens (Du, som har tændt)](#787)
 
 <a id="2"></a>
 
@@ -297,41 +297,352 @@ to light in Your light we awaken.
 
 ### 36
 
+Entrust your ways and grieving  
+to God who dwells on high,  
+in His fond care believing,  
+whose help is always night.  
+He calms the stormy ocean  
+and binds the restless wave;  
+a pathway He will open,  
+your foot from stumbling save.
 
+Revere your Lord and Saviour,  
+then nothing shall you need;  
+regard His works with favour,  
+if yours are to succeed.  
+Your cares and self-made blindness  
+no purpose can achieve,  
+but through His loving-kindness  
+all things you can receive.
 
-<a id=""></a>
+With mercy never-ending  
+You see our mortal plight,  
+the harm and good attending  
+our every day and night.  
+Within Your vision single  
+all happens by Your will,  
+and all things intermingle  
+Your purpose to fulfil.
 
-### 
+Your ways with us are legion,  
+all means are at Your call;  
+You spread through every region  
+Your light and grace to all;  
+Your labours are unresting:  
+Your step cannot be checked,  
+when You to us come hasting  
+to help and to direct.
 
+Though Hell seeks to devour,  
+to challenge and withstand,  
+You treat with scorn its power  
+and will not stay Your hand.  
+When lightning heav'n traverses,  
+who can Your pow'r contest?  
+Or who make bold with curses  
+on that which You have blessed?
 
-<a id=""></a>
+So cast all care and sorrow  
+upon His mighty aid,  
+and take heart for the morrow,  
+undaunted, undismayed.  
+Do not in pride endeavour  
+the future to foretell.  
+Does God not rule for ever  
+and order all things well?
 
-### 
+*Trans.: Edward Broadbridge 2009.*
 
+<a id="46"></a>
 
-<a id=""></a>
+### 46
 
-### 
+Sadness and joyfulness travel together,  
+fortune and hardship keep pace side by side;  
+pleasure and trouble are two kinds of weather,  
+sunshine and rainclouds alternately bide.  
+Though earthly gold  
+brings wealth untold.  
+Heaven alone will true blessings unfold.
 
+Kings may bear sceptres with diamonds unnumbered,  
+but such regalia are not just show.  
+Sceptres and crowns are by charges encumbered,  
+thousandfold duties they cannot forego.  
+Kings so possessed  
+bear deep unrest.  
+Heaven alone ensures mortals are blessed.
 
-<a id=""></a>
+Fortune on earth is inconstantly flowing,  
+all in their hearts can know sadness and woe.  
+Within the breast on which jewels are glowing  
+often a sadness or hatred can grow.  
+Burdens have all,  
+crushing or small.  
+Heaven leaves no-one to sadness in thrall.
 
-### 
+Wisdom and honour and earthly dominion,  
+power and strength in the fresh bloom of youth;  
+though they are valued in worldly opinion  
+all shall decline and in time meet the truth.  
+Earlthly allure  
+is not secure.  
+Heaven's salvation alone shall endure.
 
+Sharpest are thorns beneath loveliest roses,  
+fairest of flowers can poison and kill;  
+under a rosy cheek false the heart's poses,  
+fate is capricious, it changes at will!  
+Wretched our state,  
+bearing such weight.  
+Heaven alone can our bliss recreate.
 
-<a id=""></a>
+Fear shall give birth to a joy that is lasting,  
+comfort be won from the hardest defeat;  
+poverty robed in rich garments contrasting,  
+weakness shall stand on teh firmest of feet,  
+envy and doubt  
+be put to rout.  
+Heaven alone can bring all this about.
 
-### 
+So let my lot and my fortune transpire  
+just as my God and my Lord may decide;  
+envy may vent all its spire and its ire,  
+all earthly trickery I shall deride!  
+Sadness shall die,  
+joy multiply,  
+flow'ring in Heaven's bright country on high!
 
+*Trans.: Edward Broadbridge 2009.*
 
-<a id=""></a>
+<a id="52"></a>
 
-### 
+### 52
 
+Lord Jesus Christ,  
+my Saviour blessed,  
+my sole and sure salvation;  
+O stay with me,  
+eternally,  
+Your love shall be  
+my hope and inspiration.
 
-<a id=""></a>
+In my concern  
+alone I turn  
+to You, Lord, in my blindness;  
+Be my relief  
+in times of grief,  
+on my belief  
+pour down Your loving-kindness!
 
-### 
+When sadness weighs,  
+on You I gaze,  
+my heart no longer saddens.  
+What need I fear,  
+when You are near?  
+O Saviour dear,  
+Your solace my heart gladdens!
+
+My place shall be  
+where You set me,  
+there may I service render;  
+I turn my face  
+towards Your grace,  
+in Your embrace  
+I rest in mercy tender.
+
+So by my side  
+You will abide,  
+and You will never leave me;  
+you gave Your word,  
+my call is heard,  
+Your help conferred  
+and nothing now shall grieve me.
+
+Then help us, Lord,  
+with one accord  
+to live Your word; we are then  
+by love impressed,  
+for ever blessed,  
+by Heav'n possessed  
+Your joy to cherish, Amen!
+
+*Trans.: Edward Broadbridge 2009.*
+
+<a id="74"></a>
+
+### 74
+
+Welcome, New Year of our Lord,  
+you are welcome on earth!  
+Christmas night, when our Saviour was born,  
+then light split the darkness and brought the morn.  
+We greet you, New Year, you are welcome here!
+
+Welcome, New Year of our Lord,  
+you are welcome on earth!  
+Easter born, when He rose from the cave,  
+then God's tree of life put down root in the grave.  
+We greet you, New Year, you are welcome here!
+
+Welcome, New Year of our Lord,  
+you are welcome on earth!  
+Pentecost saw God's Spirit descend,  
+our weakness with heavenly power to befriend.  
+We greet you, New Year, you are welcome here!
+
+Welcome, New Year of our Lord,  
+you are welcome on earth!  
+Full of grace, may this year of the Lord  
+bring joy to us daily in Christ restored.  
+We greet you, New Year, you are welcome here!
+
+*Trans.: Edward Broadbridge 2009.*
+
+<a id="78"></a>
+
+### 78
+
+Then the wilderness shall bloom  
+like a rosy bower!  
+Fragrant airs the year perfume  
+with their healing power!  
+Birds shall sing and water flow,  
+Lebanon and Carmel glow,  
+Sharon's twofold glory.
+
+Weary hands in joy shall rise,  
+trembling knees grow steady,  
+trees long dead with leaf surprise,  
+every eye be ready,  
+courage shall be reinforced,  
+restless blood more calmly course,  
+fear and sorrow vanish!
+
+See, He comes, Immanuel!  
+Faith has found God's favour.  
+Satan's power He shall expel,  
+as his people's Saviour.  
+He all debt aside has brushed,  
+see, His Enemy is crushed!  
+Double grace His people gain.
+
+Sight is given to the blind:  
+see, His touch amazes.  
+Ears by deafness once confined  
+now hear joyous praises!  
+Like a hart the lame shall bound,  
+they who stammered all confound,  
+raising clear their voices.
+
+Thus Isaiah prophesied  
+in divine elation.  
+Ages passed, the day arrived  
+bright with God's salvation:  
+David's son, who for our sake,  
+seen and unseen, here will make  
+Paradise of desert.
+
+Praises to our high king swell,  
+praises to His Spirit!  
+They as one do all things well,  
+heaven we inherit.  
+Even those who give no ear  
+standing at the grave shall hear,  
+lips once dumb are shouting.
+
+New year song, our hearts consume!  
+May our gladness flower!  
+Then the wilderness shall bloom  
+like a rosy bower!  
+Birds shall sing and water flow,  
+Lebanon and Carmel glow,  
+Sharon's two-fold glory!
+
+*Trans.: Edward Broadbridge 2009.*
+
+<a id="104"></a>
+
+### 104
+
+A child is born in Bethlehem,  
+rejoice therefore, Jerusalem!  
+Alleluia, Alleluia!
+
+A lowly virgin gave him birth,  
+the royal son of God on earth.  
+Alleluia, Alleluia!
+
+And in a crib she laid the boy,  
+God's angels sang with heav'nly joy:  
+Alleluia, Alleluia!
+
+And wise men from the East there were  
+with gifts of incense, gold and myrrh.  
+Alleluia, Alleluia!
+
+Our lot no longer shall we mourn,  
+a Saviour has to us been born.  
+Alleluia, Alleluia!
+
+God's children in our new estate  
+shall Christmas keep at Heaven's gate.  
+Alleluia, Alleluia!
+
+On starry carpets hearts ablaze,  
+we walk to church to sing his praise.  
+Alleluia, Alleluia!
+
+God's angels there with great delight  
+shall teach us what they sang that night.  
+Alleluia, Alleluia!
+
+Like angels then we all shall be,  
+God's gentle face we too shall see.  
+Alleluia, Alleluia!
+
+Our Saviour brother we adore,  
+Praise be to Him for evermore!  
+Alleluia, Alleluia!
+
+*Trans.: Edward Broadbridge 2009.*
+
+<a id="119"></a>
+
+### 119
+
+Christmas has brought a message blessed,  
+both old and young are excited.  
+What angelsong once to earth expressed  
+small children now sing united.  
+Bright stands the Tree of Paradise  
+with lights to banish all sadness;  
+the child who looks up with shining eyes  
+shall never forego that gladness.
+
+Joy is our guest on earth this day,  
+the little King of creation!  
+Come, sparrow and dove, fly down and stay  
+to join in our celebration.  
+Dance on your mother's lap, dear child!  
+a wondrous day has arisen:  
+today He is born, our Saviour mild --  
+the pathway to Paradise given.
+
+Christ was a child like you and me,  
+in Him God showed us His favour.  
+The garden with angels flying free  
+is opened again by our Saviour.  
+Heaven's own King has come to birth,  
+His Christmas joy to us bringing,  
+embracing each child like soul on earth  
+till we join the angels' singing!
+
+*Trans.: Edward Broadbridge 2009.*
+
+<a id="120"></a>
+
+### 120
 
 
 <a id=""></a>
