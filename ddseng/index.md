@@ -644,223 +644,310 @@ till we join the angels' singing!
 
 ### 120
 
+Silent night, holy night,  
+all is calm, all is bright,  
+Round yon virgin Mother and Child,  
+Holy infant so tender and mild,  
+Sleep in heavenly peace.
+
+Silent night, holy night,  
+Shepherds quake at thi sight.  
+Glories stream from heaven afar,  
+Heav'nly hosts sing Alleluia;  
+Christ the Saviour is born.
+
+Silent night, holy night,  
+Son of God, love's pure light.  
+Radiant beams from Thy holy face,  
+With the dawn of redeeming grace,  
+Jesus, Lord, at Thy birth.
 
-<a id=""></a>
+Silent night, holy night,  
+All is calm, all is bright,  
+'Round yon virgin, Mother and Child  
+Holy infant so tender and mild,  
+Sleep in Heavenly peace.
 
-### 
+*Trans.: John Freeman Young 1859.*
 
+<a id="121"></a>
 
-<a id=""></a>
+### 121
 
-### 
+Beautiful is the earth!  
+Wonderful God's heaven!  
+Lovely the path that we walk along!  
+Souls on the pilgrim way  
+through earthly kingdoms  
+we go to Paradise with song.
 
+Ages shall come to be,  
+ages too shall roll by,  
+generations succeed the last;  
+yet shall the heav'nly sound  
+never fall silent --  
+the pilgrims' song is unsurpassed.
 
-<a id=""></a>
+Angel choirs sang it  
+first for watchful sherpherds,  
+full from soul to soul that dawn:  
+Peace over all the earth!  
+People, rejoice and sing,  
+to us is a Redeemer born!
 
-### 
+*Trans.: Edward Broadbridge 2009.*
 
+<a id="136"></a>
 
-<a id=""></a>
+### 136
 
-### 
+Lovely is the midnight sky,  
+Beautiful to see on high,  
+where the golden stars are blinking,  
+where they smile in concert winking  
+us to join them up above.
 
+In the depth of Christmas night  
+all the stars were gleaming bright,  
+but a sudden new star showing  
+filled the vault of heaven glowing  
+as a star-sun set on high.
 
-<a id=""></a>
+When this star to soft and bright  
+showed itself on Christmas night,  
+ancient lore foretold the hour  
+when a king of matchless power  
+would be born upon this earth.
 
-### 
+Wise men forthwith from the east  
+followed where the light increased,  
+to that king, there to adore Him,  
+and their presents lay before Him,  
+who was born that very hour.
 
+Stopping where the star looked down,  
+Bethlehem, King David's town,  
+there they found no king in glory,  
+only Mary with her story,  
+rocking Jesus in her lap.
 
-<a id=""></a>
+As it brought wise men who prayed  
+to the Christ-child and the Maid,  
+so we have a star beside us;  
+if we let it shine to guide us;  
+we shall come to Jesus Christ.
 
-### 
+This bright star that shows the way  
+and that never leads astray  
+is the word He manifested,  
+which His life with us attested,  
+as a light our steps to guide.
 
+*Trans.: Edward Broadbridge 2009.*
 
-<a id=""></a>
+<a id="192"></a>
 
-### 
+### 192
 
 
-<a id=""></a>
+<a id="218"></a>
 
-### 
+### 218
 
 
-<a id=""></a>
+<a id="224"></a>
 
-### 
+### 224
 
 
-<a id=""></a>
+<a id="236"></a>
 
-### 
+### 236
 
 
-<a id=""></a>
+<a id="260"></a>
 
-### 
+### 260
 
 
-<a id=""></a>
+<a id="289"></a>
 
-### 
+### 289
 
 
-<a id=""></a>
+<a id="290"></a>
 
-### 
+### 290
 
 
-<a id=""></a>
+<a id="292"></a>
 
-### 
+### 292
 
 
-<a id=""></a>
+<a id="321"></a>
 
-### 
+### 321
 
 
-<a id=""></a>
+<a id="335"></a>
 
-### 
+### 335
 
 
-<a id=""></a>
+<a id="336"></a>
 
-### 
+### 336
 
 
-<a id=""></a>
+<a id="402"></a>
 
-### 
+### 402
 
 
-<a id=""></a>
+<a id="403"></a>
 
-### 
+### 403
 
 
-<a id=""></a>
+<a id="439"></a>
 
-### 
+### 439
 
 
-<a id=""></a>
+<a id="441"></a>
 
-### 
+### 441
 
 
-<a id=""></a>
+<a id="447"></a>
 
-### 
+### 447
 
 
-<a id=""></a>
+<a id="448"></a>
 
-### 
+### 448
 
 
-<a id=""></a>
+<a id="478"></a>
 
-### 
+### 478
 
 
-<a id=""></a>
+<a id="487"></a>
 
-### 
+### 487
 
 
-<a id=""></a>
+<a id="541"></a>
 
-### 
+### 541
 
 
-<a id=""></a>
+<a id="551"></a>
 
-### 
+### 551
 
 
-<a id=""></a>
+<a id="613"></a>
 
-### 
+### 613
 
 
-<a id=""></a>
+<a id="636"></a>
 
-### 
+### 636
 
 
-<a id=""></a>
+<a id="674"></a>
 
-### 
+### 674
 
 
-<a id=""></a>
+<a id="700"></a>
 
-### 
+### 700
 
 
-<a id=""></a>
+<a id="703"></a>
 
-### 
+### 703
 
 
-<a id=""></a>
+<a id="706"></a>
 
-### 
+### 706
 
 
-<a id=""></a>
+<a id="712"></a>
 
-### 
+### 712
 
 
-<a id=""></a>
+<a id="722"></a>
 
-### 
+### 722
 
 
-<a id=""></a>
+<a id="725"></a>
 
-### 
+### 725
 
 
-<a id=""></a>
+<a id="728"></a>
 
-### 
+### 728
 
 
-<a id=""></a>
+<a id="729"></a>
 
-### 
+### 729
 
 
-<a id=""></a>
+<a id="743"></a>
 
-### 
+### 743
 
 
-<a id=""></a>
+<a id="747"></a>
 
-### 
+### 747
 
 
-<a id=""></a>
+<a id="749"></a>
 
-### 
+### 749
 
 
-<a id=""></a>
+<a id="750"></a>
 
-### 
+### 750
 
 
-<a id=""></a>
+<a id="754"></a>
 
-### 
+### 754
 
 
-<a id=""></a>
+<a id="769"></a>
 
-### 
+### 769
+
+
+<a id="784"></a>
+
+### 784
+
+
+<a id="785"></a>
+
+### 785
+
+
+<a id="787"></a>
+
+### 787
+
+
 
