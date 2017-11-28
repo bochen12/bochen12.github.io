@@ -6,6 +6,8 @@ lang: da
 published: true
 ---
 
+-----
+
 [**Højmesse**](#hjmesseordning)
 — [Præludium](#indgang), [Indgangsbøn](#indgangsbn), [Salme](#indgangs), [Kyrie og Gloria](#a-kyrie-og-gloria), [Hilsen](#hilsen), [Kollekt](#indledningskollekt), [GT Læsning](#lsning-fra-det-gamle-testamente), [Salme](#salme-mellem-lsningerne), [NT Læsning](#lsning-fra-det-nye-testamente), [Trosbekendelse](#trosbekendelse), [Salme](#salme-fr-prdikenen), [Evangelielæsning](#evangelielsning), [Prædiken](#prdiken), [Kirkebøn](#kirkebn) [(a)](#a) [(b)](#b) [(litani)](#c-litani), [Salme](#salme-efter-prdikenen), [Nadverbøn](#nadverbn) [(a)](#a-1) [(b)](#b-1) [(c)](#c), [Fadervor](#fadervor), [Indstiftelsesord](#indstiftelsesordene), [Nadvermåltid](#nadvermltidet), [Kollekt](#slutningskollekt), [Velsignelse](#velsignelse), [Salme](#udgangssalme), [Udgangsbøn](#udgangsbn), [Postludium](#udgang)
 
@@ -33,7 +35,7 @@ published: true
 [**Jordpåkastelse**](#jordpkastelse)
 
 
---------------------------------------------------------------------
+-----
 
 # Højmesseordning
 

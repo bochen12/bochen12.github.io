@@ -6,8 +6,7 @@ custom_css: em-red
 published: true
 ---
 
-Indhold
--------
+-----
 
 [Årstidens salmer 800--812](#800)  
 [Morgen- og aftensalmer 813--818](#813)  
@@ -22,6 +21,7 @@ Indhold
 [Bibelske salmer 882--886](#882)  
 [Liv og tro 887--899](#887)
 
+-----
 
 ## Årstidens salmer
 
