@@ -6,17 +6,17 @@ lang: da
 
 ------------------------------------------------------------------------
 
-[GTb: Jos – Est](http://www.bochen.dk/gtb/)  
-[GTc: Job – Højs](http://www.bochen.dk/gtc/)  
-[GTd: Es – Mal](http://www.bochen.dk/gtd/)  
+[GTb: Jos – Est](http://www.bochen.dk/gtb/)
+[GTc: Job – Højs](http://www.bochen.dk/gtc/)
+[GTd: Es – Mal](http://www.bochen.dk/gtd/)
 [NT](http://www.bochen.dk/nt/)
 
 ------------------------------------------------------------------------
 
-1 Mos: [1](#mos-1) [2](#mos-2) [3](#mos-3) [4](#mos-4) [5](#mos-5) [6](#mos-6) [7](#mos-7) [8](#mos-8) [9](#mos-9) [10](#mos-10) [11](#mos-11) [12](#mos-12) [13](#mos-13) [14](#mos-14) [15](#mos-15) [16](#mos-16) [17](#mos-17) [18](#mos-18) [19](#mos-19) [20](#mos-20) [21](#mos-21) [22](#mos-22) [23](#mos-23) [24](#mos-24) [25](#mos-25) [26](#mos-26) [27](#mos-27) [28](#mos-28) [29](#mos-29) [30](#mos-30) [31](#mos-31) [32](#mos-32) [33](#mos-33) [34](#mos-34) [35](#mos-35) [36](#mos-36) [37](#mos-37) [38](#mos-38) [39](#mos-39) [40](#mos-40) [41](#mos-41) [42](#mos-42) [43](#mos-43) [44](#mos-44) [45](#mos-45) [46](#mos-46) [47](#mos-47) [48](#mos-48) [49](#mos-49) [50](#mos-50)  
-2 Mos: [1](#mos-1-1) [2](#mos-2-1) [3](#mos-3-1) [4](#mos-4-1) [5](#mos-5-1) [6](#mos-6-1) [7](#mos-7-1) [8](#mos-8-1) [9](#mos-9-1) [10](#mos-10-1) [11](#mos-11-1) [12](#mos-12-1) [13](#mos-13-1) [14](#mos-14-1) [15](#mos-15-1) [16](#mos-16-1) [17](#mos-17-1) [18](#mos-18-1) [19](#mos-19-1) [20](#mos-20-1) [21](#mos-21-1) [22](#mos-22-1) [23](#mos-23-1) [24](#mos-24-1) [25](#mos-25-1) [26](#mos-26-1) [27](#mos-27-1) [28](#mos-28-1) [29](#mos-29-1) [30](#mos-30-1) [31](#mos-31-1) [32](#mos-32-1) [33](#mos-33-1) [34](#mos-34-1) [35](#mos-35-1) [36](#mos-36-1) [37](#mos-37-1) [38](#mos-38-1) [39](#mos-39-1) [40](#mos-40-1)  
-3 Mos: [1](#mos-1-2) [2](#mos-2-2) [3](#mos-3-2) [4](#mos-4-2) [5](#mos-5-2) [6](#mos-6-2) [7](#mos-7-2) [8](#mos-8-2) [9](#mos-9-2) [10](#mos-10-2) [11](#mos-11-2) [12](#mos-12-2) [13](#mos-13-2) [14](#mos-14-2) [15](#mos-15-2) [16](#mos-16-2) [17](#mos-17-2) [18](#mos-18-2) [19](#mos-19-2) [20](#mos-20-2) [21](#mos-21-2) [22](#mos-22-2) [23](#mos-23-2) [24](#mos-24-2) [25](#mos-25-2) [26](#mos-26-2) [27](#mos-27-2)  
-4 Mos: [1](#mos-1-3) [2](#mos-2-3) [3](#mos-3-3) [4](#mos-4-3) [5](#mos-5-3) [6](#mos-6-3) [7](#mos-7-3) [8](#mos-8-3) [9](#mos-9-3) [10](#mos-10-3) [11](#mos-11-3) [12](#mos-12-3) [13](#mos-13-3) [14](#mos-14-3) [15](#mos-15-3) [16](#mos-16-3) [17](#mos-17-3) [18](#mos-18-3) [19](#mos-19-3) [20](#mos-20-3) [21](#mos-21-3) [22](#mos-22-3) [23](#mos-23-3) [24](#mos-24-3) [25](#mos-25-3) [26](#mos-26-3) [27](#mos-27-3) [28](#mos-28-2) [29](#mos-29-2) [30](#mos-30-2) [31](#mos-31-2) [32](#mos-32-2) [33](#mos-33-2) [34](#mos-34-2) [35](#mos-35-2) [36](#mos-36-2)  
+1 Mos: [1](#mos-1) [2](#mos-2) [3](#mos-3) [4](#mos-4) [5](#mos-5) [6](#mos-6) [7](#mos-7) [8](#mos-8) [9](#mos-9) [10](#mos-10) [11](#mos-11) [12](#mos-12) [13](#mos-13) [14](#mos-14) [15](#mos-15) [16](#mos-16) [17](#mos-17) [18](#mos-18) [19](#mos-19) [20](#mos-20) [21](#mos-21) [22](#mos-22) [23](#mos-23) [24](#mos-24) [25](#mos-25) [26](#mos-26) [27](#mos-27) [28](#mos-28) [29](#mos-29) [30](#mos-30) [31](#mos-31) [32](#mos-32) [33](#mos-33) [34](#mos-34) [35](#mos-35) [36](#mos-36) [37](#mos-37) [38](#mos-38) [39](#mos-39) [40](#mos-40) [41](#mos-41) [42](#mos-42) [43](#mos-43) [44](#mos-44) [45](#mos-45) [46](#mos-46) [47](#mos-47) [48](#mos-48) [49](#mos-49) [50](#mos-50)
+2 Mos: [1](#mos-1-1) [2](#mos-2-1) [3](#mos-3-1) [4](#mos-4-1) [5](#mos-5-1) [6](#mos-6-1) [7](#mos-7-1) [8](#mos-8-1) [9](#mos-9-1) [10](#mos-10-1) [11](#mos-11-1) [12](#mos-12-1) [13](#mos-13-1) [14](#mos-14-1) [15](#mos-15-1) [16](#mos-16-1) [17](#mos-17-1) [18](#mos-18-1) [19](#mos-19-1) [20](#mos-20-1) [21](#mos-21-1) [22](#mos-22-1) [23](#mos-23-1) [24](#mos-24-1) [25](#mos-25-1) [26](#mos-26-1) [27](#mos-27-1) [28](#mos-28-1) [29](#mos-29-1) [30](#mos-30-1) [31](#mos-31-1) [32](#mos-32-1) [33](#mos-33-1) [34](#mos-34-1) [35](#mos-35-1) [36](#mos-36-1) [37](#mos-37-1) [38](#mos-38-1) [39](#mos-39-1) [40](#mos-40-1)
+3 Mos: [1](#mos-1-2) [2](#mos-2-2) [3](#mos-3-2) [4](#mos-4-2) [5](#mos-5-2) [6](#mos-6-2) [7](#mos-7-2) [8](#mos-8-2) [9](#mos-9-2) [10](#mos-10-2) [11](#mos-11-2) [12](#mos-12-2) [13](#mos-13-2) [14](#mos-14-2) [15](#mos-15-2) [16](#mos-16-2) [17](#mos-17-2) [18](#mos-18-2) [19](#mos-19-2) [20](#mos-20-2) [21](#mos-21-2) [22](#mos-22-2) [23](#mos-23-2) [24](#mos-24-2) [25](#mos-25-2) [26](#mos-26-2) [27](#mos-27-2)
+4 Mos: [1](#mos-1-3) [2](#mos-2-3) [3](#mos-3-3) [4](#mos-4-3) [5](#mos-5-3) [6](#mos-6-3) [7](#mos-7-3) [8](#mos-8-3) [9](#mos-9-3) [10](#mos-10-3) [11](#mos-11-3) [12](#mos-12-3) [13](#mos-13-3) [14](#mos-14-3) [15](#mos-15-3) [16](#mos-16-3) [17](#mos-17-3) [18](#mos-18-3) [19](#mos-19-3) [20](#mos-20-3) [21](#mos-21-3) [22](#mos-22-3) [23](#mos-23-3) [24](#mos-24-3) [25](#mos-25-3) [26](#mos-26-3) [27](#mos-27-3) [28](#mos-28-2) [29](#mos-29-2) [30](#mos-30-2) [31](#mos-31-2) [32](#mos-32-2) [33](#mos-33-2) [34](#mos-34-2) [35](#mos-35-2) [36](#mos-36-2)
 5 Mos: [1](#mos-1-4) [2](#mos-2-4) [3](#mos-3-4) [4](#mos-4-4) [5](#mos-5-4) [6](#mos-6-4) [7](#mos-7-4) [8](#mos-8-4) [9](#mos-9-4) [10](#mos-10-4) [11](#mos-11-4) [12](#mos-12-4) [13](#mos-13-4) [14](#mos-14-4) [15](#mos-15-4) [16](#mos-16-4) [17](#mos-17-4) [18](#mos-18-4) [19](#mos-19-4) [20](#mos-20-4) [21](#mos-21-4) [22](#mos-22-4) [23](#mos-23-4) [24](#mos-24-4) [25](#mos-25-4) [26](#mos-26-4) [27](#mos-27-4) [28](#mos-28-3) [29](#mos-29-3) [30](#mos-30-3) [31](#mos-31-3) [32](#mos-32-3) [33](#mos-33-3) [34](#mos-34-3)
 
 ------------------------------------------------------------------------
@@ -67,9 +67,9 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 
 **21** Da lod Gud Herren en tung søvn falde over Adam, og mens han sov, tog han et af hans ribben og lukkede til med kød. **22** Af det ribben, Gud Herren havde taget fra Adam, byggede han en kvinde og førte hende til Adam. **23** Da sagde Adam:
 
-> »Nu er det ben af mine ben  
-> og kød af mit kød.  
-> Hun skal kaldes kvinde,  
+> »Nu er det ben af mine ben
+> og kød af mit kød.
+> Hun skal kaldes kvinde,
 > for af manden er hun taget.«
 
 **24** Derfor forlader en mand sin far og mor og binder sig til sin hustru, og de bliver ét kød.
@@ -86,42 +86,42 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 
 **14** Da sagde Gud Herren til slangen:
 
-> »Fordi du har gjort dette,  
-> skal du være forbandet  
-> blandt alt kvæg  
-> og blandt alle vilde dyr.  
-> På din bug skal du krybe,  
-> og støv skal du æde,  
-> alle dine dage.  
->  **15** Jeg sætter fjendskab  
-> mellem dig og kvinden,  
-> mellem dit afkom og hendes:  
-> Hendes afkom skal knuse dit hoved,  
+> »Fordi du har gjort dette,
+> skal du være forbandet
+> blandt alt kvæg
+> og blandt alle vilde dyr.
+> På din bug skal du krybe,
+> og støv skal du æde,
+> alle dine dage.
+>  **15** Jeg sætter fjendskab
+> mellem dig og kvinden,
+> mellem dit afkom og hendes:
+> Hendes afkom skal knuse dit hoved,
 > og du skal bide hendes afkom i hælen.«
 
 **16** Til kvinden sagde han:
 
-> »Jeg vil gøre dit svangerskab  
-> plagsomt og pinefuldt,  
-> i smerte skal du føde børn.  
-> Du skal begære din mand,  
+> »Jeg vil gøre dit svangerskab
+> plagsomt og pinefuldt,
+> i smerte skal du føde børn.
+> Du skal begære din mand,
 > og han skal herske over dig.«
 
 **17** Til Adam sagde han:
 
-> »Fordi du lyttede til din kvinde  
-> og spiste af det træ,  
-> jeg forbød dig at spise af,  
-> skal agerjorden være forbandet for din skyld;  
-> med møje skal du skaffe dig føden  
-> alle dine dage.  
->  **18** Tjørn og tidsel skal jorden lade spire frem til dig,  
-> og du skal leve af markens planter.  
->  **19** I dit ansigts sved  
-> skal du spise dit brød,  
-> indtil du vender tilbage til jorden,  
-> for af den er du taget.  
-> Ja, jord er du,  
+> »Fordi du lyttede til din kvinde
+> og spiste af det træ,
+> jeg forbød dig at spise af,
+> skal agerjorden være forbandet for din skyld;
+> med møje skal du skaffe dig føden
+> alle dine dage.
+>  **18** Tjørn og tidsel skal jorden lade spire frem til dig,
+> og du skal leve af markens planter.
+>  **19** I dit ansigts sved
+> skal du spise dit brød,
+> indtil du vender tilbage til jorden,
+> for af den er du taget.
+> Ja, jord er du,
 > og til jord skal du blive.«
 
 **20** Adam gav sin kvinde navnet Eva, for hun blev mor til alle mennesker. **21** Gud Herren lavede skindtøj til Adam og hans kvinde og gav dem det på. **22** Og Gud Herren sagde: »Nu er mennesket blevet som en af os og kan kende godt og ondt. Bare det nu ikke rækker hånden ud og også tager af livets træ og spiser og lever evigt!« **23** Så sendte Gud Herren dem ud af Edens have til at dyrke agerjorden, som de var taget af. **24** Han jog mennesket ud, og øst for Edens have anbragte han keruberne og det lynende flammesværd til at vogte vejen til livets træ.
@@ -140,11 +140,11 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 
 **17** Kain lå med sin kone, og hun blev gravid og fødte Enok. Så byggede han en by og gav den navn efter sin søn Enok. **18** Enok fik sønnen Irad, Irad fik Mehujael, Mehujael fik Metushael, og Metushael fik Lemek. **19** Lemek tog sig to koner, den ene hed Ada, den anden Silla. **20** Ada fødte Jabal. Han blev stamfader til dem, der bor i telte og holder kvæg. **21** Hans bror hed Jubal. Han blev stamfader til alle dem, der spiller på citer og fløjte. **22** Også Silla fødte en søn, Tubal-Kain, stamfader til smedene, alle dem, der forarbejder kobber og jern. Tubal-Kains søster hed Na’ama. **23** Lemek sagde til sine koner:
 
-> »Ada og Silla, hør på mig,  
-> Lemeks koner, lyt til mit ord.  
-> Jeg dræber en mand for en flænge,  
-> et barn for en skramme.  
->  **24** Hævnes Kain syv gange,  
+> »Ada og Silla, hør på mig,
+> Lemeks koner, lyt til mit ord.
+> Jeg dræber en mand for en flænge,
+> et barn for en skramme.
+>  **24** Hævnes Kain syv gange,
 > skal Lemek hævnes syvoghalvfjerds gange.«
 
 #### Set
@@ -201,22 +201,22 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **20** Derpå byggede Noa et alter for Herren, og af alle de rene dyr og af alle de rene fugle bragte han brændofre på alteret. **21** Da Herren indåndede den liflige duft, sagde han til sig selv: »Jeg vil aldrig mere forbande jorden på grund af menneskene, som kun vil det onde fra ungdommen af. Jeg vil aldrig mere udrydde alt levende, sådan som jeg nu har gjort.
 
->  **22** Så længe jorden står,  
-> skal såtid og høsttid,  
-> kulde og varme,  
-> sommer og vinter,  
-> dag og nat  
+>  **22** Så længe jorden står,
+> skal såtid og høsttid,
+> kulde og varme,
+> sommer og vinter,
+> dag og nat
 > ikke ophøre.«
 
 ### 1 Mos 9
 
 **1** Gud velsignede Noa og hans sønner og sagde til dem: »Bliv frugtbare og talrige, og opfyld jorden. **2** Hos alle de vilde dyr, hos alle himlens fugle, hos alle krybdyr på jorden og hos alle havets fisk skal der være frygt og rædsel for jer; de er givet i jeres magt. **3** Alt, hvad der rører sig og lever, skal I have til føde. Jeg giver jer det alt sammen, ligesom jeg gav jer de grønne planter. **4** Men kød med liv i, med blod i, må I ikke spise. **5** Og jeres eget blod vil jeg kræve hævn for; af ethvert dyr vil jeg kræve hævn for det, og af ethvert menneske vil jeg kræve hævn for et menneskes liv.
 
->  **6** Den, der udgyder menneskets blod,  
-> skal få sit blod udgydt af mennesker.  
-> For i sit billede  
-> skabte Gud mennesket.  
->  **7** Men I skal blive frugtbare og talrige,  
+>  **6** Den, der udgyder menneskets blod,
+> skal få sit blod udgydt af mennesker.
+> For i sit billede
+> skabte Gud mennesket.
+>  **7** Men I skal blive frugtbare og talrige,
 > I skal vrimle på jorden og blive talrige på den.«
 
 **8** Gud sagde til Noa og hans sønner: **9** »Nu opretter jeg min pagt med jer og med jeres efterkommere, **10** med hvert levende væsen hos jer, fuglene, kvæget og alle de vilde dyr hos jer, alle der gik ud af arken, alle jordens dyr. **11** Jeg opretter min pagt med jer: Aldrig mere skal alt levende udryddes af vandfloden. En vandflod skal aldrig mere ødelægge jorden.«
@@ -227,17 +227,17 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **18** Noas sønner, der gik ud af arken, var Sem, Kam og Jafet; Kam blev far til Kana’an. **19** De tre var Noas sønner, og fra dem nedstammer hele jordens befolkning. **20** Agerdyrkeren Noa var den første, der plantede en vingård. **21** Da han drak af vinen, blev han beruset og blottede sig inde i sit telt. **22** Kana’ans far Kam så sin far nøgen og fortalte det til sine to brødre udenfor. **23** Sem og Jafet tog så en kappe over deres skuldre, gik baglæns ind og tildækkede deres nøgne far. De vendte ansigtet bort og så ikke deres far nøgen. **24** Da Noa vågnede af sin rus og blev klar over, hvad hans yngste søn havde gjort mod ham, **25** sagde han:
 
-> »Forbandet være Kana’an!  
-> Den usleste træl  
+> »Forbandet være Kana’an!
+> Den usleste træl
 > skal han være for sine brødre.«
 
 **26** Og han sagde:
 
-> »Lovet være Herren,  
-> Sems Gud!  
-> Kana’an skal være deres træl.  
->  **27** Måtte Gud skaffe Jafet plads,  
-> så han kan bo i Sems telte.  
+> »Lovet være Herren,
+> Sems Gud!
+> Kana’an skal være deres træl.
+>  **27** Måtte Gud skaffe Jafet plads,
+> så han kan bo i Sems telte.
 > Kana’an skal være deres træl.«
 
 **28** Efter vandfloden levede Noa i 350 år. **29** Noa levede i alt 950 år, så døde han.
@@ -276,8 +276,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **1** Herren sagde til Abram: »Forlad dit land og din slægt og din fars hus, og drag til det land, jeg vil vise dig. **2** Jeg vil gøre dig til et stort folk og velsigne dig. Jeg vil gøre dit navn stort, og du skal være en velsignelse.
 
->  **3** Jeg vil velsigne dem, der velsigner dig,  
-> og den, der forbander dig, vil jeg forbande.  
+>  **3** Jeg vil velsigne dem, der velsigner dig,
+> og den, der forbander dig, vil jeg forbande.
 > I dig skal alle jordens slægter velsignes.«
 
 **4** Så drog Abram af sted, sådan som Herren havde befalet ham, og Lot drog med ham. Abram var femoghalvfjerds år, da han forlod Karan. **5** Abram tog sin kone Saraj og sin brorsøn Lot og al den rigdom, de havde samlet, og alle de folk, de havde skaffet sig i Karan, og begav sig på vej mod Kana’an, og de kom til Kana’an. **6** Abram drog gennem landet og kom til Sikems helligsted, til Orakel-egen. Dengang boede kana’anæerne i landet. **7** Herren viste sig for Abram og sagde: »Jeg vil give dine efterkommere dette land.« Dér byggede Abram et alter for Herren, som havde vist sig for ham. **8** Derfra drog han videre mod bjerglandet øst for Betel, og han slog sit telt op mellem Betel i vest og Aj i øst. Dér byggede han et alter for Herren og påkaldte Herrens navn. **9** Derpå brød han op og drog fra sted til sted, til han kom til Sydlandet.
@@ -308,9 +308,9 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **18** Melkisedek, Salems konge, kom med brød og vin. Han var præst for Gud den Højeste. **19** Han velsignede Abram og sagde:
 
-> »Velsignet være Abram af Gud den Højeste,  
-> skaberen af himmel og jord.  
->  **20** Velsignet være Gud den Højeste,  
+> »Velsignet være Abram af Gud den Højeste,
+> skaberen af himmel og jord.
+>  **20** Velsignet være Gud den Højeste,
 > som gav dine fjender i din magt.«
 
 Og Abram gav ham tiende af det alt sammen.
@@ -335,14 +335,14 @@ Og Abram gav ham tiende af det alt sammen.
 
 **7** Herrens engel traf hende ved en kilde i ørkenen, kilden ved vejen til Shur. **8** Han sagde: »Hagar, Sarajs trælkvinde, hvor kommer du fra, og hvor skal du hen?« Hun svarede: »Jeg er på flugt fra min frue Saraj.« **9** Men Herrens engel sagde til hende: »Vend tilbage til din frue, og find dig i hendes behandling.« **10** Og Herrens engel sagde til hende: »Jeg vil gøre dine efterkommere så talrige, at de ikke kan tælles.« **11** Og Herrens engel sagde til hende:
 
-> »Se, du er med barn;  
-> du skal føde en søn  
-> og give ham navnet Ismael,  
-> for Herren har hørt din lidelse.  
->  **12** Han skal blive  
-> et vildæsel af et menneske;  
-> hans hånd skal være vendt mod alle  
-> og alles hånd mod ham,  
+> »Se, du er med barn;
+> du skal føde en søn
+> og give ham navnet Ismael,
+> for Herren har hørt din lidelse.
+>  **12** Han skal blive
+> et vildæsel af et menneske;
+> hans hånd skal være vendt mod alle
+> og alles hånd mod ham,
 > han skal leve på tværs af alle sine brødre.«
 
 **13** Hagar kaldte Herren, som havde talt til hende, »Du er Gud, der ser«. For hun tænkte: »Har jeg virkelig på dette sted set ham, der ser mig?« **14** Derfor kalder man brønden Be’er-Lahaj-Ro’i. Den ligger mellem Kadesh og Bered.
@@ -461,9 +461,9 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 
 **50** Laban og Betuel svarede: »Dette kommer fra Herren. Vi kan intet sige til det! **51** Dér har du Rebekka, tag hende med og rejs hjem, så din herres søn kan få hende til kone, sådan som Herren har bestemt.« **52** Da Abrahams træl hørte deres ord, kastede han sig til jorden for Herren. **53** Derpå tog han sølvsmykker og guldsmykker og klæder frem og gav Rebekka dem. Hendes bror og hendes mor gav han kostbare gaver. **54** Da han og hans mænd havde spist og drukket, overnattede de, og da de stod op næste morgen, sagde han: »Lad mig rejse hjem til min herre.« **55** Hendes bror og hendes mor sagde: »Lad pigen blive hos os en halv snes dage; derefter kan hun rejse.« **56** Men han svarede: »I må ikke sinke mig nu, da Herren har ladet mit ærinde lykkes. Lad mig rejse hjem til min herre.« **57** De svarede: »Lad os kalde på pigen og spørge hende selv.« **58** De kaldte på Rebekka og spurgte hende, om hun ville rejse med manden, og hun sagde ja. **59** Så tog de afsked med deres søster Rebekka og hendes amme og med Abrahams træl og hans mænd. **60** De velsignede Rebekka og sagde til hende:
 
-> »Måtte du, vor søster,  
-> blive til titusinders tusinder  
-> og dine efterkommere  
+> »Måtte du, vor søster,
+> blive til titusinders tusinder
+> og dine efterkommere
 > erobre deres fjenders porte!«
 
 **61** Så satte Rebekka og hendes piger sig op på kamelerne og red bag efter manden. Trællen tog Rebekka med og drog hjem.
@@ -492,9 +492,9 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 
 **19** Dette er Abrahams søn Isaks slægtshistorie. Abraham fik sønnen Isak. **20** Isak var fyrre år, da han giftede sig med Rebekka, datter af aramæeren Betuel fra Paddan-Aram og søster til aramæeren Laban. **21** Isak bad til Herren for sin kone, fordi hun var ufrugtbar. Herren bønhørte ham, og hans kone Rebekka blev gravid. **22** Men da børnene sloges inde i hende, sagde hun: »Hvis det skal være sådan, hvorfor er dette så sket mig?« Og hun gik hen for at spørge Herren til råds. **23** Herren svarede hende:
 
-> »To folk er i dit moderliv,  
-> to folkeslag skal udgå af dit skød.  
-> Det ene folk skal være stærkere end det andet,  
+> »To folk er i dit moderliv,
+> to folkeslag skal udgå af dit skød.
+> Det ene folk skal være stærkere end det andet,
 > den ældste skal trælle for den yngste.«
 
 **24** Da tiden kom, og hun skulle føde, viste det sig, at der var tvillinger i hendes liv. **25** Den, der kom først ud, var rød og lodden over det hele som en kappe. Ham gav de navnet Esau. **26** Derefter kom hans bror ud; hans hånd holdt fast om Esaus hæl. Ham gav de navnet Jakob. Isak var tres år, da de blev født.
@@ -533,28 +533,28 @@ Isak slog sit telt op dér, og hans folk gravede en brønd. **26** Men Abimelek 
 
 **18** Han gik ind til sin far og sagde: »Far!« Han sagde: »Ja, hvem er du, min søn?« **19** Jakob svarede sin far: »Jeg er Esau, din førstefødte. Jeg har gjort, som du sagde til mig. Sæt dig nu op, og spis af min vildtret, så du kan velsigne mig.« **20** Isak spurgte sin søn: »Hvordan kunne du så hurtigt få ram på noget, min søn?« Han svarede: »Det var, fordi Herren din Gud lod det lykkes for mig.« **21** Så sagde Isak til Jakob: »Kom herhen, min søn, så jeg kan føle på dig, om du virkelig er min søn Esau eller ej.« **22** Jakob gik hen til sin far Isak, som følte på ham og sagde: »Stemmen er Jakobs, men hænderne er Esaus;« **23** han genkendte ham ikke, fordi hans hænder var lodne som hans bror Esaus, og han velsignede ham. **24** »Er du virkelig min søn Esau?« spurgte han, og han svarede: »Ja, jeg er.« **25** Så sagde han: »Sæt maden frem for mig, så jeg kan spise af min søns vildtret og velsigne dig.« Så satte Jakob det frem for ham, og han spiste. Han bragte ham vin, og han drak den. **26** Derpå sagde hans far Isak til ham: »Kom herhen, og kys mig, min søn.« **27** Han gik hen og kyssede ham, og da Isak lugtede til hans klæder, velsignede han ham og sagde:
 
-> »Se, lugten af min søn  
-> er som lugten af en mark,  
-> Herren har velsignet.  
->  **28** Gud give dig  
-> himlens dug  
-> og jordens frugtbarhed,  
-> korn og vin i overflod.  
->  **29** Folkeslag skal trælle for dig,  
-> folk skal kaste sig ned for dig;  
-> du skal være hersker over dine brødre,  
-> din mors sønner skal kaste sig ned for dig.  
-> Forbandet være de, der forbander dig,  
+> »Se, lugten af min søn
+> er som lugten af en mark,
+> Herren har velsignet.
+>  **28** Gud give dig
+> himlens dug
+> og jordens frugtbarhed,
+> korn og vin i overflod.
+>  **29** Folkeslag skal trælle for dig,
+> folk skal kaste sig ned for dig;
+> du skal være hersker over dine brødre,
+> din mors sønner skal kaste sig ned for dig.
+> Forbandet være de, der forbander dig,
 > og velsignet være de, der velsigner dig.«
 
 **30** Da Isak var færdig med velsignelsen, og da Jakob netop havde forladt sin far, kom hans bror Esau hjem fra jagten. **31** Han lavede også en ret og bragte den til sin far og sagde til ham: »Vil du ikke sætte dig op og spise af din søns vildtret, så du kan velsigne mig?« **32** Isak spurgte: »Hvem er du?« Og han svarede: »Jeg er Esau, din førstefødte søn.« **33** Da blev Isak ude af sig selv af forfærdelse og udbrød: »Hvem var det så, der bragte mig det vildt, han havde jaget? Før du kom, spiste jeg af det og velsignede ham. Nu har han fået velsignelsen!« **34** Da Esau hørte, hvad hans far sagde, udstødte han et højt og hjerteskærende skrig og sagde til sin far: »Velsign også mig, far!« **35** Men Isak sagde: »Din bror kom med svig og tog din velsignelse.« **36** Esau sagde: »Med rette hedder han Jakob, for nu er det anden gang, han bedrager mig; han tog min førstefødselsret, og nu har han også taget min velsignelse.« Så spurgte han: »Har du ikke gemt en velsignelse til mig?« **37** Isak svarede: »Jeg har gjort ham til hersker over dig, og alle hans brødre har jeg gjort til trælle for ham; korn og vin har jeg skænket ham. Hvad kan jeg dog gøre for dig, min søn?« **38** Esau sagde til sin far: »Har du kun den ene velsignelse, far? Velsign også mig, far!« Og Esau brast i gråd. **39** Da sagde hans far Isak til ham:
 
-> »Fjernt fra jordens frugtbarhed  
-> skal din bolig være  
-> og fjernt fra himlens dug foroven.  
->  **40** Ved dit sværd skal du leve,  
-> og for din bror skal du trælle.  
-> Men engang skal du rive dig løs  
+> »Fjernt fra jordens frugtbarhed
+> skal din bolig være
+> og fjernt fra himlens dug foroven.
+>  **40** Ved dit sværd skal du leve,
+> og for din bror skal du trælle.
+> Men engang skal du rive dig løs
 > og kaste hans åg af din nakke.«
 
 **41** Esau stræbte Jakob efter livet på grund af den velsignelse, hans far havde givet, og Esau tænkte: »Sørgetiden for min far nærmer sig. Så vil jeg slå min bror Jakob ihjel.« **42** Men Rebekka fik at vide, hvad hendes ældste søn Esau tænkte, og hun sendte bud efter sin yngste søn Jakob og sagde til ham: »Hør her! Din bror Esau vil hævne sig på dig og slå dig ihjel. **43** Gør nu, som jeg siger, min søn; flygt med det samme til min bror Laban i Karan, **44** og bliv hos ham et stykke tid, indtil din brors vrede har lagt sig, **45** og hans harme har vendt sig fra dig, og han har glemt, hvad du har gjort mod ham. Så vil jeg sende bud og hente dig hjem derfra. Hvorfor skulle jeg miste jer begge to samme dag?«
@@ -919,19 +919,19 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 
 **13** Josef tog nu sine to sønner i hånden, Efraim i sin højre hånd, så han stod til venstre for Israel, og Manasse i sin venstre, så han stod til højre for Israel, og så førte han dem hen til ham. **14** Israel rakte sin højre hånd frem og lagde den på Efraims hoved, skønt han var den yngste, og sin venstre hånd lagde han på Manasses hoved; han krydsede sine hænder. Men Manasse var jo den førstefødte. **15** Så velsignede han Josef:
 
-> »Den Gud, for hvis ansigt  
-> mine fædre Abraham og Isak vandrede,  
-> den Gud, som har været min hyrde  
-> fra min fødsel til i dag,  
->  **16** den engel, som har udfriet mig fra alt ondt,  
-> skal velsigne drengene.  
-> De skal kaldes med mit navn  
-> og med mine fædre Abrahams og Isaks navne,  
+> »Den Gud, for hvis ansigt
+> mine fædre Abraham og Isak vandrede,
+> den Gud, som har været min hyrde
+> fra min fødsel til i dag,
+>  **16** den engel, som har udfriet mig fra alt ondt,
+> skal velsigne drengene.
+> De skal kaldes med mit navn
+> og med mine fædre Abrahams og Isaks navne,
 > og de skal blive talrige i landet.«
 
 **17** Da Josef så, at hans far havde lagt sin højre hånd på Efraims hoved, blev han bekymret og greb sin fars hånd for at flytte den fra Efraims hoved over på Manasses. **18** Josef sagde til sin far: »Det er forkert, far! Det er ham her, der er den førstefødte, læg din højre hånd på hans hoved.« **19** Men det ville hans far ikke. Han sagde: »Jeg ved det, min søn, jeg ved det. Også han skal blive til et folk; også han skal blive stor. Men hans yngre bror skal blive større end han, og hans efterkommere skal blive til en mængde folkeslag.« **20** Den dag velsignede han dem og sagde:
 
-> »Med dit navn skal Israel velsigne og sige:  
+> »Med dit navn skal Israel velsigne og sige:
 > Gud gøre dig som Efraim og Manasse.«
 
 Sådan satte han Efraim foran Manasse!
@@ -944,96 +944,96 @@ Sådan satte han Efraim foran Manasse!
 
 **1** Jakob kaldte sine sønner til sig og sagde: I skal samle jer omkring mig, så vil jeg forkynde jer, hvad der engang i fremtiden skal ske jer.
 
->  **2** Saml jer, og hør, Jakobs sønner,  
+>  **2** Saml jer, og hør, Jakobs sønner,
 > Hør på Israel, jeres far!
 
->  **3** Ruben, du er min førstefødte,  
-> min kraft, min manddoms førstefrugt,  
-> ypperst i højhed, ypperst i styrke.  
->  **4** Du kom i oprør som vandet;  
-> du skal miste din forrang,  
-> for du besteg din fars leje,  
+>  **3** Ruben, du er min førstefødte,
+> min kraft, min manddoms førstefrugt,
+> ypperst i højhed, ypperst i styrke.
+>  **4** Du kom i oprør som vandet;
+> du skal miste din forrang,
+> for du besteg din fars leje,
 > da vanærede du min seng.
 
->  **5** Simeon og Levi er brødre,  
-> deres knive er voldsredskaber.  
->  **6** Jeg vil ikke møde op i deres råd,  
-> ikke deltage i deres forsamling;  
-> for i deres vrede dræbte de mænd,  
-> i deres selvrådighed skamskar de okser.  
->  **7** Forbandet være en vrede så heftig,  
-> en harme så voldsom som deres.  
-> Jeg vil splitte dem i Jakob,  
+>  **5** Simeon og Levi er brødre,
+> deres knive er voldsredskaber.
+>  **6** Jeg vil ikke møde op i deres råd,
+> ikke deltage i deres forsamling;
+> for i deres vrede dræbte de mænd,
+> i deres selvrådighed skamskar de okser.
+>  **7** Forbandet være en vrede så heftig,
+> en harme så voldsom som deres.
+> Jeg vil splitte dem i Jakob,
 > sprede dem i Israel.
 
->  **8** Juda, dig skal dine brødre prise,  
-> din hånd griber dine fjender i nakken;  
-> din fars sønner skal kaste sig ned for dig.  
->  **9** Juda er en løveunge,  
-> fra rov er du vendt hjem, min søn;  
-> som en løve har han lagt sig til hvile,  
-> som en hunløve, hvem tør vække ham?  
->  **10** Scepteret viger ikke fra Juda,  
-> staven ikke fra hans fødder,  
->  til der kommer en hersker,  
-> ham skal folkene adlyde.  
->  **11** Han binder sit æsel til vinstokken,  
-> sit æselføl til vinranken;  
-> han vasker sin klædning i vin,  
-> sin dragt i drueblod.  
->  **12** Hans øjne er mørkere end vin,  
+>  **8** Juda, dig skal dine brødre prise,
+> din hånd griber dine fjender i nakken;
+> din fars sønner skal kaste sig ned for dig.
+>  **9** Juda er en løveunge,
+> fra rov er du vendt hjem, min søn;
+> som en løve har han lagt sig til hvile,
+> som en hunløve, hvem tør vække ham?
+>  **10** Scepteret viger ikke fra Juda,
+> staven ikke fra hans fødder,
+>  til der kommer en hersker,
+> ham skal folkene adlyde.
+>  **11** Han binder sit æsel til vinstokken,
+> sit æselføl til vinranken;
+> han vasker sin klædning i vin,
+> sin dragt i drueblod.
+>  **12** Hans øjne er mørkere end vin,
 > hans tænder hvidere end mælk.
 
->  **13** Zebulon bor ved havets kyst;  
-> han bor ved skibenes kyst,  
+>  **13** Zebulon bor ved havets kyst;
+> han bor ved skibenes kyst,
 > helt oppe ved Sidon.
 
->  **14** Issakar er et knokkelstærkt æsel,  
-> der har lagt sig til hvile i kvægfolden.  
->  **15** Da han så, at hvilen var god  
-> og landet dejligt,  
-> bøjede han ryg som en lastdrager  
+>  **14** Issakar er et knokkelstærkt æsel,
+> der har lagt sig til hvile i kvægfolden.
+>  **15** Da han så, at hvilen var god
+> og landet dejligt,
+> bøjede han ryg som en lastdrager
 > og blev hoveriarbejder.
 
->  **16** Dan skaffer sit folk ret  
-> så godt som nogen af Israels stammer.  
->  **17** Dan skal blive en slange ved vejen,  
-> en giftslange ved stien;  
-> den bider hesten i koderne,  
-> så rytteren falder bagover.  
+>  **16** Dan skaffer sit folk ret
+> så godt som nogen af Israels stammer.
+>  **17** Dan skal blive en slange ved vejen,
+> en giftslange ved stien;
+> den bider hesten i koderne,
+> så rytteren falder bagover.
 >  **18** – Jeg sætter mit håb til din frelse, Herre.
 
->  **19** Gad bliver overfaldet af strejfskarer,  
+>  **19** Gad bliver overfaldet af strejfskarer,
 > men selv overfalder og forfølger han dem.
 
->  **20** Ashers føde er kraftig og god,  
+>  **20** Ashers føde er kraftig og god,
 > han byder kongelige retter.
 
->  **21** Naftali er en fritløbende hind,  
+>  **21** Naftali er en fritløbende hind,
 > som får yndige kid.
 
->  **22** Josef er et ungt frugttræ,  
-> et ungt frugttræ ved kilden,  
-> dets grene vokser op ad muren.  
->  **23** Bueskytter tirrer ham,  
-> de skyder og angriber ham;  
->  **24** men hans bue er fast og stærk,  
-> hans hænder og arme er smidige.  
-> Det kommer fra Jakobs Mægtige,  
-> fra Hyrden, Israels Sten,  
->  **25** fra din fars Gud, han hjælpe dig,  
-> fra Gud den Almægtige, han velsigne dig  
-> med velsignelser fra himlen deroppe,  
-> med velsignelser fra urdybet, der hviler dernede,  
-> med velsignelser fra bryster og moderliv.  
->  **26** Din fars velsignelser overgår  
-> de ældgamle bjerges velsignelser,  
-> de evige højes herlighed.  
-> De skal komme over Josefs hoved,  
+>  **22** Josef er et ungt frugttræ,
+> et ungt frugttræ ved kilden,
+> dets grene vokser op ad muren.
+>  **23** Bueskytter tirrer ham,
+> de skyder og angriber ham;
+>  **24** men hans bue er fast og stærk,
+> hans hænder og arme er smidige.
+> Det kommer fra Jakobs Mægtige,
+> fra Hyrden, Israels Sten,
+>  **25** fra din fars Gud, han hjælpe dig,
+> fra Gud den Almægtige, han velsigne dig
+> med velsignelser fra himlen deroppe,
+> med velsignelser fra urdybet, der hviler dernede,
+> med velsignelser fra bryster og moderliv.
+>  **26** Din fars velsignelser overgår
+> de ældgamle bjerges velsignelser,
+> de evige højes herlighed.
+> De skal komme over Josefs hoved,
 > over issen på fyrsten blandt brødre.
 
->  **27** Benjamin er en rovgrisk ulv.  
-> Om morgenen æder han rovet,  
+>  **27** Benjamin er en rovgrisk ulv.
+> Om morgenen æder han rovet,
 > om aftenen deler han byttet.
 
 **28** Det var Israels stammer, tolv i alt; og det var, hvad deres far sagde til dem, da han gav dem hver sin særlige velsignelse.
@@ -1298,72 +1298,72 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 
 **1** Da sang Moses og israelitterne denne sang for Herren:
 
-> Jeg vil synge for Herren,  
-> for han er højt ophøjet,  
-> heste og ryttere  
+> Jeg vil synge for Herren,
+> for han er højt ophøjet,
+> heste og ryttere
 > styrtede han i havet.
 
->  **2** Herren er min styrke og lovsang,  
-> han blev min frelse.  
-> Han er min Gud, ham vil jeg prise,  
-> min faders Gud, ham vil jeg hylde.  
->  **3** Herren er kriger,  
-> Jahve er hans navn.  
->  **4** Faraos vogne og hær kastede han i havet,  
-> hans bedste vognkæmpere druknede i Sivhavet;  
->  **5** det store dyb lukkede sig over dem,  
-> de sank i havets dyb som sten.  
->  **6** Herre, din højre hånd er mægtig i styrke,  
-> Herre, din højre hånd knuser fjenden;  
->  **7** i din vældige storhed slår du  
-> dine modstandere ned,  
-> du slipper din harme løs, den fortærer dem som strå.  
->  **8** For din fnysende vrede tårnede vandet sig op,  
-> strømmene stod som en vold,  
-> vandmasserne stivnede midt i havet.  
->  **9** Fjenden sagde:  
-> Jeg forfølger og indhenter dem,  
-> jeg fordeler byttet  
-> og stiller min hunger på dem;  
-> jeg trækker mit sværd,  
-> min hånd tilintetgør dem.  
->  **10** Du pustede med din ånde,  
-> havet lukkede sig over dem,  
-> de sank som bly  
-> i de mægtige vande.  
->  **11** Hvem er som du  
-> blandt guder, Herre?  
-> Hvem er så mægtig og hellig,  
-> frygtindgydende og glorværdig,  
-> hvem gør undere som du?  
->  **12** Du løftede din højre hånd,  
+>  **2** Herren er min styrke og lovsang,
+> han blev min frelse.
+> Han er min Gud, ham vil jeg prise,
+> min faders Gud, ham vil jeg hylde.
+>  **3** Herren er kriger,
+> Jahve er hans navn.
+>  **4** Faraos vogne og hær kastede han i havet,
+> hans bedste vognkæmpere druknede i Sivhavet;
+>  **5** det store dyb lukkede sig over dem,
+> de sank i havets dyb som sten.
+>  **6** Herre, din højre hånd er mægtig i styrke,
+> Herre, din højre hånd knuser fjenden;
+>  **7** i din vældige storhed slår du
+> dine modstandere ned,
+> du slipper din harme løs, den fortærer dem som strå.
+>  **8** For din fnysende vrede tårnede vandet sig op,
+> strømmene stod som en vold,
+> vandmasserne stivnede midt i havet.
+>  **9** Fjenden sagde:
+> Jeg forfølger og indhenter dem,
+> jeg fordeler byttet
+> og stiller min hunger på dem;
+> jeg trækker mit sværd,
+> min hånd tilintetgør dem.
+>  **10** Du pustede med din ånde,
+> havet lukkede sig over dem,
+> de sank som bly
+> i de mægtige vande.
+>  **11** Hvem er som du
+> blandt guder, Herre?
+> Hvem er så mægtig og hellig,
+> frygtindgydende og glorværdig,
+> hvem gør undere som du?
+>  **12** Du løftede din højre hånd,
 > og jorden slugte dem.
 
->  **13** I din trofasthed ledte du  
-> det folk, du havde udfriet,  
-> i din styrke førte du dem  
-> til din hellige bolig.  
->  **14** Folkeslagene rystede, da de hørte det.  
-> Filistæas indbyggere vred sig i veer,  
->  **15** Edoms høvdinge blev forfærdede,  
-> Moabs mægtige blev grebet af rædsel,  
-> alle Kana’ans indbyggere skælvede i angst.  
->  **16** De blev grebet af skræk og rædsel,  
-> for din arms magt blev de stumme som sten,  
-> da dit folk drog frem, Herre,  
-> da det folk drog frem, som du havde vundet.  
->  **17** Du førte dem ind  
-> og plantede dem på det bjerg, du ejer,  
-> det sted, du har gjort til din bolig, Herre,  
+>  **13** I din trofasthed ledte du
+> det folk, du havde udfriet,
+> i din styrke førte du dem
+> til din hellige bolig.
+>  **14** Folkeslagene rystede, da de hørte det.
+> Filistæas indbyggere vred sig i veer,
+>  **15** Edoms høvdinge blev forfærdede,
+> Moabs mægtige blev grebet af rædsel,
+> alle Kana’ans indbyggere skælvede i angst.
+>  **16** De blev grebet af skræk og rædsel,
+> for din arms magt blev de stumme som sten,
+> da dit folk drog frem, Herre,
+> da det folk drog frem, som du havde vundet.
+>  **17** Du førte dem ind
+> og plantede dem på det bjerg, du ejer,
+> det sted, du har gjort til din bolig, Herre,
 > den helligdom, dine hænder har grundfæstet, Herre.
 
 >  **18** Herren er konge i al evighed.
 
 **19** For da Faraos heste med vogne og ryttere begav sig ud i havet, lod Herren vandet i havet vende tilbage over dem; men israelitterne gik tørskoet gennem havet. **20** Da greb Arons søster, profetinden Mirjam, sin pauke, og alle kvinderne fulgte hende i dansen med deres pauker. **21** Mirjam sang for dem:
 
-> Syng for Herren,  
-> han er højt ophøjet,  
-> heste og ryttere  
+> Syng for Herren,
+> han er højt ophøjet,
+> heste og ryttere
 > styrtede han i havet.
 
 #### Vagtler og manna
@@ -1686,8 +1686,8 @@ Når du indsætter Aron og hans sønner, **10** skal du føre tyren frem foran �
 
 **17** Da Josva hørte larmen fra folket, sagde han til Moses: »Der lyder krigslarm i lejren.« **18** Men han svarede:
 
-> »Det er ikke sang om sejr, der lyder,  
-> det er ikke sang om nederlag, der lyder,  
+> »Det er ikke sang om sejr, der lyder,
+> det er ikke sang om nederlag, der lyder,
 > det er larmende sang, jeg hører.«
 
 **19** Da Moses kom nærmere til lejren og så tyrekalven og dem, der dansede, flammede hans vrede op, og han slyngede tavlerne til jorden ved bjergets fod og knuste dem. **20** Derpå tog han kalven, som de havde lavet, og brændte den; han knuste den til støv og spredte det ud over vandet, og det gav han israelitterne at drikke. **21** Moses sagde til Aron: »Hvad har folket her gjort dig, siden du har bragt så stor synd over det?« **22** Aron svarede: »Du må ikke være vred, herre, du ved selv, hvor slet det står til med dette folk. **23** De sagde til mig: Lav os en gud, som kan gå foran os, for vi ved ikke, hvad der er blevet af denne Moses, som førte os op fra Egypten. **24** Da sagde jeg til dem: De, der har guldsmykker, skal tage dem af. De gav mig dem, jeg kastede dem i ilden, og ud kom denne tyrekalv.«
@@ -2522,8 +2522,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **22** Herren talte til Moses og sagde: **23** Sig til Aron og hans sønner: Sådan skal I velsigne israelitterne. Sig til dem:
 
->  **24** Herren velsigne dig og bevare dig,  
->  **25** Herren lade sit ansigt lyse over dig og være dig nådig,  
+>  **24** Herren velsigne dig og bevare dig,
+>  **25** Herren lade sit ansigt lyse over dig og være dig nådig,
 >  **26** Herren løfte sit ansigt mod dig og give dig fred.
 
 **27** Sæt mit navn på israelitterne, så vil jeg velsigne dem.
@@ -2606,13 +2606,13 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **29** Moses sagde til Hobab, søn af midjanitten Re’uel, der var Moses’ svigerfar: »Vi bryder nu op og drager til det sted, som Herren har sagt, han vil give os. Gå med os, vi vil belønne dig rigeligt, for Herren har givet Israel rige løfter.« **30** Men han svarede: »Nej, jeg vil vende tilbage til mit land og min slægt.« **31** Moses sagde: »Du må ikke forlade os! Du ved jo, hvor vi kan slå lejr i ørkenen; du skal være øje for os. **32** Hvis du går med os, vil vi belønne dig rigeligt med det, Herren giver os.« **33** Så brød de op fra Herrens bjerg og gik tre dagsrejser, og Herrens pagts ark brød op og gik foran dem de tre dagsrejser for at udsøge lejrplads til dem. **34** Og Herrens sky var over dem om dagen, når de brød op fra lejren. **35** Hver gang arken brød op, sagde Moses:
 
-> »Rejs dig, Herre,  
-> så dine fjender spredes  
+> »Rejs dig, Herre,
+> så dine fjender spredes
 > og dine modstandere flygter for dig!«
 
 **36** Og hver gang den standsede, sagde han:
 
-> »Vend tilbage, Herre,  
+> »Vend tilbage, Herre,
 > du Israels stammers titusinder!«
 
 ### 4 Mos 11
@@ -2645,16 +2645,16 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **4** Straks sagde Herren til Moses og Aron og Mirjam: »Gå alle tre ud til Åbenbaringsteltet!« De gik alle tre derud, **5** og Herren steg ned i en skysøjle og stillede sig i indgangen til teltet. Han kaldte på Aron og Mirjam, og de trådte begge frem. **6** Da sagde Herren:
 
-> »Hør mine ord!  
-> Er der en profet blandt jer,  
-> giver jeg mig til kende for ham i et syn,  
-> taler til ham i en drøm.  
->  **7** Sådan gør jeg ikke med min tjener Moses,  
-> han er den betroede i hele mit hus,  
->  **8** med ham taler jeg ansigt til ansigt,  
-> ligefremt og ikke i gåder,  
-> han får Herrens skikkelse at se.  
-> Hvor vover I da  
+> »Hør mine ord!
+> Er der en profet blandt jer,
+> giver jeg mig til kende for ham i et syn,
+> taler til ham i en drøm.
+>  **7** Sådan gør jeg ikke med min tjener Moses,
+> han er den betroede i hele mit hus,
+>  **8** med ham taler jeg ansigt til ansigt,
+> ligefremt og ikke i gåder,
+> han får Herrens skikkelse at se.
+> Hvor vover I da
 > at tale mod min tjener Moses?«
 
 **9** Herrens vrede flammede op imod dem, og han gik bort. **10** Da skyen fjernede sig fra teltet, var Mirjam hvid som sne af spedalskhed; Aron vendte sig mod Mirjam og så, at hun var spedalsk. **11** Da sagde Aron til Moses: »Hør mig, herre! Lad ikke straffen ramme os for den synd, vi var så tåbelige at begå. **12** Lad hende ikke blive som en dødfødt, hvis krop er halvt fortæret, når den kommer ud af moders liv.« **13** Da råbte Moses til Herren: »Ak nej! Gør hende dog rask!« **14** Men Herren sagde til Moses: »Hvis hendes far havde spyttet hende i ansigtet, måtte hun så ikke bære sin skam i syv dage? I syv dage skal hun lukkes ude fra lejren; derefter kan hun komme ind igen.« **15** Så blev Mirjam lukket ude fra lejren i syv dage, og folket brød ikke op, før Mirjam var kommet ind igen. **16** Derefter brød de op fra Haserot og slog lejr i Parans ørken.
@@ -2791,37 +2791,37 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **10** Derpå brød israelitterne op og slog lejr i Obot. **11** De brød op fra Obot og slog lejr i Ijje-ha-Abarim i ørkenen øst for Moab. **12** Derfra brød de op og slog lejr i Zered-dalen. **13** Derfra brød de op og slog lejr i ørkenen på den anden side af Arnonfloden, som kommer fra amoritternes område. Arnon er grænsen mellem moabitterne og amoritterne. **14** Derfor hedder det i Bogen om Herrens Krige:
 
-> »....Vaheb i Sufa og dalene,  
-> Arnon **15** og dalenes skråning,  
-> som strækker sig hen imod Ar  
+> »....Vaheb i Sufa og dalene,
+> Arnon **15** og dalenes skråning,
+> som strækker sig hen imod Ar
 > og grænser til Moabs område.«
 
 **16** Derfra drog de til Be’er. Det er den brønd, hvor Herren sagde til Moses: »Kald folket sammen, så vil jeg give dem vand.« **17** Da sang israelitterne denne sang:
 
-> »Brønd, væld frem!  
-> Syng om den!  
->  **18** Brønden, som stormænd gravede,  
-> som folkets fyrster borede,  
+> »Brønd, væld frem!
+> Syng om den!
+>  **18** Brønden, som stormænd gravede,
+> som folkets fyrster borede,
 > fyrster med scepter og herskerstav.«
 
 Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel til Bamot **20** og fra Bamot til dalen i Moabs land neden for Pisgas tinde, hvorfra man har udsigt over ørkenlandet.
 
 **21** Israelitterne sendte bud til amoritterkongen Sihon: **22** »Lad os drage gennem dit land! Vi drejer ikke af gennem marker og vingårde, vi drikker ikke af brøndvandet. Vi går ad Kongevejen, indtil vi er kommet igennem dit område.« **23** Men Sihon gav ikke Israel tilladelse til at drage igennem sit land. Sihon samlede hele sin hær og rykkede ud mod Israel i ørkenen; han kom til Jasa og gik til angreb på Israel. **24** Men Israel slog ham med sværd og erobrede hans land fra Arnon til Jabbok, lige til ammonitternes land, for ammonitternes grænse var befæstet. **25** Israel indtog alle disse byer og bosatte sig i alle amoritternes byer, i Heshbon med tilhørende småbyer. **26** Heshbon var amoritterkongen Sihons by. Han havde ført krig mod den tidligere moabitterkonge og havde taget hele hans land lige til Arnon. **27** Derfor siger digterne:
 
-> »Kom til Heshbon, den skal bygges op,  
-> Sihons by skal grundfæstes.  
->  **28** Ild slog ud fra Heshbon,  
-> en flamme fra Sihons by;  
-> den fortærede Ar i Moab,  
-> Arnonhøjenes Ba’aler.  
->  **29** Ve dig, Moab!  
-> Kemoshs folk, du er gået til grunde!  
-> Sønnerne har han gjort til flygtninge,  
-> døtrene er i fangenskab  
-> hos amoritterkongen Sihon.  
->  **30** Vi skød dem ned,  
-> Heshbon gik til grunde lige til Dibon;  
-> vi tilintetgjorde dem lige til Nofa,  
+> »Kom til Heshbon, den skal bygges op,
+> Sihons by skal grundfæstes.
+>  **28** Ild slog ud fra Heshbon,
+> en flamme fra Sihons by;
+> den fortærede Ar i Moab,
+> Arnonhøjenes Ba’aler.
+>  **29** Ve dig, Moab!
+> Kemoshs folk, du er gået til grunde!
+> Sønnerne har han gjort til flygtninge,
+> døtrene er i fangenskab
+> hos amoritterkongen Sihon.
+>  **30** Vi skød dem ned,
+> Heshbon gik til grunde lige til Dibon;
+> vi tilintetgjorde dem lige til Nofa,
 > der ligger over for Medeba.«
 
 **31** Så bosatte israelitterne sig i amoritternes land.
@@ -2848,44 +2848,44 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **1** Bileam sagde til Balak: »Byg mig syv altre her, og skaf mig syv tyre og syv væddere!« **2** Balak gjorde, som Bileam havde sagt, og han ofrede en tyr og en vædder på hvert alter. **3** Derpå sagde Bileam til Balak: »Bliv stående her ved dit brændoffer, mens jeg går derhen; måske vil Herren møde mig. Det, han lader mig se, vil jeg fortælle dig.« Så gik han hen på en nøgen klippeflade, **4** og her mødte Gud Bileam. Bileam sagde til ham: »Jeg har gjort de syv altre klar, og jeg har ofret en tyr og en vædder på hvert af dem.« **5** Da lagde Herren et ord i Bileams mund og sagde: »Vend tilbage til Balak og sig dette til ham!« **6** Han vendte tilbage til Balak, der stadig stod ved sit brændoffer sammen med alle Moabs stormænd. **7** Bileam fremsagde sit spådomsord:
 
-> »Fra Aram lod Balak mig hente,  
-> Moabs konge lod mig hente fra Østens bjerge:  
-> ›Kom og forband Jakob for mig,  
-> kom og nedkald vrede over Israel!‹  
->  **8** Hvordan skulle jeg forbande, når Gud ikke forbander?  
-> Hvordan skulle jeg nedkalde vrede, når Herren ikke er vred?  
->  **9** Fra toppen af klipperne ser jeg det,  
-> fra højene skimter jeg det;  
-> se, det er et folk, der bor for sig selv,  
-> det regner sig ikke blandt folkeslagene.  
->  **10** Hvem kan tælle Jakobs støvkorn,  
-> hvem kan opregne Israels støvfnug?  
-> Måtte jeg dø, som retskafne dør,  
+> »Fra Aram lod Balak mig hente,
+> Moabs konge lod mig hente fra Østens bjerge:
+> ›Kom og forband Jakob for mig,
+> kom og nedkald vrede over Israel!‹
+>  **8** Hvordan skulle jeg forbande, når Gud ikke forbander?
+> Hvordan skulle jeg nedkalde vrede, når Herren ikke er vred?
+>  **9** Fra toppen af klipperne ser jeg det,
+> fra højene skimter jeg det;
+> se, det er et folk, der bor for sig selv,
+> det regner sig ikke blandt folkeslagene.
+>  **10** Hvem kan tælle Jakobs støvkorn,
+> hvem kan opregne Israels støvfnug?
+> Måtte jeg dø, som retskafne dør,
 > måtte jeg få et endeligt som de!«
 
 **11** Men Balak sagde til Bileam: »Hvad er det, du gør imod mig? Jeg lod dig hente, for at du skulle forbande mine fjender, og nu har du velsignet dem!« **12** Han svarede: »Skal jeg da ikke omhyggeligt sige det, Herren lægger mig i munden?« **13** Så sagde Balak til ham: »Kom nu med mig til et andet sted, hvorfra du kan se folket. Her ser du kun den yderste del af det, ikke det hele. Derfra skal du forbande det for mig.« **14** Han tog ham med til udkigsstedet på Pisgas tinde, og han byggede syv altre og ofrede en tyr og en vædder på hvert af dem. **15** Bileam sagde til Balak: »Bliv stående her ved dit brændoffer, mens jeg går hen og møder Herren.« **16** Herren mødtes med Bileam og lagde et ord i hans mund, og så sagde han: »Vend tilbage til Balak og sig dette til ham!« **17** Han kom hen til Balak, der stadig stod ved sit brændoffer sammen med Moabs stormænd. Balak spurgte ham: »Hvad har Herren talt?« **18** Da fremsagde Bileam sit spådomsord:
 
-> »Rejs dig, Balak, og hør efter,  
-> lyt til mig, Sippors søn!  
->  **19** Gud er ikke et menneske, så han lyver,  
-> et menneskebarn, så han angrer.  
-> Når han har sagt noget, gør han det;  
-> når han har lovet noget, lader han det ske:  
->  **20** ›Jeg har hentet ham til at velsigne,  
-> han skal velsigne, jeg opgiver det ikke!‹  
->  **21** Der ses ingen elendighed i Jakob,  
-> øjnes ingen ulykke i Israel;  
-> Herren dets Gud er med det,  
-> der lyder kongehyldest hos det.  
->  **22** Gud førte det ud af Egypten,  
-> det bærer vildoksens horn.  
->  **23** Spådomskunst udretter intet mod Jakob,  
-> trolddom intet mod Israel.  
-> Nu siges det om Jakob og om Israel:  
-> Hvad Gud dog har gjort!  
->  **24** Se, et folk, der står op som en hunløve  
-> og rejser sig som en løve!  
-> Det lægger sig ikke, før det har ædt sit bytte  
+> »Rejs dig, Balak, og hør efter,
+> lyt til mig, Sippors søn!
+>  **19** Gud er ikke et menneske, så han lyver,
+> et menneskebarn, så han angrer.
+> Når han har sagt noget, gør han det;
+> når han har lovet noget, lader han det ske:
+>  **20** ›Jeg har hentet ham til at velsigne,
+> han skal velsigne, jeg opgiver det ikke!‹
+>  **21** Der ses ingen elendighed i Jakob,
+> øjnes ingen ulykke i Israel;
+> Herren dets Gud er med det,
+> der lyder kongehyldest hos det.
+>  **22** Gud førte det ud af Egypten,
+> det bærer vildoksens horn.
+>  **23** Spådomskunst udretter intet mod Jakob,
+> trolddom intet mod Israel.
+> Nu siges det om Jakob og om Israel:
+> Hvad Gud dog har gjort!
+>  **24** Se, et folk, der står op som en hunløve
+> og rejser sig som en løve!
+> Det lægger sig ikke, før det har ædt sit bytte
 > og drukket de faldnes blod.«
 
 **25** Balak sagde til Bileam: »Når du nu ikke forbander det, så lad i det mindste være med at velsigne det!« **26** Men Bileam svarede Balak: »Har jeg ikke allerede sagt dig, at jeg vil gøre alt, hvad Herren siger.«
@@ -2896,67 +2896,67 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **1** Da Bileam så, at det var godt i Herrens øjne, at Israel blev velsignet, gik han ikke hen for at tage varsler, som han havde gjort de forrige gange, men vendte sig mod ørkenen. **2** Og da han løftede blikket og så Israel ligge lejret, stamme ved stamme, kom Guds ånd over ham, **3** og han fremsagde sit spådomsord:
 
-> »Således siger Bileam, Beors søn,  
-> således siger den mand, hvis øje ser klart;  
->  **4** således siger han, der hører Guds tale  
-> og skuer den Almægtiges syner,  
-> hensunken, men med øjnene åbne:  
->  **5** Hvor dejlige er dine telte, Jakob,  
-> dine boliger, Israel!  
->  **6** Som palmer i lange rækker,  
-> som haver ved en flod,  
-> som aloe-træer, Herren har plantet,  
-> som cedertræer ved vand.  
->  **7** Dets spande løber over med vand,  
-> der er rigeligt vand til dets korn.  
-> Dets konge er mægtigere end Agag,  
-> dets kongedømme er ophøjet.  
->  **8** Gud førte det ud af Egypten,  
-> det bærer vildoksens horn;  
-> det æder folkeslag, der er dets fjender,  
-> det gnaver deres ben,  
-> det knuser sine undertrykkere.  
->  **9** Det har lagt sig til hvile som en løve,  
-> som en hunløve, hvem tør vække det?  
-> Velsignet de, der velsigner dig,  
-> forbandet de, der forbander dig!«  
+> »Således siger Bileam, Beors søn,
+> således siger den mand, hvis øje ser klart;
+>  **4** således siger han, der hører Guds tale
+> og skuer den Almægtiges syner,
+> hensunken, men med øjnene åbne:
+>  **5** Hvor dejlige er dine telte, Jakob,
+> dine boliger, Israel!
+>  **6** Som palmer i lange rækker,
+> som haver ved en flod,
+> som aloe-træer, Herren har plantet,
+> som cedertræer ved vand.
+>  **7** Dets spande løber over med vand,
+> der er rigeligt vand til dets korn.
+> Dets konge er mægtigere end Agag,
+> dets kongedømme er ophøjet.
+>  **8** Gud førte det ud af Egypten,
+> det bærer vildoksens horn;
+> det æder folkeslag, der er dets fjender,
+> det gnaver deres ben,
+> det knuser sine undertrykkere.
+>  **9** Det har lagt sig til hvile som en løve,
+> som en hunløve, hvem tør vække det?
+> Velsignet de, der velsigner dig,
+> forbandet de, der forbander dig!«
 
 **10** Nu blev Balak vred på Bileam; han slog hænderne sammen og sagde til ham: »Det var, for at du skulle forbande mine fjender, jeg tilkaldte dig, og tre gange har du nu velsignet dem! **11** Skynd dig hjem! Jeg har ganske vist lovet, at jeg ville betale dig, men Herren har forhindret, at du får betaling.« **12** Bileam svarede Balak: »Sagde jeg måske ikke til de sendebud, du sendte til mig, **13** at selv om du, Balak, gav mig alt det sølv og guld, der kan være i dit hus, kunne jeg ikke af mig selv gøre noget som helst, der går mod Herrens befaling. Kun det, Herren taler til mig, kan jeg tale. **14** Nu drager jeg hjem til mit folk. Men jeg vil advare dig om, hvad dette folk skal gøre ved dit folk engang i fremtiden.« **15** Bileam fremsagde sit spådomsord:
 
-> »Således siger Bileam, Beors søn,  
-> således siger den mand, hvis øje ser klart;  
->  **16** således siger han, der hører Guds tale,  
-> som kender den Højestes viden  
-> og skuer den Almægtiges syner,  
-> hensunken, men med øjnene åbne:  
->  **17** Jeg ser ham, dog ikke nu,  
-> skimter ham, men ikke nær.  
-> En stjerne træder frem fra Jakob,  
-> en herskerstav rejser sig fra Israel,  
-> den skal knuse Moabs tindinger  
-> og issen på alle Set-sønnerne.  
->  **18** Edom bliver erobret,  
-> hver flygtning fra Se’ir tilintetgøres.  
->  **19** Jakob skal kue sine fjender,  
+> »Således siger Bileam, Beors søn,
+> således siger den mand, hvis øje ser klart;
+>  **16** således siger han, der hører Guds tale,
+> som kender den Højestes viden
+> og skuer den Almægtiges syner,
+> hensunken, men med øjnene åbne:
+>  **17** Jeg ser ham, dog ikke nu,
+> skimter ham, men ikke nær.
+> En stjerne træder frem fra Jakob,
+> en herskerstav rejser sig fra Israel,
+> den skal knuse Moabs tindinger
+> og issen på alle Set-sønnerne.
+>  **18** Edom bliver erobret,
+> hver flygtning fra Se’ir tilintetgøres.
+>  **19** Jakob skal kue sine fjender,
 > Israel skal sejre.«
 
 **20** Da han så Amalek, fremsagde han dette spådomsord:
 
-> »Først blandt folkene er Amalek,  
+> »Først blandt folkene er Amalek,
 > dets fremtid er viet til undergang.«
 
 **21** Da han så kenitterne, fremsagde han dette spådomsord:
 
-> »Så sikker din bolig end er,  
-> og din rede, anbragt på klippen,  
->  **22** skal du dog blive plyndret, Kain!  
+> »Så sikker din bolig end er,
+> og din rede, anbragt på klippen,
+>  **22** skal du dog blive plyndret, Kain!
 > Hvor længe, før Assur fører dig i fangenskab!«
 
 **23** Og Bileam fremsagde dette spådomsord:
 
-> »Ak, hvem overlever af Nordens folk?  
->  **24** Der kommer skibe fra kittæerne,  
-> de betvinger både Assur og Eber.  
+> »Ak, hvem overlever af Nordens folk?
+>  **24** Der kommer skibe fra kittæerne,
+> de betvinger både Assur og Eber.
 > Så skal også de gå til grunde!«
 
 **25** Så brød Bileam op og drog hjem til sig selv. Og også Balak gik sin vej.
@@ -3783,157 +3783,157 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 
 ### 5 Mos 32
 
->  **1** Lyt, du himmel, jeg vil tale,  
-> hør mine ord, du jord!  
->  **2** Min belæring skal dryppe som regn,  
-> som dug skal min tale strømme,  
-> som regnskyl på grønne enge,  
-> som regndråber på græsset.  
->  **3** Herrens navn vil jeg forkynde,  
-> giv vor Gud ære!  
->  **4** Han er klippen, hvis gerning er fuldkommen,  
-> alle hans veje er rette,  
-> en trofast Gud uden svig,  
-> retfærdig og retskaffen.  
->  **5** En forkvaklet og forvildet slægt handlede ondt mod ham,  
-> på grund af deres skyld er de ikke hans børn.  
->  **6** Er det måden at lønne Herren,  
-> du tåbelige, uforstandige folk?  
-> Han er dog din fader og skaber,  
+>  **1** Lyt, du himmel, jeg vil tale,
+> hør mine ord, du jord!
+>  **2** Min belæring skal dryppe som regn,
+> som dug skal min tale strømme,
+> som regnskyl på grønne enge,
+> som regndråber på græsset.
+>  **3** Herrens navn vil jeg forkynde,
+> giv vor Gud ære!
+>  **4** Han er klippen, hvis gerning er fuldkommen,
+> alle hans veje er rette,
+> en trofast Gud uden svig,
+> retfærdig og retskaffen.
+>  **5** En forkvaklet og forvildet slægt handlede ondt mod ham,
+> på grund af deres skyld er de ikke hans børn.
+>  **6** Er det måden at lønne Herren,
+> du tåbelige, uforstandige folk?
+> Han er dog din fader og skaber,
 > det var ham, der skabte og formede dig.
 
->  **7** Tænk på fortids dage,  
-> giv agt på slægternes år;  
-> spørg din far, lad ham fortælle,  
-> lad de gamle berette for dig:  
->  **8** Da den Højeste fordelte folkene,  
-> da han skilte menneskene fra hinanden,  
-> fastsatte han folkenes områder  
-> efter tallet på gudssønnerne.  
->  **9** Herrens del blev hans folk,  
+>  **7** Tænk på fortids dage,
+> giv agt på slægternes år;
+> spørg din far, lad ham fortælle,
+> lad de gamle berette for dig:
+>  **8** Da den Højeste fordelte folkene,
+> da han skilte menneskene fra hinanden,
+> fastsatte han folkenes områder
+> efter tallet på gudssønnerne.
+>  **9** Herrens del blev hans folk,
 > Jakob blev hans arvelod.
 
->  **10** Han fandt det i ørkenlandet,  
-> i den tomme, hylende ødemark;  
-> han kredsede om det, holdt øje med det,  
-> passede på det som sin øjesten.  
->  **11** Som en ørn, der vækker sit kuld op,  
-> og flyver frem og tilbage over sine unger,  
-> bredte han sine vinger ud, tog det op  
-> og bar det på sine vinger.  
->  **12** Det var Herren alene, der førte det,  
-> ingen fremmed gud var med ham.  
->  **13** Han førte det frem over landets høje,  
-> det fik markens afgrøde at spise.  
-> Han mættede det med honning fra bjerget,  
-> med olie fra flinteklippen,  
->  **14** med tykmælk fra køer og mælk fra får,  
-> med fedt fra vædderlam,  
-> fra væddere og bukke fra Bashan,  
-> med hvedekornets nyrefedt;  
+>  **10** Han fandt det i ørkenlandet,
+> i den tomme, hylende ødemark;
+> han kredsede om det, holdt øje med det,
+> passede på det som sin øjesten.
+>  **11** Som en ørn, der vækker sit kuld op,
+> og flyver frem og tilbage over sine unger,
+> bredte han sine vinger ud, tog det op
+> og bar det på sine vinger.
+>  **12** Det var Herren alene, der førte det,
+> ingen fremmed gud var med ham.
+>  **13** Han førte det frem over landets høje,
+> det fik markens afgrøde at spise.
+> Han mættede det med honning fra bjerget,
+> med olie fra flinteklippen,
+>  **14** med tykmælk fra køer og mælk fra får,
+> med fedt fra vædderlam,
+> fra væddere og bukke fra Bashan,
+> med hvedekornets nyrefedt;
 > drueblod drak du som skummende vin.
 
->  **15** Men Jeshurun blev fed og slog bagud,  
-> du blev fed, du blev tyk, du blev trind!  
-> Han forkastede den Gud, der havde skabt ham,  
-> og viste foragt for sin frelses klippe.  
->  **16** De æggede hans vrede med fremmede guder  
-> og vakte hans trods med afskyelige ting.  
->  **17** De ofrede til dæmoner, som ikke er guder,  
-> til guder, de ikke før havde kendt,  
-> nye guder, der lige var kommet til,  
-> jeres fædre kendte ikke til dem.  
->  **18** Den klippe, der fødte dig, forsømte du,  
+>  **15** Men Jeshurun blev fed og slog bagud,
+> du blev fed, du blev tyk, du blev trind!
+> Han forkastede den Gud, der havde skabt ham,
+> og viste foragt for sin frelses klippe.
+>  **16** De æggede hans vrede med fremmede guder
+> og vakte hans trods med afskyelige ting.
+>  **17** De ofrede til dæmoner, som ikke er guder,
+> til guder, de ikke før havde kendt,
+> nye guder, der lige var kommet til,
+> jeres fædre kendte ikke til dem.
+>  **18** Den klippe, der fødte dig, forsømte du,
 > du glemte den Gud, der bragte dig til verden.
 
->  **19** Herren så det og forkastede dem,  
-> for hans sønner og døtre havde krænket ham.  
->  **20** Han sagde: Jeg vil skjule mit ansigt for dem,  
-> jeg vil se, hvad der bliver af dem;  
-> de er en svigefuld slægt,  
-> børn man ikke kan stole på.  
->  **21** De har ægget min vrede med noget, der ikke er Gud,  
-> vakt min trods med deres tomme guder.  
-> Derfor vil jeg ægge deres vrede med noget, der ikke er et folk,  
-> vække deres trods med et tåbeligt folk.  
->  **22** Min vrede står i flammer,  
-> den brænder til dødsrigets dyb,  
-> fortærer jorden og dens afgrøde,  
-> antænder bjergenes grundvolde.  
->  **23** Jeg hober ulykker op over dem,  
-> alle mine pile vil jeg bruge på dem;  
->  **24** de afkræftes af sult,  
-> fortæres af feberbrand og dødelig sot;  
-> rovdyr med skarpe tænder slipper jeg løs  
-> og giftige slanger, der kryber i støvet.  
->  **25** Ude gør sværdet barnløs,  
-> inde skal rædslen dræbe  
-> ung mand og pige,  
+>  **19** Herren så det og forkastede dem,
+> for hans sønner og døtre havde krænket ham.
+>  **20** Han sagde: Jeg vil skjule mit ansigt for dem,
+> jeg vil se, hvad der bliver af dem;
+> de er en svigefuld slægt,
+> børn man ikke kan stole på.
+>  **21** De har ægget min vrede med noget, der ikke er Gud,
+> vakt min trods med deres tomme guder.
+> Derfor vil jeg ægge deres vrede med noget, der ikke er et folk,
+> vække deres trods med et tåbeligt folk.
+>  **22** Min vrede står i flammer,
+> den brænder til dødsrigets dyb,
+> fortærer jorden og dens afgrøde,
+> antænder bjergenes grundvolde.
+>  **23** Jeg hober ulykker op over dem,
+> alle mine pile vil jeg bruge på dem;
+>  **24** de afkræftes af sult,
+> fortæres af feberbrand og dødelig sot;
+> rovdyr med skarpe tænder slipper jeg løs
+> og giftige slanger, der kryber i støvet.
+>  **25** Ude gør sværdet barnløs,
+> inde skal rædslen dræbe
+> ung mand og pige,
 > spædbarn og olding.
 
->  **26** Jeg tænkte: Jeg slår dem ned,  
-> udsletter deres minde blandt mennesker.  
->  **27** Men jeg frygtede, at fjenden skulle krænke mig,  
-> at deres modstandere skulle forvrænge det  
-> og sige: Vores hånd er løftet,  
-> Herren har intet udført!  
->  **28** Men de er et folk, hvis planer mislykkes,  
-> de er uden forstand.  
->  **29** Var de kloge, havde de indset dette  
+>  **26** Jeg tænkte: Jeg slår dem ned,
+> udsletter deres minde blandt mennesker.
+>  **27** Men jeg frygtede, at fjenden skulle krænke mig,
+> at deres modstandere skulle forvrænge det
+> og sige: Vores hånd er løftet,
+> Herren har intet udført!
+>  **28** Men de er et folk, hvis planer mislykkes,
+> de er uden forstand.
+>  **29** Var de kloge, havde de indset dette
 > og tænkt på, hvad der skulle blive af dem.
 
->  **30** Hvordan kan én forfølge tusind  
-> eller to jage ti tusind,  
-> hvis ikke Herren har overgivet dem,  
+>  **30** Hvordan kan én forfølge tusind
+> eller to jage ti tusind,
+> hvis ikke Herren har overgivet dem,
 > deres klippe har prisgivet dem?
 
->  **31** Dog, deres klippe er ikke som vores,  
-> vore fjender skal ikke være dommere.  
->  **32** Deres vinstok stammer fra Sodoma,  
-> den har stået på Gomorras skråninger;  
-> deres druer er giftige,  
-> drueklaserne er bitre,  
->  **33** deres vin er slangegift,  
+>  **31** Dog, deres klippe er ikke som vores,
+> vore fjender skal ikke være dommere.
+>  **32** Deres vinstok stammer fra Sodoma,
+> den har stået på Gomorras skråninger;
+> deres druer er giftige,
+> drueklaserne er bitre,
+>  **33** deres vin er slangegift,
 > en frygtelig øglegift.
 
->  **34** Det er opbevaret hos mig,  
-> under segl i mine våbenkamre.  
->  **35** Hævnen og gengældelsen tilhører mig,  
-> til det øjeblik deres fod vakler.  
-> Deres ulykkes dag er nær,  
-> snart skal de indhentes af deres skæbne.  
->  **36** For Herren vil skaffe sit folk ret,  
-> forbarme sig over sine tjenere,  
-> når han ser, at kræfterne svinder  
-> og hører fuldstændigt op.  
->  **37** Da vil han sige: Hvor er deres gud,  
-> den klippe, de stolede på,  
->  **38** som spiste deres slagtofres fedt  
-> og drak deres drikofres vin?  
-> Lad ham nu komme jer til hjælp!  
+>  **34** Det er opbevaret hos mig,
+> under segl i mine våbenkamre.
+>  **35** Hævnen og gengældelsen tilhører mig,
+> til det øjeblik deres fod vakler.
+> Deres ulykkes dag er nær,
+> snart skal de indhentes af deres skæbne.
+>  **36** For Herren vil skaffe sit folk ret,
+> forbarme sig over sine tjenere,
+> når han ser, at kræfterne svinder
+> og hører fuldstændigt op.
+>  **37** Da vil han sige: Hvor er deres gud,
+> den klippe, de stolede på,
+>  **38** som spiste deres slagtofres fedt
+> og drak deres drikofres vin?
+> Lad ham nu komme jer til hjælp!
 > Lad ham være jeres værn!
 
->  **39** Indse dog, at det er mig, kun mig,  
-> der er ingen Gud ved siden af mig;  
-> det er mig, der dræber og gør levende,  
-> har jeg knust, er det mig, der læger;  
-> ingen kan rive nogen ud af min hånd.  
->  **40** Jeg løfter min hånd mod himlen og sværger:  
-> Så sandt jeg lever for evigt,  
->  **41** vil jeg hvæsse mit lynende sværd  
-> og min hånd gribe fat om koggeret;  
-> jeg tager hævn over mine fjender,  
-> gør gengæld mod dem, der hader mig.  
->  **42** Jeg beruser mine pile i blod,  
-> mit sværd skal fortære kød,  
-> blodet af faldne og fanger,  
+>  **39** Indse dog, at det er mig, kun mig,
+> der er ingen Gud ved siden af mig;
+> det er mig, der dræber og gør levende,
+> har jeg knust, er det mig, der læger;
+> ingen kan rive nogen ud af min hånd.
+>  **40** Jeg løfter min hånd mod himlen og sværger:
+> Så sandt jeg lever for evigt,
+>  **41** vil jeg hvæsse mit lynende sværd
+> og min hånd gribe fat om koggeret;
+> jeg tager hævn over mine fjender,
+> gør gengæld mod dem, der hader mig.
+>  **42** Jeg beruser mine pile i blod,
+> mit sværd skal fortære kød,
+> blodet af faldne og fanger,
 > hovederne af fjendens høvdinge.
 
->  **43** Du himmel, bryd ud i jubel med ham,  
-> tilbed ham, I gudssønner,  
-> for han hævner sine tjeneres blod;  
-> han hævner sig på sine fjender,  
-> gør gengæld mod sine modstandere.  
+>  **43** Du himmel, bryd ud i jubel med ham,
+> tilbed ham, I gudssønner,
+> for han hævner sine tjeneres blod;
+> han hævner sig på sine fjender,
+> gør gengæld mod sine modstandere.
 > Han tilgiver sit folks land.
 
 **44** Moses fremsagde hele denne sang i folkets påhør sammen med Hosea, Nuns søn.
@@ -3950,133 +3950,133 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 
 **1** Dette er den velsignelse, som gudsmanden Moses velsignede israelitterne med før sin død. **2** Han sagde:
 
-> Herren kommer fra Sinaj,  
-> bryder frem fra Se’ir,  
-> han træder frem i stråleglans fra Parans bjerge,  
-> kommer fra Meribat-Kadesh,  
-> på hans højre side er Moabs skråninger.  
->  **3** Du, som elsker folkene,  
-> i din hånd er alle de hellige;  
-> de sidder ved dine fødder,  
-> tager imod dine ord.  
->  **4** Den lov, som Moses pålagde os,  
-> er blevet Jakobs forsamlings ejendom.  
->  **5** Der kom en konge i Jeshurun,  
-> da folkets høvdinge samledes,  
+> Herren kommer fra Sinaj,
+> bryder frem fra Se’ir,
+> han træder frem i stråleglans fra Parans bjerge,
+> kommer fra Meribat-Kadesh,
+> på hans højre side er Moabs skråninger.
+>  **3** Du, som elsker folkene,
+> i din hånd er alle de hellige;
+> de sidder ved dine fødder,
+> tager imod dine ord.
+>  **4** Den lov, som Moses pålagde os,
+> er blevet Jakobs forsamlings ejendom.
+>  **5** Der kom en konge i Jeshurun,
+> da folkets høvdinge samledes,
 > alle Israels stammer.
 
->  **6** Måtte Ruben leve og ikke dø,  
+>  **6** Måtte Ruben leve og ikke dø,
 > om end hans mænd kun bliver få.
 
 **7** Dette handler om Juda. Han sagde:
 
-> Herre, hør Judas røst,  
-> bring ham hjem til hans folk,  
-> vær du de hænder, der forsvarer ham,  
+> Herre, hør Judas røst,
+> bring ham hjem til hans folk,
+> vær du de hænder, der forsvarer ham,
 > en hjælp imod hans fjender.
 
 **8** Om Levi sagde han:
 
-> Dine Tummim og Urim  
-> tilhører din trofaste mand,  
-> ham satte du på prøve ved Massa,  
-> ham anklagede du ved Meribas vand.  
->  **9** Han sagde om sin far og mor:  
-> Jeg har ikke set dem!  
-> Han ville ikke kendes ved sine brødre,  
-> ville ikke vide af sine sønner.  
-> De har holdt dit ord  
-> og bevaret din pagt.  
->  **10** De skal lære Jakob dine retsregler  
-> og Israel din lov;  
-> de skal bringe røgelsesofre til dig,  
-> bringe helofre på dit alter.  
->  **11** Herre, velsign deres kraft,  
-> se nådigt til deres hænders værk.  
-> Knus lænderne på deres fjender,  
+> Dine Tummim og Urim
+> tilhører din trofaste mand,
+> ham satte du på prøve ved Massa,
+> ham anklagede du ved Meribas vand.
+>  **9** Han sagde om sin far og mor:
+> Jeg har ikke set dem!
+> Han ville ikke kendes ved sine brødre,
+> ville ikke vide af sine sønner.
+> De har holdt dit ord
+> og bevaret din pagt.
+>  **10** De skal lære Jakob dine retsregler
+> og Israel din lov;
+> de skal bringe røgelsesofre til dig,
+> bringe helofre på dit alter.
+>  **11** Herre, velsign deres kraft,
+> se nådigt til deres hænders værk.
+> Knus lænderne på deres fjender,
 > de, der hader dem, skal ikke rejse sig igen.
 
 **12** Om Benjamin sagde han:
 
-> Den, Herren elsker, bor i tryghed,  
-> den Højeste skærmer ham altid,  
+> Den, Herren elsker, bor i tryghed,
+> den Højeste skærmer ham altid,
 > han bor mellem hans bjergsider.
 
 **13** Om Josef sagde han:
 
-> Velsignet af Herren er hans land  
-> med herligheder fra himlen deroppe  
-> og fra urdybet, der hviler dernede,  
->  **14** med herligheder, solen bringer frem,  
-> og herligheder, månen driver frem,  
->  **15** med det ypperste fra de ældgamle bjerge  
-> og herligheder fra de evige høje,  
->  **16** med herligheder fra jorden med alt, hvad den rummer,  
-> med nåde fra ham, der bor i tornebusken.  
-> Det skal komme over Josefs hoved,  
-> over issen på fyrsten blandt brødre.  
->  **17** Prægtig er han, oksens førstefødte,  
-> hans horn er vildoksens horn,  
-> med dem skal han stange folkene  
-> helt ud til jordens ender.  
-> Sådan er Efraims titusinder,  
+> Velsignet af Herren er hans land
+> med herligheder fra himlen deroppe
+> og fra urdybet, der hviler dernede,
+>  **14** med herligheder, solen bringer frem,
+> og herligheder, månen driver frem,
+>  **15** med det ypperste fra de ældgamle bjerge
+> og herligheder fra de evige høje,
+>  **16** med herligheder fra jorden med alt, hvad den rummer,
+> med nåde fra ham, der bor i tornebusken.
+> Det skal komme over Josefs hoved,
+> over issen på fyrsten blandt brødre.
+>  **17** Prægtig er han, oksens førstefødte,
+> hans horn er vildoksens horn,
+> med dem skal han stange folkene
+> helt ud til jordens ender.
+> Sådan er Efraims titusinder,
 > sådan er Manasses tusinder.
 
 **18** Om Zebulon sagde han:
 
-> Zebulon, glæd dig, når du drager ud,  
-> og du, Issakar, hjemme i dine telte!  
->  **19** De stævner stammer til bjerget,  
-> dér bringer de rette ofre.  
-> For af havenes overflod suger de til sig,  
+> Zebulon, glæd dig, når du drager ud,
+> og du, Issakar, hjemme i dine telte!
+>  **19** De stævner stammer til bjerget,
+> dér bringer de rette ofre.
+> For af havenes overflod suger de til sig,
 > og af skatte, der ligger skjult i sandet.
 
 **20** Om Gad sagde han:
 
-> Lovet være han, der skaffer Gad plads.  
-> Han lægger sig som en hunløve,  
-> han sønderriver både arme og isse.  
->  **21** Han udså sig et førstegrødeland,  
-> for dér var herskerens mark.  
-> – Og folkets høvdinge samledes. –  
-> Han fuldbyrdede Herrens retfærdighed  
+> Lovet være han, der skaffer Gad plads.
+> Han lægger sig som en hunløve,
+> han sønderriver både arme og isse.
+>  **21** Han udså sig et førstegrødeland,
+> for dér var herskerens mark.
+> – Og folkets høvdinge samledes. –
+> Han fuldbyrdede Herrens retfærdighed
 > og hans domme i Israel.
 
 **22** Om Dan sagde han:
 
-> Dan er en løveunge,  
+> Dan er en løveunge,
 > han springer frem fra Bashan.
 
 **23** Om Naftali sagde han:
 
-> Naftali er mættet med nåde,  
-> fyldt med Herrens velsignelse.  
+> Naftali er mættet med nåde,
+> fyldt med Herrens velsignelse.
 > Mod vest og syd skal han erobre land.
 
 **24** Om Asher sagde han:
 
-> Velsignet være Asher blandt sønner,  
-> måtte han være elsket af sine brødre  
-> og dyppe sin fod i olie.  
->  **25** Måtte dine portslåer være jern og bronze,  
+> Velsignet være Asher blandt sønner,
+> måtte han være elsket af sine brødre
+> og dyppe sin fod i olie.
+>  **25** Måtte dine portslåer være jern og bronze,
 > din livskraft vare, så længe du lever.
 
->  **26** Der er ingen som Jeshuruns Gud,  
-> der rider hen over himlen for at hjælpe dig;  
-> i sin højhed bor han i skyerne,  
->  **27** Gud fra ældgammel tid.  
-> Men hernede er hans evige arme,  
-> han drev fjenden bort foran dig,  
-> han sagde: Udryd dem!  
->  **28** Israel kom til at bo i tryghed,  
-> for sig selv fik Jakob en bolig  
-> i et land med korn og med vin,  
-> et land, hvor himlen drypper med dug.  
->  **29** Lykkelig er du, Israel! Hvem er som du?  
-> Et folk, som Herren giver sejr,  
-> dit hjælpende skjold,  
-> din højheds sværd.  
-> Dine fjender skal krybe for dig,  
+>  **26** Der er ingen som Jeshuruns Gud,
+> der rider hen over himlen for at hjælpe dig;
+> i sin højhed bor han i skyerne,
+>  **27** Gud fra ældgammel tid.
+> Men hernede er hans evige arme,
+> han drev fjenden bort foran dig,
+> han sagde: Udryd dem!
+>  **28** Israel kom til at bo i tryghed,
+> for sig selv fik Jakob en bolig
+> i et land med korn og med vin,
+> et land, hvor himlen drypper med dug.
+>  **29** Lykkelig er du, Israel! Hvem er som du?
+> Et folk, som Herren giver sejr,
+> dit hjælpende skjold,
+> din højheds sværd.
+> Dine fjender skal krybe for dig,
 > og du skal træde på ryggen af dem.
 
 ### 5 Mos 34
