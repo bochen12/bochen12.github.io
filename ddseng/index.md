@@ -1020,17 +1020,166 @@ Spirit, hear our prayer!
 
 ### 290
 
+The sun now shines in all its splendor,
+the light of life in mercy tender;
+It is the Whit-sunlily time,
+our summer gentle and sublime;
+and more than angels once foretold
+awaits in Christ a harvest gold.
 
+A nightingale in the woods is filling
+the summer night with music thrilling,
+so all the Master calls His own
+may sleep in peace to that sweet tone,
+may dream a dream of Paradise
+and praise God's glory when they rise.
+
+The breath of heav'n new life conferring,
+a homely breeze the treetops stirring,
+these currents wafting through our skies
+breathe God's reopened Paradise;
+the brook that murmurs at our feet
+brings Eden's living water sweet.
+
+The Spirit comes with pow'r to stir us,
+the Spirit speaks and works to spur us,
+not of Itself but for our sake
+so we of love and truth partake;
+the Word made flesh to earth came down
+and rose to heav'n to wear His crown.
+
+Awake and let your amen thunder
+to praise redemption's greatest wonder!
+Let ev'ry tongue on earth extol
+thank-off'ring's sacrificial bowl;
+around the table of the Lord
+rejoice, His church, with one accord!
+
+In Jesus' name with tongues afire
+both Jews and Gentiles all conspire;
+in Jesus' sacrificial bowl
+all mother-tongues melt in one whole.
+In Jesus' name to God they send
+their alleluia without end!
+
+Our God and Father, by Your power
+Your kingdom's rose is in full flower.
+Like suns we rise and set, at one
+in glory with Your only son;
+for in exchange for human hearts
+to us Your kingdom He imparts.
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="292"></a>
 
 ### 292
 
+Spirit of all truth and love!
+bond of earth to heav'n above
+which alone You tighten;
+grant new tongues to strong and weak,
+hearts infused the truth to speak,
+as Your flames enlighten!
+
+In Your light the dark must flee,
+shunned be all indecency
+that would mock salvation;
+truth as clear as brightest day
+here among Your friends holds sway,
+crowning love's creation.
+
+In the water we are blessed,
+at the table we are guest
+of Your mighty giving;
+in each branch and twig You bear
+fruit for Christ and in Him share:
+He the true vine living.
+
+To Your children You descend,
+graciously each conscience mend,
+purest joy creating;
+till the day when they take flight
+and before the God of light
+robed in white stand waiting.
+
+You who of Your "little flock",
+weak and shy, in fear and shock,
+made a race of giants;
+make us soldiers of the Lord
+who dare swing the Spirit's sword
+in divine compliance.
+
+As You see from high estate,
+love of earthly things is great,
+wild its flame is burning;
+quench it with our tears contrite,
+let us blaze with Spirit bright,
+for Your kingdom yearning!
+
+Left alone to our device
+worldly things our hearts entice,
+all our peace displacing.
+Jesus, be our life and light;
+with one Spirit us ignite,
+unity embracing!
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="321"></a>
 
 ### 321
 
+O life lived in Christ!
+You grant to our hearts what the world never prized:
+what faintly we glimpse ev'ry day, ev'ry hour,
+yet lives deep within us, we feel it empow'r;
+my land, says the Lord, is both heaven and earth,
+where love has its birth.
+
+How blesséd the breath
+we draw in a country with no sting of death,
+where all that was faded again is in bloom,
+where all that was mortal ascends from the tomb,
+where love shall unfold like the first flush of spring
+and fresh flowers bring.
+
+How blesséd the land
+whose hour-glass flows neither with tears nor with sand,
+where wing does not falter, where flow'r does not fail,
+where joy shines with light clear as glass but not frail,
+and God has already redeemed from despair
+the snow-whitened hair!
+
+O wonder-full faith:
+our bridge swaying over the ocean's dark face
+from bleak realms of death to the warm shores of life,
+defying the coastline where ice-floes are rife;
+live lowly among us, it pleases You best,
+our Lord and our Guest!
+
+O hope light of wing:
+God's brother new-born in the baptismal spring.
+O lend us Your feathers that we may fly free
+on wings of the Spirit to rest 'cross the sea,
+where sun everlasting gilds all the year round
+salvation's own ground.
+
+O life-giving love,
+calm source of the power that flows from above!
+You fill with the generous words of our Lord
+the chalice of blessing on God's festal board.
+O, be now our life-drink on earth and the sum
+of all life to come!
+
+O Spirit divine,
+the life everlasting in love's perfect sign!
+O melt our cold heart with Your fire from above,
+transfigure our nature with radiant love.
+Then filled with such gladness of heart we shall thrive
+in being alive!
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="335"></a>
 
