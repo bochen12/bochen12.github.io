@@ -750,35 +750,276 @@ as a light our steps to guide.
 
 ### 192
 
+Hail, our reconciling Saviour!  
+Crowned with thorns and yet none braver!  
+Grant me what my heart proposes:  
+I would bind a wreath of roses  
+and entwine it round Your cross.
+
+What with God has so distressed You,  
+why our earthly dust possessed You,  
+that with us You chose to languish,  
+life redeeming through Your anguish,  
+giving of Yourself in full?
+
+Fervent heart and loving-kindness  
+triumphed over human blindness;  
+giving You prefer to taking,  
+therefore paradise forsaking  
+in our place You chose the cross.
+
+O the pain of sin unpardoned,  
+how my heart is cold and hardened!  
+Where among these stony mountains  
+can I find life-giving fountains  
+to requite Your love divine?
+
+From Your body rent asunder  
+springs flowed out that called forth wonder,  
+overwhelming all beholders,  
+melting icebergs, splitting boulders,  
+washing hearts for ever clean.
+
+So I pray, all pride forgoing,  
+that You in my veins set flowing  
+such a flood as splits a mountain,  
+melts an iceberg, fills a fountain:  
+wash my sins and guilt away!
+
+As for me You once have striven,  
+may I love life in You given;  
+May my heart for You alone beat,  
+so my thoughts alone in You meet,  
+in whom all things coinhere.
+
+Though I wither like a flower,  
+hand and heart surrender power,  
+I believe that at Your order,  
+I shall cross death's final border:  
+You have paid my debt in full.
+
+O the mystery and the favour  
+of Your Cross, my dearest Saviour!  
+In temptation stay beside me,  
+when my eyes dim, take me, guide me,  
+say: We go to Paradise!
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="218"></a>
 
 ### 218
 
+Christ is risen from the dead  
+this Easter morning glowing red!  
+His people now in ev'ry place  
+with joyful song their Lord embrace:  
+Glory be to God in the highest!
+
+Christ is risen from the grave  
+from shame and guilt our life to save!  
+His people now in ev'ry place  
+with joyful song their Lord embrace:  
+Glory be to God in the highest!
+
+Christ is risen from the tomb;  
+we meet again in heaven's room!  
+His people now in ev'ry place  
+with joyful song their Lord embrace:  
+Glory be to God in the highest!
+
+Alleluiá!  
+Alleluiá! Alleluiá!  
+His people now in ev'ry place  
+with joyful song their Lord embrace:  
+Glory be to God in the highest!
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="224"></a>
 
 ### 224
 
+Rise up, my soul, it is the dawn!  
+Let fear and sadness flee this morn,  
+Let all your cares as a mere mortal  
+recede as life comes from death's portal!  
+O blesséd Easter morning hour  
+with joy in flow'r!
+
+Now shattered are the gates of hell;  
+no longer can its power compel.  
+For He whom death thought to have taken  
+triumphant has the grave forsaken.  
+O blesséd Easter morning hour  
+with joy in flow'r!
+
+Cease all your secret heartfelt sighs:  
+a red-rose dawn pervades the skies,  
+above those who in His safekeeping  
+lie under earth or ocean sleeping.  
+O blesséd Easter morning hour  
+with joy in flow'r!
+
+Sing, Christians all, your breath employ!  
+Lift high your hearts in songs of joy!  
+Sing to the friend that you are meeting,  
+who from the dead draws near in greeting!  
+O blesséd Easter morning hour  
+with joy in flow'r!
+
+Come, heart, with all the grief of death  
+that at the graveside tore each breath,  
+lay all before Him when you greet Him  
+alive, as from the grave you meet Him!  
+O blesséd Easter morning hour  
+with joy in flow'r!
+
+God's kingdom now is truly yours;  
+wait, heart, make just a little pause,  
+for death is vanquished by Christ's merit,  
+and life eternal you inherit.  
+O blesséd Easter morning hour  
+with joy is flow'r!
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="236"></a>
 
 ### 236
 
+Easter flow'r, now what on earth! --  
+in the garden of a peasant,  
+scentless, graceless, nothing worth --  
+who would want you for a present?  
+Who would choose you from the rest,  
+clasp you to a loving breast?  
+Would a song-bird sing your praises  
+here in Denmark's woodland places?
+
+Never in the summer air  
+will your fragrance waft and settle,  
+nor with rose-scent can compare  
+or the silver lily petal.  
+Winter storms and barren earth  
+witnessed your uncertain birth.  
+Only those who know your power  
+will rejoice to see you flower.
+
+Easter flow'r, say, is it true?  
+Is our faith a mere pretending?  
+Can the grave be broken through?  
+Is there life at this life's ending?  
+Did He rise, as runs the word?  
+Will His word again be heard?  
+Is the cast-off grave-cloth a story?  
+Did He rise in Easter glory?
+
+If the dead can not arise,  
+meaningless are hopes of pardon.  
+Fading, each of us must die,  
+never gracing any garden.  
+Then forgotten under earth  
+we shall never know new birth,  
+nor like molten wax be taken  
+as God's candle to awaken.
+
+Easter flow'r, should one strong drop  
+from your golden cup refresh me,  
+there the wonder will not stop,  
+you will raise me, new enflesh me.  
+Morning song and cockcrow clear  
+in your golden cup I hear,  
+waking with the dead at the dawning  
+of a rose-red Easter morning.
+
+Easter flow'r, you too know death!  
+Christ arose as day was dawning.  
+Each Good Friday's dying breath  
+is a pledge of Easter morning.  
+What are seal or shield or sword  
+'gainst our valiant risen Lord?  
+These are chaff His breath sends flying,  
+who redeems us by His dying.
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="260"></a>
 
 ### 260
 
+You set Yourself down in the lowest ones' fate.  
+You set Yourself up 'gainst the harm of the great.  
+You set Yourself into the outsiders' breath.  
+You set Yourself over the horror of death.
+
+And therefore You speak to us now from a place  
+where no one can harm You or spit in your face;  
+You still share our lives and our sufferings too,  
+so no one has life more life-giving than You.
+
+You fight in the world for our freedom and peace;  
+when others give up, Your resolve does not cease.  
+If any are helpless or lost, you stand by;  
+You beat in our hearts, when our love tends to die.
+
+You send us to share in the lowest ones' fate.  
+You set us to fight 'gainst the harm of the great.  
+You live in our innermost longing and praise,  
+may we live in You at the end of our days.
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="289"></a>
 
 ### 289
 
+O Holy Spirit, let us pray  
+that You will bind us close in faith this day:  
+till the world has ended  
+guard the church You gave us  
+from all need and danger,  
+in Your mercy save us.  
+Spirit, hear our prayer!
+
+O Holy Spirit, blesséd light,  
+illuminate us so we see alright  
+Jesus, God's belovéd,  
+lead us to adore Him,  
+in His Father's kingdom  
+there to stand before Him.  
+Spirit, hear our prayer!
+
+O Loving Spirit from above,  
+infuse the church with Your eternal love,  
+so we gladly wander,  
+sister close to brother,  
+as God loves his children,  
+loving one another!  
+Spirit, hear our prayer!
+
+O Paraclete, receive our prayer,  
+as children resting in their mother's care,  
+in Your calming solace,  
+so our every sadness  
+turns in faith to hope of  
+everlasting gladness!  
+Spirit, hear our prayer!
+
+O Spirit, may we be assured  
+that we are children of our heav'nly Lord!  
+then our grief is banished,  
+then the pearl discovered,  
+death itself defeated.  
+Paradise recovered,  
+Spirit, hear our prayer!
+
+*Trans.: Edward Broadbridge 2009.*
 
 <a id="290"></a>
 
 ### 290
+
 
 
 <a id="292"></a>

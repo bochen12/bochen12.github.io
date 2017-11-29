@@ -5,13 +5,17 @@ title: Liturgy 1992
 published: true
 ---
 
-[Worship](#worship)  
-[Baptism](#baptism)  
-[Confirmation](#confirmation)  
-[Marriage](#marrigae)  
-[Blessing](#blessing)  
-[Funeral](#funeral)  
+-----
+
+[Worship](#worship)
+[Baptism](#baptism)
+[Confirmation](#confirmation)
+[Marriage](#marrigae)
+[Blessing](#blessing)
+[Funeral](#funeral)
 [Committal](#committal)
+
+-----
 
 # Worship
 
@@ -27,29 +31,29 @@ published: true
 
 *The introductory prayer is read by the cantor or the sexton or a member of the congregation. During this prayer the pastor kneels before the altar.*
 
-Let us pray.  
-Lord, I have come into Your house  
-to hear what You will speak to me,  
-You, Lord,  
-Jesus Christ, my Saviour,  
-and Holy Spirit, my Comforter in life and death.  
-Lord, through Your Holy Spirit, and for the sake of Jesus Christ, open my heart  
-that I may learn from Your word  
-to grieve over my sins,  
-to believe in Jesus in life and death,  
-and daily increase in righteousness and holiness of life.  
-Grant this, O Lord, through Jesus Christ.  
+Let us pray.
+Lord, I have come into Your house
+to hear what You will speak to me,
+You, Lord,
+Jesus Christ, my Saviour,
+and Holy Spirit, my Comforter in life and death.
+Lord, through Your Holy Spirit, and for the sake of Jesus Christ, open my heart
+that I may learn from Your word
+to grieve over my sins,
+to believe in Jesus in life and death,
+and daily increase in righteousness and holiness of life.
+Grant this, O Lord, through Jesus Christ.
 Amen.
 
 *Or*
 
-Let us pray.  
-Lord, I have come into Your house  
-to hear what You will speak to me.  
-Through Your Holy Spirit open my heart  
-that I may learn from Your word to repent of my sins,  
-to believe in Jesus Christ  
-and daily to be strengthened and upheld by this faith.  
+Let us pray.
+Lord, I have come into Your house
+to hear what You will speak to me.
+Through Your Holy Spirit open my heart
+that I may learn from Your word to repent of my sins,
+to believe in Jesus Christ
+and daily to be strengthened and upheld by this faith.
 Amen.
 
 ### 3 Opening Hymn
@@ -58,22 +62,33 @@ Amen.
 
 ### 4 Greeting
 
-*The pastor, facing the congregation, says or chants:*  
-The Lord be with you!  
-*The congregation answers:*  
+*The pastor, facing the congregation, says or chants:*
+The Lord be with you!
+*The congregation answers:*
 And with your spirit! &nbsp;&nbsp;&nbsp;*or:* And also with you!
 
 ### 5 Introductory Collect
 
-*The pastor continues:*  
+*The pastor continues:*
 Let us pray.
 
 *Here the Collect of the Day is said or chanted by the pastor, turning to face the altar.*
 
-*The congregation answers:*  
+*The congregation answers:*
 Amen.
 
 ## II The Liturgy of the Word
 
 ### 6 Old Testament Reading
 
+*All stand for the reading of the biblical texts.*
+
+### 7 Hymn
+
+### 8 New Testament Reading
+
+### 9 The Apostles' Creed
+
+*All stand for the Creed, which is said or sung by the pastor and congregation in unison (or by the pastor only). The Creed may be introduced by the pastor with the following words: Let us profess our Christian faith. The pastor may also read the Creed from the pulpit after the sermon. When a baptism takes place during the service, the Creed may be omitted here.*
+
+We renounce the devil and all his works and all his ways.
