@@ -772,7 +772,7 @@ i høje Himmerige!
 Treenig Gud, som var
 og er og bliver, dig
 vort takke-offer frem
-vi bær' ydmygelig.
+vi bær’ ydmygelig.
 
 Sir 50,22–24
 Martin Rinckart omkring 1630.
@@ -940,7 +940,7 @@ Takke Gud med lovsangs lyd
 i salig fryd –
 
 Hver fornemmer,
-jeg'ets tremmer
+jeg’ets tremmer
 rykkes ud i pause-ro.
 Hvert et skridt, du
 tar så frit nu,
@@ -1131,7 +1131,7 @@ får søster Måne alt sit skin,
 mens stjerner, deres søskend små,
 med glade øjne ser derpå.
 
-Se, broder Vind har sky'r i bånd,
+Se, broder Vind har sky’r i bånd,
 usynlig som din egen Ånd,
 han skaber, medens kornet drær,
 det gode vejr og al slags vejr.
@@ -2032,7 +2032,7 @@ har han mig fornøjet.
 Gud skal alting mage,
 dig ved hånden tage,
 når du synke skal;
-når du vil fortvi'le,
+når du vil fortvi’le,
 finder ingen hvile
 udi modgangs dal,
 Gud da vil
@@ -3883,7 +3883,7 @@ skar dit navn i stort og småt,
 Jesus, du min Herre!
 
 Du sprang kådt i dåben ud,
-ingen ku' dig kue,
+ingen ku’ dig kue,
 Helligånden fløj fra Gud,
 Johannes så en due.
 Var der ondskab, folk som led,
@@ -3904,8 +3904,8 @@ Påskemorgen stod du op,
 du kan ikke bindes,
 gravens sten er ikke nok,
 og døden overvindes.
-Hver gang at jeg syns jeg ku'
-helt la' vær' at være,
+Hver gang at jeg syns jeg ku’
+helt la’ vær’ at være,
 står du her med livets nu,
 Jesus, du min Herre!
 
@@ -4147,7 +4147,7 @@ jeg ej vil gøre mindste trin.
 Min Jesus jeg mig ofre vil
 og al den del, mig hører til;
 ej noget er så godt og rart,
-at det for ham skal blive spar't,
+at det for ham skal blive spar’t,
 hvad ham til ære kastes hen,
 det findes tusindfold igen.
 
@@ -4266,7 +4266,7 @@ O fryd! o fryd! Immanuel
 vil komme til dig, Israel.
 
 O kom, du skud af Isaj, hør,
-riv byttet ud af løvens klø'r,
+riv byttet ud af løvens klø’r,
 fra gravens mørke dyb os fri,
 fra Helveds gru og tyranni!
 O fryd! o fryd! Immanuel
@@ -4337,7 +4337,7 @@ stammer, som for målløs gjaldt,
 løfter klart sin stemme.«
 
 Så i Herrens helligdom
-grant Esajas spå'de,
+grant Esajas spå’de,
 tiden randt, og dagen kom
 med Guds lys og nåde,
 med den Guds og Davids søn,
@@ -4482,7 +4482,7 @@ Heinrich Held 1658. N.J. Holm 1829.
 Fryd dig, du Kristi brud,
 og mød din Herre Gud!
 Forhånden er hans nåde,
-som dig profeten spå'de.
+som dig profeten spå’de.
 Hosianna! hæder og ære
 skal denne vor konning være!
 
@@ -4493,7 +4493,7 @@ glæd dig, du Zions dronning!
 Hosianna! hæder og ære
 skal denne vor konning være!
 
-Et asen hannem bær',
+Et asen hannem bær’,
 dog er det herrefærd;
 hans pragt er såre ringe,
 dog kan han døden tvinge.
@@ -5985,7 +5985,7 @@ I skygger blev han kendt
 i Gamle Testament,
 nu er han født og blevet
 blandt Adams børn indskrevet,
-og bær' vort kød og klæde;
+og bær’ vort kød og klæde;
 o hellig juleglæde!
 
 I sidste verdens tid
@@ -6097,7 +6097,7 @@ Lad det klinge sødt i sky:
 Længe leve Kongen ny,
 Zions konge, barnebly!
 Han kom til jord,
-som os profeten spå'de.
+som os profeten spå’de.
 Eja, eja!
 Nu er sket til jordens held,
 hvad os meldte Gabriel,
@@ -6111,7 +6111,7 @@ Synger med os, alle små!
 Børn i vugge! stammer på,
 hvad selv engle knap forstå!
 Han kom til jord,
-som os profeten spå'de.
+som os profeten spå’de.
 Eja, eja!
 Nu er sket til jordens held,
 hvad os meldte Gabriel,
@@ -6125,7 +6125,7 @@ Lad det spørges trindt om land:
 Født er os en frelsermand,
 Jesus Kristus hedder han!
 Han kom til jord,
-som os profeten spå'de.
+som os profeten spå’de.
 Eja, eja!
 Nu er sket til jordens held,
 hvad os meldte Gabriel,
@@ -6193,7 +6193,7 @@ N.F.S. Grundtvig 1837.
 
 En rose så jeg skyde
 op af den frosne jord,
-alt som os fordum spå'de
+alt som os fordum spå’de
 profetens trøsteord.
 Den rose spired frem
 midt i den kolde vinter
@@ -6383,7 +6383,7 @@ B.S. Ingemann 1850.
 Den yndigste rose er funden,
 blandt stiveste torne oprunden,
 vor Jesus, den dejligste pode,
-blandt syndige mennesker gro'de.
+blandt syndige mennesker gro’de.
 
 Alt siden vi tabte den ære
 Guds billedes frugter at bære,
@@ -7037,7 +7037,7 @@ Men vor Fader i det høje, han lever!
 
 Og kvaltes i barnemund Guds ord,
 da toges Guds Søn af dage;
-men de, som går i Herodes' spor,
+men de, som går i Herodes’ spor,
 dem møder da og hans plage.
 Men vor Fader i det høje, han lever!
 
@@ -8178,7 +8178,7 @@ med frugten af Guds ord.
 O Gud, du ser og kender,
 hvad art af jord jeg er,
 mit hjerteland sig vender
-mod verden, og det bær'
+mod verden, og det bær’
 så lidet af den grøde
 og frugt, du venter dig;
 mit hjerte det må bløde,
@@ -8206,7 +8206,7 @@ B.S. Ingemann 1854.
 *Mel.: Thomas Laub 1917*
 
 En sædemand gik ud at så
-og strø'de rundt med begge hænder,
+og strø’de rundt med begge hænder,
 for overalt det skulle nå
 imellem begge ager-ender.
 
@@ -8278,7 +8278,7 @@ en million af gule kerner.
 
 Blandt bønder en letsindig en,
 hans mark er ikke fin og muldet,
-men overså't med skrub og sten,
+men overså’t med skrub og sten,
 hans sædekurv er gennemhullet.
 
 Hans sind er fuldt af tusindfryd
@@ -8309,7 +8309,7 @@ til hundredfold, hvor knap er sået.
 For vækstens herre vokser frugt,
 hvor alt må synes helt umuligt,
 for ham blir hjertet godt og smukt,
-skønt det i grunden er udu'ligt.
+skønt det i grunden er udu’ligt.
 
 Lovsyng den skaber, der blir ved
 at så trods alle tegn i tiden
@@ -8342,8 +8342,8 @@ Herren selv og Løgneren,
 hver har sået sit herneden,
 klinten gror om kap med hveden.
 
-Sandhed så'de godt til livet,
-løgnen så'de ondt til død;
+Sandhed så’de godt til livet,
+løgnen så’de ondt til død;
 engle selv det ej er givet
 bod at råde på den nød.
 Sandhed selv har svaret: Nej,
@@ -8793,7 +8793,7 @@ K.L. Aastrup 1951 og 1957.
 *Mel.: Thomas Laub 1921*
 
 Fuglen har rede, og ræven har grav,
-sneglen bær' huset på ryggen,
+sneglen bær’ huset på ryggen,
 stodderen han har kun pose og stav,
 leder om lejet og lykken;
 så går vor Herre med nådens ord
@@ -8814,7 +8814,7 @@ dér går til hjerte med englelyd
 nåden og freden med Himlens fryd.
 
 Fuglen har rede, og ræven har grav,
-sneglen bær' huset på ryggen;
+sneglen bær’ huset på ryggen;
 verdsligt vor Herre har intet deraf,
 han har dog livet og lykken,
 deler dem ærligt med hver, som tror:
@@ -8879,7 +8879,7 @@ vi det ser i lys tillige.
 I, som ser Guds Søn på jord!
 Øren, I blev hovedrige,
 da I hørte livets ord!
-Hjerte, da du ordet tro'de,
+Hjerte, da du ordet tro’de,
 livets træ randt op af rode!
 
 Luk 10,23–24
@@ -9462,7 +9462,7 @@ vil for dig lægge ned,
 jeg med i flokken træder,
 som er til tak bered.
 
-Jeg bær' og mine palmer
+Jeg bær’ og mine palmer
 til ærens konge frem;
 jeg sjunger mine salmer,
 o Jesus, hør dog dem!
@@ -9715,7 +9715,7 @@ flygtning i sit eget land.
 Men, o Jesus, måtte du
 ikke ængstes mere nu,
 du, som dig til døden skynder,
-bær' al verdens sorg og synder!
+bær’ al verdens sorg og synder!
 
 Går du ind udi en have,
 som er folkets frydested,
@@ -9732,7 +9732,7 @@ Tænk, hvor syndens byrde klemmer,
 døden stormer livets land,
 trænger ind i Jesu blod,
 kniber ved hans hjerterod,
-slider, saver, skær' og stinger
+slider, saver, skær’ og stinger
 som ti tusind giftig klinger.
 
 Se, hvor våndefuld han falder
@@ -9995,14 +9995,14 @@ og for deres spotter-stol;
 lyset selv kom til dem ind,
 dog er hver i sindet blind,
 klerke spørger om hans lære,
-den de tro'de tant at være.
+den de tro’de tant at være.
 
 Retten haver ingen gænge,
 al bevisnings lys er slukt,
 medynk er i søvn og senge,
 lås for kærlighed er lukt.
 Vold og magt kun vågne er,
-Satan fakkel for dem bær',
+Satan fakkel for dem bær’,
 hidser de gråhærded præster
 til at blive helvedbæster.
 
@@ -10029,7 +10029,7 @@ lægge mig al skændsel på,
 gid min sjæl må da beskue,
 hvor tålmodig man dig så,
 da du vidste, dødens dom
-kunne ej gå's udenom!
+kunne ej gå’s udenom!
 Så skal al din mén og møde
 dødens tanker mig forsøde.
 
@@ -10075,7 +10075,7 @@ Hanen galer og forkynder
 nattens gang, men Peder ej
 kender gang i sine synder,
 han er på den brede vej,
-han forbander sig og svær',
+han forbander sig og svær’,
 at ham Jesus fremmed er,
 og just i hans synd og laster
 Jesus øje på ham kaster.
@@ -10085,7 +10085,7 @@ som Guds kirke bygges på?
 Hvor kan du da sådan glippe
 og i storm ej bedre stå?
 Nej! Vor Jesus klippen er,
-og hans ord, som alting bær'.
+og hans ord, som alting bær’.
 Han står fast og aldrig rykkes,
 på hans ord Guds kirke bygges.
 
@@ -10159,7 +10159,7 @@ vasker udi hykle-vand,
 og sin uskyld forevender,
 finder, han er ren og grand:
 Nej, den dom på Jesu blod
-to's ej bort i nogen flod,
+to’s ej bort i nogen flod,
 hænderne kan vasket være,
 hjertet må dog smitten bære.
 
@@ -10199,7 +10199,7 @@ der lå på et gudsforladt sted.
 
 Han bar på al ondskab og vrede,
 på myrdede håb og fortræd,
-og folk vendte ho'det i lede,
+og folk vendte ho’det i lede,
 mens andre slog øjnene ned.
 
 Men hen over stenbro og mure
@@ -10723,7 +10723,7 @@ forladt mig!«
 hvorfor har du forladt mig!«
 Det var dit skrig i dødens vold,
 da solen sortned klokken tolv,
-og man ku' høre mørket le,
+og man ku’ høre mørket le,
 indtil du råbte klokken tre:
 »Min Gud, min Gud, hvorfor har du
 forladt mig!«
@@ -10834,7 +10834,7 @@ dine sår og blodestrømme;
 straks må han da marken rømme.
 
 Vil mig verdens ånd udlokke
-på sin rosenstrø'de vej,
+på sin rosenstrø’de vej,
 hvor man under blomsterflokke
 ser de skjulte slanger ej,
 om mit sind til verden står,
@@ -11946,7 +11946,7 @@ Derfor halleluja tusindefold
 følger det budskab fra old til old:
 Kristus opstod fra de døde!
 Og før han tog i det høje sit sæde,
-så'de på jord han den evige glæde:
+så’de på jord han den evige glæde:
 Vi skal opstå fra de døde!
 
 Sl 68
@@ -12169,7 +12169,7 @@ at ved din oprejsnings ære
 jeg skal sejerspalmer bære.
 
 Du til livet mig skal vække
-ved din stor' oprejsnings kraft.
+ved din stor’ oprejsnings kraft.
 Lad kun gravens jord mig dække,
 orme tære al min saft,
 ild og vand opsluge mig;
@@ -16348,7 +16348,7 @@ Søren Jonæsøn 1693.
 Helligånd, de frommes glæde,
 o, besøg mit bange sind,
 nådig i min sjæl du træde,
-til dit tempel vi' den ind!
+til dit tempel vi’ den ind!
 Smyk den dejlig som en brud,
 rens den ganske, og kast ud,
 hvad af verden er tilbage
@@ -17038,7 +17038,7 @@ med livets ord på læbe.
 
 Til det Guds Ord, der som en sol
 med liv og lys kan virke,
-vi rejste denne præd'kestol,
+vi rejste denne præd’kestol,
 vi bygged denne kirke;
 vi helliger dens skib og kor,
 dens døbefont og alterbord,
@@ -17410,7 +17410,7 @@ vi frygter dog ej fare stor,
 de deres trusler spilde;
 lad rase mørkets drot
 med løgn og mord og spot,
-han har dog få't sin dom,
+han har dog få’t sin dom,
 da Krist til jorden kom,
 et ord ham nu kan fælde.
 
@@ -17798,8 +17798,8 @@ går kirken mod fuldkommenhedens vår.
 Så kommer dagen, da alt had skal smelte
 som sne og is for sol og sommervejr.
 Da falder Satans magt, da skal hans vælde
-gi' tabt for frelsens stridsmænd, for Guds hær.
-Med jubel skal de høste, hvad de så'de,
+gi’ tabt for frelsens stridsmænd, for Guds hær.
+Med jubel skal de høste, hvad de så’de,
 og salige se Jesus, som han er.
 
 O helligt håb, o sande, sikre løfte
@@ -18028,7 +18028,7 @@ hulken for sang på Zions borg,
 nætter såvel som dage.
 
 Herren han er dog sine tro,
-også når de mistvi'le,
+også når de mistvi’le,
 roser han lod på torne gro,
 lærte os så at smile.
 
@@ -18825,7 +18825,7 @@ Hjælp os at følge dit bud!
 Nogen må bære en andens nød,
 nogen må vise mildhed,
 nogen må kæmpe for andres ret,
-Gud, lad dit riges tegn bli' set!
+Gud, lad dit riges tegn bli’ set!
 Hjælp os at følge dit bud!
 
 Herre, du våger i verdens nat,
@@ -19393,7 +19393,7 @@ som solsprængt sky
 af dagen ny
 på Herrens vej er hver en skygge.
 
-Vel tornestrø't
+Vel tornestrø’t
 er stien somme steder,
 men rosenbødt,
 som sorgen er med glæder;
@@ -19437,7 +19437,7 @@ N.F.S. Grundtvig 1856–60.
 *Kom, Gud Faders Ånd fuldgod*
 
 Op dog, Zion! ser du ej
-sejrens palmestrø'de vej
+sejrens palmestrø’de vej
 til Guds hus i Himmerig!
 Den er og beredt for dig.
 
@@ -19896,7 +19896,7 @@ det blod, af Jesu vunder randt,
 du kan i ordet finde.
 
 Du tænker, var du selv kun god,
-da ville du ej tvi'le,
+da ville du ej tvi’le,
 men føler du i hjertets rod
 de onde lysters pile,
 da er dit hjerte snart forsagt,
@@ -20077,7 +20077,7 @@ med løse læber prale!
 
 Og om Guds ord vor synd og skyld
 med straffen heftig rører
-og trykker på den giftig' byld,
+og trykker på den giftig’ byld,
 som os vor død tilfører,
 anklag ham ej,
 tag ej på vej
@@ -22057,7 +22057,7 @@ for ham os dybt nedbøje,
 som trykker kun al hovmod ned,
 vil ydmyghed ophøje,
 sig kalder selv en kongeørn,
-som bær' på vinger sine børn
+som bær’ på vinger sine børn
 op til sit høje sæde.
 
 Ej skal vi bævende som før
@@ -22280,7 +22280,7 @@ Johannes Johansen 1992.
 
 Du, som os af nåde stor
 har genfødt af vand og ord,
-hjælp, vi bær' vort kristennavn
+hjælp, vi bær’ vort kristennavn
 dig til ære, os til gavn,
 holder tro vor dåbes pagt,
 står mod Fjenden ret på vagt,
@@ -22712,7 +22712,7 @@ Bearbejdet 1845.
 Jesus Kristus er til stede!
 Han fra os har vendt Guds vrede;
 med sin pine, med sin død
-fri'r han os fra evig nød.
+fri’r han os fra evig nød.
 
 At det os i hu skal blive,
 vil sit legem han os give
@@ -23353,7 +23353,7 @@ gik bort fra dine veje.
 
 Du lærte os at sige far
 til dig, da vi var spæde.
-Du sa': I disse små jeg har
+Du sa’: I disse små jeg har
 min allerstørste glæde.
 
 Så blev vi børn af dig, som bor
@@ -24107,7 +24107,7 @@ Halleluja, halleluja!
 Onde vi vare og døde som stene,
 hårde i hjertet som marmor og stål,
 det var din mægtige styrke alene,
-som os fik reddet og nå'de sit mål,
+som os fik reddet og nå’de sit mål,
 lod os ved Ånden i ordet fornemme
 Frelserens levendegørende stemme.
 Halleluja, halleluja!
@@ -24376,7 +24376,7 @@ af dybsens nød til dig,
 du vil mig nådig være
 og gerne høre mig;
 dit øre du nedbøje,
-når jeg min bøn frembær',
+når jeg min bøn frembær’,
 og mærk udaf det høje,
 hvad min begæring er!
 
@@ -24395,7 +24395,7 @@ Dit ord, som ej kan svige,
 det er min trøst i nød.
 Af længsel hjertet trænges
 til dig med stor attrå
-fast mer, end vægt'ren længes,
+fast mer, end vægt’ren længes,
 at dagen komme må.
 
 Guds folk sig trygt forlade
@@ -24709,7 +24709,7 @@ at jeg dit samfunds søde fred
 ret inderlig må kende
 og over alting elske dig,
 min næste ligervis som mig!
-Stat du mig bi, når jeg far' hen,
+Stat du mig bi, når jeg far’ hen,
 din hjælp mig send,
 og Djævlens list så fra mig vend!
 
@@ -25107,7 +25107,7 @@ sænker jeg mig i.
 Gud for alle riger
 dømmer selv og siger:
 Denne han er fri,
-han er to't
+han er to’t
 i Jesu blod!
 Satan, synd og død må rømme,
 hvo vil da fordømme?
@@ -25334,7 +25334,7 @@ at død er syndens sold,
 og det har jeg udgrundet,
 jeg er i dødens vold.
 
-Min sjæl har få't at finde
+Min sjæl har få’t at finde
 al dødens bitterhed,
 en afgrund er derinde,
 og udvej ingen ved.
@@ -25452,7 +25452,7 @@ Syndernes forladelse
 hjertesorgen slukker,
 thi ved den sig uformærkt
 Paradis oplukker;
-den udfri'r af dødens vold,
+den udfri’r af dødens vold,
 thi vor død var syndens sold;
 den i Gud gør sjælen glad,
 thi kun synd dem skilte ad.
@@ -25787,7 +25787,7 @@ frels mig af dødens snare!
 Min synd mig volder sorrig svar:
 samvittighedens pile
 mit hjerte gennemboret har,
-dog vil jeg ej fortvi'le;
+dog vil jeg ej fortvi’le;
 jeg tænker, Frelser, på din død,
 det kors, hvor du dit blod udgød,
 mig giver trøst og hvile.
@@ -25842,8 +25842,8 @@ med gråd i dit skød vi den sænker,
 en dyrebar sæd du modtager,
 vi derfor dig kalder Guds ager.
 
-En sjæl i den støvhytte bo'de,
-en sjæl, som på Frelseren tro'de
+En sjæl i den støvhytte bo’de,
+en sjæl, som på Frelseren tro’de
 og længtes med håb mod det høje,
 med Gud og hans glæde for øje.
 
@@ -26258,7 +26258,7 @@ jeg skyndte mig med kort farvel
 i sky til dig at fare.
 
 Men kommer døden førend du,
-kom da i løn' og kom i hu,
+kom da i løn’ og kom i hu,
 hvor mørkt der er i graven!
 Omstrål mig, så jeg glemmer den,
 salv øjet på din syge ven,
@@ -26660,7 +26660,7 @@ vi er med Herren i følge!
 
 Han slipper ikke, hvem han har kær,
 på jord så lidt som i dødens dale,
-før sejerskransen engang vi bær'
+før sejerskransen engang vi bær’
 med ham i Himmerigs sale.
 
 Hans Kristian Rørdam 1877.
@@ -27050,7 +27050,7 @@ så vel er os da til mode;
 gid her vi vandre vor tid med tro
 og efterstunde den evige ro
 hos Herren med alle de gode,
-som her på hans miskundhed tro'de!
+som her på hans miskundhed tro’de!
 
 Han unde os her at leve så,
 at når af verden vi skal bortgå,
@@ -27088,7 +27088,7 @@ hvad bedre kan mig hænde!
 Guds Søn mig købte med sit blod
 og gav mig liv af nåde,
 derfor jeg har så frit et mod,
-han fri'r mig af al våde.
+han fri’r mig af al våde.
 
 Når jeg af verden og hver mand
 er helt forladt med alle,
@@ -27172,7 +27172,7 @@ blandt helligt englekor,
 med Søn og Ånd bor Faderen
 i Guddoms-ære stor.
 Et trefold «hellig« synges dér,
-når engleskaren offer bær'
+når engleskaren offer bær’
 for Herren Sebaot.
 
 Treenig Gud i Himmerig,
@@ -27576,7 +27576,7 @@ hver smertens tåre visket af, og sukket,
 det dybe, kvalt i kærlighedens favn.
 
 Tænk, når engang med utildækket øje
-jeg ham skal se, hvem her jeg tro'de på,
+jeg ham skal se, hvem her jeg tro’de på,
 tænk, når jeg hist mit knæ for ham skal bøje,
 når jeg med tak skal for hans åsyn stå!
 
@@ -27947,7 +27947,7 @@ af palmesving,
 for tronen, hvo er de?
 Det er den helteskare, som
 af hin den store trængsel kom
-og har sig to't
+og har sig to’t
 i Lammets blod
 til Himlens helligdom!
 Dér holder de nu kirkegang
@@ -27979,7 +27979,7 @@ så tro især
 og slap så vel herfra!
 Du har foragtet verdens trøst,
 så lev nu evig vel, og høst,
-hvad du har så't
+hvad du har så’t
 med suk og gråd,
 i tusind engles lyst!
 Opløft din røst, slå palme-takt,
@@ -28024,9 +28024,9 @@ at det Guds Lam må se.
 Det ord om Lammets slaveri
 for os, for os at fri,
 gør midt blandt alle engles sang
-endnu den stærkest' klang.
+endnu den stærkest’ klang.
 
-Tolv gang' tolv tusind har i favn
+Tolv gang’ tolv tusind har i favn
 enhver sin harpe spændt.
 I panden Lammets Faders navn
 gør al den slægt bekendt.
@@ -29203,15 +29203,15 @@ at om du hele verden vandt,
 det var dig ej til både;
 for dommens stol og Himlens port
 der spørges om, hvad du har gjort,
-du høster, som du så'de.
+du høster, som du så’de.
 O menneske, o menneske!
 Betænk din store våde!
 
 Den port er vid, den vej er bred,
-som bær' til Helveds afgrund ned,
+som bær’ til Helveds afgrund ned,
 og mange dér forsvinde;
 den port er trang, den vej er smal,
-som bær' til livets lyse hal,
+som bær’ til livets lyse hal,
 men få er de, den finde.
 O menneske, o menneske!
 I tide dig besinde!
@@ -30111,7 +30111,7 @@ du est dog i højeste mærke og med
 forfængelighed!
 
 Ak, ære, hvad er,
-hvad er vel de kroner og kranse, du bær'?
+hvad er vel de kroner og kranse, du bær’?
 Misundelse sidder dig altid på ryg,
 du hemmelig stødes og sjælden er tryg,
 du ofte dér snubler, hvor andre de gled;
@@ -30125,7 +30125,7 @@ hvad est du, når man dig ved solen har set?
 Forfængelighed!
 
 Ak, kødelig lyst,
-som mangen med dødelig læbe har kyss't!
+som mangen med dødelig læbe har kyss’t!
 dit fængende tønder, din flyvende gnist
 blev mangen til evige luer til sidst;
 din skål synes honning, men drikken er led,
@@ -30142,7 +30142,7 @@ Der skal mine år
 begyndes i evigheds dejlige vår,
 der skal ikke dagen ved solen opgry,
 ej månen tilmåle mig næde og ny;
-men Jesus er solen, hvis stråler er strø'd
+men Jesus er solen, hvis stråler er strø’d
 i Abrahams skød!
 
 Thomas Kingo 1681.
@@ -30232,7 +30232,7 @@ Der skal mine år
 begyndes i evigheds dejlige vår,
 der skal ikke dagen ved solen opgry,
 ej månen tilmåle mig næde og ny,
-men Jesus er solen, hvis stråler er strø'd
+men Jesus er solen, hvis stråler er strø’d
 i Abrahams skød,
 i Abrahams skød.
 
@@ -30263,7 +30263,7 @@ i Abrahams skød.
 Der har jeg en ven,
 min Jesus, som elsker og elskes igen,
 mit øje dér ser ham, sådan som han er,
-han kærligheds Himmel-blus stedse frembær',
+han kærligheds Himmel-blus stedse frembær’,
 ved Ånden står kærlighed evig i glød
 i Abrahams skød,
 i Abrahams skød.
@@ -30959,7 +30959,7 @@ til at vandre for de fromme;
 skal vi blive fri engang,
 får vi dog den vej at komme,
 gennem ørken skal vi gå,
-så er Kana'an at få.
+så er Kana’an at få.
 
 Dér op da, mit bange sind,
 hvor man sejerskranse finder,
@@ -31577,7 +31577,7 @@ Thi at sorgen hun tvinger så mange.
 
 Mig tvinger min synd, som mangfoldig er;
 Herre Gud trøste dem, som er bange!
-for den jeg stor sorrig og angest bær'.
+for den jeg stor sorrig og angest bær’.
 Thi at sorgen hun tvinger så mange.
 
 Udløs mig, o Gud, af al syndens nød,
@@ -31702,7 +31702,7 @@ Skal jeg troens anker slippe?
 Skal mit faste håb nu glippe?
 Skal jeg miste Himlens skat?
 Skal jeg Kains broder være?
-Skal jeg Judas' strikke få?
+Skal jeg Judas’ strikke få?
 Skal jeg selv mit liv afskære?
 Skal jeg slet til Helved gå?
 
@@ -32505,7 +32505,7 @@ Din vandring ledes over gåders afgrund,
 og i din uro får du skænket fred.
 
 Lidt efter lidt, igennem savnets smerte
-må du befri's fra mange stærke bånd.
+må du befri’s fra mange stærke bånd.
 Men gennem sorgen når du nye dage,
 hvor nye hænder venter på din hånd.
 Og fra vor fremtid kommer Kristus til dig
@@ -33003,7 +33003,7 @@ så tro kun dog!
 
 Så skal dit lys igen opgå,
 og solen skinne efter nattens skygge;
-hvad du har tro't, skal synligt for dig stå,
+hvad du har tro’t, skal synligt for dig stå,
 på Gud du kan frimodig altid bygge;
 en kristen i en salig tilstand står,
 ihvor det går.
@@ -33913,7 +33913,7 @@ i sjælen dejlig prentet ind.
 
 Når vi ved troens lys og brand
 vor Jesu hjerte finde kan,
-at han for sine mord're bad,
+at han for sine mord’re bad,
 da de kun stod og lo derad,
 
 når vi besér i hjertens grund
@@ -34791,7 +34791,7 @@ til den gave, Gud har rakt.
 Hver sin krop og hver sin gåde,
 I fik også hver sit sind.
 Denne forskel er en nåde
-li'som regn og sol og vind,
+li’som regn og sol og vind,
 intet svælg er Gud for bredt,
 han kan gøre to til ét.
 
@@ -35310,7 +35310,7 @@ i dag står skoven hvid;
 om lidt vil lærker kvidre
 om sol og forårstid.
 Der råbes mellem grave
-om nu'ets evighed,
+om nu’ets evighed,
 mens vinden lægger støvet
 til ro et ukendt sted.
 
@@ -35465,7 +35465,7 @@ nye år
 igennem vintrens
 larm og sår.
 
-Han gror af jeg'ets
+Han gror af jeg’ets
 hjerterod.
 Han er dit liv. Du er
 hans blod.
@@ -35506,7 +35506,7 @@ Frydeligt med jubelkor
 hilses vårens komme,
 svalen melder trindt på jord:
 Frostens tid er omme!
-Land og hav og lundens træ'r
+Land og hav og lundens træ’r
 herligt prydes fjernt og nær.
 Nye skabningsunder!
 Kraft på ny vort legem får,
@@ -35989,7 +35989,7 @@ N.F.S. Grundtvig 1844.
 
 *Mel.: J.A.P. Schultz omkring 1800*
 
-Vi pløjed og vi så'de
+Vi pløjed og vi så’de
 vor sæd i sorten jord,
 så bad vi ham os hjælpe,
 som højt i Himlen bor,
@@ -36108,7 +36108,7 @@ forstummer ingen tid.
 Jeg ved, hvor håbet grønnes da,
 når alting falmer her;
 min frelsers træ på Golgata
-en evig krone bær'.
+en evig krone bær’.
 
 Lad synke kun med løvets fald
 hver markens blomst i rad;
@@ -36204,9 +36204,9 @@ Menneskelivet – Morgen
 
 Gud Fader og Søn og Helligånd
 med hele sin engleskare
-bevar' os i dag og allen stund
+bevar’ os i dag og allen stund
 fra alskens Djævelens snare,
-for al den avind, han til os bær',
+for al den avind, han til os bær’,
 vor sjæl og liv til fare.
 
 Det kors, vor Herre han bar for os,
@@ -36334,7 +36334,7 @@ For hans skyld jeg af nåde
 er nu bevaret vel
 i denne nat fra våde
 til legeme og sjæl;
-jeg be'r ydmygelig:
+jeg be’r ydmygelig:
 Du mig min synd tilgive,
 hvormed jeg her i live
 har tit fortørnet dig.
@@ -36725,7 +36725,7 @@ tålig, trøstig her i live,
 bedre mig hver dag og stund!
 Jesus mig alt godt tilføje,
 gid jeg har et vagtsomt øje
-på det mig betro'de pund!
+på det mig betro’de pund!
 
 Hør dem alle, som dig beder,
 trøst dem, som i angest sveder,
@@ -37395,7 +37395,7 @@ lys og lindring fra dig få!
 
 Lad mig og, o Jesus, hvile
 fri fra synds og dødsens pile,
-tag mig i din' arme fat,
+tag mig i din’ arme fat,
 så vil jeg i morgen sjunge
 denne lovsang med min tunge:
 Jesus var min sol i nat!
@@ -37433,7 +37433,7 @@ mig lærer brat,
 at jeg engang skal dø.
 
 Tak, tusind gange tak, o Gud, som evig er
-og udi tiden dog slig omhu for mig bær'!
+og udi tiden dog slig omhu for mig bær’!
 Fra første øjeblik, da jeg af rode randt,
 af mit ler
 du gjorde mer,
@@ -37561,7 +37561,7 @@ Thomas Kingo 1674.
 
 Til hvile solen går,
 og dagen hælder,
-og mørk' af nattens vrå'r
+og mørk’ af nattens vrå’r
 til os udvælder.
 Gud lyse selv for os og hos os være,
 at nådens lys og lyst
@@ -37597,7 +37597,7 @@ mod graven hælder.
 
 Du gav mig daglig brød
 og legems styrke,
-velsignels' i mit skød
+velsignels’ i mit skød
 til dig at dyrke.
 Jeg derfor nu mit hjertes harpe stemmer
 og takker inderlig
@@ -37666,7 +37666,7 @@ Thomas Kingo 1684.
 *Vågn op og slå på dine strenge*
 
 Se, hvor sig dagen atter skynder,
-i vestervand sig solen to'r,
+i vestervand sig solen to’r,
 vor hviletime snart begynder;
 o Gud, som udi lyset bor
 og sidder udi Himmel-sal,
@@ -37783,7 +37783,7 @@ evigheden forestår.
 Nu en dag jeg ældre blev,
 det er som mit tankebrev,
 at jeg med min vandringsstav
-nærmer' hælder mod min grav.
+nærmer’ hælder mod min grav.
 
 Denne dag er du ej kvit,
 uden du er faldet tit;
@@ -38452,7 +38452,7 @@ Chr. Richardt 1867.
 
 Tunge, mørke natteskyer
 op ad himlen drager,
-hjem til skovs af marken fly'r
+hjem til skovs af marken fly’r
 hist de sorte krager;
 skumringen sig breder ud,
 det er mørkt omsider.
@@ -38711,7 +38711,7 @@ man føjer sig til seng.
 Befal dig Herren fri!
 Vær klog og snild,
 vogt lys og ild!
-Vor klokk' er slagen ti.
+Vor klokk’ er slagen ti.
 
 Gud Fader os bevare,
 de store med de små!
@@ -38726,7 +38726,7 @@ Det var ved midnatstide,
 vor frelser han blev født
 til trøst al verden vide,
 som ellers var forødt.
-Vor klokk' er slagen tolv.
+Vor klokk’ er slagen tolv.
 Med tunge og mund
 af hjertens grund
 befal dig Gud i vold!
@@ -38735,7 +38735,7 @@ Hjælp os, o Jesus kære,
 vort kors i verden her
 tålmodelig at bære!
 Der er ej hjælper fler.
-Vor klokk' er slagen ét.
+Vor klokk’ er slagen ét.
 Ræk os din hånd,
 o Frelsermand!
 Da vorder byrden let.
@@ -38753,7 +38753,7 @@ Nu skrider natten sorte,
 og dagen stunder til;
 Gud, lad dem blive borte,
 som os bedrøve vil!
-Vor klokk' er slagen tre!
+Vor klokk’ er slagen tre!
 O Fader from,
 vend du os om,
 din nåde os beté!
@@ -38771,7 +38771,7 @@ O Jesus, morgenstjerne,
 vort liv udi din vold
 befaler vi så gerne,
 bliv du vor sol og skjold!
-Vor klokk' er slagen fem.
+Vor klokk’ er slagen fem.
 Kom blide sol
 fra nådens pol!
 Oplys vort hus og hjem!
