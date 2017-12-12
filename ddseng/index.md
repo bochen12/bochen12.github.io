@@ -2505,15 +2505,104 @@ and comfort my sick neighbour too!
 
 ### 784
 
+Always dauntless when you tread
+paths God has commended,
+though you reach the goal ahead
+when the world has ended!
+
+Never fear the darkest hour:
+stars your path will favour!
+With the Lord’s Prayer in Your pow‘r
+never shall you waver!
+
+Fight for all that you hold dear,
+die, if that be fitter!
+Life is then not full of fear,
+nor is death so bitter.
+
+*Christian Richardt 1867*
+*Trans.: Edward Broadbridge 2009*
 
 <a id="785"></a>
 
 ### 785
 
+Heavy clouds draw through the skies
+with the dark descending,
+from the field the black crow flies,
+homeward he is wending;
+twilight spreads its shadows wide,
+darkness fast approaches.
+Loving God, with us abide,
+as the night encroaches!
+
+Stay with me, for without You
+loneliness will drown me.
+Stay with me, for without You
+fear of dark surrounds me.
+In Your Father-hand may I
+sense Your presence boundless;
+then the bonds of darkness fly,
+and my fears are groundless!
+
+Let me feel each time I see
+life as desolation
+that You, Father, stand by me
+with Your consolation.
+And when night within my breast
+is my heart surrounding,
+O then grant me ease and rest;
+win me light abounding!
+
+Come the day when death’s dark night
+over me is sinking,
+let me hear at morning-light
+songs before all thinking:
+birds that sing their morning-song
+in midsummer gladness,
+where the day is always long,
+free from night and sadness?
+
+Heavy clouds and silent rain
+over earth are churning,
+yet behind a window pane
+see a watchlight burning.
+You who ease our saddest breath,
+all our sin forgiving,
+be our light in darkest death,
+Father of the living!
+
+*Jakob Knudsen 1890*
+*Trans.: Edward Broadbridge 2009*
 
 <a id="787"></a>
 
 ### 787
 
+You who have lit all the stars in the heavens,
+light in our darkness a faith that can burn.
+You are our lamp over all you have given;
+may we sleep sound till the new day returns.
 
+Thanks for the day full of light that has ended,
+gift of Your kindness in meeting our need.
+Grant us forgiveness where we have offended,
+whether in thought or in word or in deed!
 
+Thanks for the moments our hearts filled with gladness,
+each time You led us to know we are blessed.
+Help us to bear every burden or sadness,
+You alone know for our lives what is best.
+
+Thanks for our helpers each time we succeeded,
+when it was hard to know which way to seek.
+Help us tomorrow to help those who need it,
+meet us Yourself in the small and the weak!
+
+You who have lit all the stars in the heavens,
+fighting against the world’s darkness and sin,
+You are the Father of all we are given,
+light in the darkness which comes from within.
+
+*Johannes Johansen 1981--82*
+*Trans.: Edward Broadbridge 2009*

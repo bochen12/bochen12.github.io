@@ -92,3 +92,52 @@ Amen.
 *All stand for the Creed, which is said or sung by the pastor and congregation in unison (or by the pastor only). The Creed may be introduced by the pastor with the following words: Let us profess our Christian faith. The pastor may also read the Creed from the pulpit after the sermon. When a baptism takes place during the service, the Creed may be omitted here.*
 
 We renounce the devil and all his works and all his ways.
+
+We believe in God the Father Almighty, Maker of heaven and earth.
+
+We believe in Jesus Christ, God’s only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and buried; De descended to the dead. On the third day He rose again; He ascended into heaven, He is seated at the right hand of the Father, and He will come to judge the living and the dead.
+
+We believe in the Holy Spirit, the Holy Christian Church, the communion of saints, the forgiveness of sins, the ressurection of the body, and the life everlasting.
+
+*Or*
+
+I (we) believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible.
+
+And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all worlds; God of God, Light of Light, very God of very God; begotten, not made, being of one substance with the Father, by whom all things were made. Who, for us men and for our salvation, came down from heaven, and was incarnate by the Holy Spirit of the Virgin Mary, and was made man; and was crucified also for us under Pontius Pilate; He suffered and was buried; and the third day He rose again, according to the Scriptures; and ascended into heaven, and sits on the right hand of the Father; and He shall come again, with glory, to judge the quick and the dead; whose kingdom shall have no end.
+
+And I (we) believe in the Holy Spirit, the Lord and Giver of Life; who proceeds from the Father and the Son; who with the Father and the Son together is worshipped and glorified; who spoke by the prophets. And I (we) believe in one holy Catholic and Apostolic Church. I (we) acknowledge one baptism for the remission of sins; and I (we) look for the ressurection of the dead, and the life of the world to come.
+
+*After the Creed the congregation answer: Amen*
+
+### Hymn
+
+### Gospel Reading
+
+*From the pulpit the pastor introduces the reading from the Gospel with the following words:*
+From the Holy Gospel according to ... (Matthew, Mark, Luke or John)
+*All stand and sing the response:*
+God be praised for his joyful tidings.
+*The text is read by the pastor.*
+
+### The Sermon
+
+*The sermon may start with a short prayer.*
+*The sermon concludes with a doxology:*
+Praise and thanks and eternal glory be to You, our God,
+Father, Son and Holy Ghost,
+who was and is and shall be one, triune God,
+most praised from the beginning, now and for evermore.
+Amen.
+
+*Or*
+
+Glory be to the Father, and to the Son:
+and to the Holy Ghost;
+as it was in the beginning, is now, and ever shall be:
+world without end. Amen.
+
+### Prayer of the Church
+
+*This prayer is said from the pulpit in connection with the sermon or it can be said from the altar after the hymn preceding the sermon.*
+*If there is no baptism or Holy Communion the prayer is concluded with the Lord’s Prayer.*
+*The prayer may be freely formulated or the pastor may read the following prayer or use it as a guideline.*
