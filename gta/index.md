@@ -13,15 +13,17 @@ lang: da
 
 ------------------------------------------------------------------------
 
-1 Mos: [1](#mos-1) [2](#mos-2) [3](#mos-3) [4](#mos-4) [5](#mos-5) [6](#mos-6) [7](#mos-7) [8](#mos-8) [9](#mos-9) [10](#mos-10) [11](#mos-11) [12](#mos-12) [13](#mos-13) [14](#mos-14) [15](#mos-15) [16](#mos-16) [17](#mos-17) [18](#mos-18) [19](#mos-19) [20](#mos-20) [21](#mos-21) [22](#mos-22) [23](#mos-23) [24](#mos-24) [25](#mos-25) [26](#mos-26) [27](#mos-27) [28](#mos-28) [29](#mos-29) [30](#mos-30) [31](#mos-31) [32](#mos-32) [33](#mos-33) [34](#mos-34) [35](#mos-35) [36](#mos-36) [37](#mos-37) [38](#mos-38) [39](#mos-39) [40](#mos-40) [41](#mos-41) [42](#mos-42) [43](#mos-43) [44](#mos-44) [45](#mos-45) [46](#mos-46) [47](#mos-47) [48](#mos-48) [49](#mos-49) [50](#mos-50)
-2 Mos: [1](#mos-1-1) [2](#mos-2-1) [3](#mos-3-1) [4](#mos-4-1) [5](#mos-5-1) [6](#mos-6-1) [7](#mos-7-1) [8](#mos-8-1) [9](#mos-9-1) [10](#mos-10-1) [11](#mos-11-1) [12](#mos-12-1) [13](#mos-13-1) [14](#mos-14-1) [15](#mos-15-1) [16](#mos-16-1) [17](#mos-17-1) [18](#mos-18-1) [19](#mos-19-1) [20](#mos-20-1) [21](#mos-21-1) [22](#mos-22-1) [23](#mos-23-1) [24](#mos-24-1) [25](#mos-25-1) [26](#mos-26-1) [27](#mos-27-1) [28](#mos-28-1) [29](#mos-29-1) [30](#mos-30-1) [31](#mos-31-1) [32](#mos-32-1) [33](#mos-33-1) [34](#mos-34-1) [35](#mos-35-1) [36](#mos-36-1) [37](#mos-37-1) [38](#mos-38-1) [39](#mos-39-1) [40](#mos-40-1)
-3 Mos: [1](#mos-1-2) [2](#mos-2-2) [3](#mos-3-2) [4](#mos-4-2) [5](#mos-5-2) [6](#mos-6-2) [7](#mos-7-2) [8](#mos-8-2) [9](#mos-9-2) [10](#mos-10-2) [11](#mos-11-2) [12](#mos-12-2) [13](#mos-13-2) [14](#mos-14-2) [15](#mos-15-2) [16](#mos-16-2) [17](#mos-17-2) [18](#mos-18-2) [19](#mos-19-2) [20](#mos-20-2) [21](#mos-21-2) [22](#mos-22-2) [23](#mos-23-2) [24](#mos-24-2) [25](#mos-25-2) [26](#mos-26-2) [27](#mos-27-2)
-4 Mos: [1](#mos-1-3) [2](#mos-2-3) [3](#mos-3-3) [4](#mos-4-3) [5](#mos-5-3) [6](#mos-6-3) [7](#mos-7-3) [8](#mos-8-3) [9](#mos-9-3) [10](#mos-10-3) [11](#mos-11-3) [12](#mos-12-3) [13](#mos-13-3) [14](#mos-14-3) [15](#mos-15-3) [16](#mos-16-3) [17](#mos-17-3) [18](#mos-18-3) [19](#mos-19-3) [20](#mos-20-3) [21](#mos-21-3) [22](#mos-22-3) [23](#mos-23-3) [24](#mos-24-3) [25](#mos-25-3) [26](#mos-26-3) [27](#mos-27-3) [28](#mos-28-2) [29](#mos-29-2) [30](#mos-30-2) [31](#mos-31-2) [32](#mos-32-2) [33](#mos-33-2) [34](#mos-34-2) [35](#mos-35-2) [36](#mos-36-2)
-5 Mos: [1](#mos-1-4) [2](#mos-2-4) [3](#mos-3-4) [4](#mos-4-4) [5](#mos-5-4) [6](#mos-6-4) [7](#mos-7-4) [8](#mos-8-4) [9](#mos-9-4) [10](#mos-10-4) [11](#mos-11-4) [12](#mos-12-4) [13](#mos-13-4) [14](#mos-14-4) [15](#mos-15-4) [16](#mos-16-4) [17](#mos-17-4) [18](#mos-18-4) [19](#mos-19-4) [20](#mos-20-4) [21](#mos-21-4) [22](#mos-22-4) [23](#mos-23-4) [24](#mos-24-4) [25](#mos-25-4) [26](#mos-26-4) [27](#mos-27-4) [28](#mos-28-3) [29](#mos-29-3) [30](#mos-30-3) [31](#mos-31-3) [32](#mos-32-3) [33](#mos-33-3) [34](#mos-34-3)
+1 Mos: [1](#1mos1) [2](#1mos2) [3](#1mos3) [4](#1mos4) [5](#1mos5) [6](#1mos6) [7](#1mos7) [8](#1mos8) [9](#1mos9) [10](#1mos10) [11](#1mos11) [12](#1mos12) [13](#1mos13) [14](#1mos14) [15](#1mos15) [16](#1mos16) [17](#1mos17) [18](#1mos18) [19](#1mos19) [20](#1mos20) [21](#1mos21) [22](#1mos22) [23](#1mos23) [24](#1mos24) [25](#1mos25) [26](#1mos26) [27](#1mos27) [28](#1mos28) [29](#1mos29) [30](#1mos30) [31](#1mos31) [32](#1mos32) [33](#1mos33) [34](#1mos34) [35](#1mos35) [36](#1mos36) [37](#1mos37) [38](#1mos38) [39](#1mos39) [40](#1mos40) [41](#1mos41) [42](#1mos42) [43](#1mos43) [44](#1mos44) [45](#1mos45) [46](#1mos46) [47](#1mos47) [48](#1mos48) [49](#1mos49) [50](#1mos50)
+2 Mos: [1](#2mos1) [2](#2mos2) [3](#2mos3) [4](#2mos4) [5](#2mos5) [6](#2mos6) [7](#2mos7) [8](#2mos8) [9](#2mos9) [10](#2mos10) [11](#2mos11) [12](#2mos12) [13](#2mos13) [14](#2mos14) [15](#2mos15) [16](#2mos16) [17](#2mos17) [18](#2mos18) [19](#2mos19) [20](#2mos20) [21](#2mos21) [22](#2mos22) [23](#2mos23) [24](#2mos24) [25](#2mos25) [26](#2mos26) [27](#2mos27) [28](#2mos28) [29](#2mos29) [30](#2mos30) [31](#2mos31) [32](#2mos32) [33](#2mos33) [34](#2mos34) [35](#2mos35) [36](#2mos36) [37](#2mos37) [38](#2mos38) [39](#2mos39) [40](#2mos40)
+3 Mos: [1](#3mos1) [2](#3mos2) [3](#3mos3) [4](#3mos4) [5](#3mos5) [6](#3mos6) [7](#3mos7) [8](#3mos8) [9](#3mos9) [10](#3mos10) [11](#3mos11) [12](#3mos12) [13](#3mos13) [14](#3mos14) [15](#3mos15) [16](#3mos16) [17](#3mos17) [18](#3mos18) [19](#3mos19) [20](#3mos20) [21](#3mos21) [22](#3mos22) [23](#3mos23) [24](#3mos24) [25](#3mos25) [26](#3mos26) [27](#3mos27)
+4 Mos: [1](#4mos1) [2](#4mos2) [3](#4mos3) [4](#4mos4) [5](#4mos5) [6](#4mos6) [7](#4mos7) [8](#4mos8) [9](#4mos9) [10](#4mos10) [11](#4mos11) [12](#4mos12) [13](#4mos13) [14](#4mos14) [15](#4mos15) [16](#4mos16) [17](#4mos17) [18](#4mos18) [19](#4mos19) [20](#4mos20) [21](#4mos21) [22](#4mos22) [23](#4mos23) [24](#4mos24) [25](#4mos25) [26](#4mos26) [27](#4mos27) [28](#4mos28) [29](#4mos29) [30](#4mos30) [31](#4mos31) [32](#4mos32) [33](#4mos33) [34](#4mos34) [35](#4mos35) [36](#4mos36)
+5 Mos: [1](#5mos1) [2](#5mos2) [3](#5mos3) [4](#5mos4) [5](#5mos5) [6](#5mos6) [7](#5mos7) [8](#5mos8) [9](#5mos9) [10](#5mos10) [11](#5mos11) [12](#5mos12) [13](#5mos13) [14](#5mos14) [15](#5mos15) [16](#5mos16) [17](#5mos17) [18](#5mos18) [19](#5mos19) [20](#5mos20) [21](#5mos21) [22](#5mos22) [23](#5mos23) [24](#5mos24) [25](#5mos25) [26](#5mos26) [27](#5mos27) [28](#5mos28) [29](#5mos29) [30](#5mos30) [31](#5mos31) [32](#5mos32) [33](#5mos33) [34](#5mos34)
 
 ------------------------------------------------------------------------
 
 ## Første Mosebog
+
+<a id="1mos1"></a>
 
 ### 1 Mos 1
 
@@ -46,6 +48,8 @@ lang: da
 **24** Gud sagde: »Jorden skal frembringe alle slags levende væsener, kvæg, krybdyr og alle slags vilde dyr!« Og det skete; **25** Gud skabte alle slags vilde dyr, al slags kvæg og alle slags krybdyr. Gud så, at det var godt.
 
 **26** Gud sagde: »Lad os skabe mennesker i vort billede, så de ligner os! De skal herske over havets fisk, himlens fugle, kvæget, alle de vilde dyr og alle krybdyr, der kryber på jorden.« **27** Gud skabte mennesket i sit billede; i Guds billede skabte han det, som mand og kvinde skabte han dem. **28** Og Gud velsignede dem og sagde til dem: »Bliv frugtbare og talrige, opfyld jorden, og underlæg jer den; hersk over havets fisk, himlens fugle og alle dyr, der rører sig på jorden!« **29** Gud sagde: »Nu giver jeg jer alle planter, der sætter frø, på hele jorden og alle træer, der bærer frugt med kerne. Dem skal I have til føde. **30** Til alle de vilde dyr og til alle himlens fugle, ja, til alt levende, der rører sig på jorden, giver jeg alle grønne planter som føde.« Og det skete. **31** Gud så alt, hvad han havde skabt, og han så, hvor godt det var. Så blev det aften, og det blev morgen, den sjette dag.
+
+<a id="1mos2"></a>
 
 ### 1 Mos 2
 
@@ -75,6 +79,8 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 **24** Derfor forlader en mand sin far og mor og binder sig til sin hustru, og de bliver ét kød.
 
 **25** Adam og hans kvinde var nøgne, men de skammede sig ikke.
+
+<a id="1mos3"></a>
 
 ### 1 Mos 3
 
@@ -126,6 +132,8 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 
 **20** Adam gav sin kvinde navnet Eva, for hun blev mor til alle mennesker. **21** Gud Herren lavede skindtøj til Adam og hans kvinde og gav dem det på. **22** Og Gud Herren sagde: »Nu er mennesket blevet som en af os og kan kende godt og ondt. Bare det nu ikke rækker hånden ud og også tager af livets træ og spiser og lever evigt!« **23** Så sendte Gud Herren dem ud af Edens have til at dyrke agerjorden, som de var taget af. **24** Han jog mennesket ud, og øst for Edens have anbragte han keruberne og det lynende flammesværd til at vogte vejen til livets træ.
 
+<a id="1mos4"></a>
+
 ### 1 Mos 4
 
 #### Kain og Abel
@@ -153,6 +161,8 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 
 **26** Også Set fik en søn; ham kaldte han Enosh. Dengang begyndte man at påkalde Herrens navn.
 
+<a id="1mos5"></a>
+
 ### 1 Mos 5
 
 #### Adams slægt
@@ -162,6 +172,8 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som mand og kvinde skabte han dem, og han velsignede dem og kaldte dem menneske, da de blev skabt.
 
 **3** Da Adam havde levet 130 år, fik han en søn, der lignede ham og var et billede af ham. Ham kaldte han Set. **4** Efter at Adam havde fået Set, levede han i 800 år og fik sønner og døtre. **5** Adam levede i alt 930 år, så døde han. **6** Da Set havde levet 105 år, fik han Enosh. **7** Efter at Set havde fået Enosh, levede han i 807 år og fik sønner og døtre. **8** Set levede i alt 912 år, så døde han. **9** Da Enosh havde levet 90 år, fik han Kenan. **10** Efter at Enosh havde fået Kenan, levede han i 815 år og fik sønner og døtre. **11** Enosh levede i alt 905 år, så døde han. **12** Da Kenan havde levet 70 år, fik han Mahalal’el. **13** Efter at Kenan havde fået Mahalal’el, levede han i 840 år og fik sønner og døtre. **14** Kenan levede i alt 910 år, så døde han. **15** Da Mahalal’el havde levet 65 år, fik han Jered. **16** Efter at Mahalal’el havde fået Jered, levede han i 830 år og fik sønner og døtre. **17** Mahalal’el levede i alt 895 år, så døde han. **18** Da Jered havde levet 162 år, fik han Enok. **19** Efter at Jered havde fået Enok, levede han i 800 år og fik sønner og døtre. **20** Jered levede i alt 962 år, så døde han. **21** Da Enok havde levet 65 år, fik han Metusalem. **22** Efter at Enok havde fået Metusalem, vandrede han i 300 år med Gud og fik sønner og døtre. **23** Enok levede i alt 365 år. **24** Han vandrede med Gud. Så var han der ikke mere, for Gud havde taget ham bort. **25** Da Metusalem havde levet 187 år, fik han Lemek. **26** Efter at Metusalem havde fået Lemek, levede han i 782 år og fik sønner og døtre. **27** Metusalem levede i alt 969 år, så døde han. **28** Da Lemek havde levet 182 år, fik han en søn; **29** ham gav han navnet Noa, for han sagde: »Han skal være vores trøst i vores arbejde og vore hænders møje med den jord, som Herren har forbandet.« **30** Efter at Lemek havde fået Noa, levede han i 595 år og fik sønner og døtre. **31** Lemek levede i alt 777 år, så døde han. **32** Da Noa var 500 år, fik han Sem, Kam og Jafet.
+
+<a id="1mos6"></a>
 
 ### 1 Mos 6
 
@@ -179,6 +191,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **11** Jorden var fordærvet og fyldt med vold for øjnene af Gud. **12** Gud så, at jorden var fordærvet, fordi alle mennesker på jorden handlede fordærveligt. **13** Da sagde Gud til Noa: »Jeg har besluttet at gøre ende på alle mennesker, for de er skyld i, at jorden er fuld af vold. Nu vil jeg ødelægge dem sammen med jorden. **14** Lav en ark af gofer-træ; du skal indrette den med rum, og du skal tjære den indvendig og udvendig. **15** Således skal du bygge arken: Den skal være tre hundrede alen lang, halvtreds alen bred og tredive alen høj. **16** Du skal lægge et tag på arken, og tagrygningen skal du hæve en alen. Du skal sætte en dør i arkens side, og du skal indrette den med et nederste, et mellemste og et øverste dæk. **17** Jeg bringer nu vandfloden over jorden for at ødelægge alle under himlen, der har livsånde. Alle på jorden skal omkomme. **18** Men med dig vil jeg oprette min pagt. Du skal gå ind i arken sammen med dine sønner, din kone og dine svigerdøtre. **19** Af alle levende væsener skal du bringe ét par ind i arken, for at de kan overleve sammen med dig; de skal være han og hun. **20** Af alle slags fugle, al slags kvæg og af alle slags krybdyr på jorden skal ét par gå ind til dig for at overleve. **21** Du skal tage noget af alt, der kan spises, og samle det hos dig; det skal du og de have til føde.« **22** Noa gjorde, ganske som Gud havde befalet ham.
 
+<a id="1mos7"></a>
+
 ### 1 Mos 7
 
 **1** Herren sagde til Noa: »Gå ind i arken med hele din familie, for dig har jeg fundet retfærdig i denne slægt. **2** Af alle de rene dyr skal du tage syv par, han og hun, og af dem, der ikke er rene, skal du tage ét par, han og hun. **3** Også af himlens fugle skal du tage syv par, han og hun, for at de kan have efterkommere på jorden. **4** Om syv dage lader jeg det regne på jorden i fyrre dage og fyrre nætter, og jeg udsletter alle levende væsener, som jeg har skabt, fra jordens overflade.« **5** Noa gjorde, ganske som Herren havde befalet ham. **6** Noa var 600 år, da vandfloden kom over jorden.
@@ -190,6 +204,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 **17** I fyrre dage kom vandfloden over jorden. Vandet steg og løftede arken, så den hævede sig fra jorden. **18** Vandet steg så højt over jorden, at arken flød på vandet. **19** Højere og højere steg vandet over jorden, så alle de høje bjerge under himlen blev skjult. **20** Vandet steg femten alen over bjergene og skjulte dem.
 
 **21** Alt levende, der rørte sig på jorden, omkom, fugle, kvæg, vilde dyr, alt hvad der vrimlede på jorden, og alle menneskene. **22** Alle på landjorden, der havde livsånde i næseborene, døde. **23** Alle levende væsener på jorden blev udslettet, både mennesker, kvæg, krybdyr og himlens fugle. De blev udslettet fra jorden, og kun Noa og de, der var med ham i arken, blev tilbage. **24** Vandet steg over jorden i hundrede og halvtreds dage.
+
+<a id="1mos8"></a>
 
 ### 1 Mos 8
 
@@ -207,6 +223,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 > sommer og vinter,
 > dag og nat
 > ikke ophøre.«
+
+<a id="1mos9"></a>
 
 ### 1 Mos 9
 
