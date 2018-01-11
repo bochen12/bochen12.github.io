@@ -15,37 +15,39 @@ lang: da
 
 ## Indhold
 
-Matt: [1](#matt-1) [2](#matt-2) [3](#matt-3) [4](#matt-4) [5](#matt-5) [6](#matt-6) [7](#matt-7) [8](#matt-8) [9](#matt-9) [10](#matt-10) [11](#matt-11) [12](#matt-12) [13](#matt-13) [14](#matt-14) [15](#matt-15) [16](#matt-16) [17](#matt-17) [18](#matt-18) [19](#matt-19) [20](#matt-20) [21](#matt-21) [22](#matt-22) [23](#matt-23) [24](#matt-24) [25](#matt-25) [26](#matt-26) [27](#matt-27) [28](#matt-28)
-Mark: [1](#mark-1) [2](#mark-2) [3](#mark-3) [4](#mark-4) [5](#mark-5) [6](#mark-6) [7](#mark-7) [8](#mark-8) [9](#mark-9) [10](#mark-10) [11](#mark-11) [12](#mark-12) [13](#mark-13) [14](#mark-14) [15](#mark-15) [16](#mark-16)
-Luk: [1](#luk-1) [2](#luk-2) [3](#luk-3) [4](#luk-4) [5](#luk-5) [6](#luk-6) [7](#luk-7) [8](#luk-8) [9](#luk-9) [10](#luk-10) [11](#luk-11) [12](#luk-12) [13](#luk-13) [14](#luk-14) [15](#luk-15) [16](#luk-16) [17](#luk-17) [18](#luk-18) [19](#luk-19) [20](#luk-20) [21](#luk-21) [22](#luk-22) [23](#luk-23) [24](#luk-24)
-Joh: [1](#joh-1) [2](#joh-2) [3](#joh-3) [4](#joh-4) [5](#joh-5) [6](#joh-6) [7](#joh-7) [8](#joh-8) [9](#joh-9) [10](#joh-10) [11](#joh-11) [12](#joh-12) [13](#joh-13) [14](#joh-14) [15](#joh-15) [16](#joh-16) [17](#joh-17) [18](#joh-18) [19](#joh-19) [20](#joh-20) [21](#joh-21)
-ApG: [1](#apg-1) [2](#apg-2) [3](#apg-3) [4](#apg-4) [5](#apg-5) [6](#apg-6) [7](#apg-7) [8](#apg-8) [9](#apg-9) [10](#apg-10) [11](#apg-11) [12](#apg-12) [13](#apg-13) [14](#apg-14) [15](#apg-15) [16](#apg-16) [17](#apg-17) [18](#apg-18) [19](#apg-19) [20](#apg-20) [21](#apg-21) [22](#apg-22) [23](#apg-23) [24](#apg-24) [25](#apg-25) [26](#apg-26) [27](#apg-27) [28](#apg-28)
-Rom: [1](#rom-1) [2](#rom-2) [3](#rom-3) [4](#rom-4) [5](#rom-5) [6](#rom-6) [7](#rom-7) [8](#rom-8) [9](#rom-9) [10](#rom-10) [11](#rom-11) [12](#rom-12) [13](#rom-13) [14](#rom-14) [15](#rom-15) [16](#rom-16)
-1 Kor: [1](#kor-1) [2](#kor-2) [3](#kor-3) [4](#kor-4) [5](#kor-5) [6](#kor-6) [7](#kor-7) [8](#kor-8) [9](#kor-9) [10](#kor-10) [11](#kor-11) [12](#kor-12) [13](#kor-13) [14](#kor-14) [15](#kor-15) [16](#kor-16)
-2 Kor: [1](#kor-1-1) [2](#kor-2-1) [3](#kor-3-1) [4](#kor-4-1) [5](#kor-5-1) [6](#kor-6-1) [7](#kor-7-1) [8](#kor-8-1) [9](#kor-9-1) [10](#kor-10-1) [11](#kor-11-1) [12](#kor-12-1) [13](#kor-13-1)
-Gal: [1](#gal-1) [2](#gal-2) [3](#gal-3) [4](#gal-4) [5](#gal-5) [6](#gal-6)
-Ef: [1](#ef-1) [2](#ef-2) [3](#ef-3) [4](#ef-4) [5](#ef-5) [6](#ef-6)
-Fil: [1](#fil-1) [2](#fil-2) [3](#fil-3) [4](#fil-4)
-Kol: [1](#kol-1) [2](#kol-2) [3](#kol-3) [4](#kol-4)
-1 Thess: [1](#thess-1) [2](#thess-2) [3](#thess-3) [4](#thess-4) [5](#thess-5)
-2 Thess: [1](#thess-1-1) [2](#thess-2-1) [3](#thess-3-1)
-1 Tim: [1](#tim-1) [2](#tim-2) [3](#tim-3) [4](#tim-4) [5](#tim-5) [6](#tim-6)
-2 Tim: [1](#tim-1-1) [2](#tim-2-1) [3](#tim-3-1) [4](#tim-4-1)
-Tit: [1](#tit-1) [2](#tit-2) [3](#tit-3)
-Filem: [1](#filem-1)
-Hebr: [1](#hebr-1) [2](#hebr-2) [3](#hebr-3) [4](#hebr-4) [5](#hebr-5) [6](#hebr-6) [7](#hebr-7) [8](#hebr-8) [9](#hebr-9) [10](#hebr-10) [11](#hebr-11) [12](#hebr-12) [13](#hebr-13)
-Jak: [1](#jak-1) [2](#jak-2) [3](#jak-3) [4](#jak-4) [5](#jak-5)
-1 Pet: [1](#pet-1) [2](#pet-2) [3](#pet-3) [4](#pet-4) [5](#pet-5)
-2 Pet: [1](#pet-1-1) [2](#pet-2-1) [3](#pet-3-1)
-1 Joh: [1](#joh-1-1) [2](#joh-2-1) [3](#joh-3-1) [4](#joh-4-1) [5](#joh-5-1)
-2 Joh: [1](#joh-1-2)
-3 Joh: [1](#joh-1-3)
-Jud: [1](#jud-1)
-Åb: [1](#b-1) [2](#b-2) [3](#b-3) [4](#b-4) [5](#b-5) [6](#b-6) [7](#b-7) [8](#b-8) [9](#b-9) [10](#b-10) [11](#b-11) [12](#b-12) [13](#b-13) [14](#b-14) [15](#b-15) [16](#b-16) [17](#b-17) [18](#b-18) [19](#b-19) [20](#b-20) [21](#b-21) [22](#b-22)
+Matt: [1](#matt1) [2](#matt2) [3](#matt3) [4](#matt4) [5](#matt5) [6](#matt6) [7](#matt7) [8](#matt8) [9](#matt9) [10](#matt10) [11](#matt11) [12](#matt12) [13](#matt13) [14](#matt14) [15](#matt15) [16](#matt16) [17](#matt17) [18](#matt18) [19](#matt19) [20](#matt20) [21](#matt21) [22](#matt22) [23](#matt23) [24](#matt24) [25](#matt25) [26](#matt26) [27](#matt27) [28](#matt28)
+Mark: [1](#mark1) [2](#mark2) [3](#mark3) [4](#mark4) [5](#mark5) [6](#mark6) [7](#mark7) [8](#mark8) [9](#mark9) [10](#mark10) [11](#mark11) [12](#mark12) [13](#mark13) [14](#mark14) [15](#mark15) [16](#mark16)
+Luk: [1](#luk1) [2](#luk2) [3](#luk3) [4](#luk4) [5](#luk5) [6](#luk6) [7](#luk7) [8](#luk8) [9](#luk9) [10](#luk10) [11](#luk11) [12](#luk12) [13](#luk13) [14](#luk14) [15](#luk15) [16](#luk16) [17](#luk17) [18](#luk18) [19](#luk19) [20](#luk20) [21](#luk21) [22](#luk22) [23](#luk23) [24](#luk24)
+Joh: [1](#joh1) [2](#joh2) [3](#joh3) [4](#joh4) [5](#joh5) [6](#joh6) [7](#joh7) [8](#joh8) [9](#joh9) [10](#joh10) [11](#joh11) [12](#joh12) [13](#joh13) [14](#joh14) [15](#joh15) [16](#joh16) [17](#joh17) [18](#joh18) [19](#joh19) [20](#joh20) [21](#joh21)
+ApG: [1](#apg1) [2](#apg2) [3](#apg3) [4](#apg4) [5](#apg5) [6](#apg6) [7](#apg7) [8](#apg8) [9](#apg9) [10](#apg10) [11](#apg11) [12](#apg12) [13](#apg13) [14](#apg14) [15](#apg15) [16](#apg16) [17](#apg17) [18](#apg18) [19](#apg19) [20](#apg20) [21](#apg21) [22](#apg22) [23](#apg23) [24](#apg24) [25](#apg25) [26](#apg26) [27](#apg27) [28](#apg28)
+Rom: [1](#rom1) [2](#rom2) [3](#rom3) [4](#rom4) [5](#rom5) [6](#rom6) [7](#rom7) [8](#rom8) [9](#rom9) [10](#rom10) [11](#rom11) [12](#rom12) [13](#rom13) [14](#rom14) [15](#rom-15) [16](#rom16)
+1 Kor: [1](#1kor1) [2](#1kor2) [3](#1kor3) [4](#1kor4) [5](#1kor5) [6](#1kor6) [7](#1kor7) [8](#1kor8) [9](#1kor9) [10](#1kor10) [11](#1kor11) [12](#1kor12) [13](#1kor13) [14](#1kor14) [15](#1kor15) [16](#1kor16)
+2 Kor: [1](#2kor1) [2](#2kor2) [3](#2kor3) [4](#2kor4) [5](#2kor5) [6](#2kor6) [7](#2kor7) [8](#2kor8) [9](#2kor9) [10](#2kor10) [11](#2kor11) [12](#2kor12) [13](#2kor13)
+Gal: [1](#gal1) [2](#gal2) [3](#gal3) [4](#gal4) [5](#gal5) [6](#gal6)
+Ef: [1](#ef1) [2](#ef2) [3](#ef3) [4](#ef4) [5](#ef5) [6](#ef6)
+Fil: [1](#fil1) [2](#fil2) [3](#fil3) [4](#fil4)
+Kol: [1](#kol1) [2](#kol2) [3](#kol3) [4](#kol4)
+1 Thess: [1](#1thess1) [2](#1thess2) [3](#1thess3) [4](#1thess4) [5](#1thess5)
+2 Thess: [1](#2thess1) [2](#2thess2) [3](#2thess3)
+1 Tim: [1](#1tim1) [2](#1tim2) [3](#1tim3) [4](#1tim4) [5](#1tim5) [6](#1tim6)
+2 Tim: [1](#2tim1) [2](#2tim2) [3](#2tim3) [4](#2tim4)
+Tit: [1](#tit1) [2](#tit2) [3](#tit3)
+Filem: [1](#filem1)
+Hebr: [1](#hebr1) [2](#hebr2) [3](#hebr3) [4](#hebr4) [5](#hebr5) [6](#hebr6) [7](#hebr7) [8](#hebr8) [9](#hebr9) [10](#hebr10) [11](#hebr11) [12](#hebr12) [13](#hebr13)
+Jak: [1](#jak1) [2](#jak2) [3](#jak3) [4](#jak4) [5](#jak5)
+1 Pet: [1](#1pet1) [2](#1pet2) [3](#1pet3) [4](#1pet4) [5](#1pet5)
+2 Pet: [1](#2pet1) [2](#2pet2) [3](#2pet3)
+1 Joh: [1](#1joh1) [2](#1joh2) [3](#1joh3) [4](#1joh4) [5](#1joh5)
+2 Joh: [1](#2joh1)
+3 Joh: [1](#3joh1)
+Jud: [1](#jud1)
+Åb: [1](#aab1) [2](#aab2) [3](#aab3) [4](#aab4) [5](#aab5) [6](#aab6) [7](#aab7) [8](#aab8) [9](#aab9) [10](#aab10) [11](#aab11) [12](#aab12) [13](#aab13) [14](#aab14) [15](#aab15) [16](#aab16) [17](#aab17) [18](#aab18) [19](#aab19) [20](#aab20) [21](#aab21) [22](#aab22)
 
 ------------------------------------------------------------------------
 
 ## Matthæusevangeliet
+
+<a id="matt1"></a>
 
 ### Matt 1
 
@@ -68,6 +70,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **22** Alt dette skete, for at det skulle opfyldes, som Herren har talt ved profeten, der siger: **23** »Se, jomfruen skal blive med barn og føde en søn, og de skal give ham navnet Immanuel« – det betyder: Gud med os. **24** Da Josef var vågnet op af søvnen, gjorde han, som Herrens engel havde befalet ham, og tog hende til sig som sin hustru. **25** Men han lå ikke med hende, før hun fødte sin søn. Og han gav ham navnet Jesus.
 
 [– tilbage –](#indhold)
+
+<a id="matt2"></a>
 
 ### Matt 2
 
@@ -102,6 +106,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt3"></a>
+
 ### Matt 3
 
 #### Johannes Døber i Judæas ørken
@@ -123,6 +129,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **13** Da kommer Jesus fra Galilæa til Johannes ved Jordan for at blive døbt af ham. **14** Men Johannes ville hindre ham i det og sagde: »Jeg trænger til at blive døbt af dig, og du kommer til mig?« **15** Men Jesus svarede ham: »Lad det nu ske! For således bør vi opfylde al retfærdighed.« Så føjede han ham. **16** Men da Jesus var døbt, steg han straks op fra vandet, og se, himlene åbnede sig over ham, og han så Guds ånd dale ned ligesom en due og komme over sig; **17** og der lød en røst fra himlene: »Det er min elskede søn, i ham har jeg fundet velbehag!«
 
 [– tilbage –](#indhold)
+
+<a id="matt4"></a>
 
 ### Matt 4
 
@@ -159,6 +167,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **23** Jesus gik omkring i hele Galilæa, underviste i deres synagoger, prædikede evangeliet om Riget og helbredte al sygdom og lidelse blandt folket. **24** Og rygtet om ham nåede ud i hele Syrien, og de kom til ham med alle, der led af forskellige sygdomme og var plaget af lidelser, og med besatte, månesyge og lamme, og han helbredte dem. **25** Og store folkeskarer fulgte ham fra Galilæa og Dekapolis, Jerusalem og Judæa og fra den anden side af Jordan.
 
 [– tilbage –](#indhold)
+
+<a id="matt5"></a>
 
 ### Matt 5
 
@@ -221,6 +231,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt6"></a>
+
 ### Matt 6
 
 #### Om almisse
@@ -270,6 +282,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt7"></a>
+
 ### Matt 7
 
 #### Om at dømme andre
@@ -308,6 +322,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt8"></a>
+
 ### Matt 8
 
 #### Helbredelsen af en spedalsk
@@ -340,6 +356,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **28** Da Jesus var kommet over til den anden bred til gadarenernes land, kom to besatte hen imod ham; de kom fra gravhulerne og var så farlige, at ingen kunne komme forbi ad den vej. **29** De råbte og sagde: »Hvad har vi med dig at gøre, du Guds søn! Er du kommet her for at pine os før tiden?« **30** Et stykke borte gik der en stor flok svin og fandt føde; **31** og dæmonerne bad ham: »Driver du os ud, så send os i den flok svin.« **32** Han sagde: »Gå!« og de fór ud og over i svinene; og hele flokken styrtede ud over skrænten ned i søen og omkom i vandet. **33** Men svinehyrderne løb deres vej og kom ind til byen og fortalte alt, også det om de besatte. **34** Så gik hele byen ud for at møde Jesus, og da de traf ham, bad de ham om at forlade deres egn.
 
 [– tilbage –](#indhold)
+
+<a id="matt9"></a>
 
 ### Matt 9
 
@@ -379,6 +397,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt10"></a>
+
 ### Matt 10
 
 #### Udsendelsen af de tolv
@@ -404,6 +424,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **40** Den, der tager imod jer, tager imod mig, og den, der tager imod mig, tager imod ham, som har udsendt mig. **41** Den, der tager imod en profet, fordi det er en profet, skal få løn som en profet, og den, der tager imod en retfærdig, fordi det er en retfærdig, skal få løn som en retfærdig. **42** Og den, der giver en af disse små blot et bæger koldt vand at drikke, fordi det er en discipel, sandelig siger jeg jer: Han skal ikke gå glip af sin løn.«
 
 [– tilbage –](#indhold)
+
+<a id="matt11"></a>
 
 ### Matt 11
 
@@ -435,6 +457,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **28** Kom til mig, alle I, som slider jer trætte og bærer tunge byrder, og jeg vil give jer hvile. **29** Tag mit åg på jer, og lær af mig, for jeg er sagtmodig og ydmyg af hjertet, så skal I finde hvile for jeres sjæle. **30** For mit åg er godt, og min byrde er let.«
 
 [– tilbage –](#indhold)
+
+<a id="matt12"></a>
 
 ### Matt 12
 
@@ -484,6 +508,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **46** Endnu mens Jesus talte til folkeskarerne, da stod hans mor og hans brødre udenfor og søgte at få ham i tale. **47** Og der var en, der sagde til ham: »Se, din mor og dine brødre står udenfor og vil tale med dig.« **48** Men han svarede ham, der sagde det til ham: »Hvem er min mor, og hvem er mine brødre?« **49** Og han pegede på sine disciple og sagde: »Se, her er min mor og mine brødre. **50** For den, der gør min himmelske faders vilje, er min bror og søster og mor.«
 
 [– tilbage –](#indhold)
+
+<a id="matt13"></a>
 
 ### Matt 13
 
@@ -537,6 +563,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt14"></a>
+
 ### Matt 14
 
 #### Johannes Døbers død
@@ -558,6 +586,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **34** Og da de var kommet over søen, nåede de land ved Genesaret. **35** Folk på stedet genkendte ham og sendte bud til hele omegnen, og de kom til ham med alle de syge, **36** og de bad ham om bare at måtte røre ved kvasten på hans kappe; og alle, der rørte ved ham, blev frelst.
 
 [– tilbage –](#indhold)
+
+<a id="matt15"></a>
 
 ### Matt 15
 
@@ -586,6 +616,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt16"></a>
+
 ### Matt 16
 
 #### Kravet om et tegn
@@ -610,6 +642,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt17"></a>
+
 ### Matt 17
 
 #### Forklarelsen på bjerget
@@ -633,6 +667,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **24** Da de kom ind i Kapernaum, gik de, der opkræver tempelskat, hen til Peter og spurgte: »Betaler jeres mester ikke tempelskat?« **25** Han svarede: »Jo!« Da han kom hjem, kom Jesus ham i forkøbet og spurgte: »Hvad mener du, Simon? Hvem opkræver jordens konger told og skat af? Af landets egne borgere eller af de fremmede?« **26** Han svarede: »Af de fremmede.« Jesus sagde til ham: »Så går landets borgere altså fri. **27** Men for at vi ikke skal forarge dem, så gå ned til søen, kast en krog ud og tag den første fisk, der bider på, og når du åbner dens gab, vil du finde en statér. Tag den og giv dem den for mig og dig.«
 
 [– tilbage –](#indhold)
+
+<a id="matt18"></a>
 
 ### Matt 18
 
@@ -660,6 +696,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt19"></a>
+
 ### Matt 19
 
 #### Spørgsmålet om skilsmisse og ugift stand
@@ -682,6 +720,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt20"></a>
+
 ### Matt 20
 
 #### Lignelsen om arbejderne i vingården
@@ -703,6 +743,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **29** Da de gik ud af Jeriko, fulgte en stor folkeskare ham. **30** Og se, to blinde, der sad ved vejen, hørte, at Jesus kom forbi, og de råbte: »Forbarm dig over os, Herre, Davids søn!« **31** Skaren truede ad dem for at få dem til at tie stille; men de råbte bare endnu højere: »Forbarm dig over os, Herre, Davids søn!« **32** Og Jesus stod stille, kaldte på dem og sagde: »Hvad vil I have, at jeg skal gøre for jer?« **33** De svarede ham: »Herre, at vore øjne må blive åbnet.« **34** Og Jesus fik medynk med dem og rørte ved deres øjne. Straks kunne de se, og de fulgte ham.
 
 [– tilbage –](#indhold)
+
+<a id="matt21"></a>
 
 ### Matt 21
 
@@ -756,6 +798,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt22"></a>
+
 ### Matt 22
 
 #### Lignelsen om kongesønnens bryllup
@@ -786,6 +830,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **45** Når David altså kalder ham herre, hvordan kan han så være hans søn?« **46** Ingen kunne svare ham et ord, og fra den dag turde heller ingen længere spørge ham om noget.
 
 [– tilbage –](#indhold)
+
+<a id="matt23"></a>
 
 ### Matt 23
 
@@ -819,6 +865,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt24"></a>
+
 ### Matt 24
 
 #### De sidste tiders tegn og Jesu genkomst
@@ -843,6 +891,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt25"></a>
+
 ### Matt 25
 
 #### Lignelsen om de ti brudepiger
@@ -858,6 +908,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **31** Når Menneskesønnen kommer i sin herlighed og alle englene med ham, da skal han tage sæde på sin herligheds trone. **32** Og alle folkeslagene skal samles foran ham, og han skal skille dem, som en hyrde skiller fårene fra bukkene; **33** fårene skal han stille ved sin højre side og bukkene ved sin venstre. **34** Da skal kongen sige til dem ved sin højre side: Kom, I som er min faders velsignede, og tag det rige i arv, som er bestemt for jer, siden verden blev grundlagt. **35** For jeg var sulten, og I gav mig noget at spise, jeg var tørstig, og I gav mig noget at drikke, jeg var fremmed, og I tog imod mig, **36** jeg var nøgen, og I gav mig tøj, jeg var syg, og I tog jer af mig, jeg var i fængsel, og I besøgte mig. **37** Da skal de retfærdige sige: Herre, hvornår så vi dig sulten og gav dig noget at spise, eller tørstig og gav dig noget at drikke? **38** Hvornår så vi dig som en fremmed og tog imod dig eller så dig nøgen og gav dig tøj? **39** Hvornår så vi dig syg eller i fængsel og besøgte dig? **40** Og kongen vil svare dem: Sandelig siger jeg jer: Alt, hvad I har gjort mod en af disse mine mindste brødre, det har I gjort mod mig. **41** Da skal han også sige til dem ved sin venstre side: Gå bort fra mig, I forbandede, til den evige ild, som er bestemt for Djævelen og hans engle. **42** For jeg var sulten, og I gav mig ikke noget at spise, jeg var tørstig, og I gav mig ikke noget at drikke, **43** jeg var fremmed, og I tog ikke imod mig, jeg var nøgen, og I gav mig ikke tøj, jeg var syg og i fængsel, og I så ikke til mig. **44** Da skal også de sige til ham: Herre, hvornår så vi dig sulten eller tørstig eller fremmed eller nøgen eller syg eller i fængsel, uden at vi hjalp dig? **45** Da skal han svare dem: Sandelig siger jeg jer: Alt, hvad I ikke har gjort mod en af disse mindste, det har I heller ikke gjort mod mig! **46** Og de skal gå bort til evig straf, men de retfærdige til evigt liv.«
 
 [– tilbage –](#indhold)
+
+<a id="matt26"></a>
 
 ### Matt 26
 
@@ -911,6 +963,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt27"></a>
+
 ### Matt 27
 
 #### Dommen over Jesus
@@ -953,6 +1007,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="matt28"></a>
+
 ### Matt 28
 
 #### Jesu opstandelse
@@ -976,6 +1032,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 ------------------------------------------------------------------------
 
 ## Markusevangeliet
+
+<a id="mark1"></a>
 
 ### Mark 1
 
@@ -1029,6 +1087,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="mark2"></a>
+
 ### Mark 2
 
 #### Helbredelsen af den lamme i Kapernaum
@@ -1050,6 +1110,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **23** På en sabbat kom Jesus forbi nogle kornmarker, og undervejs begyndte hans disciple at plukke aks. **24** Farisæerne sagde da til ham: »Se dér, hvorfor gør de noget, som ikke er tilladt på en sabbat?« **25** Så sagde han til dem: »Har I aldrig læst, hvad David gjorde, da han og hans mænd manglede mad og blev sultne, **26** hvordan han på ypperstepræsten Ebjatars tid gik ind i Guds hus og spiste af skuebrødene, som det kun er tilladt præsterne at spise, og tilmed gav sine mænd noget?« **27** Og Jesus sagde til dem: »Sabbatten blev til for menneskets skyld, og ikke mennesket for sabbattens skyld. **28** Derfor er Menneskesønnen herre også over sabbatten.«
 
 [– tilbage –](#indhold)
+
+<a id="mark3"></a>
 
 ### Mark 3
 
@@ -1078,6 +1140,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **31** Så kom Jesu mor og hans brødre, og de sendte nogle ind til ham for at hente ham, men selv blev de stående udenfor. **32** Han sad omgivet af en hel skare, og de sagde til ham: »Se, din mor og dine brødre og dine søstre står udenfor og spørger efter dig.« **33** Men han svarede dem: »Hvem er min mor og mine brødre?« **34** Og han så rundt på dem, der sad omkring ham, og han sagde: »Se, her er min mor og mine brødre. **35** For den, der gør Guds vilje, er min bror og søster og mor.«
 
 [– tilbage –](#indhold)
+
+<a id="mark4"></a>
 
 ### Mark 4
 
@@ -1113,6 +1177,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="mark5"></a>
+
 ### Mark 5
 
 #### Den besatte i gerasenernes land
@@ -1132,6 +1198,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **35** Endnu mens han talte, kommer der nogle fra synagogeforstanderens hus og siger: »Din datter er død! Hvorfor gøre Mesteren ulejlighed mere?« **36** Men da Jesus hørte, hvad der blev sagt, sagde han til synagogeforstanderen: »Frygt ikke, tro kun!« **37** Og han tillod ikke andre end Peter og Jakob og Johannes, Jakobs bror, at følge med. **38** Så kom de til synagogeforstanderens hus, og han så en larmende hob, som både græd og jamrede meget, **39** og han gik ind og sagde til dem: »Hvorfor larmer og græder I? Barnet er ikke død, hun sover.« **40** De lo ad ham; men han jog dem alle sammen ud og tog barnets far og mor og sine ledsagere med sig og gik ind, hvor barnet lå. **41** Så tog han barnets hånd og sagde til hende: »Talitha kum!« – det betyder: »Lille pige, jeg siger dig, rejs dig op!« **42** Og straks stod pigen op og gik omkring, for hun var tolv år gammel. Og de blev fuldstændig ude af sig selv. **43** Men Jesus befalede dem strengt, at ingen måtte få dette at vide, og han sagde, at hun skulle have noget at spise.
 
 [– tilbage –](#indhold)
+
+<a id="mark6"></a>
 
 ### Mark 6
 
@@ -1169,6 +1237,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="mark7"></a>
+
 ### Mark 7
 
 #### Spørgsmålet om rent og urent
@@ -1195,6 +1265,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **31** Jesus drog igen bort fra egnen ved Tyrus og kom over Sidon til Galilæas Sø midt igennem Dekapolis. **32** Og folk kom til ham med en, der var døv og havde svært ved at tale, og de bad ham om at lægge hånden på ham. **33** Jesus tog ham afsides, væk fra skaren, stak sine fingre i hans ører, spyttede og rørte ved hans tunge; **34** og han så op mod himlen, sukkede og sagde til ham: »Effatha!« – det betyder: »Luk dig op!« **35** Og straks lukkede hans ører sig op, og det bånd, der bandt hans tunge, blev løst, og han kunne tale rigtigt. **36** Jesus forbød dem at sige det til nogen; men jo mere han forbød dem det, jo ivrigere fortalte de om det. **37** Og de var overvældede af forundring og sagde: »Han har gjort alting vel. Han får både de døve til at høre og de stumme til at tale.«
 
 [– tilbage –](#indhold)
+
+<a id="mark8"></a>
 
 ### Mark 8
 
@@ -1227,6 +1299,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **34** Så kaldte han skaren til sig sammen med sine disciple og sagde til dem: »Hvis nogen vil følge efter mig, skal han fornægte sig selv og tage sit kors op og følge mig. **35** For den, der vil frelse sit liv, skal miste det; men den, der mister sit liv på grund af mig og evangeliet, skal frelse det. **36** For hvad hjælper det et menneske at vinde hele verden og bøde med sit liv? **37** For hvad kan et menneske give som vederlag for sit liv? **38** For den, der skammer sig ved mig og mine ord i denne utro og syndige slægt, skal Menneskesønnen skamme sig ved, når han kommer i sin faders herlighed sammen med de hellige engle.«
 
 [– tilbage –](#indhold)
+
+<a id="mark9"></a>
 
 ### Mark 9
 
@@ -1266,6 +1340,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="mark10"></a>
+
 ### Mark 10
 
 #### Spørgsmålet om skilsmisse
@@ -1302,6 +1378,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="mark11"></a>
+
 ### Mark 11
 
 #### Indtoget i Jerusalem
@@ -1332,6 +1410,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **27** Så kom de igen ind i Jerusalem. Og da han gik omkring på tempelpladsen, kom ypperstepræsterne og de skriftkloge og de ældste hen til ham **28** og spurgte: »Med hvilken ret gør du dette? Hvem har givet dig ret til at gøre det?« **29** Men Jesus sagde til dem: »Jeg vil spørge jer om en ting. Svar mig, så vil jeg sige jer, med hvilken ret jeg gør dette. **30** Johannes’ dåb, var den fra himlen eller fra mennesker? Svar mig på det!« **31** De drøftede det med hinanden: »Hvis vi siger: Fra himlen! vil han spørge: Hvorfor troede I ham da ikke? **32** Men skal vi så sige: Fra mennesker?« – de frygtede for skaren, for alle mente, at Johannes virkelig var en profet. **33** Og de svarede Jesus: »Vi ved det ikke.« Da sagde Jesus til dem: »Så siger jeg heller ikke jer, med hvilken ret jeg gør dette.«
 
 [– tilbage –](#indhold)
+
+<a id="mark12"></a>
 
 ### Mark 12
 
@@ -1379,6 +1459,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="mark13"></a>
+
 ### Mark 13
 
 #### De sidste tiders tegn og Jesu genkomst
@@ -1404,6 +1486,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 **33** Tag jer i agt, hold jer vågne! For I ved ikke, hvornår tiden er inde. **34** Det er ligesom med en mand, der skulle rejse til udlandet; han forlod sit hus og gav sine tjenere fuldmagt, hver enkelt sin opgave, og dørvogteren pålagde han at våge. **35** Våg derfor, for I ved ikke, hvornår husets herre kommer, om det bliver om aftenen eller ved midnat eller ved hanegal eller ved daggry; **36** lad ham ikke finde jer sovende, når han pludselig kommer. **37** Hvad jeg siger til jer, siger jeg til alle: Våg!«
 
 [– tilbage –](#indhold)
+
+<a id="mark14"></a>
 
 ### Mark 14
 
@@ -1455,6 +1539,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="mark15"></a>
+
 ### Mark 15
 
 #### Jesus for Pilatus
@@ -1487,6 +1573,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="mark16"></a>
+
 ### Mark 16
 
 #### Jesu opstandelse
@@ -1506,6 +1594,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 ------------------------------------------------------------------------
 
 ## Lukasevangeliet
+
+<a id="luk1"></a>
 
 ### Luk 1
 
@@ -1592,6 +1682,8 @@ David blev med Urias’ hustru far til Salomo, **7** Salomo blev far til Rehabea
 
 [– tilbage –](#indhold)
 
+<a id="luk2"></a>
+
 ### Luk 2
 
 #### Jesu fødsel
@@ -1633,6 +1725,8 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 
 [– tilbage –](#indhold)
 
+<a id="luk3"></a>
+
 ### Luk 3
 
 #### Johannes Døber i ørkenen
@@ -1667,6 +1761,8 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 **23** Jesus var omkring tredive år, da han begyndte sit virke. Han var, mente man, søn af Josef, som var søn af Eli, **24** søn af Mattat, søn af Levi, søn af Melki, søn af Jannaj, søn af Josef, **25** søn af Mattathias, søn af Amos, søn af Nahum, søn af Esli, søn af Naggaj, **26** søn af Mahat, søn af Mattathias, søn af Shim’i, søn af Josek, søn af Joda, **27** søn af Johanan, søn af Resa, søn af Zerubbabel, søn af Shealtiel, søn af Neri, **28** søn af Melki, søn af Addi, søn af Kosam, søn af Elmadam, søn af Er, **29** søn af Josva, søn af Eliezer, søn af Jorim, søn af Mattat, søn af Levi, **30** søn af Simeon, søn af Juda, søn af Josef, søn af Jonam, søn af Eljakim, **31** søn af Melea, søn af Menna, søn af Mattata, søn af Natan, søn af David, **32** søn af Isaj, søn af Obed, søn af Boaz, søn af Sala, søn af Nakshon, **33** søn af Amminadab, søn af Admin, søn af Arni, søn af Hesron, søn af Peres, søn af Juda, **34** søn af Jakob, søn af Isak, søn af Abraham, søn af Tera, søn af Nakor, **35** søn af Serug, søn af Re’u, søn af Peleg, søn af Eber, søn af Shela, **36** søn af Kenan, søn af Arpakshad, søn af Sem, søn af Noa, søn af Lemek, **37** søn af Metusalem, søn af Enok, søn af Jered, søn af Mahalal’el, søn af Kenan, **38** søn af Enosh, søn af Set, søn af Adam, søn af Gud.
 
 [– tilbage –](#indhold)
+
+<a id="luk4"></a>
 
 ### Luk 4
 
@@ -1722,6 +1818,8 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 
 [– tilbage –](#indhold)
 
+<a id="luk5"></a>
+
 ### Luk 5
 
 #### Peters fiskefangst
@@ -1749,6 +1847,8 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 **33** De sagde til ham: »Johannes’ disciple faster ofte og holder bøn; det samme gør farisæernes disciple; men dine, de spiser og drikker.« **34** Jesus sagde til dem: »Kan I få brudesvendene til at faste, mens brudgommen er sammen med dem? **35** Men der kommer dage, da brudgommen er taget fra dem; i de dage skal de faste.« **36** Han fortalte dem også en lignelse: »Ingen river en lap ud af nyt stof og sætter den på en gammel kappe; for så river man det nye stof i stykker, og lappen af det nye stof passer alligevel ikke på det gamle. **37** Og ingen fylder ung vin på gamle lædersække; for så sprænger den unge vin sækkene, vinen løber ud, og sækkene ødelægges. **38** Nej, ung vin skal fyldes på nye sække. **39** Og ingen, som har drukket gammel vin, vil have en ung, for han siger: Den gamle er bedst.«
 
 [– tilbage –](#indhold)
+
+<a id="luk6"></a>
 
 ### Luk 6
 
@@ -1812,6 +1912,8 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 
 [– tilbage –](#indhold)
 
+<a id="luk7"></a>
+
 ### Luk 7
 
 #### Officeren i Kapernaum
@@ -1842,6 +1944,8 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 **36** En af farisæerne indbød Jesus til at spise hos sig, og han gik ind i farisæerens hus og tog plads ved bordet. **37** Nu var der en kvinde, som levede i synd i den by. Da hun fik at vide, at han sad til bords i farisæerens hus, gik hun derhen med en alabastkrukke fuld af olie, **38** stillede sig grædende bag ham ved hans fødder og begyndte at væde hans fødder med sine tårer og tørrede dem med sit hår, og hun kyssede hans fødder og salvede dem med olien. **39** Da farisæeren, som havde indbudt ham, så det, tænkte han ved sig selv: »Hvis den mand var profet, ville han vide, hvad det er for en slags kvinde, der rører ved ham, at det er én, der lever i synd.« **40** Jesus sagde da til ham: »Simon, jeg har noget at sige dig.« Han svarede: »Sig det, Mester!« **41** »En pengeudlåner havde to skyldnere. Den ene skyldte fem hundrede denarer, den anden halvtreds. **42** Da de ikke havde noget at betale med, eftergav han dem begge deres gæld. Hvem af dem vil så elske ham mest?« **43** Simon svarede: »Den, han eftergav mest, vil jeg tro.« Jesus sagde: »Det har du ret i.« **44** Og vendt mod kvinden sagde han til Simon: »Ser du denne kvinde? Jeg kom ind i dit hus; du gav mig ikke vand til mine fødder; men hun har vædet mine fødder med sine tårer og tørret dem med sit hår. **45** Du gav mig ikke noget kys; men hun er blevet ved med at kysse mine fødder, siden jeg kom herind. **46** Du salvede ikke mit hoved med salve, men hun har salvet mine fødder med olie. **47** Derfor siger jeg dig: Hendes mange synder er tilgivet, siden hun har elsket meget. Den, der kun får lidt tilgivet, elsker kun lidt.« **48** Og han sagde til hende: »Dine synder er tilgivet.« **49** De andre ved bordet begyndte at tænke ved sig selv: »Hvem er han, som endog tilgiver synder?« **50** Men han sagde til kvinden: »Din tro har frelst dig. Gå bort med fred!«
 
 [– tilbage –](#indhold)
+
+<a id="luk8"></a>
 
 ### Luk 8
 
@@ -1887,6 +1991,8 @@ Hans mor gemte alle ordene i sit hjerte. **52** Og Jesus gik frem i visdom og v�
 **49** Endnu mens han talte, kommer der én fra synagogeforstanderens hus og siger: »Din datter er død. Gør ikke Mesteren mere ulejlighed.« **50** Men da Jesus hørte det, sagde han til ham: »Frygt ikke, tro kun, så vil hun blive frelst.« **51** Da han kom til huset, tillod han kun Peter og Johannes og Jakob og barnets far og mor at gå med ind. **52** Alle græd og jamrede over pigen. Men han sagde: »Græd ikke, for hun er ikke død, hun sover.« **53** De lo ad ham, for de vidste, at hun var død; **54** men han tog hendes hånd og råbte: »Pige, rejs dig op!« **55** Da vendte hendes ånd tilbage, hun stod straks op, og han gav dem besked om at give hende noget at spise. **56** Og hendes forældre blev ude af sig selv, men han forbød dem at sige til nogen, hvad der var sket.
 
 [– tilbage –](#indhold)
+
+<a id="luk9"></a>
 
 ### Luk 9
 
@@ -1944,6 +2050,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk10"></a>
+
 ### Luk 10
 
 #### Udsendelsen af de tooghalvfjerds
@@ -1973,6 +2081,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 **38** Mens de var på vandring, kom Jesus engang ind i en landsby, og en kvinde ved navn Martha tog imod ham. **39** Hun havde en søster, som hed Maria; hun satte sig ved Herrens fødder og lyttede til hans ord. **40** Men Martha var travlt optaget af at sørge for ham. Hun kom hen og sagde: »Herre, er du ligeglad med, at min søster lader mig være alene om at sørge for dig? Sig dog til hende, at hun skal hjælpe mig.« **41** Men Herren svarede hende: »Martha, Martha! Du gør dig bekymringer og er urolig for mange ting. **42** Men ét er fornødent. Maria har valgt den gode del, og den skal ikke tages fra hende.«
 
 [– tilbage –](#indhold)
+
+<a id="luk11"></a>
 
 ### Luk 11
 
@@ -2028,6 +2138,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk12"></a>
+
 ### Luk 12
 
 #### Advarsel mod hykleri
@@ -2068,6 +2180,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk13"></a>
+
 ### Luk 13
 
 #### De dræbte galilæere og det sammenstyrtede tårn
@@ -2104,6 +2218,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk14"></a>
+
 ### Luk 14
 
 #### Helbredelsen af manden med vand i kroppen
@@ -2124,6 +2240,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk15"></a>
+
 ### Luk 15
 
 #### Lignelsen om det mistede får og om den tabte mønt
@@ -2142,6 +2260,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk16"></a>
+
 ### Luk 16
 
 #### Lignelsen om den uærlige godsforvalter
@@ -2159,6 +2279,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 **19** Der var en rig mand, som klædte sig i purpur og fint linned og hver dag levede i fest og pragt. **20** Men en fattig mand ved navn Lazarus lå ved hans port, fuld af sår, **21** og ønskede kun at spise sig mæt i det, der faldt fra den riges bord, og hundene kom tilmed og slikkede hans sår. **22** Så døde den fattige, og han blev af englene båret hen i Abrahams skød. Også den rige døde og blev begravet. **23** Da han slog øjnene op i dødsriget, hvor han pintes, ser han Abraham langt borte og Lazarus i hans skød. **24** Fader Abraham! råbte han, forbarm dig over mig og send Lazarus, så han kan dyppe spidsen af sin finger i vand og læske min tunge, for jeg pines i disse luer. **25** Men Abraham svarede: Barn, husk på, at du fik dit gode, mens du levede, og Lazarus på samme måde det onde; nu trøstes han her, mens du pines. **26** Desuden er der lagt en dyb kløft mellem os og jer, for at de, som vil herfra over til jer, ikke skal kunne det, og de heller ikke skal komme over til os derovrefra. **27** Da sagde han: Så beder jeg dig, fader, at du vil sende ham til min fars hus, **28** for jeg har fem brødre, for at han kan advare dem, så ikke også de kommer til dette pinested. **29** Men Abraham svarede: De har Moses og profeterne, dem kan de høre. **30** Nej, fader Abraham! sagde han, men kommer der en til dem fra de døde, vil de omvende sig. **31** Abraham svarede: Hvis de ikke hører Moses og profeterne, vil de heller ikke lade sig overbevise, selv om en står op fra de døde.«
 
 [– tilbage –](#indhold)
+
+<a id="luk17"></a>
 
 ### Luk 17
 
@@ -2185,6 +2307,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 **26** Og som det var i Noas dage, sådan skal det også være i Menneskesønnens dage: **27** De spiste og drak, giftede sig og blev bortgiftet lige til den dag, da Noa gik ind i arken, og syndfloden kom og udslettede dem alle. **28** Eller som i Lots dage: De spiste og drak, købte og solgte, plantede og byggede; **29** men den dag, da Lot forlod Sodoma, regnede ild og svovl ned fra himlen og udslettede dem alle. **30** På samme måde skal det være den dag, da Menneskesønnen åbenbares. **31** Den, som den dag er oppe på taget og har sine ting nede i huset, skal ikke gå ned og hente dem, og lige så lidt skal den, der er ude på marken, vende hjem igen. **32** Husk på Lots hustru! **33** Den, der søger at redde sit liv, skal miste det, men den, der mister det, skal vinde det. **34** Jeg siger jer: Den nat skal to mænd ligge på samme seng; den ene skal tages med, og den anden lades tilbage. **35** To kvinder skal male på den samme kværn; den ene skal tages med, og den anden lades tilbage. **36** To mænd skal være ude på marken; den ene skal tages med, og den anden lades tilbage.« **37** Disciplene spurgte ham: »Hvor, Herre?« Han svarede dem: »Hvor ådslet er, dér vil også gribbene flokkes.«
 
 [– tilbage –](#indhold)
+
+<a id="luk18"></a>
 
 ### Luk 18
 
@@ -2218,6 +2342,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk19"></a>
+
 ### Luk 19
 
 #### Zakæus
@@ -2249,6 +2375,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 **47** Han underviste hver dag på tempelpladsen. Ypperstepræsterne og de skriftkloge, ja, alle folkets ledere søgte at få ham ryddet af vejen; **48** men de kunne ikke finde ud af, hvad de skulle gøre, for hele folket hang ved ham for at høre ham.
 
 [– tilbage –](#indhold)
+
+<a id="luk20"></a>
 
 ### Luk 20
 
@@ -2292,6 +2420,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk21"></a>
+
 ### Luk 21
 
 #### Den fattige enkes gave
@@ -2319,6 +2449,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 **37** Om dagen underviste han på tempelpladsen, men om aftenen gik han ud til det bjerg, som hedder Oliebjerget, og overnattede der. **38** Tidligt om morgenen kom hele folket til ham på tempelpladsen for at høre ham.
 
 [– tilbage –](#indhold)
+
+<a id="luk22"></a>
 
 ### Luk 22
 
@@ -2372,6 +2504,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk23"></a>
+
 ### Luk 23
 
 #### Jesus for Pilatus
@@ -2412,6 +2546,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="luk24"></a>
+
 ### Luk 24
 
 #### Jesu opstandelse
@@ -2445,6 +2581,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 ------------------------------------------------------------------------
 
 ## Johannesevangeliet
+
+<a id="joh1"></a>
 
 ### Joh 1
 
@@ -2480,6 +2618,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="joh2"></a>
+
 ### Joh 2
 
 #### Brylluppet i Kana
@@ -2502,6 +2642,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 
 [– tilbage –](#indhold)
 
+<a id="joh3"></a>
+
 ### Joh 3
 
 #### Jesus og Nikodemus
@@ -2523,6 +2665,8 @@ Mens alle undrede sig over alt det, han gjorde, sagde han til sine disciple: **4
 **31** Den, der kommer ovenfra, er over alle; den, der er af jorden, er jordisk og taler jordisk. Den, der kommer fra himlen, er over alle; **32** hvad han har set og hørt, det vidner han om, og ingen tager imod hans vidnesbyrd. **33** Den, der har taget imod hans vidnesbyrd, har dermed bekræftet, at Gud er sanddru; **34** for han, som Gud har udsendt, taler Guds ord; Gud giver jo ikke Ånden efter mål. **35** Faderen elsker Sønnen, og alt har han lagt i hans hånd. **36** Den, der tror på Sønnen, har evigt liv; den, der er ulydig mod Sønnen, skal ikke se livet, men Guds vrede bliver over ham.«
 
 [– tilbage –](#indhold)
+
+<a id="joh4"></a>
 
 ### Joh 4
 
@@ -2552,6 +2696,8 @@ Der var en kongelig embedsmand, hvis søn lå syg i Kapernaum. **47** Da han hø
 
 [– tilbage –](#indhold)
 
+<a id="joh5"></a>
+
 ### Joh 5
 
 #### Den syge ved Betesda dam
@@ -2575,6 +2721,8 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 **41** Min ære vil jeg ikke have fra mennesker; **42** nej, for jeg ved, at I ikke har Guds kærlighed i jer. **43** Jeg er kommet i min faders navn, og I tager ikke imod mig; hvis en anden kommer i sit eget navn, skal I nok tage imod ham. **44** Hvordan skal I kunne tro, når I vil have jeres ære fra hinanden og ikke søger æren hos den eneste Gud? **45** Tro ikke, at jeg vil anklage jer hos Faderen; den, der anklager jer, er Moses, ham I har sat jeres håb til. **46** Havde I troet Moses, ville I have troet mig; for det var mig, han skrev om. **47** Men tror I ikke hans skrifter, hvordan skal I så tro mine ord?«
 
 [– tilbage –](#indhold)
+
+<a id="joh6"></a>
 
 ### Joh 6
 
@@ -2612,6 +2760,8 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 
 [– tilbage –](#indhold)
 
+<a id="joh7"></a>
+
 ### Joh 7
 
 #### Jesus og hans brødre
@@ -2644,6 +2794,8 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 
 [– tilbage –](#indhold)
 
+<a id="joh8"></a>
+
 ### Joh 8
 
 #### Kvinden grebet i ægteskabsbrud
@@ -2672,6 +2824,8 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 
 [– tilbage –](#indhold)
 
+<a id="joh9"></a>
+
 ### Joh 9
 
 #### Helbredelsen af den blindfødte
@@ -2689,6 +2843,8 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 **35** Jesus hørte, at de havde jaget ham ud, og da han mødte ham, sagde han: »Tror du på Menneskesønnen?« **36** Han spurgte: »Hvem er det, Herre, så jeg kan tro på ham?« **37** Jesus sagde til ham: »Du har set ham; det er ham, der taler med dig.« **38** Han sagde: »Jeg tror, Herre.« Og han tilbad ham. **39** Og Jesus sagde: »Til dom er jeg kommet til denne verden, for at de, der ikke ser, skal komme til at se, og de, der ser, skal blive blinde.« **40** Nogle af farisæerne, som var sammen med ham, hørte dette og sagde til ham: »Er vi måske også blinde?« **41** Jesus svarede dem: »Var I blinde, havde I ikke synd. Men nu siger I: Vi ser; i synd er og bliver I.
 
 [– tilbage –](#indhold)
+
+<a id="joh10"></a>
 
 ### Joh 10
 
@@ -2715,6 +2871,8 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 **40** Han tog atter over til den anden side af Jordan, til det sted, hvor Johannes tidligere havde døbt, og opholdt sig dér. **41** Og mange kom til ham, og de sagde: »Ganske vist gjorde Johannes intet tegn, men alt, hvad Johannes sagde om denne mand, er sandt.« **42** Og dér kom mange til tro på ham.
 
 [– tilbage –](#indhold)
+
+<a id="joh11"></a>
 
 ### Joh 11
 
@@ -2745,6 +2903,8 @@ Men det var sabbat den dag; **10** derfor sagde jøderne til ham, som var blevet
 **55** Jødernes påske nærmede sig, og mange ude fra landet drog op til Jerusalem før påsken for at rense sig. **56** De ledte efter Jesus og sagde til hinanden, mens de stod på tempelpladsen: »Hvad mener I? Mon han ikke kommer til festen?« **57** Men ypperstepræsterne og farisæerne havde givet ordre til, at hvis nogen fik at vide, hvor Jesus var, skulle man melde det, så de kunne gribe ham.
 
 [– tilbage –](#indhold)
+
+<a id="joh12"></a>
 
 ### Joh 12
 
@@ -2805,6 +2965,8 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 
 [– tilbage –](#indhold)
 
+<a id="joh13"></a>
+
 ### Joh 13
 
 #### Fodvaskningen
@@ -2834,6 +2996,8 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 
 [– tilbage –](#indhold)
 
+<a id="joh14"></a>
+
 ### Joh 14
 
 #### Vejen og sandheden og livet
@@ -2851,6 +3015,8 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 **25** Sådan har jeg talt til jer, mens jeg endnu var hos jer. **26** Men Talsmanden, Helligånden, som Faderen vil sende i mit navn, han skal lære jer alt og minde jer om alt, hvad jeg har sagt til jer. **27** Fred efterlader jeg jer, min fred giver jeg jer; jeg giver jer ikke, som verden giver. Jeres hjerte må ikke forfærdes og ikke være modløst! **28** I har hørt, at jeg har sagt til jer: Jeg går bort, og jeg kommer til jer. Hvis I elskede mig, ville I glæde jer over, at jeg går til Faderen, for Faderen er større end jeg. **29** Nu har jeg sagt det til jer, før det sker, for at I skal tro, når det sker. **30** Jeg skal ikke tale meget med jer mere, for verdens fyrste kommer; og mig kan han intet gøre, **31** men det sker, for at verden skal forstå, at jeg elsker Faderen og gør sådan, som Faderen har påbudt mig. Rejs jer, lad os gå herfra!
 
 [– tilbage –](#indhold)
+
+<a id="joh15"></a>
 
 ### Joh 15
 
@@ -2871,6 +3037,8 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 **26** Når Talsmanden kommer, som jeg vil sende til jer fra Faderen, sandhedens ånd, som udgår fra Faderen, skal han vidne om mig. **27** Men også I skal vidne, for I har været med mig fra begyndelsen.
 
 [– tilbage –](#indhold)
+
+<a id="joh16"></a>
 
 ### Joh 16
 
@@ -2896,6 +3064,8 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 
 [– tilbage –](#indhold)
 
+<a id="joh17"></a>
+
 ### Joh 17
 
 #### Jesu sidste bøn
@@ -2909,6 +3079,8 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 **24** Fader, jeg vil, at hvor jeg er, skal også de, som du har givet mig, være hos mig, for at de skal se min herlighed, som du har givet mig, for du har elsket mig, før verden blev grundlagt. **25** Retfærdige fader, verden har ikke kendt dig, men jeg har kendt dig, og de har erkendt, at du har udsendt mig; **26** og jeg har gjort dit navn kendt for dem og vil gøre det kendt, for at den kærlighed, du har elsket mig med, skal være i dem, og jeg i dem.«
 
 [– tilbage –](#indhold)
+
+<a id="joh18"></a>
 
 ### Joh 18
 
@@ -2935,6 +3107,8 @@ Sådan talte Jesus, og han gik bort og forsvandt for dem.
 Da han havde sagt det, gik han atter ud til jøderne og sagde til dem: »Jeg finder ham ikke skyldig. **39** Men det er skik og brug hos jer, at jeg løslader en fange i påsken. Vil I have, at jeg skal løslade jer jødernes konge?« **40** De råbte tilbage: »Ikke ham, men Barabbas!« Barabbas var en røver.
 
 [– tilbage –](#indhold)
+
+<a id="joh19"></a>
 
 ### Joh 19
 
@@ -2969,6 +3143,8 @@ Det gjorde soldaterne altså.
 
 [– tilbage –](#indhold)
 
+<a id="joh20"></a>
+
 ### Joh 20
 
 #### Jesu opstandelse
@@ -2995,6 +3171,8 @@ Det gjorde soldaterne altså.
 
 [– tilbage –](#indhold)
 
+<a id="joh21"></a>
+
 ### Joh 21
 
 #### Jesus og disciplene ved Tiberias Sø
@@ -3018,6 +3196,8 @@ Det gjorde soldaterne altså.
 ------------------------------------------------------------------------
 
 ## Apostlenes Gerninger
+
+<a id="apg1"></a>
 
 ### ApG 1
 
@@ -3047,6 +3227,8 @@ og:
 **21** Derfor bør en af de mænd, som var sammen med os hele tiden, mens Herren Jesus gik ind og ud hos os, **22** lige fra Johannes’ dåb indtil den dag, han blev taget op til himlen fra os – en af dem bør sammen med os være vidne om hans opstandelse.« **23** De opstillede så to, Josef, der kaldtes Barsabbas med tilnavnet Justus, og Matthias, **24** og bad: »Herre, du som kender alles hjerter, vis os, hvem af de to du har udvalgt **25** til at overtage den tjeneste og apostelgerning, som Judas har forladt for at gå bort til det sted, hvor han hører til.« **26** Så kastede de lod mellem dem, og loddet faldt på Matthias, og han blev regnet med som apostel sammen med de elleve.
 
 [– tilbage –](#indhold)
+
+<a id="apg2"></a>
 
 ### ApG 2
 
@@ -3105,6 +3287,8 @@ og:
 
 [– tilbage –](#indhold)
 
+<a id="apg3"></a>
+
 ### ApG 3
 
 #### Helbredelsen af den lamme ved Den skønne Port
@@ -3120,6 +3304,8 @@ og:
 **17** Vel ved jeg, brødre, at I har handlet i uvidenhed ligesom jeres ledere; **18** men Gud har på den måde opfyldt det, han forud har forkyndt ved alle profeterne, at hans salvede skulle lide. **19** Derfor skal I omvende jer og vende om, for at jeres synder kan blive slettet ud; **20** så skal de tider komme fra Herren, da vi kan ånde frit, og han skal sende den Salvede, som forud var bestemt for jer, og det er Jesus; **21** han skal bo i himlen, indtil de tider kommer, da alt det genoprettes, som Gud fra fordums tid har forkyndt gennem sine hellige profeters mund. **22** Moses har jo sagt: ›Herren jeres Gud vil lade en profet som mig fremstå for jer, en af jeres egne; ham skal I adlyde i alt, hvad han forkynder for jer. **23** Men enhver, der ikke adlyder denne profet, skal udryddes fra folket.‹ **24** Også alle de andre profeter, som har talt, både Samuel og de følgende, har forkyndt om disse dage. **25** I er børn af profeterne og af den pagt, som Gud oprettede med jeres fædre, da han sagde til Abraham: ›Alle jordens slægter skal velsignes i dit afkom.‹ **26** Det var for jer som de første, at Gud oprejste sin tjener og sendte ham for at velsigne jer, når I hver især vender jer bort fra jeres ondskab.«
 
 [– tilbage –](#indhold)
+
+<a id="apg4"></a>
 
 ### ApG 4
 
@@ -3158,6 +3344,8 @@ og:
 
 [– tilbage –](#indhold)
 
+<a id="apg5"></a>
+
 ### ApG 5
 
 #### Ananias og Safira
@@ -3178,6 +3366,8 @@ og:
 
 [– tilbage –](#indhold)
 
+<a id="apg6"></a>
+
 ### ApG 6
 
 #### Valget af de syv
@@ -3191,6 +3381,8 @@ og:
 **8** Fuld af nåde og kraft gjorde Stefanus store undere og tegn blandt folket. **9** Da trådte der nogle frem af dem fra den synagoge, der hed De Frigivnes, Kyrenæernes og Alexandrinernes Synagoge, og nogle fra Kilikien og provinsen Asien, og de kom i diskussion med Stefanus. **10** De kunne dog ikke modstå den visdom og ånd, som han talte med. **11** Så fik de i al hemmelighed nogle mænd til at sige: »Vi har hørt ham tale spottende om Moses og Gud.« **12** De ophidsede folket og de ældste og de skriftkloge og kastede sig over ham, slæbte ham med og førte ham for Rådet, **13** og de stillede med falske vidner, som sagde: »Denne mand taler ustandselig imod dette hellige sted og imod loven. **14** Vi har nemlig hørt ham sige: Denne Jesus fra Nazaret vil bryde dette sted ned og forandre de skikke, som Moses har overleveret os.« **15** Alle, der sad i Rådet, stirrede på ham, og for dem at se var hans ansigt som en engels ansigt.
 
 [– tilbage –](#indhold)
+
+<a id="apg7"></a>
 
 ### ApG 7
 
@@ -3227,6 +3419,8 @@ og:
 
 [– tilbage –](#indhold)
 
+<a id="apg8"></a>
+
 ### ApG 8
 
 #### Forfølgelsen i Jerusalem
@@ -3260,6 +3454,8 @@ Samme dag udbrød der en stor forfølgelse af menigheden i Jerusalem, og alle un
 
 [– tilbage –](#indhold)
 
+<a id="apg9"></a>
+
 ### ApG 9
 
 #### Saulus’ omvendelse
@@ -3290,6 +3486,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 
 [– tilbage –](#indhold)
 
+<a id="apg10"></a>
+
 ### ApG 10
 
 #### Peter og Cornelius
@@ -3310,6 +3508,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 
 [– tilbage –](#indhold)
 
+<a id="apg11"></a>
+
 ### ApG 11
 
 #### Peters redegørelse i Jerusalem
@@ -3325,6 +3525,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 **27** På den tid kom der nogle profeter fra Jerusalem til Antiokia. **28** En af dem, som hed Agabos, rejste sig og varslede ved Ånden, at der ville blive stor hungersnød i hele verden; og det blev der under Claudius. **29** Disciplene besluttede da, at alle skulle sende, hvad de hver især havde råd til, som hjælp til brødrene i Judæa. **30** Det gjorde de så, og de sendte Barnabas og Saulus til de ældste med gaven.
 
 [– tilbage –](#indhold)
+
+<a id="apg12"></a>
 
 ### ApG 12
 
@@ -3343,6 +3545,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 **24** Men Guds ord fik fremgang og blev udbredt. **25** Og da Barnabas og Saulus havde udført deres tjeneste i Jerusalem, vendte de tilbage og tog Johannes med tilnavnet Markus med sig.
 
 [– tilbage –](#indhold)
+
+<a id="apg13"></a>
 
 ### ApG 13
 
@@ -3386,6 +3590,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 
 [– tilbage –](#indhold)
 
+<a id="apg14"></a>
+
 ### ApG 14
 
 #### Forkyndelse og forfølgelse i Ikonion, Lystra og Derbe
@@ -3408,6 +3614,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 
 [– tilbage –](#indhold)
 
+<a id="apg15"></a>
+
 ### ApG 15
 
 #### Apostelmødet i Jerusalem
@@ -3427,6 +3635,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 **36** Nogen tid efter sagde Paulus til Barnabas: »Lad os vende tilbage og besøge brødrene i alle de byer, hvor vi har forkyndt Herrens ord, og se, hvordan de har det.« **37** Barnabas ville også tage Johannes, som kaldtes Markus, med, **38** men Paulus fandt det ikke rigtigt at tage en med, der havde forladt dem i Pamfylien og ikke deltaget i arbejdet sammen med dem. **39** Det førte til bitter uenighed, så deres veje skiltes. Barnabas tog Markus med og sejlede til Cypern, **40** men Paulus valgte Silas, og efter at brødrene havde overgivet ham til Herrens nåde, tog han af sted. **41** Han rejste gennem Syrien og Kilikien og styrkede menighederne.
 
 [– tilbage –](#indhold)
+
+<a id="apg16"></a>
 
 ### ApG 16
 
@@ -3456,6 +3666,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 
 [– tilbage –](#indhold)
 
+<a id="apg17"></a>
+
 ### ApG 17
 
 #### Forkyndelse og forfølgelse i Thessalonika
@@ -3484,6 +3696,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 
 [– tilbage –](#indhold)
 
+<a id="apg18"></a>
+
 ### ApG 18
 
 #### Forkyndelse og forfølgelse i Korinth
@@ -3507,6 +3721,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 **24** En jøde, der hed Apollos, og som stammede fra Alexandria, kom til Efesos. Han havde ordet i sin magt og var stærk i Skrifterne. **25** Han var blevet oplært i Herrens vej, og med ildhu talte og underviste han udførligt om Jesus, skønt han kun havde kendskab til Johannes’ dåb. **26** Han begyndte nu frimodigt at tale i synagogen. Da Priskilla og Akvila hørte ham, tog de ham med sig og forklarede ham Guds vej mere udførligt. **27** Apollos ville gerne rejse videre til Akaja, og brødrene skrev til disciplene dér og tilskyndede dem til at tage imod ham. Han ankom dertil og blev ved Guds nåde til stor hjælp for de troende. **28** For han tilbageviste offentligt jøderne med stor kraft og påviste ud fra Skrifterne, at Jesus er Kristus.
 
 [– tilbage –](#indhold)
+
+<a id="apg19"></a>
 
 ### ApG 19
 
@@ -3533,6 +3749,8 @@ Han blev nogle dage hos disciplene i Damaskus, **20** og han prædikede straks i
 **35** Men byskriveren fik beroliget folkemængden og sagde: »Efesere! Er der da noget menneske, som ikke ved, at efesernes by er tempelværge for den store Artemis og for hendes billede, som er faldet ned fra himlen? **36** Nej, og når det er uimodsigeligt, bør I forholde jer i ro og ikke gøre noget overilet. **37** I har ført disse mænd herhen, skønt de ikke er tempelranere og heller ikke bespotter vor gudinde. **38** Hvis Demetrios og hans håndværkere derfor har anklager mod nogen, så holdes der retsmøder, og der findes statholdere. Dér kan de anklage hinanden. **39** Og er der andet, I kræver undersøgt, skal det afgøres i den lovlige folkeforsamling. **40** For vi risikerer at blive anklaget for oprør i anledning af det, der er sket i dag, og som ingen begrundelse har. Vi vil ikke kunne gøre rede for dette opløb.« Med disse ord fik han forsamlingen opløst.
 
 [– tilbage –](#indhold)
+
+<a id="apg20"></a>
 
 ### ApG 20
 
@@ -3564,6 +3782,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 
 [– tilbage –](#indhold)
 
+<a id="apg21"></a>
+
 ### ApG 21
 
 #### Rejsen fra Milet til Jerusalem
@@ -3594,6 +3814,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 
 [– tilbage –](#indhold)
 
+<a id="apg22"></a>
+
 ### ApG 22
 
 #### Paulus’ forsvarstale til folket
@@ -3615,6 +3837,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 **30** Men da han ville have sikker viden om, hvad Paulus var anklaget for af jøderne, lod han ham den følgende dag løse af lænkerne og befalede, at ypperstepræsten og hele Rådet skulle samles. Så lod han Paulus føre ned og fremstillede ham for dem.
 
 [– tilbage –](#indhold)
+
+<a id="apg23"></a>
 
 ### ApG 23
 
@@ -3642,6 +3866,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 
 [– tilbage –](#indhold)
 
+<a id="apg24"></a>
+
 ### ApG 24
 
 #### Tertullus’ anklagetale til Felix
@@ -3662,6 +3888,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 
 [– tilbage –](#indhold)
 
+<a id="apg25"></a>
+
 ### ApG 25
 
 #### Paulus’ anke til kejseren
@@ -3678,6 +3906,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 
 [– tilbage –](#indhold)
 
+<a id="apg26"></a>
+
 ### ApG 26
 
 #### Paulus’ forsvarstale til Agrippa
@@ -3693,6 +3923,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 **30** Så rejste kongen sig og ligeledes statholderen og Berenike og hele deres følge. **31** Og mens de gik ud, talte de med hinanden og sagde: »Den mand har ikke gjort noget, som kræver dødsstraf eller fængsel.« **32** Og Agrippa sagde til Festus: »Den mand kunne være løsladt, hvis han ikke havde indanket sin sag for kejseren.«
 
 [– tilbage –](#indhold)
+
+<a id="apg27"></a>
 
 ### ApG 27
 
@@ -3715,6 +3947,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 **39** Da det blev dag, kendte de ikke landet, men de opdagede en vig med sandstrand og besluttede om muligt at lade skibet løbe ind dér. **40** Så kappede de ankrene og lod dem gå i havet, samtidig løste de rortovene og satte forsejlet og holdt med vindens hjælp ind mod strandbredden. **41** De stødte på et rev med dybt vand til begge sider, og dér satte de skibet på grund. Forstavnen borede sig ned og stod urokkeligt fast, men agterstavnen blev splintret af de voldsomme bølger. **42** Så besluttede soldaterne at slå fangerne ihjel, for at ingen skulle svømme væk og flygte. **43** Men officeren ville redde Paulus og hindrede dem i deres plan. Han befalede, at de, der kunne svømme, først skulle springe ud og komme i land, **44** og derefter de andre, nogle på planker, andre på vragrester. Og således skete det, at alle kom frelst i land.
 
 [– tilbage –](#indhold)
+
+<a id="apg28"></a>
 
 ### ApG 28
 
@@ -3754,6 +3988,8 @@ Han kom så til Grækenland **3** og opholdt sig dér i tre måneder. Han stod n
 
 ## Romerbrevet
 
+<a id="rom1"></a>
+
 ### Rom 1
 
 **1** Fra Paulus, Kristi Jesu tjener, kaldet til apostel, udset til at forkynde det evangelium, **2** som Gud forud har lovet ved sine profeter i De hellige Skrifter, **3** evangeliet om hans søn, Jesus Kristus, vor Herre, som menneske kommet af Davids slægt, **4** i kraft af helligheds ånd stadfæstet som Guds søn med magt og vælde, da han opstod fra de døde. **5** Af ham har vi fået nåde og apostelkald til at føre mennesker i alle folkeslag til troslydighed, hans navn til ære. **6** Blandt dem er også I, som er kaldet til at tilhøre Jesus Kristus.
@@ -3780,6 +4016,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="rom2"></a>
+
 ### Rom 2
 
 #### Guds retfærdige dom
@@ -3797,6 +4035,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **25** Vel gavner omskærelse, hvis du holder loven, men overtræder du loven, er du trods din omskærelse blevet som en uomskåret. **26** Hvis derfor en uomskåret holder lovens forskrifter, skal han så ikke anses for en omskåret, selv om han ikke er det? **27** Og den, der i det ydre er uomskåret, men som opfylder loven, skal dømme dig, som overtræder loven, skønt du har lovens bogstav og er omskåret. **28** For jøde er man ikke i det ydre, og omskærelse er ikke det, som ses på kroppen. **29** Jøde er man i det indre, og omskåret er den, som er det i sit hjerte, i Ånden, ikke efter bogstaven. Hans ros kommer fra Gud, ikke fra mennesker.
 
 [– tilbage –](#indhold)
+
+<a id="rom3"></a>
 
 ### Rom 3
 
@@ -3838,6 +4078,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="rom4"></a>
+
 ### Rom 4
 
 #### Abraham, fader til alle troende
@@ -3857,6 +4099,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="rom5"></a>
+
 ### Rom 5
 
 #### Fred med Gud
@@ -3869,6 +4113,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="rom6"></a>
+
 ### Rom 6
 
 #### Frihed fra synden
@@ -3880,6 +4126,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **15** Hvad da? Skal vi synde, fordi vi ikke er under loven, men under nåden? Aldeles ikke! **16** Ved I ikke, at den, I stiller jer til rådighed for som trælle og viser lydighed, må I også være trælle for og vise lydighed, hvad enten det er synden, og det fører til død, eller det er lydigheden, og det fører til retfærdighed? **17** Men Gud ske tak for, at I, der var syndens trælle, er blevet lydige af hjertet imod den lære, I blev indført i! **18** Befriet fra synden er I blevet trælle for retfærdigheden **19** – jeg bruger et udtryk fra dagliglivet, fordi I er skrøbelige mennesker. For ligesom I lod jeres lemmer trælle for urenheden og lovløsheden, så I blev lovløse, skal I nu lade dem trælle for retfærdigheden, så I helliges. **20** Dengang I var syndens trælle, var I frie over for retfærdigheden. **21** Hvad fik I da? Frugter, som I nu skammer jer over; de ender jo med død. **22** Men nu, da I er blevet befriet fra synden og er blevet trælle for Gud, får I den frugt, at I helliges, og til sidst evigt liv. **23** For syndens løn er død, men Guds nådegave er evigt liv i Kristus Jesus, vor Herre.
 
 [– tilbage –](#indhold)
+
+<a id="rom7"></a>
 
 ### Rom 7
 
@@ -3902,6 +4150,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **24** Jeg elendige menneske! Hvem skal fri mig fra dette dødsens legeme? **25** Men Gud ske tak ved Jesus Kristus, vor Herre! Med mit sind tjener jeg da Guds lov, men med kødet syndens lov.
 
 [– tilbage –](#indhold)
+
+<a id="rom8"></a>
 
 ### Rom 8
 
@@ -3927,6 +4177,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **37** Men i alt dette mere end sejrer vi ved ham, som har elsket os. **38** For jeg er vis på, at hverken død eller liv eller engle eller magter eller noget nuværende eller noget kommende eller kræfter **39** eller noget i det høje eller i det dybe eller nogen anden skabning kan skille os fra Guds kærlighed i Kristus Jesus, vor Herre.
 
 [– tilbage –](#indhold)
+
+<a id="rom9"></a>
 
 ### Rom 9
 
@@ -3962,6 +4214,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="rom10"></a>
+
 ### Rom 10
 
 #### Israel og evangeliet
@@ -3992,6 +4246,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 > imod et ulydigt og genstridigt folk.
 
 [– tilbage –](#indhold)
+
+<a id="rom11"></a>
 
 ### Rom 11
 
@@ -4027,6 +4283,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="rom12"></a>
+
 ### Rom 12
 
 #### Åndelig gudstjeneste
@@ -4042,6 +4300,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **9** Kærligheden skal være oprigtig. Afsky det onde, hold jer til det gode. **10** Vær hinanden hengivne i broderkærlighed, kappes om at vise hinanden agtelse. **11** Vær ikke tøvende i jeres iver, vær brændende i ånden, tjen Herren. **12** Vær glade i håbet, udholdende i trængslen, vedholdende i bønnen. **13** Vær med til at hjælpe de hellige, når de har behov for hjælp. Læg vægt på at være gæstfrie. **14** Velsign dem, der forfølger jer, velsign, og forband ikke. **15** Glæd jer med de glade, græd med de grædende. **16** Hold sammen i enighed. Stræb ikke efter det høje, men hold jer til det lave, og stol ikke på jeres egen klogskab. **17** Gengæld ingen ondt med ondt; tænk på, hvad der er rigtigt over for alle mennesker. **18** Hold fred med alle mennesker, om det er muligt, så vidt det står til jer. **19** Tag ikke retten i egen hånd, mine kære, men giv plads for Guds vrede, for som der står skrevet: »Hævnen tilhører mig, jeg vil gengælde,« siger Herren. **20** Men »hvis din fjende er sulten, så giv ham noget at spise, hvis han er tørstig, så giv ham noget at drikke; for gør du det, samler du glødende kul på hans hoved.« **21** Lad dig ikke overvinde af det onde, men overvind det onde med det gode.
 
 [– tilbage –](#indhold)
+
+<a id="rom13"></a>
 
 ### Rom 13
 
@@ -4059,6 +4319,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="rom14"></a>
+
 ### Rom 14
 
 #### De svage i troen
@@ -4074,6 +4336,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **13** Lad os derfor ikke længere dømme hinanden, men I skal meget hellere dømme sådan: Ingen må bringe sin broder til at snuble eller falde. **14** Jeg ved og er i Herren Jesus vis på, at intet er urent i sig selv, men for den, der regner noget for urent, er det urent. **15** For sårer du din broder ved det, du spiser, lever du ikke mere efter kærligheden. Den, som Kristus døde for, må du ikke bringe i fordærv ved det, du spiser. **16** Lad ikke det gode, I har fået, komme i vanry. **17** For Guds rige er ikke mad og drikke, men retfærdighed og fred og glæde i Helligånden. **18** Den, der tjener Kristus sådan, er Gud til behag og bliver agtet af mennesker. **19** Lad os derfor stræbe efter det, der tjener freden og den indbyrdes opbyggelse. **20** Ødelæg ikke Guds værk på grund af mad. Alt er rent, men for den, der tager anstød af at spise det, bliver det noget ondt. **21** Det rigtige er at lade være med at spise kød eller drikke vin eller gøre noget, som din broder tager anstød af. **22** Den tro, du har, skal være en sag mellem Gud og dig, og salig er den, der ikke dømmer sig selv med det valg, han træffer. **23** Men den, der har sine tvivl og så spiser alligevel, han er domfældt, fordi han ikke gør det af tro. Alt, hvad der ikke er af tro, er synd.
 
 [– tilbage –](#indhold)
+
+<a id="rom15"></a>
 
 ### Rom 15
 
@@ -4116,6 +4380,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="rom16"></a>
+
 ### Rom 16
 
 #### Hilsner fra Paulus
@@ -4141,6 +4407,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 ------------------------------------------------------------------------
 
 ## Første Korintherbrev
+
+<a id="1kor1"></a>
 
 ### 1 Kor 1
 
@@ -4171,6 +4439,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="1kor2"></a>
+
 ### 1 Kor 2
 
 #### Forkyndelsen af Kristus som korsfæstet
@@ -4190,6 +4460,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **14** Et sjæleligt menneske tager ikke imod det, der kommer fra Guds ånd; det er en dårskab for sådan et menneske, og det kan ikke fatte det, for det bedømmes kun efter Åndens målestok. **15** Det åndelige menneske derimod bedømmer alt, men selv bedømmes det ikke af nogen; **16** for »hvem kender Herrens tanker og kan belære ham?« Men vi har Kristi tanker.
 
 [– tilbage –](#indhold)
+
+<a id="1kor3"></a>
 
 ### 1 Kor 3
 
@@ -4212,6 +4484,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="1kor4"></a>
+
 ### 1 Kor 4
 
 #### Apostlenes tjeneste
@@ -4228,6 +4502,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="1kor5"></a>
+
 ### 1 Kor 5
 
 #### Fordømmelse af utugt i menigheden
@@ -4239,6 +4515,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **9** I mit brev skrev jeg til jer, at I ikke må have med utugtige mennesker at gøre. **10** Jeg mente ikke i det hele taget utugtige her i verden eller griske mennesker og røvere eller afgudsdyrkere, for så måtte I jo forlade denne verden. **11** Hvad jeg skrev til jer, var, at I ikke må have med nogen at gøre, der har navn af broder, men lever utugtigt eller er grisk eller er en afgudsdyrker eller en spotter eller en drukkenbolt eller en røver. I må heller ikke spise sammen med sådan en. **12** Er det da min sag at dømme dem, der står udenfor? Er det ikke dem, som er indenfor, I skal dømme? **13** Dem udenfor skal Gud dømme. »I skal udrydde den onde af jeres midte.«
 
 [– tilbage –](#indhold)
+
+<a id="1kor6"></a>
 
 ### 1 Kor 6
 
@@ -4257,6 +4535,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **18** Hold jer fra utugt! Al anden synd, som et menneske begår, er uden for legemet, men den, der lever utugtigt, synder mod sit eget legeme. **19** Eller ved I ikke, at jeres legeme er et tempel for Helligånden, som er i jer, og som I har fra Gud? I tilhører ikke jer selv, **20** for I blev købt dyrt. Ær derfor Gud med jeres legeme!
 
 [– tilbage –](#indhold)
+
+<a id="1kor7"></a>
 
 ### 1 Kor 7
 
@@ -4286,6 +4566,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="1kor8"></a>
+
 ### 1 Kor 8
 
 #### Om kød fra offermåltider
@@ -4303,6 +4585,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="1kor9"></a>
+
 ### 1 Kor 9
 
 #### Om at give afkald på sin ret for evangeliets skyld
@@ -4318,6 +4602,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **24** Ved I ikke, at de, der er med i et løb på stadion, alle løber, men kun én får sejrsprisen? Løb sådan, at I vinder den! **25** Men enhver idrætsmand er afholdende i alt – de andre for at få en sejrskrans, der visner, men vi for at få en, der ikke visner. **26** Jeg løber derfor ikke hid og did, og jeg er ikke som en bokser, der slår i luften. **27** Jeg er hård ved min krop og tvinger den til at lystre, for at jeg, der har prædiket for andre, ikke selv skal blive forkastet.
 
 [– tilbage –](#indhold)
+
+<a id="1kor10"></a>
 
 ### 1 Kor 10
 
@@ -4336,6 +4622,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 **31** Enten I altså spiser eller drikker, eller hvad I end gør, skal I gøre alt til Guds ære. **32** Væk ikke anstød, hverken hos jøder eller grækere eller i Guds menighed. **33** Selv prøver jeg altid at være alle til behag og søger ikke mit eget bedste, men de andres, for at de kan frelses.
 
 [– tilbage –](#indhold)
+
+<a id="1kor11"></a>
 
 ### 1 Kor 11
 
@@ -4359,6 +4647,8 @@ Nåde være med jer og fred fra Gud, vor Fader, og Herren Jesus Kristus!
 
 [– tilbage –](#indhold)
 
+<a id="1kor12"></a>
+
 ### 1 Kor 12
 
 #### Om Åndens gaver
@@ -4379,6 +4669,8 @@ Og jeg vil også vise jer en langt bedre vej.
 
 [– tilbage –](#indhold)
 
+<a id="1kor13"></a>
+
 ### 1 Kor 13
 
 #### Kærligheden
@@ -4392,6 +4684,8 @@ Og jeg vil også vise jer en langt bedre vej.
 **13** Så bliver da tro, håb, kærlighed, disse tre. Men størst af dem er kærligheden.
 
 [– tilbage –](#indhold)
+
+<a id="1kor14"></a>
 
 ### 1 Kor 14
 
@@ -4425,6 +4719,8 @@ Som i alle de helliges menigheder **34** skal kvinderne tie stille i menighedern
 
 [– tilbage –](#indhold)
 
+<a id="1kor15"></a>
+
 ### 1 Kor 15
 
 #### Kristi opstandelse
@@ -4457,6 +4753,8 @@ Som i alle de helliges menigheder **34** skal kvinderne tie stille i menighedern
 
 [– tilbage –](#indhold)
 
+<a id="1kor16"></a>
+
 ### 1 Kor 16
 
 #### Om indsamlingen til Jerusalem
@@ -4485,6 +4783,8 @@ Som i alle de helliges menigheder **34** skal kvinderne tie stille i menighedern
 
 ## Andet Korintherbrev
 
+<a id="2kor1"></a>
+
 ### 2 Kor 1
 
 **1** Fra Paulus, Kristi Jesu apostel ved Guds vilje, og vor broder Timotheus.
@@ -4509,6 +4809,8 @@ Til Guds menighed i Korinth og alle de hellige i hele Akaja.
 
 [– tilbage –](#indhold)
 
+<a id="2kor2"></a>
+
 ### 2 Kor 2
 
 #### Brevet skrevet under tårer
@@ -4525,6 +4827,8 @@ Til Guds menighed i Korinth og alle de hellige i hele Akaja.
 
 [– tilbage –](#indhold)
 
+<a id="2kor3"></a>
+
 ### 2 Kor 3
 
 #### Den gamle og den nye pagts tjeneste
@@ -4539,6 +4843,8 @@ Til Guds menighed i Korinth og alle de hellige i hele Akaja.
 
 [– tilbage –](#indhold)
 
+<a id="2kor4"></a>
+
 ### 2 Kor 4
 
 #### Skatten i lerkar
@@ -4552,6 +4858,8 @@ Til Guds menighed i Korinth og alle de hellige i hele Akaja.
 **16** Derfor bliver vi ikke modløse, for selv om vort ydre menneske går til grunde, fornyes dog vort indre menneske dag for dag. **17** For vore lette trængsler her i tiden bringer os i overmål en evig vægt af herlighed, **18** for vi ser ikke på det synlige, men på det usynlige; det synlige varer jo kun en tid, det usynlige evigt.
 
 [– tilbage –](#indhold)
+
+<a id="2kor5"></a>
 
 ### 2 Kor 5
 
@@ -4568,6 +4876,8 @@ Til Guds menighed i Korinth og alle de hellige i hele Akaja.
 **16** Altså kender vi fra nu af ingen rent menneskeligt. Og selv om vi har kendt Kristus rent menneskeligt, så gør vi det nu ikke længere. **17** Altså: Er nogen i Kristus, er han en ny skabning. Det gamle er forbi, se, noget nyt er blevet til! **18** Men alt dette skyldes Gud, som forligte os med sig selv ved Kristus og gav os forligelsens tjeneste, **19** for det var Gud, der i Kristus forligte verden med sig selv og ikke tilregnede dem deres overtrædelser, men betroede os ordet om forligelsen. **20** Så er vi altså udsendinge i Kristi sted, idet Gud så at sige formaner gennem os. Vi beder på Kristi vegne: Lad jer forlige med Gud! **21** Ham, der ikke kendte til synd, har han gjort til synd for os, for at vi kunne blive Guds retfærdighed i ham.
 
 [– tilbage –](#indhold)
+
+<a id="2kor6"></a>
 
 ### 2 Kor 6
 
@@ -4586,6 +4896,8 @@ Se, nu er det den nåderige tid, se, nu er det frelsens dag! **3** Vi volder ikk
 
 [– tilbage –](#indhold)
 
+<a id="2kor7"></a>
+
 ### 2 Kor 7
 
 #### Glæde og trøst fra menigheden i Korinth
@@ -4602,6 +4914,8 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 
 [– tilbage –](#indhold)
 
+<a id="2kor8"></a>
+
 ### 2 Kor 8
 
 #### Indsamlingen til Jerusalem
@@ -4613,6 +4927,8 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 **16** Men Gud ske tak! Han indgav Titus den samme beslutsomhed for jer, **17** for han sagde ja, da vi bad ham, og da han er så beslutsom, rejser han på eget initiativ til jer. **18** Sammen med ham sender vi også den broder, som bliver rost i alle menighederne for sit arbejde for evangeliet, **19** og ikke blot det: han er også blevet valgt af menighederne til at være vores ledsager med denne gave, som vi overbringer til Herrens ære og for at vise vores gode vilje. **20** For vi vil undgå, at nogen bagtaler os på grund af den store sum, vi overbringer; **21** vi stræber jo efter, hvad der er ret ikke blot i Herrens øjne, men også i menneskers. **22** Sammen med de to sender vi en anden af vore brødre, som vi på mange måder ofte har fået bevis for er beslutsom, men som nu er det så meget mere på grund af sin store tillid til jer. **23** Med hensyn til Titus, så er han min trosfælle og min medarbejder hos jer, og med hensyn til vore brødre, så er de menighedsudsendinge, til ære for Kristus. **24** Vis dem derfor, at I elsker dem, og at vi har grund til at være stolte af jer, og gør det, så menighederne ser det!
 
 [– tilbage –](#indhold)
+
+<a id="2kor9"></a>
 
 ### 2 Kor 9
 
@@ -4629,6 +4945,8 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 
 [– tilbage –](#indhold)
 
+<a id="2kor10"></a>
+
 ### 2 Kor 10
 
 #### Apostlens myndighed
@@ -4642,6 +4960,8 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 **12** Vi drister os nemlig ikke til at henregne os til eller sammenligne os med visse af dem, der anbefaler sig selv, for de måler og sammenligner sig tværtimod med sig selv, uforstandige som de er. **13** Vi er ikke stolte ud over alle grænser, men kun i overensstemmelse med det mål, som Gud har sat for os: også at være nået til jer. **14** Vi gør os ikke til mere, end vi er; det ville vi have gjort, hvis vi ikke var nået til jer. For helt til jer er vi kommet med evangeliet om Kristus. **15** Vi er ikke stolte ud over alle grænser af andres slid, men vi har det håb, at vi, når jeres tro vokser, ved jeres hjælp kan komme langt videre mod vort mål: **16** at forkynde evangeliet i de egne, der ligger længere borte end jeres, uden at være stolte af, hvad andre allerede har gjort. **17** »Den, der er stolt, skal være stolt af Herren.« **18** For det er ikke den, der anbefaler sig selv, der står sin prøve, men den, som Herren anbefaler.
 
 [– tilbage –](#indhold)
+
+<a id="2kor11"></a>
 
 ### 2 Kor 11
 
@@ -4661,6 +4981,8 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 
 [– tilbage –](#indhold)
 
+<a id="2kor12"></a>
+
 ### 2 Kor 12
 
 #### Magtesløshedens styrke
@@ -4676,6 +4998,8 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 **19** I har vel nu længe ment, at vi forsvarer os over for jer. For Guds ansigt taler vi i Kristus, men alt sammen til opbyggelse for jer, mine kære. **20** Jeg er nemlig bange for, at jeg ikke skal finde jer sådan, som jeg ønsker, når jeg kommer, og I heller ikke mig sådan, som I ønsker. Jeg frygter, at der vil være strid, misundelse, vrede, egoisme, bagtalelse, sladder, indbildskhed og forvirring. **21** Jeg er bange for, at min Gud skal ydmyge mig over for jer, når jeg kommer igen, og at jeg skal få sorg af mange af dem, der før har syndet, men som ikke har omvendt sig fra deres urene, utugtige og udsvævende liv.
 
 [– tilbage –](#indhold)
+
+<a id="2kor13"></a>
 
 ### 2 Kor 13
 
@@ -4697,6 +5021,8 @@ Ud over den trøst, vi fik, blev vi endnu mere glade over Titus’ glæde. Han e
 
 ## Galaterbrevet
 
+<a id="gal1"></a>
+
 ### Gal 1
 
 **1** Fra Paulus, apostel, ikke fra mennesker, ikke udsendt af et menneske, men af Jesus Kristus og Gud Fader, som oprejste ham fra de døde, **2** og alle brødrene, der er hos mig.
@@ -4717,6 +5043,8 @@ Til menighederne i Galatien.
 
 [– tilbage –](#indhold)
 
+<a id="gal2"></a>
+
 ### Gal 2
 
 #### Mødet med apostlene i Jerusalem
@@ -4728,6 +5056,8 @@ Til menighederne i Galatien.
 **11** Men da Kefas kom til Antiokia, trådte jeg op imod ham ansigt til ansigt, for han havde dømt sig selv. **12** Før der kom nogle fra Jakob, spiste han nemlig sammen med hedningerne; men da de kom, trak han sig tilbage og skilte sig ud af frygt for de omskårne. **13** Og sammen med ham hyklede også de andre jøder, så selv Barnabas blev revet med af deres hykleri. **14** Men da jeg så, at de ikke gik lige fremad efter evangeliets sandhed, sagde jeg til Kefas i alles påhør: Når du, der er jøde, lever som hedning og ikke som jøde, hvordan kan du så tvinge hedningerne til at leve som jøder? **15** Vi er jøder af fødsel, ikke syndere af hedensk herkomst. **16** Men fordi vi ved, at et menneske ikke gøres retfærdigt af lovgerninger, men kun ved tro på Jesus Kristus, har også vi sat vores lid til Kristus Jesus for at gøres retfærdige af tro på Kristus og ikke af lovgerninger. For af lovgerninger vil intet menneske blive retfærdigt. **17** Men når vi, ved at søge at blive retfærdige i Kristus, selv er kommet til at stå som syndere, går Kristus så ikke syndens ærinde? Aldeles ikke! **18** For hvis jeg igen bygger det op, som jeg har brudt ned, så viser jeg mig som en overtræder. **19** For jeg er ved loven død for loven for at leve for Gud. Jeg er korsfæstet med Kristus. **20** Jeg lever ikke mere selv, men Kristus lever i mig, og mit liv her på jorden lever jeg i troen på Guds søn, der elskede mig og gav sig selv hen for mig. **21** Jeg ophæver ikke Guds nåde, for hvis der kan opnås retfærdighed ved loven, er Kristus jo død til ingen nytte.
 
 [– tilbage –](#indhold)
+
+<a id="gal3"></a>
 
 ### Gal 3
 
@@ -4746,6 +5076,8 @@ Til menighederne i Galatien.
 **23** Før troen kom, blev vi bevogtet under loven og spærret inde, indtil troen skulle åbenbares, **24** så at loven var vores opdrager, indtil Kristus kom, for at vi kunne blive gjort retfærdige af tro. **25** Men efter at troen er kommet, er vi ikke længere under en opdrager. **26** For I er alle Guds børn ved troen, i Kristus Jesus. **27** Alle I, der er døbt til Kristus, har jo iklædt jer Kristus. **28** Her kommer det ikke an på at være jøde eller græker, på at være træl eller fri, på at være mand og kvinde, for I er alle én i Kristus Jesus, **29** og hører I Kristus til, er I også Abrahams afkom, arvinger i kraft af Guds løfte.
 
 [– tilbage –](#indhold)
+
+<a id="gal4"></a>
 
 ### Gal 4
 
@@ -4772,6 +5104,8 @@ Til menighederne i Galatien.
 
 [– tilbage –](#indhold)
 
+<a id="gal5"></a>
+
 ### Gal 5
 
 **1** Til den frihed har Kristus befriet os. Stå derfor fast, og lad jer ikke atter tvinge under trælleåg!
@@ -4791,6 +5125,8 @@ Til menighederne i Galatien.
 **22** Men Åndens frugt er kærlighed, glæde, fred, tålmodighed, venlighed, godhed, trofasthed, **23** mildhed og selvbeherskelse. Alt dette er loven ikke imod! **24** De, som hører Kristus Jesus til, har korsfæstet kødet sammen med lidenskaberne og begæringerne. **25** Lever vi i Ånden, skal vi også vandre i Ånden. **26** Lad os ikke bilde os noget ind, lad os ikke tirre og misunde hinanden.
 
 [– tilbage –](#indhold)
+
+<a id="gal6"></a>
 
 ### Gal 6
 
@@ -4812,6 +5148,8 @@ Til menighederne i Galatien.
 
 ## Efeserbrevet
 
+<a id="ef1"></a>
+
 ### Ef 1
 
 **1** Fra Paulus, Kristi Jesu apostel ved Guds vilje.
@@ -4830,6 +5168,8 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 
 [– tilbage –](#indhold)
 
+<a id="ef2"></a>
+
 ### Ef 2
 
 #### Frelsen af nåde
@@ -4844,6 +5184,8 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 
 [– tilbage –](#indhold)
 
+<a id="ef3"></a>
+
 ### Ef 3
 
 #### Paulus, hedningernes apostel
@@ -4857,6 +5199,8 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 **20** Ham, som formår med sin kraft, der virker i os, at gøre langt ud over alt, hvad vi beder om eller forstår, **21** ham være ære i kirken og i Kristus Jesus i alle slægtled i evighedernes evighed! Amen.
 
 [– tilbage –](#indhold)
+
+<a id="ef4"></a>
 
 ### Ef 4
 
@@ -4882,6 +5226,8 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 
 [– tilbage –](#indhold)
 
+<a id="ef5"></a>
+
 ### Ef 5
 
 #### Guds og lysets børn
@@ -4904,6 +5250,8 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 
 [– tilbage –](#indhold)
 
+<a id="ef6"></a>
+
 ### Ef 6
 
 **1** Børn, adlyd jeres forældre i Herren; for det er ret og rigtigt. **2** »Ær din far og din mor!« Det er det første bud, der er knyttet et løfte til: **3** »for at det må gå dig godt, og du må få et langt liv på jorden.« **4** Og fædre, gør ikke jeres børn vrede, men opdrag dem med Herrens tugt og formaning.
@@ -4925,6 +5273,8 @@ Til de hellige, som bor i Efesos, de troende i Kristus Jesus.
 ------------------------------------------------------------------------
 
 ## Filipperbrevet
+
+<a id="fil1"></a>
 
 ### Fil 1
 
@@ -4949,6 +5299,8 @@ Men jeg vil også blive ved med at glæde mig. **19** For jeg ved, at dette ved 
 **27** Blot skal I føre et liv, som svarer til Kristi evangelium, så at jeg, hvad enten jeg kommer og besøger jer eller er fraværende, kan høre om jer, at I står fast i én ånd, og at I med én sjæl kæmper sammen for troen på evangeliet **28** og ikke på nogen måde skræmmes af modstanderne; det er et tegn for dem på deres fortabelse, men på jeres frelse, og det tilmed fra Gud. **29** For I har for Kristi skyld fået skænket den nåde ikke blot at tro på ham, men også at lide for hans skyld **30** i den samme kamp, som I har set mig i, og som I nu hører, at jeg stadig står i.
 
 [– tilbage –](#indhold)
+
+<a id="fil2"></a>
 
 ### Fil 2
 
@@ -4985,6 +5337,8 @@ Men jeg vil også blive ved med at glæde mig. **19** For jeg ved, at dette ved 
 
 [– tilbage –](#indhold)
 
+<a id="fil3"></a>
+
 ### Fil 3
 
 #### Kristus eller omskærelse
@@ -5002,6 +5356,8 @@ Men jeg vil også blive ved med at glæde mig. **19** For jeg ved, at dette ved 
 **17** Efterlign mig, brødre, og se hen til dem, der lever efter det forbillede, I har i os. **18** For der er mange – jeg har ofte nævnt dem for jer, og nu nævner jeg dem også med gråd – der lever som fjender af Kristi kors. **19** De ender i fortabelse, bugen er deres gud, de sætter en ære i deres skam, de tænker kun på det jordiske. **20** Men vort borgerskab er i himlene; derfra venter vi også Herren Jesus Kristus som frelser. **21** Han skal forvandle vort fornedrede legeme og give det skikkelse som hans herliggjorte legeme med den kraft, hvormed han kan underlægge sig alt.
 
 [– tilbage –](#indhold)
+
+<a id="fil4"></a>
 
 ### Fil 4
 
@@ -5032,6 +5388,8 @@ Men jeg vil også blive ved med at glæde mig. **19** For jeg ved, at dette ved 
 ------------------------------------------------------------------------
 
 ## Kolossenserbrevet
+
+<a id="kol1"></a>
 
 ### Kol 1
 
@@ -5073,6 +5431,8 @@ Han er begyndelsen, den førstefødte af de døde, for at han i alle ting skulle
 
 [– tilbage –](#indhold)
 
+<a id="kol2"></a>
+
 ### Kol 2
 
 #### Paulus’ kamp for menighederne
@@ -5091,6 +5451,8 @@ Han er begyndelsen, den førstefødte af de døde, for at han i alle ting skulle
 
 [– tilbage –](#indhold)
 
+<a id="kol3"></a>
+
 ### Kol 3
 
 #### Livet skjult med Kristus i Gud
@@ -5108,6 +5470,8 @@ Han er begyndelsen, den førstefødte af de døde, for at han i alle ting skulle
 **22** Slaver, adlyd jeres jordiske herrer i alt, ikke som øjentjenere, der vil stå sig godt med mennesker, men af et oprigtigt hjerte i frygt for Herren. **23** Hvad I end gør, gør det af hjertet – for Herren og ikke for mennesker. **24** I ved jo, at I af Herren skal få jeres arv til gengæld. Tjen Kristus, vor Herre. **25** Den, der gør uret, skal få den uret igen, han har gjort, og der bliver ikke gjort forskel på folk.
 
 [– tilbage –](#indhold)
+
+<a id="kol4"></a>
 
 ### Kol 4
 
@@ -5133,6 +5497,8 @@ Han er begyndelsen, den førstefødte af de døde, for at han i alle ting skulle
 
 ## Første Thessalonikerbrev
 
+<a id="1thess1"></a>
+
 ### 1 Thess 1
 
 **1** Fra Paulus og Silvanus og Timotheus.
@@ -5146,6 +5512,8 @@ Nåde være med jer og fred!
 **2** Vi takker altid Gud for jer alle, når vi nævner jer i vore bønner og uophørligt **3** over for vor Gud og Fader mindes jeres gerninger i troen, jeres arbejde i kærligheden og jeres udholdenhed i håbet til vor Herre Jesus Kristus. **4** Brødre, I som er elsket af Gud, vi ved, at I er udvalgt; **5** for vort evangelium kom ikke til jer blot med ord, men også med kraft og med Helligånd og med fuld vished, og I ved, at sådan færdedes vi hos jer for jeres skyld. **6** I efterlignede os, og Herren, og I tog under stor trængsel imod ordet, glade i Helligånden, **7** så I er blevet et forbillede for alle de troende i Makedonien og Akaja. **8** Fra jer har Herrens ord givet genlyd ikke blot i Makedonien og Akaja; nej, alle vegne er jeres tro på Gud nået hen, så vi ikke behøver at tale om det. **9** Folk fortæller selv om, hvilken modtagelse vi fik hos jer, og om, hvordan I vendte om til Gud fra afguderne for at tjene den levende og sande Gud **10** og fra himlene at vente hans søn, som han oprejste fra de døde, Jesus, der frier os fra den kommende vrede.
 
 [– tilbage –](#indhold)
+
+<a id="1thess2"></a>
 
 ### 1 Thess 2
 
@@ -5161,6 +5529,8 @@ Nåde være med jer og fred!
 
 [– tilbage –](#indhold)
 
+<a id="1thess3"></a>
+
 ### 1 Thess 3
 
 **1** Da vi derfor ikke længere kunne holde det ud, besluttede vi at blive alene tilbage i Athen, **2** og vi sendte Timotheus, vor broder og Guds medarbejder i forkyndelsen af evangeliet om Kristus, for at styrke og trøste jer i jeres tro, **3** så ingen bringes til at vakle under disse trængsler. I ved jo selv, at det er vi bestemt til. **4** Allerede da vi var hos jer, sagde vi til jer, at vi skulle komme ud for trængsler. Sådan gik det også, og det ved I. **5** Da jeg derfor ikke længere kunne holde det ud, sendte jeg bud for at få besked om jeres tro, om fristeren skulle have fristet jer, og vort slid skulle være forgæves.
@@ -5168,6 +5538,8 @@ Nåde være med jer og fred!
 **6** Men nu er Timotheus kommet tilbage fra jer og har bragt os et godt budskab om jeres tro og kærlighed og om, at I altid husker os med glæde og længes efter at se os, ligesom vi også længes efter at se jer. **7** Brødre, derved har I været os til trøst i al vor nød og trængsel med jeres tro. **8** For nu lever vi, hvis I står fast i Herren. **9** Hvordan skal vi dog kunne give Gud tak til gengæld for al den glæde, vi har af jer over for vor Gud? **10** Nat og dag bønfalder vi om igen at få jer at se ansigt til ansigt og råde bod på, hvad der er af mangler i jeres tro. **11** Vor Gud og Fader og vor Herre Jesus jævne vores vej til jer! **12** Og Herren lade jer vokse og blive overstrømmende rige i kærligheden til hinanden og til alle, som vores kærlighed til jer, **13** så han styrker jeres hjerter til at være uangribelige i hellighed over for vor Gud og Fader, når vor Herre Jesus kommer med alle sine hellige! Amen.
 
 [– tilbage –](#indhold)
+
+<a id="1thess4"></a>
 
 ### 1 Thess 4
 
@@ -5182,6 +5554,8 @@ Nåde være med jer og fred!
 **13** Brødre, vi vil ikke, at I skal være uvidende om dem, der sover hen, for at I ikke skal sørge som de andre, der ikke har noget håb. **14** For så sandt som vi tror, at Jesus døde og opstod, vil Gud også ved Jesus føre de hensovede sammen med ham. **15** For det siger vi jer med et ord af Herren: Vi, der lever og endnu er her, når Herren kommer, skal ikke gå forud for de hensovede. **16** For Herren selv vil, når befalingen lyder, når ærkeenglen kalder og Guds basun gjalder, stige ned fra himlen, og de, der er døde i Kristus, skal opstå først. **17** Så skal vi, der lever og endnu er her, rykkes bort i skyerne sammen med dem for at møde Herren i luften, og så skal vi altid være sammen med Herren. **18** Trøst derfor hinanden med disse ord.
 
 [– tilbage –](#indhold)
+
+<a id="1thess5"></a>
 
 ### 1 Thess 5
 
@@ -5215,6 +5589,8 @@ Nåde være med jer og fred!
 
 ## Andet Thessalonikerbrev
 
+<a id="2thess1"></a>
+
 ### 2 Thess 1
 
 **1** Fra Paulus og Silvanus og Timotheus.
@@ -5229,6 +5605,8 @@ Til thessalonikernes menighed i Gud, vor Fader, og Herren Jesus Kristus.
 
 [– tilbage –](#indhold)
 
+<a id="2thess2"></a>
+
 ### 2 Thess 2
 
 #### Lovløshedens menneske og Herrens dag
@@ -5240,6 +5618,8 @@ Til thessalonikernes menighed i Gud, vor Fader, og Herren Jesus Kristus.
 **13** Vi bør altid takke Gud for jer, brødre, som er elsket af Herren, fordi Gud udvalgte jer som en førstegrøde til frelse ved Åndens helligelse og ved tro på sandheden. **14** Dertil kaldte han jer også ved vort evangelium, for at I skulle opnå vor Herre Jesu Kristi herlighed. **15** Stå derfor fast, brødre, og hold jer til de overleveringer, som I er blevet undervist i, hvad enten det var i ord eller i brev fra os. **16** Vor Herre Jesus Kristus og Gud, vor Fader, som har elsket os og i sin nåde givet os evig trøst og godt håb, **17** han trøste jeres hjerter og styrke jer til alt godt i gerning og i ord!
 
 [– tilbage –](#indhold)
+
+<a id="2thess3"></a>
 
 ### 2 Thess 3
 
@@ -5262,6 +5642,8 @@ Til thessalonikernes menighed i Gud, vor Fader, og Herren Jesus Kristus.
 ------------------------------------------------------------------------
 
 ## Første Timotheusbrev
+
+<a id="1tim1"></a>
 
 ### 1 Tim 1
 
@@ -5287,6 +5669,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 
 [– tilbage –](#indhold)
 
+<a id="1tim2"></a>
+
 ### 1 Tim 2
 
 #### Bønnen ved gudstjenesten
@@ -5302,6 +5686,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 **11** En kvinde skal lade sig belære i stilhed og underordne sig i alt; **12** men at optræde som lærer tillader jeg ikke en kvinde, heller ikke at bestemme over sin mand; hun skal leve i stilhed. **13** For Adam blev skabt først, derefter Eva, **14** og det var ikke Adam, der blev forledt, men kvinden lod sig forlede og overtrådte budet. **15** Men frelses skal hun, ved barnefødslen – hvis de da holder fast ved tro og kærlighed og hellighed med besindighed.
 
 [– tilbage –](#indhold)
+
+<a id="1tim3"></a>
 
 ### 1 Tim 3
 
@@ -5326,6 +5712,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 
 [– tilbage –](#indhold)
 
+<a id="1tim4"></a>
+
 ### 1 Tim 4
 
 #### De sidste tiders frafald
@@ -5339,6 +5727,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 **12** Lad ingen ringeagte dig, fordi du er ung, men vær et forbillede for de troende i tale, i adfærd, i kærlighed, i troskab, i renhed. **13** Indtil jeg kommer, skal du tage vare på skriftlæsningen, formaningen og undervisningen. **14** Forsøm ikke den nådegave, som du fik i kraft af profetier og under håndspålæggelse af ældsterådet. **15** Tag dig af alt dette, lev i det, så alle kan se, at du gør fremskridt. **16** Giv agt på dig selv og på den undervisning, du giver, hold fast ved det; for når du gør det, bliver du til frelse både for dig selv og for dem, der hører på dig.
 
 [– tilbage –](#indhold)
+
+<a id="1tim5"></a>
 
 ### 1 Tim 5
 
@@ -5359,6 +5749,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 **24** Nogle menneskers synder er åbenlyse og går forud til dom; hos andre følger de bagefter. **25** På samme måde er også de gerninger, som er gode, synlige, og de, der ikke er det, kan ikke skjules.
 
 [– tilbage –](#indhold)
+
+<a id="1tim6"></a>
 
 ### 1 Tim 6
 
@@ -5390,6 +5782,8 @@ Nåden være med jer!
 
 ## Andet Timotheusbrev
 
+<a id="2tim1"></a>
+
 ### 2 Tim 1
 
 **1** Fra Paulus, Kristi Jesu apostel, udsendt ved Guds vilje for at forkynde løftet om livet i Kristus Jesus.
@@ -5407,6 +5801,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 **15** Som du ved, har alle i provinsen Asien vendt sig fra mig, blandt dem Fygelos og Hermogenes. **16** Herren vise Onesiforos’ hus barmhjertighed! Han har tit givet mig nyt mod og har ikke skammet sig ved mine lænker. **17** Tværtimod, da han kom til Rom, søgte han ivrigt efter mig og fandt mig. **18** Herren give ham at finde barmhjertighed hos Gud på den dag! Og til hvor stor hjælp han var i Efesos, ved du bedst selv.
 
 [– tilbage –](#indhold)
+
+<a id="2tim2"></a>
 
 ### 2 Tim 2
 
@@ -5432,6 +5828,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 
 [– tilbage –](#indhold)
 
+<a id="2tim3"></a>
+
 ### 2 Tim 3
 
 #### Ugudeligheden i de sidste tider
@@ -5443,6 +5841,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 **10** Du derimod har fulgt mig i lære, i livsførelse, i beslutsomhed, i troskab, i langmodighed, i kærlighed, i udholdenhed, **11** i forfølgelser, i lidelser som dem, jeg kom ud for i Antiokia, Ikonion og Lystra. Hvad jeg end har måttet udstå af forfølgelser, så har Herren reddet mig ud af dem alle. **12** Forfulgt bliver alle, som vil leve et gudfrygtigt liv i Kristus Jesus. **13** Men onde mennesker og bedragere vil komme længere og længere ud i det onde, føre andre vild og selv fare vild. **14** Men du, bliv ved det, du har lært og er blevet overbevist om! Du kender dem, du har lært det af, **15** og fra barnsben kender du De hellige Skrifter, der kan give dig visdom til frelse ved troen på Kristus Jesus. **16** Ethvert skrift er indblæst af Gud og nyttigt til undervisning, til bevis, til vejledning og til opdragelse i retfærdighed, **17** så at det menneske, som hører Gud til, kan blive fuldvoksent, udrustet til al god gerning.
 
 [– tilbage –](#indhold)
+
+<a id="2tim4"></a>
 
 ### 2 Tim 4
 
@@ -5470,6 +5870,8 @@ Nåde og barmhjertighed og fred fra Gud Fader og Kristus Jesus, vor Herre!
 
 ## Titusbrevet
 
+<a id="tit1"></a>
+
 ### Tit 1
 
 **1** Fra Paulus, Guds tjener og Jesu Kristi apostel, udsendt for at kalde Guds udvalgte til tro og til erkendelse af den sandhed, der fører til gudsfrygt, **2** med håb om evigt liv, som Gud, der ikke lyver, har lovet for evige tider siden – **3** og da tiden var inde, åbenbarede han sit ord ved den forkyndelse af budskabet, som blev betroet mig efter befaling fra Gud, vor frelser.
@@ -5486,6 +5888,8 @@ Nåde og fred fra Gud Fader og Kristus Jesus, vor frelser!
 
 [– tilbage –](#indhold)
 
+<a id="tit2"></a>
+
 ### Tit 2
 
 #### En kristen husorden
@@ -5499,6 +5903,8 @@ Nåde og fred fra Gud Fader og Kristus Jesus, vor frelser!
 **11** For Guds nåde er blevet åbenbaret til frelse for alle mennesker **12** og opdrager os til at sige nej til ugudelighed og verdslige lyster og leve besindigt og retskaffent og gudfrygtigt i denne verden, **13** mens vi venter på, at vort salige håb skal opfyldes og vor store Gud og frelser, Jesus Kristus, komme til syne i herlighed. **14** Han gav sig selv hen for os for at løskøbe os fra al slags lovløshed og skaffe sig et rent folk som sin ejendom, ivrigt efter at gøre gode gerninger. **15** Tal sådan, og forman og tilrettevis, og gør det med eftertryk. Lad ingen ringeagte dig!
 
 [– tilbage –](#indhold)
+
+<a id="tit3"></a>
 
 ### Tit 3
 
@@ -5519,6 +5925,8 @@ Nåde og fred fra Gud Fader og Kristus Jesus, vor frelser!
 ------------------------------------------------------------------------
 
 ## Filemonbrevet
+
+<a id="filem1"></a>
 
 ### Filem 1
 
@@ -5549,6 +5957,8 @@ Til vor kære medarbejder Filemon **2** og til vor søster Appia, til vor kære 
 ------------------------------------------------------------------------
 
 ## Hebræerbrevet
+
+<a id="hebr1"></a>
 
 ### Hebr 1
 
@@ -5606,6 +6016,8 @@ og et andet sted:
 
 [– tilbage –](#indhold)
 
+<a id="hebr2"></a>
+
 ### Hebr 2
 
 #### Jesu frelsergerning
@@ -5639,6 +6051,8 @@ endvidere:
 
 [– tilbage –](#indhold)
 
+<a id="hebr3"></a>
+
 ### Hebr 3
 
 #### Kristus og Moses
@@ -5669,6 +6083,8 @@ endvidere:
 
 [– tilbage –](#indhold)
 
+<a id="hebr4"></a>
+
 ### Hebr 4
 
 **1** Lad os altså være på vagt, så ingen af jer skal vise sig at være kommet for sent, da løftet om at komme ind til Guds hvile endnu står ved magt. **2** For vi har fået det glædelige budskab forkyndt ligesom de; men de havde ikke gavn af at høre ordet, fordi de ikke modtog det i tro, da de hørte det. **3** For når vi kan komme ind til hvilen, er det, fordi vi tror, sådan som han har sagt:
@@ -5690,6 +6106,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **14** Da vi nu har en stor ypperstepræst, som er steget op igennem himlene, Jesus, Guds søn, så lad os holde fast ved den bekendelse. **15** For vi har ikke en ypperstepræst, der ikke kan have medfølelse med vore skrøbeligheder, men en, der er blevet fristet i alle ting ligesom vi, dog uden synd. **16** Lad os altså med frimodighed træde frem for nådens trone, for at vi kan få barmhjertighed og finde nåde til hjælp i rette tid.
 
 [– tilbage –](#indhold)
+
+<a id="hebr5"></a>
 
 ### Hebr 5
 
@@ -5713,6 +6131,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 
 [– tilbage –](#indhold)
 
+<a id="hebr6"></a>
+
 ### Hebr 6
 
 **1** Derfor vil vi nu lade begynderundervisningen om Kristus ligge og gå videre til en undervisning for voksne og ikke én gang til lægge grunden med omvendelse fra døde gerninger og tro på Gud, **2** med lære om dåb og håndspålæggelse, om dødes opstandelse og evig dom. **3** Ja, det vil vi gøre, dersom Gud giver lov. **4** For det er umuligt at føre dem til ny omvendelse, som én gang er blevet oplyst og har smagt den himmelske gave, dem som har fået Helligånden **5** og smagt Guds gode ord og den kommende verdens kræfter, **6** og som så falder fra; for de korsfæster selv Guds søn igen og gør ham til spot. **7** For når en mark drikker den regn, der falder på den i rigelig mængde, og giver afgrøde til gavn for dem, den dyrkes for, så får den velsignelse fra Gud; **8** men bærer den tjørn og tidsler, er den intet værd og truet af forbandelse, og det vil ende med, at man afbrænder den.
@@ -5724,6 +6144,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **13** For da Gud gav Abraham sit løfte, svor han ved sig selv, fordi han ikke havde nogen større at sværge ved, **14** og sagde: »Sandelig, jeg vil velsigne dig og gøre dine efterkommere talrige.« **15** Så ventede Abraham tålmodigt og fik, hvad Gud havde lovet ham. **16** Mennesker sværger jo ved en, der er større end de selv, og eden gør en ende på alle indvendinger og stadfæster dermed sagen. **17** Da Gud med al tydelighed ville vise arvingerne til hans løfte, hvor urokkelig hans vilje er, så indestod han for det med sin ed; **18** dermed skulle vi i disse to urokkelige kendsgerninger, som udelukker, at Gud lyver, have en sikker trøst, vi som har taget vor tilflugt til at gribe det håb, som ligger foran os. **19** Det håb er som et anker for sjælen; det er urokkeligt og sikkert og rækker ind bag forhænget, **20** hvor Jesus gik ind som en forløber for os, idet han blev ypperstepræst for evigt på Melkisedeks vis.
 
 [– tilbage –](#indhold)
+
+<a id="hebr7"></a>
 
 ### Hebr 7
 
@@ -5751,6 +6173,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 
 [– tilbage –](#indhold)
 
+<a id="hebr8"></a>
+
 ### Hebr 8
 
 #### Kristus som ypperstepræst for den nye pagt
@@ -5760,6 +6184,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **7** For havde den første pagt ikke været at dadle, havde der ikke været brug for en anden i stedet. **8** For han dadler dem under den første pagt, når han siger: »Der skal komme dage, siger Herren, da jeg opretter en ny pagt med Israels hus og med Judas hus, **9** en pagt, der ikke er som den, jeg sluttede med deres fædre, den dag jeg tog dem ved hånden og førte dem ud af Egypten. De blev ikke i min pagt, derfor lod jeg hånt om dem, siger Herren. **10** Men sådan er den pagt, jeg vil slutte med Israels hus, når de dage kommer, siger Herren: Jeg lægger mine love i deres indre og skriver dem i deres hjerte. Jeg vil være deres Gud, og de skal være mit folk. **11** Ingen skal længere belære sin landsmand og sin broder og sige: ›Kend Herren!‹ For alle kender mig, fra den mindste til den største. **12** Jeg tilgiver deres uret og husker ikke længere på deres synd.« **13** Ved at tale om en ny pagt har han gjort den tidligere forældet; men det, som er gjort forældet og er gammelt, er nær ved at forsvinde.
 
 [– tilbage –](#indhold)
+
+<a id="hebr9"></a>
 
 ### Hebr 9
 
@@ -5778,6 +6204,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **23** Det er altså nødvendigt, at efterligningerne af det, der er i himlene, renses på denne måde, men de himmelske ting selv må renses ved bedre ofre end disse. **24** For Kristus gik ikke ind i en helligdom, som er gjort med hænder og kun er en efterligning af den virkelige, men ind i selve himlen for nu at træde frem for Guds ansigt til gavn for os; **25** han gjorde det heller ikke for at frembære sig selv mange gange, således som ypperstepræsten hvert år går ind i helligdommen med blod, som ikke er hans eget, **26** for så måtte han have lidt mange gange, siden verden blev grundlagt. Men nu er han trådt frem én gang for alle ved tidernes ende for at udslette synden ved sit offer. **27** Og ligesom det er menneskenes lod at dø én gang og derefter dømmes, **28** sådan er Kristus ofret én gang for at bære manges synder og vil anden gang komme til syne, ikke for syndens skyld, men for at frelse dem, som venter på ham.
 
 [– tilbage –](#indhold)
+
+<a id="hebr10"></a>
 
 ### Hebr 10
 
@@ -5818,6 +6246,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 
 [– tilbage –](#indhold)
 
+<a id="hebr11"></a>
+
 ### Hebr 11
 
 #### Vidnesbyrd om tro i Skrifterne
@@ -5842,6 +6272,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 
 [– tilbage –](#indhold)
 
+<a id="hebr12"></a>
+
 ### Hebr 12
 
 #### Livet under Guds faderlige opdragelse
@@ -5864,6 +6296,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 **18** Det er jo ikke til en håndgribelig, brændende ild, I er kommet, til mulm og mørke og storm **19** og til en klang af horn og til en røst, der udtalte sådanne ord, at de, der hørte dem, bad sig fri for at høre mere, **20** fordi de ikke kunne bære befalingen: »Selv et dyr, der rører ved bjerget, skal stenes;« **21** og synet var så frygteligt, at Moses sagde: »Jeg er forfærdet og skælver.« **22** Nej, I er kommet til Zions bjerg, til den levende Guds by, det himmelske Jerusalem, til tusinder af engle, en festforsamling **23** og en menighed af førstefødte, som er indskrevet i himlene, og til en dommer, som er alles Gud, til deres ånder, som er retfærdige og har nået målet, **24** til Jesus, den nye pagts formidler, og til det rensende blod, der taler stærkere end Abels. **25** Se til, at I ikke beder jer fri for ham, der taler; for når de ikke slap godt fra at bede sig fri for ham, der talte guddomsord på jorden, så kan vi det endnu mindre, hvis vi vender os fra ham, der taler fra himlene. **26** Dengang fik hans røst jorden til at skælve, men nu har han givet et løfte, der lyder: »Endnu én gang vil jeg få ikke blot jorden, men også himlen til at skælve.« **27** Udtrykket »endnu én gang« viser, at de ting, som kan rokkes, fordi de er skabt, skal forvandles, for at de ting, som ikke kan rokkes, skal bestå. **28** Lad os derfor takke for, at vi får et rige, der ikke kan rokkes, og med tak tjene Gud, som det er hans vilje, i gudsfrygt og ærefrygt. **29** For vor Gud er en fortærende ild.
 
 [– tilbage –](#indhold)
+
+<a id="hebr13"></a>
 
 ### Hebr 13
 
@@ -5895,6 +6329,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 
 ## Jakobsbrevet
 
+<a id="jak1"></a>
+
 ### Jak 1
 
 **1** Jakob, Guds og Herren Jesu Kristi tjener, hilser de tolv stammer, der lever spredt blandt andre folkeslag.
@@ -5919,6 +6355,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 
 [– tilbage –](#indhold)
 
+<a id="jak2"></a>
+
 ### Jak 2
 
 #### Rige og fattige
@@ -5937,6 +6375,8 @@ og det sagde Gud, skønt hans gerninger var færdige, fra verden blev grundlagt.
 
 [– tilbage –](#indhold)
 
+<a id="jak3"></a>
+
 ### Jak 3
 
 #### Tungens magt
@@ -5950,6 +6390,8 @@ Tænk på, at den mindste ild kan sætte den største skov i brand; **6** også 
 **13** Hvem af jer er vís og forstandig? Han skal vise det i gerning ved et ordentligt liv med den vises sagtmodighed. **14** Men hvis jeres hjerte rummer bitter misundelse og selvhævdelse, så lad være med at prale og lyve sandheden noget på. **15** Den visdom kommer ikke fra oven, den er jordisk, sjælelig og dæmonisk. **16** For hvor der er misundelse og selvhævdelse, dér hersker der uorden og alt muligt ondt. **17** Men visdommen fra oven er først og fremmest ren, og desuden er den fredselskende, mild, omgængelig, fuld af barmhjertighed og gode frugter, upartisk og oprigtig. **18** Retfærdighed er en frugt af det, der sås i fred, og den tilfalder dem, der stifter fred.
 
 [– tilbage –](#indhold)
+
+<a id="jak4"></a>
 
 ### Jak 4
 
@@ -5969,6 +6411,8 @@ Tænk på, at den mindste ild kan sætte den største skov i brand; **6** også 
 **13** Og nu I, som siger: »I dag eller i morgen vil vi rejse til den og den by og blive der et år og drive handel og tjene penge« **14** – I som ikke aner, hvordan jeres liv er i morgen; I er jo kun en tåge, som ses en kort tid og så svinder bort. **15** I skulle hellere sige: »Hvis Herren vil, så skal vi leve og kan gøre det eller det.« **16** Nu praler I og bruger store ord; men al den slags pral er af det onde. **17** Den, der altså ved, hvad der er det rette, men ikke gør det, er en synder.
 
 [– tilbage –](#indhold)
+
+<a id="jak5"></a>
 
 ### Jak 5
 
@@ -5991,6 +6435,8 @@ Tænk på, at den mindste ild kan sætte den største skov i brand; **6** også 
 ------------------------------------------------------------------------
 
 ## Første Petersbrev
+
+<a id="1pet1"></a>
 
 ### 1 Pet 1
 
@@ -6024,6 +6470,8 @@ Nåde og fred være med jer i stadig rigere mål!
 Det er dette ord, som er forkyndt for jer.
 
 [– tilbage –](#indhold)
+
+<a id="1pet2"></a>
 
 ### 1 Pet 2
 
@@ -6060,6 +6508,8 @@ det er dem, der tager anstød i deres ulydighed mod ordet, og dertil var de ogs�
 
 [– tilbage –](#indhold)
 
+<a id="1pet3"></a>
+
 ### 1 Pet 3
 
 #### Formaning til hustruer og ægtemænd
@@ -6086,6 +6536,8 @@ det er dem, der tager anstød i deres ulydighed mod ordet, og dertil var de ogs�
 
 [– tilbage –](#indhold)
 
+<a id="1pet4"></a>
+
 ### 1 Pet 4
 
 #### Det nye liv efter Guds vilje
@@ -6101,6 +6553,8 @@ det er dem, der tager anstød i deres ulydighed mod ordet, og dertil var de ogs�
 **12** I kære, I skal ikke undre jer over den ildprøve, I er ude for, som var det noget fremmed, der skete med jer; **13** men glæd jer, når I deler Kristi lidelser, så at I også kan juble af glæde, når hans herlighed åbenbares. **14** Hvis I bliver hånet for Kristi navns skyld, er I salige, for herlighedens ånd, Guds ånd, hviler over jer. **15** Men ingen af jer må lide som morder eller tyv eller forbryder eller for at gå andres ret for nær; **16** men hvis nogen lider som kristen, skal han ikke skamme sig, men gøre Gud ære med det navn. **17** For nu er det tiden, da dommen tager sin begyndelse, og den begynder med Guds hus; men når den begynder med os, hvilken ende vil det så ikke tage med dem, der er ulydige mod Guds evangelium? **18** Hvis den retfærdige med nød og næppe frelses, hvordan vil den ugudelige og synderen da være stedt? **19** Derfor skal de, der efter Guds vilje må lide, stadig gøre det gode og overlade deres sjæl til den trofaste skaber.
 
 [– tilbage –](#indhold)
+
+<a id="1pet5"></a>
 
 ### 1 Pet 5
 
@@ -6129,6 +6583,8 @@ det er dem, der tager anstød i deres ulydighed mod ordet, og dertil var de ogs�
 
 ## Andet Petersbrev
 
+<a id="2pet1"></a>
+
 ### 2 Pet 1
 
 **1** Fra Simon Peter, Jesu Kristi tjener og apostel.
@@ -6151,6 +6607,8 @@ Til dem, der ved vor Guds og frelsers, Jesu Kristi, retfærdighed har fået den 
 
 [– tilbage –](#indhold)
 
+<a id="2pet2"></a>
+
 ### 2 Pet 2
 
 #### Falske profeter og lærere
@@ -6164,6 +6622,8 @@ Hensynsløse og selvhævdende, som de er, viger de ikke tilbage for at spotte ov
 **17** Disse mennesker er udtørrede kilder og tåger, der jages af stormen, og dystert mørke venter dem. **18** De bruger opblæste og tomme ord, og ved hjælp af deres udsvævelser forfører de i kødeligt begær andre, som lige har gjort sig fri af de folk, der lever i vildfarelsen; **19** de lover dem frihed, skønt de selv er slaver af fordærvelsen; for det, man ligger under for, er man slave af. **20** Hvis mennesker gennem erkendelsen af vor Herre og frelser, Jesus Kristus, har gjort sig fri af verdens urenhed, men igen lader sig besnære og overvinde af den, er det sidste værre for dem end det første. **21** For det havde været bedre for dem slet ikke at have lært retfærdighedens vej at kende end først at lære den at kende og siden vende sig fra det hellige bud, som de har fået overdraget; **22** så er det gået dem, som ordsproget træffende siger: »Hunden vender tilbage til sit eget bræk,« og: »Når en so er vasket, vælter den sig i sølet.«
 
 [– tilbage –](#indhold)
+
+<a id="2pet3"></a>
 
 ### 2 Pet 3
 
@@ -6183,6 +6643,8 @@ Hensynsløse og selvhævdende, som de er, viger de ikke tilbage for at spotte ov
 
 ## Første Johannesbrev
 
+<a id="1joh1"></a>
+
 ### 1 Joh 1
 
 #### Livets ord
@@ -6194,6 +6656,8 @@ Hensynsløse og selvhævdende, som de er, viger de ikke tilbage for at spotte ov
 **5** Og dette er det budskab, som vi har hørt af ham og bringer videre til jer: Gud er lys, og der er intet mørke i ham. **6** Hvis vi siger, at vi har fællesskab med ham, men vandrer i mørket, lyver vi og gør ikke sandheden. **7** Men hvis vi vandrer i lyset, ligesom han er i lyset, har vi fællesskab med hinanden, og Jesu, hans søns, blod renser os for al synd. **8** Hvis vi siger, at vi ikke har synd, fører vi os selv på vildspor, og sandheden er ikke i os. **9** Hvis vi bekender vore synder, er han trofast og retfærdig, så han tilgiver os vore synder og renser os for al uretfærdighed. **10** Hvis vi siger, at vi ikke har syndet, gør vi ham til en løgner, og hans ord er ikke i os.
 
 [– tilbage –](#indhold)
+
+<a id="1joh2"></a>
 
 ### 1 Joh 2
 
@@ -6233,6 +6697,8 @@ Jeg har skrevet til jer, I unge: I er stærke, Guds ord bliver i jer, og I har o
 
 [– tilbage –](#indhold)
 
+<a id="1joh3"></a>
+
 ### 1 Joh 3
 
 #### Guds børn eller Djævelens børn
@@ -6257,6 +6723,8 @@ Jeg har skrevet til jer, I unge: I er stærke, Guds ord bliver i jer, og I har o
 
 [– tilbage –](#indhold)
 
+<a id="1joh4"></a>
+
 ### 1 Joh 4
 
 #### Guds ånd og Antikrists ånd
@@ -6274,6 +6742,8 @@ Jeg har skrevet til jer, I unge: I er stærke, Guds ord bliver i jer, og I har o
 Gud er kærlighed, og den, der bliver i kærligheden, bliver i Gud, og Gud bliver i ham. **17** Deri er kærligheden fuldendt i os: at vi har frimodighed på dommens dag; for som han er, er også vi i denne verden. Frygt findes ikke i kærligheden, **18** men den fuldendte kærlighed fordriver frygten, for frygt er forbundet med straf, og den, der nærer frygt, er ikke fuldendt i kærligheden. **19** Vi elsker, fordi han elskede os først. **20** Hvis nogen siger: »Jeg elsker Gud,« men hader sin broder, er han en løgner; for den, der ikke elsker sin broder, som han har set, kan ikke elske Gud, som han ikke har set. **21** Og dette bud har vi fra ham: Den, der elsker Gud, skal også elske sin broder.
 
 [– tilbage –](#indhold)
+
+<a id="1joh5"></a>
 
 ### 1 Joh 5
 
@@ -6303,6 +6773,8 @@ Gud er kærlighed, og den, der bliver i kærligheden, bliver i Gud, og Gud blive
 
 ## Andet Johannesbrev
 
+<a id="2joh1"></a>
+
 ### 2 Joh 1
 
 **1** Fra den ældste.
@@ -6331,6 +6803,8 @@ Til den udvalgte frue og hendes børn, som jeg – og ikke jeg alene, men alle, 
 
 ## Tredje Johannesbrev
 
+<a id="3joh1"></a>
+
 ### 3 Joh 1
 
 **1** Fra den ældste.
@@ -6358,6 +6832,8 @@ Til den udvalgte frue og hendes børn, som jeg – og ikke jeg alene, men alle, 
 ------------------------------------------------------------------------
 
 ## Judasbrevet
+
+<a id="jud1"></a>
 
 ### Jud 1
 
@@ -6391,6 +6867,8 @@ Til de kaldede, som er elsket af Gud Fader og bevaret for Jesus Kristus.
 
 ## Johannes’ Åbenbaring
 
+<a id="aab1"></a>
+
 ### Åb 1
 
 **1** Jesu Kristi åbenbaring, som Gud gav ham for at vise sine tjenere, hvad der snart skal ske, og som han kundgjorde og sendte med sin engel til sin tjener Johannes, **2** der hermed bevidner Guds ord og Jesu Kristi vidnesbyrd, alt det, han har set. **3** Salig er den, som læser op, og de, som hører profetiens ord og holder fast ved det, der står skrevet i den; for tiden er nær.
@@ -6418,6 +6896,8 @@ Nåde være med jer og fred fra ham, som er og som var og som kommer, og fra de 
 **19** Skriv det, du har set, og det, som er, og det, som siden skal ske. **20** Hemmeligheden om de syv stjerner, som du så i min højre hånd, og om de syv guldlysestager er den: De syv stjerner er de syv menigheders engle, og de syv lysestager er de syv menigheder.
 
 [– tilbage –](#indhold)
+
+<a id="aab2"></a>
 
 ### Åb 2
 
@@ -6447,6 +6927,8 @@ Dette siger Guds søn, der har øjne som luende ild og fødder som skinnende mal
 
 [– tilbage –](#indhold)
 
+<a id="aab3"></a>
+
 ### Åb 3
 
 #### Til menigheden i Sardes
@@ -6469,6 +6951,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 
 [– tilbage –](#indhold)
 
+<a id="aab4"></a>
+
 ### Åb 4
 
 #### Guds trone i himlen
@@ -6486,6 +6970,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 > af din vilje blev de til og blev skabt.
 
 [– tilbage –](#indhold)
+
+<a id="aab5"></a>
 
 ### Åb 5
 
@@ -6518,6 +7004,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 
 [– tilbage –](#indhold)
 
+<a id="aab6"></a>
+
 ### Åb 6
 
 #### Lammet bryder de første seks segl
@@ -6535,6 +7023,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 **12** Og jeg så: Da Lammet brød det sjette segl, kom der et stort jordskælv, og solen blev sort som en sæk, og hele månen blev som blod, **13** og himlens stjerner faldt ned på jorden, som et figentræ taber sine frugter, når stormen rusker i det. **14** Og himlen blev trukket væk, som en bogrulle rulles sammen, og hvert bjerg og hver ø blev flyttet fra deres plads. **15** Og jordens konger og stormænd og hærførere og rigmænd og magthavere og hver træl og fri skjulte sig i huler og klippekløfter. **16** Og de sagde til bjerge og klipper: »Fald ned over os og skjul os for ham, som sidder på tronen, og for Lammets vrede. **17** For nu er deres vredes store dag kommet, og hvem kan da bestå?«
 
 [– tilbage –](#indhold)
+
+<a id="aab7"></a>
 
 ### Åb 7
 
@@ -6581,6 +7071,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 
 [– tilbage –](#indhold)
 
+<a id="aab8"></a>
+
 ### Åb 8
 
 #### Lammet bryder det syvende segl
@@ -6603,6 +7095,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 
 [– tilbage –](#indhold)
 
+<a id="aab9"></a>
+
 ### Åb 9
 
 **1** Den femte engel blæste i sin basun, og jeg så en stjerne, der var kastet ned på jorden fra himlen; den fik givet nøglen til afgrundens brønd, **2** og den åbnede afgrundens brønd, og der steg røg op fra brønden som røgen fra en stor ovn. Og solen og luften formørkedes af røgen fra brønden. **3** Ud af røgen kom der græshopper ud over jorden, og de fik givet samme magt, som jordens skorpioner har. **4** Men der blev sagt til dem, at de ikke måtte skade jordens græs eller noget andet grønt eller noget træ, men kun de mennesker, som ikke har Guds segl på deres pande. **5** De fik givet, ikke at dræbe dem, men at pine dem i fem måneder. Og pinen, de volder, er som pinen efter en skorpion, når den har stukket et menneske. **6** I de dage vil mennesker søge døden og ikke finde den, de vil længes efter at dø, men døden flygter fra dem. **7** Af udseende lignede græshopperne heste, der var udrustet til krig; på hovedet havde de ligesom kroner af guld, og deres ansigter var som menneskeansigter, **8** de havde hår som kvindehår, og deres tænder var som løvers, **9** de havde brynjer som jernbrynjer, og lyden af deres vinger var som lyden af mange vogne med heste, der rykker ud til kamp. **10** De har haler med brod som skorpioner, og i deres haler sidder magten til at skade mennesker i fem måneder. **11** Som konge over sig har de afgrundens engel; hans navn er på hebraisk Abaddon, og på græsk er navnet Apollyon. **12** Det første ve er forbi; men efter det kommer der endnu to.
@@ -6610,6 +7104,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 **13** Den sjette engel blæste i sin basun, og jeg hørte en røst fra de fire horn på guldalteret foran Gud **14** sige til den sjette engel med basun: »Løs de fire engle, som står bundet ved den store flod Eufrat.« **15** Og de fire engle, som holdtes rede til den time og dag og måned og år, blev løst, så de kunne dræbe en tredjedel af menneskene. **16** Tallet på rytterhærene var to gange ti tusind titusinder. Jeg fik tallet på dem at høre. **17** Og således så jeg hestene i mit syn og dem, der red på dem: De havde ildrøde og dybblå og svovlgule brynjer på, og hestenes hoveder var som løvehoveder, og ud af munden på dem stod ild og røg og svovl. **18** Med disse tre plager dræbtes en tredjedel af menneskene, med ilden og røgen og svovlet, som stod ud af munden på dem. **19** For hestenes magt ligger i deres mund og i deres hale; deres haler ligner slanger, og de har hoveder, og det er med dem, de gør skade. **20** Men resten af menneskene, som ikke blev dræbt af disse plager, omvendte sig ikke fra deres hænders værk, så at de holdt op med at tilbede dæmonerne og afgudsbillederne af guld og sølv og kobber og sten og træ, som hverken kan se eller høre eller gå, **21** og de omvendte sig ikke fra deres myrderier og trolddomskunster og utugt og tyveri.
 
 [– tilbage –](#indhold)
+
+<a id="aab10"></a>
 
 ### Åb 10
 
@@ -6620,6 +7116,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 **8** Røsten, som jeg havde hørt fra himlen, hørte jeg atter tale til mig og sige: »Gå hen og modtag den åbne bogrulle af den engels hånd, som står på havet og på land.« **9** Jeg gik hen til englen og bad den give mig bogen, og den sagde til mig: »Tag den og slug den! Den vil være bitter i din mave, men i din mund vil den være sød som honning.« **10** Jeg modtog bogen af englens hånd og slugte den. I min mund var den sød som honning, men da jeg havde slugt den, var den bitter i min mave. **11** Og der blev sagt til mig: »Du skal igen profetere om mange folk og folkeslag, tungemål og konger.«
 
 [– tilbage –](#indhold)
+
+<a id="aab11"></a>
 
 ### Åb 11
 
@@ -6652,6 +7150,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 
 [– tilbage –](#indhold)
 
+<a id="aab12"></a>
+
 ### Åb 12
 
 #### Den fødende kvinde og dragen
@@ -6676,6 +7176,8 @@ Dette siger Amen, det troværdige og sanddru vidne, Guds skabnings ophav: **15**
 
 [– tilbage –](#indhold)
 
+<a id="aab13"></a>
+
 ### Åb 13
 
 #### Dyret fra havet og dyret fra jorden
@@ -6690,6 +7192,8 @@ Her kræves der udholdenhed og tro af de hellige!
 **11** Jeg så et andet dyr komme op af jorden; det havde to horn som et lam, men talte som en drage. **12** Det udøver hele det første dyrs magt for dets øjne; og det får jorden og dem, der bor på den, til at tilbede det første dyr, det hvis banesår blev lægt. **13** Det gør store tegn, så det endog får ild til at falde fra himlen ned på jorden for øjnene af menneskene. **14** Det forfører dem, der bor på jorden, med de tegn, som det har fået givet at gøre for dyrets øjne, og siger til dem, der bor på jorden, at de skal lave et billede af dyret, der fik sværdhugget og kom til live. **15** Og det fik givet at blæse livsånde i dyrets billede, så dyrets billede også kunne tale og få alle dem dræbt, der ikke vil tilbede dyrets billede. **16** Det får alle, store og små, rige og fattige, frie og trælle, til at sætte et mærke på deres højre hånd eller deres pande, **17** så ingen kan købe eller sælge undtagen den, der bærer dette mærke, dyrets navn eller dets navns tal. **18** Her kræves der visdom! Den, der har forstand, må regne på dyrets tal, for det er et mennesketal. Dets tal er 666.
 
 [– tilbage –](#indhold)
+
+<a id="aab14"></a>
 
 ### Åb 14
 
@@ -6727,6 +7231,8 @@ Her kræves der udholdenhed og tro af de hellige!
 
 [– tilbage –](#indhold)
 
+<a id="aab15"></a>
+
 ### Åb 15
 
 #### De syv engle med de sidste syv plager
@@ -6746,6 +7252,8 @@ Her kræves der udholdenhed og tro af de hellige!
 **5** Derefter så jeg: Templet i himlen, Vidnesbyrdets telt, blev åbnet, **6** og ud af templet kom de syv engle med de syv plager, klædt i lysende rent linnedtøj og med guldbælter om brystet. **7** Og et af de fire levende væsener gav de syv engle syv guldskåle fyldt med Guds vrede – han som lever i evighedernes evigheder. **8** Og templet fyldtes med røg fra Guds herlighed og magt, så ingen kunne komme ind i templet, før de syv engles syv plager var endt.
 
 [– tilbage –](#indhold)
+
+<a id="aab16"></a>
 
 ### Åb 16
 
@@ -6778,6 +7286,8 @@ Her kræves der udholdenhed og tro af de hellige!
 
 [– tilbage –](#indhold)
 
+<a id="aab17"></a>
+
 ### Åb 17
 
 #### Den store skøge og dyret
@@ -6789,6 +7299,8 @@ Dér så jeg en kvinde sidde på et skarlagenrødt dyr, fuldt af bespottelige na
 **15** Og den sagde til mig: »De vande, som du har set kvinden sidde ved, er folk og skarer, folkeslag og tungemål. **16** Og de ti horn, du har set, og dyret, de vil hade skøgen og lægge hende øde og klæde hende nøgen og æde hendes kød og brænde hende. **17** For Gud har indgivet dem at gøre hans vilje og at have samme vilje og give dyret deres kongemagt, indtil Guds ord er udført. **18** Og kvinden, du har set, er den store by, som har herredømmet over jordens konger.«
 
 [– tilbage –](#indhold)
+
+<a id="aab18"></a>
 
 ### Åb 18
 
@@ -6869,6 +7381,8 @@ Og alle styrmænd og alle, der færdes på havet, og sømænd og de, der har der
 
 [– tilbage –](#indhold)
 
+<a id="aab19"></a>
+
 ### Åb 19
 
 #### Jubel over Babylons fald og Lammets bryllup
@@ -6907,6 +7421,8 @@ Og alle styrmænd og alle, der færdes på havet, og sømænd og de, der har der
 
 [– tilbage –](#indhold)
 
+<a id="aab20"></a>
+
 ### Åb 20
 
 #### De tusind år
@@ -6924,6 +7440,8 @@ Og alle styrmænd og alle, der færdes på havet, og sømænd og de, der har der
 **11** Og jeg så en stor hvid trone og ham, der sad på den. For hans ansigt måtte både jord og himmel flygte, og der var ingen plads til dem. **12** Og jeg så de døde, både store og små, stå foran tronen, og bøger blev åbnet, og en anden bog blev åbnet, det er livets bog, og de døde blev dømt efter deres gerninger ifølge det, der stod skrevet i bøgerne. **13** Og havet gav sine døde tilbage, og døden og dødsriget sine døde, og de blev dømt, enhver efter sine gerninger. **14** Døden og dødsriget blev styrtet i ildsøen. Det er den anden død, ildsøen. **15** Og hvis nogen ikke fandtes indskrevet i livets bog, blev han styrtet i ildsøen.
 
 [– tilbage –](#indhold)
+
+<a id="aab21"></a>
 
 ### Åb 21
 
@@ -6951,6 +7469,8 @@ Og alle styrmænd og alle, der færdes på havet, og sømænd og de, der har der
 **22** Men et tempel så jeg ikke i den, for Herren, Gud den Almægtige, er dens tempel, og Lammet. **23** Og byen har ikke brug for sol eller måne til at skinne i den, for Guds herlighed oplyser den, og Lammet er dens lys. **24** Folkeslagene skal vandre i dens lys og jordens konger komme ind i den med deres herligheder. **25** Dens porte lukkes ikke om dagen, og nat er det aldrig dér. **26** Folkeslagenes herligheder og kostbarheder bringes ind i den. **27** Men intet vanhelligt kommer derind, og det gør heller ingen, der øver afskyelighed og løgn, men kun de, der står indskrevet i livets bog, Lammets bog.
 
 [– tilbage –](#indhold)
+
+<a id="aab22"></a>
 
 ### Åb 22
 

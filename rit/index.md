@@ -8,47 +8,52 @@ published: true
 
 -----
 
-[**Højmesse**](#hjmesseordning)
-— [Præludium](#indgang), [Indgangsbøn](#indgangsbn), [Salme](#indgangs), [Kyrie og Gloria](#a-kyrie-og-gloria), [Hilsen](#hilsen), [Kollekt](#indledningskollekt), [GT Læsning](#lsning-fra-det-gamle-testamente), [Salme](#salme-mellem-lsningerne), [NT Læsning](#lsning-fra-det-nye-testamente), [Trosbekendelse](#trosbekendelse), [Salme](#salme-fr-prdikenen), [Evangelielæsning](#evangelielsning), [Prædiken](#prdiken), [Kirkebøn](#kirkebn) [(a)](#a) [(b)](#b) [(litani)](#c-litani), [Salme](#salme-efter-prdikenen), [Nadverbøn](#nadverbn) [(a)](#a-1) [(b)](#b-1) [(c)](#c), [Fadervor](#fadervor), [Indstiftelsesord](#indstiftelsesordene), [Nadvermåltid](#nadvermltidet), [Kollekt](#slutningskollekt), [Velsignelse](#velsignelse), [Salme](#udgangssalme), [Udgangsbøn](#udgangsbn), [Postludium](#udgang)
+[**Højmesse**](#h)
+— [Præludium](#h1), [Indgangsbøn](#h2), [Salme](#h3), [Kyrie og Gloria](#h3a), [Hilsen](#h4), [Kollekt](#h5), [GT Læsning](#h6), [Salme](#h7), [NT Læsning](#h8), [Trosbekendelse](#h9), [Salme](#h10), [Evangelielæsning](#h11), [Prædiken](#h12), [Kirkebøn](#h13) [(a)](#h13a) [(b)](#h13b) [(litani)](#h13c), [Salme](#h14), [Nadverbøn](#h15) [(a)](#h15a) [(b)](#h15b) [(c)](#h15c), [Fadervor](#h16), [Indstiftelsesord](#h17), [Nadvermåltid](#h18), [Kollekt](#h19), [Velsignelse](#h20), [Salme](#h21), [Udgangsbøn](#h22), [Postludium](#h23)
 
-[**Dåb**](#db)
-— [**Dåb i kirken**](#db-i-kirken) : [Dåbssalme](#dbssalme), [Lovprisning og bøn](#lovprisning-og-bn), [Skriftlæsning](#skriftlsning), [Korstegnelse](#korstegnelse), [Trosbekendelse](#trosbekendelse-1), [Dåbshandling](#dbshandling), [Fadervor](#fadervor-1), [Faddertiltale](#faddertiltale), [Dåbssalme](#dbssalme-1), [Dåbskollekt](#dbskollekt)
-— [**Hjemmedåb**](#hjemmedb)
-— [**Nøddåb**](#nddb) : [Dåbshandling](#dbshandling-1), [Fadervor](#fadervor-2)
-— [**Fremstilling i kirken af døbte børn**](#fremstilling-i-kirken-af-dbte-brn) : [Salme](#salme), [Lovprisning](#lovprisning), [Skriftlæsning](#skriftlsning-1), [Trosbekendelse](#trosbekendelse-2), [Bekendtgørelse og bøn](#bekendtgrelse-og-bn), [Fadervor](#fadervor-3), [Faddertiltale](#faddertiltale-1), [Salme](#salme-1)
+[**Dåb**](#d)
+— [**Dåb i kirken**](#da) : [Dåbssalme](#da1), [Lovprisning og bøn](#da2), [Skriftlæsning](#da3), [Korstegnelse](#da4), [Trosbekendelse](#da5), [Dåbshandling](#da6), [Fadervor](#da7), [Faddertiltale](#da8), [Dåbssalme](#da9), [Dåbskollekt](#da10)
+— [**Hjemmedåb**](#db)
+— [**Nøddåb**](#dc) : [Dåbshandling](#dc1), [Fadervor](#dc2)
+— [**Fremstilling i kirken af døbte børn**](#dd) : [Salme](#dd1), [Lovprisning](#dd2), [Skriftlæsning](#dd3), [Trosbekendelse](#dd4), [Bekendtgørelse og bøn](#dd5), [Fadervor](#dd6), [Faddertiltale](#dd7), [Salme](#dd8)
 
-[**Skriftemål**](#skrifteml)
-— [**Fælles skriftemål forud for gudstjenesten**](#flles-skrifteml-forud-for-gudstjenesten) : [Salme](#salme-2), [Hilsen](#hilsen-1), [Skriftetale](#skriftetale), [Skriftebøn](#skriftebn), [Absolution](#), [Salme](#)
-— [**Syndsbekendelse og absolution**](#syndsbekendelse-og-absolution)
-— [**Privat skriftemål**](#privat-skrifteml) : [Syndsbekendelse](#syndsbekendelse), [Absolution](#absolution-1), [Fadervor](#fadervor-4), [Velsignelse](#velsignelse-1)
+[**Skriftemål**](#s)
+— [**Fælles skriftemål forud for gudstjenesten**](#sa) : [Salme](#sa1), [Hilsen](#sa2), [Skriftetale](#sa3), [Skriftebøn](#sa4), [Absolution](#sa5), [Salme](#sa6)
+— [**Syndsbekendelse og absolution**](#sb)
+— [**Privat skriftemål**](#sc) : [Syndsbekendelse](#sc1), [Absolution](#sc2), [Fadervor](#sc3), [Velsignelse](#sc4)
 
-[**Konfirmation**](#konfirmation)
-— [Tale til konfirmanderne](#tale-til-konfirmanderne), [Trosbekendelse](#trosbekendelse-3), [Tilspørgsel og svar](#tilsprgsel-og-svar), [Konfirmationsvelsignelse](#konfirmationsvelsignelse), [Fadervor](#fadervor-5)
+[**Konfirmation**](#k)
+— [Tale til konfirmanderne](#k1), [Trosbekendelse](#k2), [Tilspørgsel og svar](#k3), [Konfirmationsvelsignelse](#k4), [Fadervor](#k5)
 
-[**Vielse (bryllup)**](#vielse-bryllup)
-— [Indgang](#indgang-1), [Indgangssalme](#indgangssalme-1), [Hilsen](#hilsen-2), [Indledende bøn og læsning](#indledende-bn-og-lsning), [Salme](#salme-4), [Tale](#tale), [Tilspørgsel og erklæring](#tilsprgsel-og-erklring), [Forbøn](#forbn), [Fadervor](#fadervor-6), [Salme](#salme-5), [Slutningskollekt](#slutningskollekt-1), [Velsignelse](#velsignelse-2), [Udgangssalme](#udgangssalme-1), [Udgang](#udgang-1)
+[**Vielse (bryllup)**](#v)
+— [Indgang](#v1), [Indgangssalme](#v2), [Hilsen](#v3), [Indledende bøn og læsning](#v4), [Salme](#v5), [Tale](#v6), [Tilspørgsel og erklæring](#v7), [Forbøn](#v8), [Fadervor](#v9), [Salme](#v10), [Slutningskollekt](#v11), [Velsignelse](#v12), [Udgangssalme](#v13), [Udgang](#v14)
 
-[**Begravelse**](#begravelse)
-— [**Længere form**](#i-lngere-form) : [Præludium](#prludium), [Salme](#salme-6), [Hilsen](#hilsen-3), [Indledningskollekt](#indledningskollekt-1), [Læsning(er)](#lsninger), [Trosbekendelse](#trosbekendelse-4), [Salme](#salme-7), [Prædiken](#prdiken-1), [Salme](#salme-8), [Jordpåkastelse (i kirke eller kapel)](#jordpkastelse-i-kirke-eller-kapel), [Slutningskollekt](#slutningskollekt-2), [Velsignelse](#velsignelse-3), [Salme](#salme-9), [Orgelefterspil](#orgelefterspil), [Jordpåkastelse (på kirkegården)](#jordpkastelse-p-kirkegrden)
-— [**Kortere form**](#ii-kortere-form) : [Salme](#salme-10), [Hilsen](#hilsen-4), [Læsning](#lsning), [Trosbekendelse](#trosbekendelse-5), [Prædiken](#prdiken-2), [Salme](#salme-11), [Jordpåkastelse (i kirke eller kapel)](#jordpkastelse-i-kirke-eller-kapel-1), [Velsignelse](#velsignelse-4), [Salme](#salme-12), [Orgelefterspil](#orgelefterspil), [Jordpåkastelse (på kirkegården)](#jordpkastelse-p-kirkegrden-1)
+[**Begravelse**](#b)
+— [**Længere form**](#ba) : [Præludium](#ba1), [Salme](#ba2), [Hilsen](#ba3), [Indledningskollekt](#ba4), [Læsning(er)](#ba5), [Trosbekendelse](#ba6), [Salme](#ba7), [Prædiken](#ba8), [Salme](#ba9), [Jordpåkastelse (i kirke eller kapel)](#ba10), [Slutningskollekt](#ba11), [Velsignelse](#ba12), [Salme](#ba13), [Orgelefterspil](#ba14), [Jordpåkastelse (på kirkegården)](#ba15)
+— [**Kortere form**](#bb) : [Salme](#bb1), [Hilsen](#bb2), [Læsning](#bb3), [Trosbekendelse](#bb4), [Prædiken](#bb5), [Salme](#bb6), [Jordpåkastelse (i kirke eller kapel)](#bb7), [Velsignelse](#bb8), [Salme](#bb9), [Orgelefterspil](#bb10), [Jordpåkastelse (på kirkegården)](#bb11)
 
-[**Jordpåkastelse**](#jordpkastelse)
+[**Jordpåkastelse**](#j)
 
 
 -----
+
+<a id="h"></a>
 
 # Højmesseordning
 
 *Autoriseret ved kgl. resolution af 12. juni 1992*
 
-
 ## I. Indledning
 
 *Førend gudstjenesten begynder, ringes der tre gange med kirkens klokke(r). Sidste ringning slutter med bedeslagene.*
 
+<a id="h1"></a>
+
 ### 1. Indgang
 
 *Efter bedeslagene indledes gudstjenesten med præludium, bibelsk salme eller kormusik, hvorunder præsten går for alteret.*
+
+<a id="h2"></a>
 
 ### 2. Indgangsbøn
 
@@ -78,9 +83,13 @@ så jeg af dit ord kan lære at angre mine synder,
 tro på Jesus Kristus
 og hver dag styrkes og bevares i denne tro. Amen.
 
+<a id="h3"></a>
+
 ### 3. Indgangssalme
 
 *Efter salmen (eller efter hilsenen) kan siges eller synges vekselbønnen »Herre, forbarm dig« (Kyrie) og synges »Lovsangen« (Gloria).*
+
+<a id="h3a"></a>
 
 ### 3a. Kyrie og Gloria
 
@@ -162,12 +171,16 @@ du alene den højeste,
 Jesus Kristus med Helligånden
 i Gud Faders herlighed. Amen.
 
+<a id="h4"></a>
+
 ### 4. Hilsen
 
 *Præsten siger eller messer (vendt mod menigheden):*
 Herren være med jer!
 *Menigheden svarer:*
 Og med din ånd! &nbsp;&nbsp;&nbsp;*eller*: Og Herren være med dig!
+
+<a id="h5"></a>
 
 ### 5. Indledningskollekt
 
@@ -182,15 +195,23 @@ Amen.
 
 ## II. Ordet
 
+<a id="h6"></a>
+
 ### 6. Læsning fra Det Gamle Testamente
 
 *Menigheden står op under læsningerne.*
 
+<a id="h7"></a>
+
 ### 7. Salme mellem læsningerne
+
+<a id="h8"></a>
 
 ### 8. Læsning fra Det Nye Testamente
 
 *epistel eller lektie*
+
+<a id="h9"></a>
 
 ### 9. Trosbekendelse
 
@@ -215,7 +236,11 @@ kommende verdens liv.
 
 *Efter trosbekendelsen svarer menigheden med amen.*
 
+<a id="h10"></a>
+
 ### 10. Salme før prædikenen
+
+<a id="h11"></a>
 
 ### 11. Evangelielæsning
 
@@ -224,6 +249,8 @@ Dette hellige evangelium skriver evangelisten . . .
 *Menigheden rejser sig og svarer:*
 Gud være lovet for sit glædelige budskab.
 *Teksten læses derefter af præsten.*
+
+<a id="h12"></a>
 
 ### 12. Prædiken
 
@@ -240,6 +267,8 @@ højlovet fra første begyndelse, nu og i al evighed. Amen.
 Ære være Faderen og Sønnen og Helligånden,
 som det var i begyndelsen, således også nu og altid
 og i al evighed. Amen.
+
+<a id="h13"></a>
 
 ### 13. Kirkebøn
 
@@ -261,6 +290,8 @@ og Guds kærlighed
 og Helligåndens fællesskab
 være med os alle! Amen.
 
+<a id="h13a"></a>
+
 #### (a)
 
 *Efterfølgende kirkebøn kan bedes fra prædikestolen eller fra alteret.*
@@ -277,6 +308,8 @@ Vær nær hos alle fattige, alle forpinte og bedrøvede, de fængslede og de lan
   &nbsp;&nbsp;&nbsp;
 Forbarm dig over os, giv os ikke løn som forskyldt, men fri os fra det onde, og lad os på den yderste dag få lov at opstå med Kristus og evigt takke dig, ved din elskede Søn, Jesus Kristus. Amen.
 
+<a id="h13b"></a>
+
 #### (b)
 
 *Efterfølgende kirkebøn kan bedes fra prædikestolen eller fra alteret. Hvis den bedes fra alteret, kan den bedes som vekselbøn, hvor de enkelte afsnit eksempelvis afsluttes med ordene »Det beder vi om«, hvorefter menigheden som svar eksempelvis synger »Herre, hør vor bøn!« og slutter med »Amen«.*
@@ -292,6 +325,8 @@ Herre, vi beder dig for vort land, vor familie og alle, vi holder af og er forbu
 Herre, vi beder dig for din kirke her og ud over hele jorden: Velsign den og forny den ved din Ånd, så den kan tale dit befriende ord til alle mennesker. Hold os fast i det fællesskab, som du i dåben satte os i. Styrk os gennem nadverens måltid, og hjælp os alle til at tjene dig med glæde.
   &nbsp;&nbsp;&nbsp;
 Vær hos os, når vi skal dø. Forbarm dig over os, giv os ikke løn som forskyldt, men skænk os en glædelig opstandelse til det evige liv, hvor du med Søn og Helligånd lever og råder fra evighed til evighed.
+
+<a id="h13c"></a>
 
 #### (c) Litani
 
@@ -318,6 +353,8 @@ Vær hos os, når vi skal dø. Forbarm dig over os, giv os ikke løn som forskyl
 *P* — Herre, vor Gud, himmelske Fader! Du, som af din faderlige nåde ikke sparede din enbårne Søn, men gav ham hen til døden på korset; vi beder dig: Giv din Helligånd i vore hjerter, så vi trøster os med denne nåde, vogter os for synden, tålmodigt bærer de lidelser, du tilskikker os, og bliver til evig tid salige hos dig, ved din elskede Søn, Jesus Kristus, vor Herre, som med dig lever og regerer i Helligånds enhed, én sand Gud fra evighed og til evighed.
 *M* — Amen.
 
+<a id="h14"></a>
+
 ### 14. Salme efter prædikenen
 
 *Under salmen efter prædikenen går præsten for alteret.*
@@ -329,9 +366,13 @@ Vær hos os, når vi skal dø. Forbarm dig over os, giv os ikke løn som forskyl
 
 ## III. Nadver
 
+<a id="h15"></a>
+
 ### 15. Nadverbøn
 
 *Nadveren begynder med én af følgende tre nadverindledninger:*
+
+<a id="h15a"></a>
 
 #### (a)
 
@@ -356,6 +397,8 @@ ligesom du er ét med Faderen.
 Amen.
 
 *Der fortsættes med Fadervor og indstiftelsesordene.*
+
+<a id="h15b"></a>
 
 #### (b)
 
@@ -412,6 +455,8 @@ ligesom du er ét med Faderen.
 Amen.
 
 *Der fortsættes med Fadervor og indstiftelsesordene.*
+
+<a id="h15c"></a>
 
 #### (c)
 
@@ -479,6 +524,8 @@ Amen.
 
 *Når nadverbøn c anvendes, synges inden uddelingen eller under uddelingen »Odu Guds lam« i form af en salme eller i prosaform.*
 
+<a id="h16"></a>
+
 ### 16. Fadervor
 
 *Præsten (eller præst og menighed):*
@@ -508,6 +555,8 @@ og led os ikke ind i fristelse,
 men fri os fra det onde.
 For dit er Riget og magten og æren i evighed!
 
+<a id="h17"></a>
+
 ### 17. Indstiftelsesordene
 
 *Præsten fortsætter med at læse eller messe indstiftelsesordene. Herunder står menigheden op. Mens ordet om brødet, henholdsvis vinen, læses eller messes, holder præsten disken, henholdsvis kalken. Præsten kan herunder vende sig mod menigheden.*
@@ -521,6 +570,8 @@ Ligeså tog han også kalken efter aftensmåltidet, takkede, gav dem den og sagd
 Vor Herre Jesus Kristus tog i den nat, da han blev forrådt, et brød, takkede og brød det, gav sine disciple det og sagde: »Tag det og spis det; dette er mit legeme, som gives for jer. Gør dette til ihukommelse af mig!«
   &nbsp;&nbsp;&nbsp;
 Ligeså tog han også bægeret efter måltidet, takkede, gav dem det og sagde: »Drik alle heraf; dette bæger er den nye pagt ved mit blod, som udgydes for jer til syndernes forladelse. Gør dette, hver gang I drikker det, til ihukommelse af mig!«
+
+<a id="h18"></a>
 
 ### 18. Nadvermåltidet
 
@@ -549,6 +600,8 @@ Fred være med jer!
 
 
 ## IV. Afslutning
+
+<a id="h19"></a>
 
 ### 19. Slutningskollekt
 
@@ -631,6 +684,8 @@ Amen.
 
 *Ved gudstjenester uden nadver kan slutningskollekten bortfalde, når kirkebønnen og Fadervor bedes fra alteret efter salmen efter prædikenen.*
 
+<a id="h20"></a>
+
 ### 20. Velsignelse
 
 *Præsten siger eller messer (vendt mod menigheden):*
@@ -654,7 +709,11 @@ Herren løfte sit ansigt mod dig og give dig fred!
 
 *Efter velsignelsen gør præsten korstegn.*
 
+<a id="h21"></a>
+
 ### 21. Udgangssalme
+
+<a id="h22"></a>
 
 ### 22. Udgangsbøn
 
@@ -679,12 +738,16 @@ Hjælp mig nu, min Gud,
 At jeg må holde fast ved dit ord
 og i liv og død styrkes og trøstes derved. Amen.
 
+<a id="h23"></a>
+
 ### 23. Udgang
 
 *Indsamlingen finder almindeligvis sted i forbindelse med udgangen.*
 
 
 --------------------------------------------------------------------
+
+<a id="d"></a>
 
 # Dåb
 
@@ -697,7 +760,11 @@ og i liv og død styrkes og trøstes derved. Amen.
 *Når dåb finder sted ved en særlig dåbsgudstjeneste, kan forud for dåbssalmen indledes med præludium, indgangssalme og dåbstale.*
 
 
+<a id="da"></a>
+
 ## Dåb i kirken
+
+<a id="da1"></a>
 
 ### Dåbssalme
 
@@ -709,6 +776,8 @@ Er barnet hjemmedøbt? — Nej!
 
 *Ved dåb af voksne spørger præsten:*
 Er du tidligere døbt? — Nej!
+
+<a id="da2"></a>
 
 ### Lovprisning og bøn
 
@@ -738,6 +807,8 @@ Indlem ham (hende) i din menighed,
 og bevar ham (hende) i dit samfund både her og hisset!
 Amen.
 
+<a id="da3"></a>
+
 ### Skriftlæsning
 
 *Præsten fortsætter, og menigheden rejser sig.*
@@ -758,6 +829,8 @@ Så vil vi nu hjælpe dig til hans velsignelse
 ved at døbe dig
 i Faderens og Sønnens og Helligåndens navn.
 
+<a id="da4"></a>
+
 ### Korstegnelse
 
 *Barnet – dersom der er flere børn, hvert barn for sig – bæres hen til døbefonten. Ved dåb af voksne træder den, der skal døbes, selv hen til døbefonten. Præsten tegner derefter med hånden kors for ansigtet og brystet af den, der skal døbes, og siger:*
@@ -771,6 +844,8 @@ den korsfæstede Herre Jesus Kristus.
 Hvad er barnets navn? — N.N.
 *Ved dåb af voksne udelades dette spørgsmål normalt.*
 
+<a id="da5"></a>
+
 ### Trosbekendelse
 
 N.N. Forsager du Djævelen og alle hans gerninger og alt hans væsen? — Ja!
@@ -782,6 +857,8 @@ Tror du på Jesus Kristus, hans enbårne Søn, vor Herre, som er undfanget ved H
 Tror du på Helligånden, den hellige, almindelige kirke, de helliges samfund, syndernes forladelse, kødets opstandelse og det evige liv? — Ja!
   &nbsp;&nbsp;&nbsp;
 Vil du døbes på denne tro? — Ja!
+
+<a id="da6"></a>
 
 ### Dåbshandling
 
@@ -799,6 +876,8 @@ fra nu og til evig tid! Amen.
 
 *Dersom flere skal døbes, gentages for hver enkelt afsnittet fra korstegnelsen og til og med håndspålæggelsen.*
 
+<a id="da7"></a>
+
 ### Fadervor
 
 *Derefter bedes Fadervor. Herunder lægger præsten hånden på den døbtes (de døbtes) hoved.*
@@ -807,6 +886,8 @@ Fader vor, du som er i himlene!
 . . . Amen.
 
 Fred være med dig (jer)!
+
+<a id="da8"></a>
 
 ### Faddertiltale
 
@@ -821,9 +902,13 @@ Fred være med jer!
 
 *Præsten er frit stillet med hensyn til faddertiltalens ordlyd, men man kan benytte én af ovenstående tiltaler, der er vejledende for tiltalens indhold. Ved dåb af voksne slutter præsten med en kort fri tiltale til dåbsvidnerne.*
 
+<a id="da9"></a>
+
 ### Dåbssalme
 
 *Efter dåben synges en salme. Ved dåb i forbindelse med en højmesse fortsættes herefter som en almindelig højmesse, og salmen kan være en af gudstjenesternes almindelige salmer.*
+
+<a id="da10"></a>
 
 ### (Dåbskollekt)
 
@@ -851,6 +936,8 @@ Amen.
 *Når der holdes dåb ved en særlig dåbsgudstjeneste, afsluttes med velsignelse, udgangssalme og postludium.*
 
 
+<a id="db"></a>
+
 ## Hjemmedåb
 
 *Hvis et barn på grund af sygdom eller svaghed eller af anden gyldig grund ønskes døbt i hjemmet eller på sygehuset, følger præsten det almindelige ritual for dåb i kirken, dog med udeladelse af faddertiltalen.*
@@ -860,9 +947,13 @@ Amen.
 *Når dåben foretages uden for kirken (hjemmedåb), fremstilles barnet senere i kirken ved en højmesse.*
 
 
+<a id="dc"></a>
+
 ## Nøddåb
 
 *Nøddåben kan, hvor der ikke er tid til at hente præsten, foretages af en af de tilstedeværende.*
+
+<a id="dc1"></a>
 
 ### Dåbshandling
 
@@ -881,6 +972,8 @@ Han bevare din udgang og indgang
 fra nu og til evig tid!
 Amen.
 
+<a id="dc2"></a>
+
 ### Fadervor
 
 Fader vor, du som er i himlene!
@@ -891,9 +984,13 @@ Fred være med dig!
 *Dåb uden præstens medvirken meddeles snarest denne, og barnet bør siden fremstilles i kirken. Bliver barnets navn ikke nævnt ved dåben, skal dåben ikke af denne grund gentages, men navnet skal blot meddeles senere.*
 
 
+<a id="dd"></a>
+
 ## Fremstilling i kirken af døbte børn
 
 *Fremstillingen af allerede døbte børn foregår i kirken ved en højmesse på dåbshandlingens sædvanlige plads. Er der både dåb og fremstilling, går dåben forud for fremstillingen.*
+
+<a id="dd1"></a>
 
 ### Salme
 
@@ -903,6 +1000,8 @@ Fred være med dig!
 Er barnet hjemmedøbt? — Ja!
 Er det døbt i Faderens og Sønnens og Helligåndens navn? — Ja!
 
+<a id="dd2"></a>
+
 ### Lovprisning
 
 *Præsten siger:*
@@ -910,6 +1009,8 @@ Lovet være Gud, vor Herre Jesu Kristi Fader,
 som i sin store barmhjertighed
 har genfødt os til et levende håb
 ved Jesu Kristi opstandelse fra de døde.
+
+<a id="dd3"></a>
 
 ### Skriftlæsning
 
@@ -925,6 +1026,8 @@ Og de bar nogle små børn til Jesus, for at han skulle røre ved dem; disciplen
 *Præsten spørger:*
 Hvad er barnets navn? — N.N.
 
+<a id="dd4"></a>
+
 ### Trosbekendelse
 
 N.N. Forsager du Djævelen og alle hans gerninger og alt hans væsen? — Ja!
@@ -935,6 +1038,8 @@ Tror du på Gud Fader, den Almægtige, himlens og jordens skaber?
 Tror du på Jesus Kristus, hans enbårne Søn, vor Herre, som er undfanget ved Helligånden, født af Jomfru Maria, pint under Pontius Pilatus, korsfæstet, død og begravet, nedfaret til dødsriget, på tredje dag opstanden fra de døde, opfaret til himmels, siddende ved Gud Faders, den Almægtiges, højre hånd, hvorfra han skal komme at dømme levende og døde? — Ja!
   &nbsp;&nbsp;&nbsp;
 Tror du på Helligånden, den hellige, almindelige kirke, de helliges samfund, syndernes forladelse og det evige liv? — Ja!
+
+<a id="dd5"></a>
 
 ### Bekendtgørelse og bøn
 
@@ -950,12 +1055,16 @@ han styrke dig med sin nåde til det evige liv!
 Han bevare din udgang og indgang fra nu og til evig tid!
 Amen.
 
+<a id="dd6"></a>
+
 ### Fadervor
 
 Fader vor, du som er i himlene!
 . . . Amen.
 
 Fred være med dig (jer)!
+
+<a id="dd7"></a>
 
 ### Faddertiltale
 
@@ -970,6 +1079,8 @@ Fred være med jer!
 
 *Såfremt der har været både dåb og fremstilling, foretages de nødvendige ændringer og tilføjelser i den almindelige faddertiltale.*
 
+<a id="dd8"></a>
+
 ### Salme
 
 *Efter fremstillingen synges en salme, som kan være en af gudstjenestens almindelige salmer. Og gudstjenesten fortsættes derefter som en almindelig højmesse. Som slutningskollekt kan anvendes kollekten til Første søndag efter påske eller den særlige dåbskollekt.*
@@ -977,18 +1088,26 @@ Fred være med jer!
 
 --------------------------------------------------------------------
 
+<a id="s"></a>
+
 # Skriftemål
 
 *Autoriseret ved kgl. resolution af 12. juni 1992*
 
 
+<a id="sa"></a>
+
 ## Fælles skriftemål forud for gudstjenesten
 
 *Fælles skriftemål kan holdes forud for gudstjenesten imellem anden og tredje ringning efter følgende ordning:*
 
+<a id="sa1"></a>
+
 ### Salme
 
 *En salme kan synges til indledning.*
+
+<a id="sa2"></a>
 
 ### Hilsen
 
@@ -996,6 +1115,8 @@ Fred være med jer!
 Nåde være med jer
 og fred fra Gud, vor Fader,
 og Herren Jesus Kristus
+
+<a id="sa3"></a>
 
 ### Skriftetale
 
@@ -1009,6 +1130,8 @@ Sl 6 / Sl 32 / Sl 51 / Sl 102 / Sl 130 / Sl 143
 Es 43,25 / Es 53,5–6
 Matt 11,28 / Matt 22,37–39 / Joh 14,27
 Rom 5,8 / 1 Joh 1,7b / 1 Joh 1,9 / 1 Joh 4,10
+
+<a id="sa4"></a>
 
 ### Skriftebøn
 
@@ -1058,6 +1181,8 @@ Før mig så ved din stærke hånd fremad på livets vej
 og til sidst igennem dødens trange port
 hjem til evigt liv og salighed. Amen.
 
+<a id="sa5"></a>
+
 ### Absolution
 
 *Derefter siger præsten:*
@@ -1075,10 +1200,14 @@ Han, som har begyndt sin gode gerning i jer,
 vil fuldføre den indtil Jesu Kristi dag.
 Fred være med jer!
 
+<a id="sa6"></a>
+
 ### Salme
 
 *Der kan sluttes med en salme.*
 
+
+<a id="sb"></a>
 
 ## Syndsbekendelse og absolution
 
@@ -1131,13 +1260,19 @@ Amen.
 *Gudstjenesten fortsættes derefter med indgangssalme, hilsen og indledningskollekt. I gudstjenestens afslutning kan udgangsbønnen bortfalde.*
 
 
+<a id="sc"></a>
+
 ## Privat skriftemål
 
 *Ved privat skriftemål henvender man sig til en præst. Skriftemålet kan finde sted i kirken eller hos præsten eller for eksempel ved at sygeleje. Præsten har tavshedspligt.*
 
+<a id="sc1"></a>
+
 ### Syndsbekendelse
 
 *Den der skrifter, kan med egne ord bekende, hvad der nager hans samvittighed. Derefter læses en salme fra salmebogen, en bibelsk salme eller en af skriftebønnerne fra det fælles skriftemål.*
+
+<a id="sc2"></a>
 
 ### Absolution
 
@@ -1151,10 +1286,14 @@ Han, som har begyndt sin gode gerning i dig,
 vil fuldføre den indtil Jesu Kristi dag.
 Fred være med dig!
 
+<a id="sc3"></a>
+
 ### Fadervor
 
 Fader vor, du som er i himlene!
 . . . Amen.
+
+<a id="sc4"></a>
 
 ### Velsignelse
 
@@ -1167,6 +1306,8 @@ Herren løfte sit åsyn på dig og give dig fred!
 
 
 --------------------------------------------------------------------
+
+<a id="k"></a>
 
 # Konfirmation
 
@@ -1184,6 +1325,8 @@ Konfirmationsvelsignelse
 Fadervor.*
 
 *Konfirmanderne går op til alteret forud for eller efter trosbekendelsen. Mens konfirmanderne går op til alteret, kan der synges en salme eller et salmevers*
+
+<a id="k1"></a>
 
 ### Tale til konfirmanderne
 
@@ -1215,9 +1358,13 @@ Styrk dem med dit levende håb
 Og bevar dem fra det onde,
 så din glæde må leve i dem. Amen.
 
+<a id="k2"></a>
+
 ### Trosbekendelse
 
 *Forsagelsen og trosbekendelsen fremsiges i kor af præsten og konfirmanderne (eller af hele menigheden):*
+
+<a id="k3"></a>
 
 ### Tilspørgsel og svar
 
@@ -1233,6 +1380,8 @@ N.N. Vil du konfirmeres i den kristne tro?
 Ja!
 
 *Eller tilspørgsel og svar udelades, og konfirmationsvelsignelsen indledes med, at præsten nævner konfirmandens navn.*
+
+<a id="k4"></a>
 
 ### Konfirmationsvelsignelse
 
@@ -1265,6 +1414,8 @@ han velsigne dig og bevare dig i sin kærlighed!
 *For hvert hold siger præsten:*
 Fred være med jer!
 
+<a id="k5"></a>
+
 ### Fadervor
 
 *Når alle er konfirmeret, beder konfirmander og præst i kor Fadervor.*
@@ -1284,6 +1435,8 @@ Thi dit er riget og magten og æren i evighed! Amen.
 
 --------------------------------------------------------------------
 
+<a id="v"></a>
+
 # Vielse (bryllup)
 
 *Autoriseret ved kgl. Resolution af 12. Juni 1992*
@@ -1292,9 +1445,15 @@ Thi dit er riget og magten og æren i evighed! Amen.
 
 *Forud for vielsen kan der kimes eller ringes efter stedets skik.*
 
+<a id="v1"></a>
+
 ### Indgang
 
+<a id="v2"></a>
+
 ### Indgangssalme
+
+<a id="v3"></a>
 
 ### Hilsen
 
@@ -1308,6 +1467,8 @@ Vor Herre Jesu Kristi nåde
 og Guds kærlighed
 og Helligåndens fællesskab
 være med jer alle!
+
+<a id="v4"></a>
 
 ### Indledende bøn og læsning
 
@@ -1333,11 +1494,17 @@ Har I ikke læst, at Skaberen fra begyndelsen skabte dem som mand og kvinde og s
 Og apostlen Paulus skriver:
 Bær hinandens byrder; således opfylder I Kristi lov. Ifør jer da, som Guds udvalgte, hellige og elskede, inderlig barmhjertighed, godhed, ydmyghed, mildhed, tålmodighed. Bær over med hinanden og tilgiv hinanden, hvis den ene har noget at bebrejde den anden. Som Herren tilgav jer, skal I også gøre. Men over alt dette skal I iføre jer kærligheden, som er fuldkommenhedens bånd.
 
+<a id="v5"></a>
+
 ### Salme
+
+<a id="v6"></a>
 
 ### Tale
 
 *Brudeparret træder frem foran alteret, eller de kan vente til efter talen.*
+
+<a id="v7"></a>
 
 ### Tilspørgsel og erklæring
 
@@ -1367,6 +1534,8 @@ Eftersom I forud har lovet hinanden at ville leve sammen i ægteskab og nu har b
 
 *Her kan brud og brudgom eventuelt give hinanden vielsesringe.*
 
+<a id="v8"></a>
+
 ### Forbøn
 
 *Præsten fortsætter:*
@@ -1391,6 +1560,8 @@ så at de må leve som dine kære børn
 og engang samles hos dig i de evige boliger!
 Hør os i Jesu navn:
 
+<a id="v9"></a>
+
 ### Fadervor
 
 Fader vor, du som er i himlene!
@@ -1402,9 +1573,13 @@ Fred være med jer!
 
 *Brudeparret sætter sig*
 
+<a id="v10"></a>
+
 ### Salme
 
 *Såfremt brudevielsen efterfølges af en dåbshandling, sker dåben på dette sted, og som slutningskollekt kan dåbskollekten da anvendes.*
+
+<a id="v11"></a>
 
 ### Slutningskollekt
 
@@ -1451,6 +1626,8 @@ som med dig lever og regerer i Helligånds enhed,
 *Menigheden svarer:*
 Amen.
 
+<a id="v12"></a>
+
 ### Velsignelse
 
 *Præsten siger eller messer:*
@@ -1467,12 +1644,18 @@ Herren løfte sit åsyn på dig og give dig fred!
 *Menigheden svarer:*
 Amen. Amen. Amen.
 
+<a id="v13"></a>
+
 ### Udgangssalme
+
+<a id="v14"></a>
 
 ### Udgang
 
 
 --------------------------------------------------------------------
+
+<a id="b"></a>
 
 # Begravelse
 
@@ -1482,13 +1665,21 @@ Amen. Amen. Amen.
 
 *De anførte ordninger kan også anvendes ved begravelse af børn og dødfødte.*
 
+<a id="ba"></a>
+
 ## I. Længere form
 
 *Vejledende ordning*
 
+<a id="ba1"></a>
+
 ### Præludium
 
+<a id="ba2"></a>
+
 ### Salme
+
+<a id="ba3"></a>
 
 ### Hilsen
 
@@ -1503,6 +1694,8 @@ og Herren Jesus Kristus.
 Herren være med jer!
 *Menigheden svarer:*
 Og med din ånd! &nbsp;&nbsp;&nbsp;*eller:* Og Herren være med dig!
+
+<a id="ba4"></a>
 
 ### Indledningskollekt
 
@@ -1585,6 +1778,8 @@ fra evighed til evighed. Amen.
 
 *Såfremt det ønskes, kan menigheden efter indledningskollekten svare Amen. I dette tilfælde kan kollekterne sluttes med den sædvanlige lovprisning.*
 
+<a id="ba5"></a>
+
 ### Læsning(er)
 
 *Derefter fortsætter præsten med én (eller to) af følgende læsninger fra Det Gamle Testamente eller/og Det Nye Testamente.*
@@ -1606,25 +1801,37 @@ Hebr 3,7-8 / Hebr 9,27-28 / Åb 21,3-5a
 *Ved barnebegravelse henvises især til:*
 Sl 139,1-12 / Jer 29,12-14a / Mark 10,13-16
 
+<a id="ba6"></a>
+
 ### Trosbekendelse
 
 *Efter læsningen kan trobekendelsen siges, eller den kan i stedet bruges i tilknytning til prædikenen.*
+
+<a id="ba7"></a>
 
 ### Salme
 
 *Kan udelades eller erstattes af en salme mellem to bibellæsninger.*
 
+<a id="ba8"></a>
+
 ### Prædiken
 
 *Hvis der ønskes to bibellæsninger, kan den sidste af læsningerne læses i umiddelbar tilknytning til prædikenen.*
 
+<a id="ba9"></a>
+
 ### Salme
+
+<a id="ba10"></a>
 
 ### Jordpåkastelse (i kirke eller kapel)
 
 *Når jordpåkastelsen foretages i kirke eller kapel, sker det efter salmen efter prædikenen. I dette tilfælde udgår slutningskollekten, og der afsluttes med salme og postludium.*
 
 *Jordpåkastelsen foretages i overensstemmelse med det herfor gældende ritual.*
+
+<a id="ba11"></a>
 
 ### Slutningskollekt
 
@@ -1690,6 +1897,8 @@ genskabte ved Jesus Kristus, vor Herre. Amen.
 *Såfremt det ønskes, kan menigheden efter slutningskollekten svare:*
 Amen!
 
+<a id="ba12"></a>
+
 ### Velsignelse
 
 *Præsten siger:*
@@ -1699,9 +1908,15 @@ Herren løfte sit åsyn mod dig og give dig fred!
 *Menigheden svarer:*
 Amen. Amen. Amen.
 
+<a id="ba13"></a>
+
 ### Salme
 
+<a id="ba14"></a>
+
 ### Orgelefterspil
+
+<a id="ba15"></a>
 
 ### Jordpåkastelse (på kirkegården)
 
@@ -1710,11 +1925,17 @@ Amen. Amen. Amen.
 *Der sluttes med en kort salme.*
 
 
+<a id="bb"></a>
+
 ## II. Kortere form
 
 *Vejledende ordning*
 
+<a id="bb1"></a>
+
 ### Salme
+
+<a id="bb2"></a>
 
 ### Hilsen
 
@@ -1723,13 +1944,19 @@ Nåde være med jer
 og fred fra Gud, vor Fader,
 og Herren Jesus Kristus.
 
+<a id="bb3"></a>
+
 ### Læsning
 
 *Præsten fortsætter med én af læsningerne fra det længere begravelsesritual. Læsningen kan udelades, hvis trosbekendelsen anvendes.*
 
+<a id="bb4"></a>
+
 ### Trosbekendelse
 
 *Efter læsningen kan trosbekendelsen siges, eller trosbekendelsen kan erstatte læsningen.*
+
+<a id="bb5"></a>
 
 ### Prædiken
 
@@ -1763,13 +1990,19 @@ må kunne lov og prise dig i evighed. Amen.
 
 *Eller én af kollektbønnerne fra det længere begravelsesritual.*
 
+<a id="bb6"></a>
+
 ### Salme
+
+<a id="bb7"></a>
 
 ### Jordpåkastelse (i kirke eller kapel)
 
 *Når jordpåkastelsen foretages i kirke eller kapel, sker det efter salmen efter talen. I dette tilfælde afsluttes med salme og postludium.*
 
 *Jordpåkastelsen foretages i overensstemmelse med det herfor gældende ritual.*
+
+<a id="bb8"></a>
 
 ### Velsignelse
 
@@ -1782,9 +2015,15 @@ Amen.
 *Eller menigheden svarer:*
 Amen. Amen. Amen.
 
+<a id="bb9"></a>
+
 ### Salme
 
+<a id="bb10"></a>
+
 ### Orgelefterspil
+
+<a id="bb11"></a>
 
 ### Jordpåkastelse (på kirkegården)
 
@@ -1794,6 +2033,8 @@ Amen. Amen. Amen.
 
 
 --------------------------------------------------------------------
+
+<a id="j"></a>
 
 # Jordpåkastelse
 
