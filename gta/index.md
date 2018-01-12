@@ -13,6 +13,8 @@ lang: da
 
 ------------------------------------------------------------------------
 
+<a id="indhold"></a>
+
 1 Mos: [1](#1mos1) [2](#1mos2) [3](#1mos3) [4](#1mos4) [5](#1mos5) [6](#1mos6) [7](#1mos7) [8](#1mos8) [9](#1mos9) [10](#1mos10) [11](#1mos11) [12](#1mos12) [13](#1mos13) [14](#1mos14) [15](#1mos15) [16](#1mos16) [17](#1mos17) [18](#1mos18) [19](#1mos19) [20](#1mos20) [21](#1mos21) [22](#1mos22) [23](#1mos23) [24](#1mos24) [25](#1mos25) [26](#1mos26) [27](#1mos27) [28](#1mos28) [29](#1mos29) [30](#1mos30) [31](#1mos31) [32](#1mos32) [33](#1mos33) [34](#1mos34) [35](#1mos35) [36](#1mos36) [37](#1mos37) [38](#1mos38) [39](#1mos39) [40](#1mos40) [41](#1mos41) [42](#1mos42) [43](#1mos43) [44](#1mos44) [45](#1mos45) [46](#1mos46) [47](#1mos47) [48](#1mos48) [49](#1mos49) [50](#1mos50)
 2 Mos: [1](#2mos1) [2](#2mos2) [3](#2mos3) [4](#2mos4) [5](#2mos5) [6](#2mos6) [7](#2mos7) [8](#2mos8) [9](#2mos9) [10](#2mos10) [11](#2mos11) [12](#2mos12) [13](#2mos13) [14](#2mos14) [15](#2mos15) [16](#2mos16) [17](#2mos17) [18](#2mos18) [19](#2mos19) [20](#2mos20) [21](#2mos21) [22](#2mos22) [23](#2mos23) [24](#2mos24) [25](#2mos25) [26](#2mos26) [27](#2mos27) [28](#2mos28) [29](#2mos29) [30](#2mos30) [31](#2mos31) [32](#2mos32) [33](#2mos33) [34](#2mos34) [35](#2mos35) [36](#2mos36) [37](#2mos37) [38](#2mos38) [39](#2mos39) [40](#2mos40)
 3 Mos: [1](#3mos1) [2](#3mos2) [3](#3mos3) [4](#3mos4) [5](#3mos5) [6](#3mos6) [7](#3mos7) [8](#3mos8) [9](#3mos9) [10](#3mos10) [11](#3mos11) [12](#3mos12) [13](#3mos13) [14](#3mos14) [15](#3mos15) [16](#3mos16) [17](#3mos17) [18](#3mos18) [19](#3mos19) [20](#3mos20) [21](#3mos21) [22](#3mos22) [23](#3mos23) [24](#3mos24) [25](#3mos25) [26](#3mos26) [27](#3mos27)
@@ -49,6 +51,8 @@ lang: da
 
 **26** Gud sagde: »Lad os skabe mennesker i vort billede, så de ligner os! De skal herske over havets fisk, himlens fugle, kvæget, alle de vilde dyr og alle krybdyr, der kryber på jorden.« **27** Gud skabte mennesket i sit billede; i Guds billede skabte han det, som mand og kvinde skabte han dem. **28** Og Gud velsignede dem og sagde til dem: »Bliv frugtbare og talrige, opfyld jorden, og underlæg jer den; hersk over havets fisk, himlens fugle og alle dyr, der rører sig på jorden!« **29** Gud sagde: »Nu giver jeg jer alle planter, der sætter frø, på hele jorden og alle træer, der bærer frugt med kerne. Dem skal I have til føde. **30** Til alle de vilde dyr og til alle himlens fugle, ja, til alt levende, der rører sig på jorden, giver jeg alle grønne planter som føde.« Og det skete. **31** Gud så alt, hvad han havde skabt, og han så, hvor godt det var. Så blev det aften, og det blev morgen, den sjette dag.
 
+[– tilbage –](#indhold)
+
 <a id="1mos2"></a>
 
 ### 1 Mos 2
@@ -79,6 +83,8 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 **24** Derfor forlader en mand sin far og mor og binder sig til sin hustru, og de bliver ét kød.
 
 **25** Adam og hans kvinde var nøgne, men de skammede sig ikke.
+
+[– tilbage –](#indhold)
 
 <a id="1mos3"></a>
 
@@ -132,6 +138,8 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 
 **20** Adam gav sin kvinde navnet Eva, for hun blev mor til alle mennesker. **21** Gud Herren lavede skindtøj til Adam og hans kvinde og gav dem det på. **22** Og Gud Herren sagde: »Nu er mennesket blevet som en af os og kan kende godt og ondt. Bare det nu ikke rækker hånden ud og også tager af livets træ og spiser og lever evigt!« **23** Så sendte Gud Herren dem ud af Edens have til at dyrke agerjorden, som de var taget af. **24** Han jog mennesket ud, og øst for Edens have anbragte han keruberne og det lynende flammesværd til at vogte vejen til livets træ.
 
+[– tilbage –](#indhold)
+
 <a id="1mos4"></a>
 
 ### 1 Mos 4
@@ -161,6 +169,8 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 
 **26** Også Set fik en søn; ham kaldte han Enosh. Dengang begyndte man at påkalde Herrens navn.
 
+[– tilbage –](#indhold)
+
 <a id="1mos5"></a>
 
 ### 1 Mos 5
@@ -172,6 +182,8 @@ Dengang Gud Herren skabte jord og himmel, **5** var der endnu ingen buske på jo
 Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som mand og kvinde skabte han dem, og han velsignede dem og kaldte dem menneske, da de blev skabt.
 
 **3** Da Adam havde levet 130 år, fik han en søn, der lignede ham og var et billede af ham. Ham kaldte han Set. **4** Efter at Adam havde fået Set, levede han i 800 år og fik sønner og døtre. **5** Adam levede i alt 930 år, så døde han. **6** Da Set havde levet 105 år, fik han Enosh. **7** Efter at Set havde fået Enosh, levede han i 807 år og fik sønner og døtre. **8** Set levede i alt 912 år, så døde han. **9** Da Enosh havde levet 90 år, fik han Kenan. **10** Efter at Enosh havde fået Kenan, levede han i 815 år og fik sønner og døtre. **11** Enosh levede i alt 905 år, så døde han. **12** Da Kenan havde levet 70 år, fik han Mahalal’el. **13** Efter at Kenan havde fået Mahalal’el, levede han i 840 år og fik sønner og døtre. **14** Kenan levede i alt 910 år, så døde han. **15** Da Mahalal’el havde levet 65 år, fik han Jered. **16** Efter at Mahalal’el havde fået Jered, levede han i 830 år og fik sønner og døtre. **17** Mahalal’el levede i alt 895 år, så døde han. **18** Da Jered havde levet 162 år, fik han Enok. **19** Efter at Jered havde fået Enok, levede han i 800 år og fik sønner og døtre. **20** Jered levede i alt 962 år, så døde han. **21** Da Enok havde levet 65 år, fik han Metusalem. **22** Efter at Enok havde fået Metusalem, vandrede han i 300 år med Gud og fik sønner og døtre. **23** Enok levede i alt 365 år. **24** Han vandrede med Gud. Så var han der ikke mere, for Gud havde taget ham bort. **25** Da Metusalem havde levet 187 år, fik han Lemek. **26** Efter at Metusalem havde fået Lemek, levede han i 782 år og fik sønner og døtre. **27** Metusalem levede i alt 969 år, så døde han. **28** Da Lemek havde levet 182 år, fik han en søn; **29** ham gav han navnet Noa, for han sagde: »Han skal være vores trøst i vores arbejde og vore hænders møje med den jord, som Herren har forbandet.« **30** Efter at Lemek havde fået Noa, levede han i 595 år og fik sønner og døtre. **31** Lemek levede i alt 777 år, så døde han. **32** Da Noa var 500 år, fik han Sem, Kam og Jafet.
+
+[– tilbage –](#indhold)
 
 <a id="1mos6"></a>
 
@@ -191,6 +203,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **11** Jorden var fordærvet og fyldt med vold for øjnene af Gud. **12** Gud så, at jorden var fordærvet, fordi alle mennesker på jorden handlede fordærveligt. **13** Da sagde Gud til Noa: »Jeg har besluttet at gøre ende på alle mennesker, for de er skyld i, at jorden er fuld af vold. Nu vil jeg ødelægge dem sammen med jorden. **14** Lav en ark af gofer-træ; du skal indrette den med rum, og du skal tjære den indvendig og udvendig. **15** Således skal du bygge arken: Den skal være tre hundrede alen lang, halvtreds alen bred og tredive alen høj. **16** Du skal lægge et tag på arken, og tagrygningen skal du hæve en alen. Du skal sætte en dør i arkens side, og du skal indrette den med et nederste, et mellemste og et øverste dæk. **17** Jeg bringer nu vandfloden over jorden for at ødelægge alle under himlen, der har livsånde. Alle på jorden skal omkomme. **18** Men med dig vil jeg oprette min pagt. Du skal gå ind i arken sammen med dine sønner, din kone og dine svigerdøtre. **19** Af alle levende væsener skal du bringe ét par ind i arken, for at de kan overleve sammen med dig; de skal være han og hun. **20** Af alle slags fugle, al slags kvæg og af alle slags krybdyr på jorden skal ét par gå ind til dig for at overleve. **21** Du skal tage noget af alt, der kan spises, og samle det hos dig; det skal du og de have til føde.« **22** Noa gjorde, ganske som Gud havde befalet ham.
 
+[– tilbage –](#indhold)
+
 <a id="1mos7"></a>
 
 ### 1 Mos 7
@@ -204,6 +218,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 **17** I fyrre dage kom vandfloden over jorden. Vandet steg og løftede arken, så den hævede sig fra jorden. **18** Vandet steg så højt over jorden, at arken flød på vandet. **19** Højere og højere steg vandet over jorden, så alle de høje bjerge under himlen blev skjult. **20** Vandet steg femten alen over bjergene og skjulte dem.
 
 **21** Alt levende, der rørte sig på jorden, omkom, fugle, kvæg, vilde dyr, alt hvad der vrimlede på jorden, og alle menneskene. **22** Alle på landjorden, der havde livsånde i næseborene, døde. **23** Alle levende væsener på jorden blev udslettet, både mennesker, kvæg, krybdyr og himlens fugle. De blev udslettet fra jorden, og kun Noa og de, der var med ham i arken, blev tilbage. **24** Vandet steg over jorden i hundrede og halvtreds dage.
+
+[– tilbage –](#indhold)
 
 <a id="1mos8"></a>
 
@@ -223,6 +239,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 > sommer og vinter,
 > dag og nat
 > ikke ophøre.«
+
+[– tilbage –](#indhold)
 
 <a id="1mos9"></a>
 
@@ -260,6 +278,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **28** Efter vandfloden levede Noa i 350 år. **29** Noa levede i alt 950 år, så døde han.
 
+[– tilbage –](#indhold)
+
 <a id="1mos10"></a>
 
 ### 1 Mos 10
@@ -276,6 +296,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **32** Det var Noas sønners slægter i deres slægtshistorie, folkeslag for folkeslag. Fra dem udgik folkeslagene på jorden efter vandfloden.
 
+[– tilbage –](#indhold)
+
 <a id="1mos11"></a>
 
 ### 1 Mos 11
@@ -291,6 +313,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 #### Teras slægt
 
 **27** Dette er Teras slægt. Tera fik Abram, Nakor og Haran. Haran fik Lot. **28** Haran døde før sin far Tera i sit fædreland, i Ur i Kaldæa. **29** Abram og Nakor giftede sig. Abrams kone hed Saraj, Nakors kone hed Milka og var datter af Haran, Milkas og Jiskas far. **30** Saraj var ufrugtbar og fik ingen børn. **31** Så tog Tera sin søn Abram, sin sønnesøn Lot, der var søn af Haran, og sin svigerdatter Saraj, sin søn Abrams kone, og sammen forlod de Ur i Kaldæa for at drage til Kana’ans land. De kom til Karan, hvor de slog sig ned. **32** Tera levede 205 år. Så døde Tera i Karan.
+
+[– tilbage –](#indhold)
 
 <a id="1mos12"></a>
 
@@ -310,6 +334,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 
 **10** Der blev hungersnød i landet, og fordi hungersnøden knugede landet, drog Abram ned til Egypten for at bo dér som fremmed. **11** Da han nærmede sig Egypten, sagde han til sin kone Saraj: »Jeg ved, du er en smuk kvinde. **12** Når egypterne ser dig, tænker de: Det er hans kone. Så slår de mig ihjel og lader dig leve. **13** Sig, at du er min søster, så jeg kan blive godt behandlet for din skyld og beholde livet takket være dig.« **14** Da Abram var kommet til Egypten, så egypterne, at hun var en meget smuk kvinde, **15** og da Faraos stormænd så hende, berømmede de hende over for Farao, og så blev kvinden hentet til Faraos palads. **16** For hendes skyld behandlede Farao Abram godt; han fik får, køer og æsler, trælle og trælkvinder, æselhopper og kameler. **17** Men Herren ramte Farao og hans hus med svære plager på grund af Abrams kone Saraj. **18** Da lod Farao Abram kalde og sagde: »Hvad er det, du har gjort mod mig? Hvorfor fortalte du mig ikke, at hun var din hustru? **19** Hvorfor sagde du, at hun var din søster, så jeg tog hende til min hustru? Her har du din hustru, tag hende og gå!« **20** Farao gav nogle mænd befaling til at få Abram og hans kone og alt, hvad han ejede, sendt bort.
 
+[– tilbage –](#indhold)
+
 <a id="1mos13"></a>
 
 ### 1 Mos 13
@@ -319,6 +345,8 @@ Dengang Gud skabte mennesket, skabte han det, så det lignede ham. **2** Som man
 **1** Abram drog op fra Egypten til Sydlandet med sin kone og alt, hvad han ejede; Lot var sammen med ham. **2** Abram var meget rig på kvæg, på sølv og guld. **3** Han drog videre fra sted til sted fra Sydlandet til Betel og nåede til det sted mellem Betel og Aj, hvor han tidligere havde haft sit telt, **4** stedet med det alter, som han havde bygget første gang. Dér påkaldte han Herrens navn. **5** Også Lot, der fulgtes med Abram, havde får og køer og telte. **6** Landet kunne ikke brødføde dem begge, så de kunne bo der sammen, for de ejede så meget, at de ikke kunne bo der sammen. **7** Det førte til strid mellem Abrams og Lots hyrder. Dengang boede kana’anæerne og perizzitterne i landet. **8** Da sagde Abram til Lot: »Der må ikke være splid mellem dig og mig, mellem dine og mine hyrder, for vi er jo i slægt med hinanden. **9** Se, hele landet ligger åbent foran dig! Lad os gå hver til sit; vil du til venstre, går jeg til højre, og vil du til højre, går jeg til venstre.« **10** Lot så ud over landet og lagde mærke til, at hele Jordandalen lige til Soar var så vandrig som Herrens have, som Egyptens land. Det var, før Herren ødelagde Sodoma og Gomorra. **11** Så valgte Lot hele Jordandalen og brød op og drog mod øst. Sådan gik de hver til sit. **12** Abram slog sig ned i Kana’an; Lot slog sig ned i Jordandalens byer og teltede, indtil han nåede Sodoma. **13** Mændene i Sodoma var meget onde og syndede mod Herren.
 
 **14** Efter at Lot og Abram var gået hver til sit, sagde Herren til Abram: »Se ud over landet, derfra hvor du står, mod nord og syd, mod øst og vest. **15** Hele det land, du ser, vil jeg give dig og dine efterkommere for evigt. **16** Jeg vil lade dine efterkommere blive som jordens støv; hvis nogen kan tælle jordens støv, kan også dine efterkommere tælles. **17** Drag nu omkring i landet, så langt og bredt det er, for jeg giver det til dig.« **18** Så teltede Abram og kom til Mamres Ege ved Hebron. Dér slog han sig ned og byggede et alter for Herren.
+
+[– tilbage –](#indhold)
 
 <a id="1mos14"></a>
 
@@ -345,6 +373,8 @@ Og Abram gav ham tiende af det alt sammen.
 
 **21** Sodomas konge sagde til Abram: »Giv mig menneskene, og behold selv ejendelene.« **22** Men Abram svarede Sodomas konge: »Jeg løfter min hånd til Herren, Gud den Højeste, skaberen af himmel og jord: **23** Jeg vil ikke have noget af dit, ikke så meget som en tråd eller en sandalrem! Du skal ikke kunne sige: Jeg har gjort Abram rig! **24** Selv vil jeg intet have. Men de unge mænd skal have deres fortæring. Og de mænd, der fulgte mig, Aner, Eshkol og Mamre, de skal have deres andel.«
 
+[– tilbage –](#indhold)
+
 <a id="1mos15"></a>
 
 ### 1 Mos 15
@@ -356,6 +386,8 @@ Og Abram gav ham tiende af det alt sammen.
 **7** Han sagde til ham: »Jeg er Herren, som førte dig ud fra Ur i Kaldæa for at give dig dette land i eje.« **8** Men han sagde: »Gud Herre, hvordan kan jeg vide, at jeg skal få det i eje?« **9** Herren svarede: »Hent en treårig kvie, en treårig ged og en treårig vædder samt en turteldue og en dueunge.« **10** Han hentede dem, og så skar han dem midt igennem og lagde halvdelene over for hinanden. Fuglene skar han dog ikke over. **11** Der kom rovfugle og slog ned på de døde dyr, men Abram jog dem væk. **12** Da solen var ved at gå ned, faldt Abram i en tung søvn, og et stort, rædselsfyldt mørke sænkede sig over ham. **13** Da sagde Herren til Abram: »Du skal vide, at dine efterkommere skal bo som fremmede i et land, der ikke er deres. Dér skal de være trælle og plages i fire hundrede år. **14** Men så vil jeg dømme det folk, de er trælle for, og derefter skal de drage ud med store rigdomme. **15** Selv skal du gå til dine fædre i fred; i en høj alder skal du gå i graven. **16** Først i det fjerde slægtled skal de vende tilbage hertil, for målet for amoritternes synd er endnu ikke fuldt.«
 
 **17** Da solen var gået ned, og det var blevet bælgmørkt, kom en rygende ovn og en flammende fakkel til syne og bevægede sig frem mellem de overskårne dyr. **18** Den dag sluttede Herren pagt med Abram. Han sagde: »Jeg giver dine efterkommere dette land fra Egyptens flod til den store flod, Eufratfloden: **19** kenitterne, kenizzitterne, kadmonitterne, **20** hittitterne, perizzitterne, refaitterne, **21** amoritterne, kana’anæerne, girgashitterne og jebusitterne.«
+
+[– tilbage –](#indhold)
 
 <a id="1mos16"></a>
 
@@ -381,6 +413,8 @@ Og Abram gav ham tiende af det alt sammen.
 
 **15** Hagar fødte Abram en søn, og Abram gav sin søn, som Hagar fødte, navnet Ismael. **16** Abram var seksogfirs år, da Hagar fødte Ismael.
 
+[– tilbage –](#indhold)
+
 <a id="1mos17"></a>
 
 ### 1 Mos 17
@@ -392,6 +426,8 @@ Og Abram gav ham tiende af det alt sammen.
 **15** Gud sagde til Abraham: »Din kone Saraj skal ikke længere hedde Saraj. Hendes navn skal være Sara. **16** Jeg vil velsigne hende, og jeg vil give dig en søn med hende. Jeg vil velsigne hende, og hun skal blive til folkeslag, ja, folkekonger skal nedstamme fra hende.« **17** Da kastede Abraham sig ned og lo, mens han tænkte: »Mon en hundredårig kan blive far? Og mon Sara, som er halvfems år, kan få børn?« **18** Og Abraham sagde til Gud: »Måtte Ismael leve for dit ansigt!« **19** Men Gud sagde: »Nej, din kone Sara skal føde dig en søn, og du skal give ham navnet Isak. Med ham vil jeg oprette min pagt som en evig pagt for hans efterkommere. **20** Men med hensyn til Ismael bønhører jeg dig. Jeg vil velsigne ham og gøre ham uhyre frugtbar og talrig. Tolv høvdinge skal han blive far til, og jeg vil gøre ham til et stort folk. **21** Men min pagt opretter jeg med Isak, som Sara skal føde dig næste år ved denne tid.« **22** Da Gud var færdig med at tale med Abraham, steg han op fra ham.
 
 **23** Netop den dag tog Abraham sin søn Ismael og alle dem, der var født i hans hus, og alle dem, han havde købt, alle af mandkøn i Abrahams hus, og omskar deres forhud, sådan som Gud havde sagt til ham. **24** Abraham var nioghalvfems år, da hans forhud blev omskåret, **25** og hans søn Ismael var tretten år, da hans forhud blev omskåret. **26** Netop den dag blev Abraham og hans søn Ismael omskåret. **27** Og alle mændene i hans hus, såvel de, der var født i huset, som de fremmede, han havde købt, blev omskåret sammen med ham.
+
+[– tilbage –](#indhold)
 
 <a id="1mos18"></a>
 
@@ -410,6 +446,8 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 **16** Derpå brød mændene op og rettede blikket mod Sodoma, og Abraham fulgte dem på vej. **17** Herren tænkte: »Skulle jeg skjule for Abraham, hvad jeg har i sinde at gøre? **18** Abraham skal jo blive til et stort og mægtigt folk, og alle jordens folk skal velsignes i ham. **19** Jeg har jo udvalgt ham til at pålægge sine sønner og sin slægt at følge Herrens vej og øve ret og retfærdighed, så Herren kan lade det ske, som han har lovet Abraham.« **20** Og Herren sagde: »Der lyder et højt skrig fra Sodoma og Gomorra; deres synd er meget stor. **21** Nu vil jeg gå ned og se, om deres handlinger virkelig svarer til det skrig, som har nået mig, eller om de ikke gør; det vil jeg vide.«
 
 **22** Mændene drejede af derfra og gik mod Sodoma, men Abraham blev stående foran Herren. **23** Abraham trådte nærmere og sagde: »Vil du virkelig udrydde retfærdige sammen med uretfærdige? **24** Måske er der halvtreds retfærdige i byen. Vil du så virkelig udrydde dem og ikke tilgive stedet på grund af de halvtreds retfærdige, som er i den? **25** Du kan umuligt handle sådan og slå retfærdige ihjel sammen med uretfærdige, så retfærdige og uretfærdige får samme skæbne. Det kan du umuligt! Skulle han, der dømmer hele jorden, ikke øve ret?« **26** Herren svarede: »Hvis jeg i Sodoma finder halvtreds retfærdige i byen, vil jeg tilgive hele stedet for deres skyld.« **27** Abraham svarede: »Nu vover jeg igen at tale til dig, Herre, skønt jeg kun er støv og aske! **28** Måske mangler der fem i de halvtreds retfærdige; vil du så ødelægge hele byen på grund af de fem?« Han svarede: »Jeg vil ikke ødelægge den, hvis jeg finder femogfyrre.« **29** Men Abraham blev ved med at tale til ham: »Måske findes der fyrre,« og han svarede: »For de fyrres skyld vil jeg lade være at gøre det.« **30** Så sagde han: »Nu må du ikke blive vred, Herre, når jeg taler. Måske findes der tredive,« og han svarede: »Jeg vil ikke gøre det, hvis jeg finder tredive.« **31** Men han sagde: »Jeg vover igen at tale til dig, Herre! Måske findes der tyve,« og han svarede: »For de tyves skyld vil jeg lade være at ødelægge den.« **32** Så sagde han: »Du må ikke blive vred, Herre, når jeg taler denne ene gang endnu. Måske findes der ti,« og han svarede: »For de tis skyld vil jeg lade være at ødelægge den.« **33** Så gik Herren, da han var færdig med at tale med Abraham, og Abraham vendte hjem.
+
+[– tilbage –](#indhold)
 
 <a id="1mos19"></a>
 
@@ -431,6 +469,8 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 
 **29** Dengang Gud tilintetgjorde Jordandalens byer, huskede han Abraham og sendte Lot væk fra den ødelæggelse, han bragte over de byer, hvor Lot havde boet. **30** Fra Soar drog Lot op i bjerglandet og slog sig ned der sammen med sine to døtre, for han var bange for at blive boende i Soar. Han tog ophold i en hule sammen med sine to døtre. **31** Den ældste sagde til den yngste: »Far er gammel, og der er ingen mænd i landet, som vi kan få børn med på samme måde som alle andre. **32** Kom, lad os give far vin at drikke og så ligge hos ham, så vi kan føre slægten videre ved vores far.« **33** Den nat gav de deres far vin at drikke, og den ældste gik ind og lagde sig hos ham. Han sansede hverken, at hun lagde sig, eller at hun stod op igen. **34** Dagen efter sagde den ældste til den yngste: »Jeg lå hos far i nat. Lad os give ham vin at drikke igen i nat. Så skal du gå ind og ligge hos ham, så vi kan føre slægten videre ved vores far.« **35** Også den nat gav de deres far vin at drikke, og den yngste gik ind og lagde sig hos ham. Han sansede hverken, at hun lagde sig, eller at hun stod op igen. **36** Sådan blev begge Lots døtre gravide med deres far. **37** Den ældste fødte en søn, som hun kaldte Moab. Han er stamfader til moabitterne. **38** Den yngste fødte også en søn, som hun kaldte Ben-Ammi. Han er stamfader til ammonitterne.
 
+[– tilbage –](#indhold)
+
 <a id="1mos20"></a>
 
 ### 1 Mos 20
@@ -440,6 +480,8 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 **1** Abraham brød op derfra og drog mod Sydlandet. Han slog sig ned mellem Kadesh og Shur og boede som fremmed i Gerar. **2** Abraham sagde om sin kone Sara, at hun var hans søster, og Abimelek, kongen i Gerar, sendte bud efter Sara. **3** Om natten kom Gud i en drøm til Abimelek og sagde til ham: »Nu skal du dø, fordi du har taget denne kvinde, for hun er gift.« **4** Men Abimelek havde ikke været sammen med hende, og han sagde: »Herre, slår du virkelig uskyldige mennesker ihjel? **5** Han sagde jo til mig, at hun var hans søster, og hun sagde også selv, at han var hendes bror. Jeg gjorde det i god tro, og jeg har rene hænder.« **6** Gud svarede ham i drømmen: »Jeg ved godt, at du gjorde det i god tro, og det er også mig, der har hindret dig i at synde mod mig; derfor lod jeg dig ikke røre hende. **7** Giv nu manden hans kone tilbage, for han er profet. Han kan gå i forbøn for dig, så du kan beholde livet. Men du skal vide, at hvis ikke du giver hende tilbage, skal du og alle dine dø.«
 
 **8** Om morgenen tilkaldte Abimelek alle sine folk og forelagde dem hele sagen, og mændene blev meget bange. **9** Så tilkaldte Abimelek Abraham og sagde til ham: »Hvad er det dog, du har gjort mod os? Hvordan har jeg forsyndet mig mod dig, siden du har bragt denne tunge skyld over mig og mit kongerige? Du har gjort imod mig, hvad man ikke bør gøre!« **10** Og Abimelek sagde videre til Abraham: »Hvad var din mening med at bære dig sådan ad?« **11** Abraham svarede: »Jo, jeg tænkte, der er nok ingen gudsfrygt her på stedet, og så vil de slå mig ihjel på grund af min kone. **12** Og hun er virkelig min søster! Hun er datter af min far, men ikke af min mor, og så blev jeg gift med hende. **13** Og da Gud lod mig flakke om langt fra min fars hus, sagde jeg til hende: Overalt, hvor vi kommer hen, må du vise mig den godhed at sige, at jeg er din bror.« **14** Så gav Abimelek Abraham får og køer, trælle og trælkvinder, og han gav ham hans kone Sara tilbage. **15** Og Abimelek sagde: »Mit land ligger åbent for dig. Slå dig ned, hvor du har lyst!« **16** Til Sara sagde han: »Nu giver jeg din bror tusind sekel sølv. Det skal lukke øjnene på alle dem, der hører dig til. Nu har du fået fuld oprejsning.« **17** Så bad Abraham til Gud, og Gud helbredte Abimelek, hans hustru og hans trælkvinder, så de kunne føde. **18** For Gud havde lukket hvert eneste moderliv i Abimeleks hus på grund af Abrahams kone Sara.
+
+[– tilbage –](#indhold)
 
 <a id="1mos21"></a>
 
@@ -460,6 +502,8 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 **33** Abraham plantede en tamarisk i Be’ersheba, og dér påkaldte han Herren den evige Guds navn.
 
 **34** Abraham boede lang tid som fremmed i filistrenes land.
+
+[– tilbage –](#indhold)
 
 <a id="1mos22"></a>
 
@@ -483,6 +527,8 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 
 **20** Senere fik Abraham besked om, at også hans bror Nakor havde fået børn. Milka fødte ham sønnerne **21** Us, den førstefødte, Buz, hans bror, og Kemuel, der blev far til Aram; **22** endvidere Kesed, Hazo, Pildash, Jidlaf og Betuel. **23** Betuel fik datteren Rebekka. Disse otte fødte Milka til Abrahams bror Nakor. **24** Hans medhustru, der hed Re’uma, fødte også børn: Teba, Gaham, Tahash og Ma’aka.
 
+[– tilbage –](#indhold)
+
 <a id="1mos23"></a>
 
 ### 1 Mos 23
@@ -492,6 +538,8 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 **1** Sara levede 127 år. **2** Så døde hun i Kirjat-Arba, det samme som Hebron, i Kana’an, og Abraham gik ind for at holde ligklage og græde over Sara. **3** Derefter forlod han den døde og gik hen til hittitterne og sagde: **4** »Jeg er fremmed og tilflytter hos jer. Overlad mig en gravplads hos jer, så jeg kan bringe den døde ud og begrave hende.« **5** Hittitterne svarede Abraham: **6** »Hør på os, herre! Du er en Guds stormand iblandt os! Begrav du den døde i den bedste af vores grave! Ingen af os vil nægte dig sin grav til at begrave den døde i.« **7** Abraham rejste sig; han kastede sig ned for landets folk, hittitterne, **8** og sagde til dem: »Hvis I indvilliger i, at jeg bringer den døde ud og begraver hende, så hør på mig! Læg et godt ord ind for mig hos Sohars søn Efron, **9** så han overlader mig Makpelas hule, som tilhører ham, og som ligger i udkanten af hans mark. I jeres nærvær skal han til den fulde pris lade mig få den til gravplads.« **10** Nu sad Efron sammen med hittitterne, og hittitten Efron tog til orde og sagde til Abraham, mens alle de hittitter, der sad i byporten, hørte på: **11** »Nej, hør på mig, herre! Jeg giver dig marken, og hulen, der er på den, giver jeg dig. I mine landsmænds nærvær overlader jeg dig den. Gå hen og begrav den døde!« **12** Abraham kastede sig ned for landets folk, **13** og i deres påhør sagde han til Efron: »Ville du blot høre på mig! Jeg vil betale, hvad marken koster! Tag imod det! Så vil jeg begrave den døde dér.« **14** Men Efron svarede Abraham: **15** »Hør dog på mig, herre! Hvad betyder et stykke jord, der er fire hundrede sekel værd, mellem dig og mig? Begrav du den døde!« **16** Abraham forstod Efron og afvejede den sum, Efron havde nævnt i hittitternes påhør, fire hundrede sekel gangbart sølv.
 
 **17** Sådan overgik Efrons mark i Makpela øst for Mamre, marken med hulen, der er på den, og alle træerne på marken i hele dens udstrækning **18** til Abraham som ejendom i nærvær af alle de hittitter, der sad i byporten. **19** Derpå begravede Abraham sin kone Sara i hulen på Makpelas mark øst for Mamre, det samme som Hebron, i Kana’an. **20** Marken med hulen, der er på den, overgik som gravplads til Abraham fra hittitterne.
+
+[– tilbage –](#indhold)
 
 <a id="1mos24"></a>
 
@@ -517,6 +565,8 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 **61** Så satte Rebekka og hendes piger sig op på kamelerne og red bag efter manden. Trællen tog Rebekka med og drog hjem.
 
 **62** Isak var kommet fra Be’er-Lahaj-Ro’i; han boede i Sydlandet. **63** Isak gik tur ud i marken ved aftenstid, og da han så op, fik han øje på nogle kameler, der kom mod ham. **64** Da Rebekka fik øje på Isak, lod hun sig glide ned fra kamelen **65** og spurgte trællen: »Hvem er den mand, som kommer os i møde dér på marken?« Trællen svarede: »Det er min herre,« og så dækkede hun sit ansigt med et slør. **66** Trællen fortalte Isak alt, hvad han havde gjort, **67** og Isak førte Rebekka ind i sin mor Saras telt og tog hende til kone. Isak elskede hende og kom over sin mors død.
+
+[– tilbage –](#indhold)
 
 <a id="1mos25"></a>
 
@@ -553,6 +603,8 @@ Sara stod og lyttede i teltåbningen bag ham. **11** Nu var Abraham og Sara gaml
 
 **29** Engang da Jakob havde kogt en ret mad, og Esau kom udmattet hjem, **30** sagde Esau til Jakob: »Giv mig hurtigt noget af det røde at spise, det røde du har dér, for jeg er udmattet.« Derfor kaldes han Edom. **31** Men Jakob svarede: »Ikke før du sælger mig din førstefødselsret.« **32** Da sagde Esau: »Jeg er lige ved at dø! Hvad skal jeg med min førstefødselsret?« **33** »Sværg på det,« sagde Jakob, og det gjorde Esau; han solgte sin førstefødselsret til Jakob. **34** Så gav Jakob ham brød og en portion linser; Esau spiste og drak og gik derefter sin vej. Og sådan viste Esau ringeagt for sin førstefødselsret.
 
+[– tilbage –](#indhold)
+
 <a id="1mos26"></a>
 
 ### 1 Mos 26
@@ -576,6 +628,8 @@ Isak slog sit telt op dér, og hans folk gravede en brønd. **26** Men Abimelek 
 #### Jakob bedrager Esau
 
 **34** Da Esau var fyrre år, giftede han sig med hittitten Be’eris datter Judit og med hittitten Elons datter Basemat. **35** Det voldte Isak og Rebekka stor sorg.
+
+[– tilbage –](#indhold)
 
 <a id="1mos27"></a>
 
@@ -617,6 +671,8 @@ Isak slog sit telt op dér, og hans folk gravede en brønd. **26** Men Abimelek 
 
 **46** Rebekka sagde til Isak: »Jeg er led ved livet, når jeg tænker på de hittitiske kvinder! Hvis også Jakob gifter sig med en hittitisk kvinde, en af kvinderne her i landet, hvorfor skal jeg så leve?«
 
+[– tilbage –](#indhold)
+
 <a id="1mos28"></a>
 
 ### 1 Mos 28
@@ -630,6 +686,8 @@ Isak slog sit telt op dér, og hans folk gravede en brønd. **26** Men Abimelek 
 **10** Jakob forlod Be’ersheba og begav sig til Karan. **11** Undervejs kom han til et sted, hvor han overnattede, fordi solen var gået ned. Han tog en af stenene og stillede den som hovedgærde, og så lagde han sig til at sove på stedet dér. **12** I drømme så han en stige, der stod på jorden; den nåede helt op til himlen, og Guds engle gik op og gik ned ad stigen. **13** Med ét stod Herren foran ham og sagde: »Jeg er Herren, din fader Abrahams Gud og Isaks Gud. Den jord, du ligger på, vil jeg give dig og dine efterkommere. **14** Dine efterkommere skal blive som jordens støv, og du skal brede dig mod vest og øst, mod nord og syd. I dig og i dit afkom skal alle jordens slægter velsignes. **15** Jeg vil være med dig og bevare dig overalt, hvor du går. Og jeg vil føre dig tilbage til dette land; jeg vil ikke svigte dig, men gøre, hvad jeg har lovet dig.«
 
 **16** Da Jakob vågnede, sagde han: »Herren er i sandhed på dette sted, og jeg vidste det ikke!« **17** Og han blev grebet af frygt og sagde: »Hvor er dette sted frygtindgydende! Det er jo selve Guds hus, det er himlens port!« **18** Om morgenen tog Jakob den sten, han havde stillet som hovedgærde, rejste den som stenstøtte og hældte olie over den. **19** Han gav stedet navnet Betel. Tidligere hed byen Luz. **20** Så aflagde Jakob et løfte: »Hvis Gud er med mig og bevarer mig på denne rejse og giver mig føde og klæder, **21** og hvis jeg vender tilbage til min fars hus i god behold, så skal Herren være min Gud; **22** stenen her, som jeg har rejst som stenstøtte, skal være Guds hus, og alt, hvad du giver mig, vil jeg give dig tiende af.«
+
+[– tilbage –](#indhold)
 
 <a id="1mos29"></a>
 
@@ -648,6 +706,8 @@ Isak slog sit telt op dér, og hans folk gravede en brønd. **26** Men Abimelek 
 **21** Jakob sagde til Laban: »Tiden er udløbet; lad mig nu få min kone, så jeg kan gå ind til hende.« **22** Laban samlede da alle mændene der på stedet til gilde; **23** men om aftenen tog han sin datter Lea og førte hende til Jakob, som gik ind til hende. **24** Og Laban overlod sin trælkvinde Zilpa til sin datter Lea. **25** Om morgenen opdagede Jakob, at det var Lea, og han sagde til Laban: »Hvad er det, du har gjort mod mig? Det var jo for Rakel, jeg tjente hos dig. Hvorfor har du narret mig?« **26** Laban svarede: »Her på stedet er det ikke skik at gifte den yngste bort før den ældste. **27** Men lad nu hendes bryllupsuge gå til ende; så skal du også få Rakel, mod at du tjener hos mig syv år til.« **28** Det sagde Jakob ja til, og da ugen var omme, gav Laban ham sin datter Rakel til kone. **29** Og Laban overlod sin trælkvinde Bilha til sin datter Rakel. **30** Så gik Jakob også ind til Rakel, og han elskede Rakel højere end Lea. Derpå tjente han hos Laban syv år til.
 
 **31** Da Herren så, at Lea blev tilsidesat, åbnede han hendes moderliv, mens Rakel var ufrugtbar. **32** Lea blev gravid og fødte en søn, som hun gav navnet Ruben, for hun sagde: »Herren har set til min lidelse. Nu må min mand elske mig.« **33** Hun blev igen gravid og fødte en søn; hun sagde: »Herren har hørt, at jeg er tilsidesat, og har givet mig også denne søn.« Derfor gav hun ham navnet Simeon. **34** Hun blev igen gravid og fødte en søn; hun sagde: »Nu må min mand knytte sig til mig, for jeg har født ham tre sønner.« Derfor gav hun ham navnet Levi. **35** Hun blev igen gravid og fødte en søn; hun sagde: »Nu vil jeg takke Herren.« Derfor gav hun ham navnet Juda. Så fik hun ikke flere børn.
+
+[– tilbage –](#indhold)
 
 <a id="1mos30"></a>
 
@@ -668,6 +728,8 @@ Isak slog sit telt op dér, og hans folk gravede en brønd. **26** Men Abimelek 
 **37** Nu tog Jakob friske grene af poppel, mandeltræ og platan, og han skrællede barken af grenene i striber, så det hvide på grenene kom til syne. **38** De afbarkede grene stillede han op i vandtrugene, i renderne, når dyrene kom for at drikke, lige foran dyrene; for de parrede sig, når de kom for at drikke. **39** Når dyrene så parrede sig foran grenene, fik de stribet, spættet og broget afkom. **40** Jakob skilte fårene fra. Han stillede dyrene med hovedet mod de stribede og de sorte af Labans dyr, og sådan skaffede han sig sine egne hjorde, som han ikke blandede med Labans dyr. **41** Hver gang det var de kraftige dyr, der parrede sig, satte Jakob grenene op i trugene for øjnene af dyrene, for at de kunne parre sig foran grenene. **42** Men når det var de svage dyr, satte han dem ikke op. Sådan fik Laban de svage dyr og Jakob de kraftige.
 
 **43** Manden blev uhyre velstående; han fik småkvæg i mængde, trælkvinder og trælle, kameler og æsler.
+
+[– tilbage –](#indhold)
 
 <a id="1mos31"></a>
 
@@ -693,6 +755,8 @@ Isak slog sit telt op dér, og hans folk gravede en brønd. **26** Men Abimelek 
 
 **45** Så tog Jakob en sten og rejste den som stenstøtte, **46** og han gav sine slægtninge besked om at samle sten sammen. De tog nogle sten og lavede en stendynge, og derefter holdt de måltid ved stendyngen. **47** Laban kaldte den Jegar-Sahaduta, men Jakob kaldte den Gal’ed. **48** Laban sagde: »Denne stendynge skal i dag være vidne mellem dig og mig.« Derfor fik den navnet Gal’ed. **49** Den kaldes også Mispa, for Laban sagde: »Måtte Herren holde øje med dig og mig, når vi ikke længere kan se hinanden. **50** Hvis du behandler mine døtre dårligt, og hvis du tager dig andre koner ved siden af dem, da skal du vide, at selv om intet menneske er til stede, er Gud vidne mellem dig og mig.« **51** Og Laban sagde til Jakob: »Her er denne stendynge, og her står den stenstøtte, jeg har rejst mellem dig og mig. **52** Både stendyngen og stenstøtten skal være vidne på, at jeg ikke i fjendtlig hensigt går ind på dit område forbi stendyngen, og at du heller ikke i fjendtlig hensigt går ind på mit område forbi stendyngen og stenstøtten. **53** Abrahams Gud og Nakors Gud skal dømme os imellem.« Det er deres faders Gud. Så svor Jakob ved sin far Isaks Rædsel. **54** Jakob bragte et slagtoffer på bjerget og indbød sine slægtninge til måltid; og de holdt måltid og blev natten over på bjerget.
 
+[– tilbage –](#indhold)
+
 <a id="1mos32"></a>
 
 ### 1 Mos 32
@@ -713,6 +777,8 @@ Han tog en gave af det, han ejede, til sin bror Esau: **15** to hundrede geder o
 
 **33** Derfor undlader israelitterne den dag i dag at spise hoftenerven, som ligger over hofteskålen. For Jakob havde fået et slag på hofteskålen lige på hoftenerven.
 
+[– tilbage –](#indhold)
+
 <a id="1mos33"></a>
 
 ### 1 Mos 33
@@ -727,6 +793,8 @@ Han tog en gave af det, han ejede, til sin bror Esau: **15** to hundrede geder o
 
 **18** På sin rejse fra Paddan-Aram kom Jakob i god behold til byen Sikem i Kana’an og slog lejr uden for byen. **19** Han købte det stykke jord, hvor han slog sit telt op, af Sikems far Hamors sønner for hundrede kesita. **20** Dér rejste han et alter og kaldte det »Gud, Israels Gud«.
 
+[– tilbage –](#indhold)
+
 <a id="1mos34"></a>
 
 ### 1 Mos 34
@@ -740,6 +808,8 @@ Han tog en gave af det, han ejede, til sin bror Esau: **15** to hundrede geder o
 **25** Da de to dage efter lå med feber, greb Jakobs to sønner Simeon og Levi, Dinas brødre, hver sit sværd og trængte uhindret ind i byen og slog alle mænd ihjel. **26** Hamor og hans søn Sikem dræbte de med sværd, og så hentede de Dina i Sikems hus og drog bort. **27** Jakobs sønner kastede sig over de dræbte og plyndrede byen, som havde skændet deres søster. **28** De tog får, køer og æsler, alt hvad der var i byen og på marken. **29** Alle deres rigdomme, alle kvinder og børn førte de bort, og de plyndrede husene for alt, hvad der var.
 
 **30** Men Jakob sagde til Simeon og Levi: »I styrter mig i ulykke ved at lægge mig for had hos landets indbyggere, kana’anæerne og perizzitterne. Vi er jo kun få. Samler de sig mod mig, slår de mig, så både jeg og mit hus bliver udryddet.« **31** Men de svarede: »Skulle han have lov til at behandle vores søster som en skøge?«
+
+[– tilbage –](#indhold)
 
 <a id="1mos35"></a>
 
@@ -767,6 +837,8 @@ Jakob havde nu tolv sønner. **23** Leas sønner var: Ruben, Jakobs førstefødt
 
 **27** Jakob kom til sin far Isak i Mamre i Kirjat-Arba, det samme som Hebron, hvor Abraham og Isak havde boet som fremmede. **28** Isak levede 180 år. **29** Så døde han og gik til sin slægt, gammel og mæt af dage. Hans sønner, Esau og Jakob, begravede ham.
 
+[– tilbage –](#indhold)
+
 <a id="1mos36"></a>
 
 ### 1 Mos 36
@@ -788,6 +860,8 @@ Jakob havde nu tolv sønner. **23** Leas sønner var: Ruben, Jakobs førstefødt
 **31** Dette er de konger, som regerede i Edom, før israelitterne fik deres første konge: **32** Bela, Beors søn, var konge i Edom. Hans by hed Dinhaba. **33** Da Bela døde, blev Jobab, Zeras søn fra Bosra, konge efter ham. **34** Da Jobab døde, blev Husham fra temanitternes land konge efter ham. **35** Da Husham døde, blev Hadad, Bedads søn, konge efter ham. Det var ham, der slog midjanitterne i Moabs land. Hans by hed Avit. **36** Da Hadad døde, blev Samla fra Masreka konge efter ham. **37** Da Samla døde, blev Saul fra Rehobot ved floden konge efter ham. **38** Da Saul døde, blev Ba’al-Hanan, Akbors søn, konge efter ham. **39** Da Ba’al-Hanan, Akbors søn, døde, blev Hadar konge efter ham. Hans by hed Pa’u, og hans hustru hed Mehetab’el og var datter af Matred, der var datter af Mezahab.
 
 **40** Dette er navnene på Esaus stammehøvdinge nævnt efter deres slægter og bosteder: Høvdingene Timna, Alva, Jetet, **41** Oholibama, Ela, Pinon, **42** Kenaz, Teman, Mibsar, **43** Magdiel og Iram. Det var Edoms stammehøvdinge efter deres bosteder i det land, de ejede. Det var Esau, stamfader til edomitterne.
+
+[– tilbage –](#indhold)
 
 <a id="1mos37"></a>
 
@@ -815,6 +889,8 @@ Jakob havde nu tolv sønner. **23** Leas sønner var: Ruben, Jakobs førstefødt
 
 **36** Midjanitterne solgte ham i Egypten til Faraos hofmand Potifar, chefen for livvagten.
 
+[– tilbage –](#indhold)
+
 <a id="1mos38"></a>
 
 ### 1 Mos 38
@@ -833,6 +909,8 @@ Jakob havde nu tolv sønner. **23** Leas sønner var: Ruben, Jakobs førstefødt
 
 **27** Da hun skulle føde, viste det sig, at der var tvillinger i hendes liv. **28** Under fødslen kom den enes hånd frem; jordemoderen bandt en rød snor om den og sagde: »Det var ham, der kom ud først.« **29** Men han trak hånden tilbage, og så kom hans bror ud. Da sagde hun: »Se nu en revne, du har lavet for at komme først!« Derfor gav hun ham navnet Peres. **30** Derefter kom hans bror, som havde snoren om hånden, og ham gav hun navnet Zera.
 
+[– tilbage –](#indhold)
+
 <a id="1mos39"></a>
 
 ### 1 Mos 39
@@ -847,6 +925,8 @@ Josef var smuk og så godt ud. **7** Engang skete det, at hans herres hustru kas
 
 **19** Da hans herre hørte sin kone fortælle, at hans træl havde båret sig sådan ad mod hende, flammede hans vrede op; **20** han satte Josef i fængsel, det sted, hvor kongens fanger sad indespærret, og så sad han der i fængslet. **21** Men Herren var med Josef og viste ham godhed og lod ham finde yndest i arrestforvarerens øjne. **22** Arrestforvareren gav Josef ansvaret for alle fangerne i fængslet, så det var ham, der gjorde alt, hvad der skulle gøres. **23** Arrestforvareren tog sig ikke af noget af det, Josef havde fået ansvaret for; det var, fordi Herren var med Josef, og det, han gjorde, lod Herren lykkes.
 
+[– tilbage –](#indhold)
+
 <a id="1mos40"></a>
 
 ### 1 Mos 40
@@ -860,6 +940,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 **16** Da hofbageren så, at Josef gav en god tydning, sagde han til ham: »Det var på samme måde i min drøm: Jeg havde tre kurve med bagværk på hovedet. **17** I den øverste kurv var der al slags bagværk til Farao; men fuglene åd af kurven på mit hoved.« **18** Josef sagde: »Sådan skal drømmen tydes: De tre kurve er tre dage. **19** Om tre dage vil Farao løfte dit hoved og hænge dig på et træ, og fuglene skal æde kødet på dig.«
 
 **20** To dage efter var det Faraos fødselsdag; han holdt gilde for alle sine folk, og omgivet af sine folk løftede han hofmundskænkens og hofbagerens hoved. **21** Hofmundskænken genindsatte han i hans embede, så han kunne række Farao bægeret, **22** og hofbageren hængte han på et træ, sådan som Josef havde tydet det for dem. **23** Men hofmundskænken huskede ikke Josef. Han glemte ham.
+
+[– tilbage –](#indhold)
 
 <a id="1mos41"></a>
 
@@ -887,6 +969,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 
 **53** Da de syv overflodsår i Egypten var forbi, **54** begyndte de syv hungerår, sådan som Josef havde sagt. Der kom hungersnød i alle lande, men i hele Egypten var der brød. **55** Hele Egypten sultede, og folket råbte til Farao om brød; men Farao sagde til alle egypterne: »Gå til Josef, og gør, hvad han siger til jer!« **56** Hungersnøden lå over hele landet, og Josef åbnede for alle lagrene og solgte korn til egypterne. Hungersnøden blev hård i Egypten. **57** Fra hele jorden kom folk til Egypten for at købe korn hos Josef, for hungersnøden var hård på hele jorden.
 
+[– tilbage –](#indhold)
+
 <a id="1mos42"></a>
 
 ### 1 Mos 42
@@ -909,6 +993,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 
 **35** Da de nu tømte deres sække, fandt hver især sin pengepung i sækken, og da de og deres far så pungene, blev de bange. **36** Deres far Jakob sagde til dem: »I gør mig barnløs! Josef er borte, Simeon er borte, og nu tager I Benjamin. Det er mig, det hele rammer!« **37** Men Ruben sagde til sin far: »Du må dræbe begge mine sønner, hvis jeg ikke bringer ham tilbage til dig. Overlad ham i min varetægt; jeg skal nok bringe ham tilbage til dig.« **38** Men han svarede: »Min søn skal ikke tage med jer derned, for hans bror er død, og han alene er tilbage. Hvis der tilstøder ham en ulykke på jeres rejse, bringer I mig gamle mand ned i dødsriget med sorg.«
 
+[– tilbage –](#indhold)
+
 <a id="1mos43"></a>
 
 ### 1 Mos 43
@@ -925,6 +1011,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 
 **24** Manden førte nu mændene ind i Josefs hus og gav dem vand til at vaske støvet af fødderne, og han gav dem foder til æslerne. **25** Og de lagde deres gaver frem, før Josef kom ved middagstid, for de havde hørt, at de skulle spise der. **26** Da Josef kom hjem, gav de ham deres gaver og kastede sig til jorden for ham. **27** Han hilste på dem og spurgte: »Hvordan går det jeres gamle far, som I fortalte om? Lever han endnu?« **28** De svarede: »Vores far, din tjener, lever endnu og har det godt.« Og de bøjede sig dybt. **29** Så fik han øje på sin bror Benjamin, sin mors søn, og spurgte: »Er det jeres yngste bror, som I fortalte mig om?« Og han sagde: »Gud være dig nådig, min søn!« **30** Da kærligheden til broderen vældede op i Josef og gråden trængte sig på, skyndte han sig ind i sit kammer og græd. **31** Derpå vaskede han sit ansigt og kom ud igen. Han beherskede sig og sagde: »Sæt maden frem!« **32** De serverede særskilt for ham, for dem og for de egyptere, der spiste hos ham, for egyptere må ikke holde måltid sammen med hebræere; det er afskyeligt for dem. **33** De blev anbragt over for ham efter alder fra den ældste til den yngste, og mændene så undrende på hinanden. **34** Han uddelte retterne til dem fra sit eget bord. Men Benjamin fik fem gange så meget som alle de andre. Og de drak sig berusede sammen med ham.
 
+[– tilbage –](#indhold)
+
 <a id="1mos44"></a>
 
 ### 1 Mos 44
@@ -939,6 +1027,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 
 **18** Så trådte Juda hen til ham og sagde: »Undskyld, herre! Lad din tjener tale til dig, herre, uden at din vrede flammer op imod mig; du er jo Faraos lige. **19** Du spurgte os, herre: Har I en far eller en bror? **20** Vi svarede dig, herre: Vi har en gammel far, og vi har en lillebror, som han har fået i sin alderdom. Hans bror er død; han er den eneste, der er tilbage efter hans mor, og hans far elsker ham. **21** Så sagde du til os, herre: Bring ham herned, så jeg kan få ham at se. **22** Men vi svarede dig, herre: Drengen kan ikke forlade sin far. Gør han det, dør hans far! **23** Men du, herre, sagde til os: Hvis jeres yngste bror ikke kommer herned sammen med jer, skal I ikke vise jer for mig igen. **24** Da vi var kommet hjem til din tjener, min far, fortalte vi ham, hvad du havde sagt, herre. **25** Vores far sagde: Tag af sted igen, og køb lidt korn til os. **26** Men vi svarede: Det kan vi ikke. Hvis vores yngste bror er med os, vil vi tage derned, for vi kan kun vise os for manden, hvis vores yngste bror er med os. **27** Så sagde din tjener, min far, til os: I ved, at min kone fødte mig to drenge. **28** Den ene forsvandt for mig, og jeg tænkte: Han er blevet sønderrevet. Jeg har ikke set ham siden. **29** Hvis I også tager ham her fra mig, og der tilstøder ham en ulykke, så bringer I mig gamle mand ned i dødsriget med smerte. **30** Kommer jeg nu hjem til din tjener, min far, uden drengen, som han er så tæt knyttet til, **31** så dør han, når han ser, at drengen ikke er med, og så vil vi have bragt din tjener, vores gamle far, ned i dødsriget med sorg, herre. **32** Jeg står inde for drengen over for min far, herre; jeg har sagt: Hvis jeg ikke bringer ham med tilbage til dig, skal jeg altid stå som skyldig over for dig, far. **33** Lad mig derfor blive tilbage som din træl, herre, i stedet for drengen, så han kan tage tilbage sammen med sine brødre. **34** For hvordan skulle jeg kunne tage tilbage til min far uden drengen? Jeg vil ikke kunne bære at se den ulykke ramme min far.«
 
+[– tilbage –](#indhold)
+
 <a id="1mos45"></a>
 
 ### 1 Mos 45
@@ -952,6 +1042,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 **21** Det gjorde Israels sønner, og på Faraos befaling gav Josef dem vogne og proviant. **22** Han gav hver af dem et sæt festklæder, men Benjamin gav han tre hundrede sekel sølv og fem sæt festklæder. **23** Til sin far sendte han ti æsler læsset med alt godt fra Egypten og ti æselhopper læsset med korn og brød og forsyninger til sin far til rejsen. **24** Så sendte han sine brødre af sted og sagde til dem: »Lad nu være med at skændes undervejs.«
 
 **25** De drog op fra Egypten og kom til deres far Jakob i Kana’an, **26** og de sagde til ham: »Josef er stadig i live! Han er hersker i hele Egypten.« Men hans hjerte stod stille, for han kunne ikke tro dem. **27** Men da de fortalte deres far Jakob alt, hvad Josef havde sagt til dem, og da han så de vogne, som Josef havde sendt for at hente ham, livede han op. **28** Israel sagde: »Det er nok! Min søn Josef er stadig i live. Jeg vil tage af sted og se ham, inden jeg dør.«
+
+[– tilbage –](#indhold)
 
 <a id="1mos46"></a>
 
@@ -976,6 +1068,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 **28** Jakob sendte Juda i forvejen til Josef for at få vist vej til Goshen, og så kom de til landet Goshen. **29** Josef lod spænde for sin vogn og kørte op for at møde sin far Israel i Goshen. Da han så ham, faldt han ham om halsen og græd længe ved hans hals. **30** Så sagde Israel til Josef: »Nu kan jeg dø! Nu har jeg set, at du stadig er i live.«
 
 **31** Josef sagde til sine brødre og sin fars slægt: »Jeg går til Farao og siger: Mine brødre og min fars slægt er kommet til mig fra Kana’an. **32** Mændene er fårehyrder; de holder kvæg, så de har taget deres får og køer og alt, hvad de ejer, med sig. **33** Når så Farao tilkalder jer og spørger, hvad jeres levevej er, **34** skal I svare ham: Dine tjenere har holdt kvæg fra ungdommen af ligesom vores forfædre. Så kan I bo i landet Goshen, for alle fårehyrder er afskyelige for egypterne.«
+
+[– tilbage –](#indhold)
 
 <a id="1mos47"></a>
 
@@ -1002,6 +1096,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 #### Jakobs bestemmelse om sin grav
 
 **27** Israel slog sig ned i Egypten, i landet Goshen. Der blev de bofaste, og de blev frugtbare og meget talrige. **28** Jakob levede i Egypten i 17 år. Tallet på Jakobs leveår var 147. **29** Da Israels liv nærmede sig sin afslutning, tilkaldte han sin søn Josef og sagde til ham: »Vis mig den velvilje at lægge din hånd under min lænd, og sværg på, at du vil vise mig den godhed og trofasthed ikke at begrave mig i Egypten. **30** Jeg vil lægges til hvile hos mine fædre. Før mig op fra Egypten, og begrav mig i deres grav.« Han svarede: »Jeg vil gøre, som du siger.« **31** Israel sagde: »Sværg på det!« og det svor han på. Så bøjede Israel sig i bøn over hovedgærdet på sin seng.
+
+[– tilbage –](#indhold)
 
 <a id="1mos48"></a>
 
@@ -1033,6 +1129,8 @@ Da de havde siddet i forvaring et stykke tid, **5** havde de begge to, egypterko
 Sådan satte han Efraim foran Manasse!
 
 **21** Israel sagde til Josef: »Jeg skal snart dø, men Gud vil være med jer og bringe jer tilbage til jeres fædres land. **22** Jeg giver dig frem for dine brødre den bjergryg, jeg tog fra amoritterne med mit sværd og min bue.«
+
+[– tilbage –](#indhold)
 
 <a id="1mos49"></a>
 
@@ -1140,6 +1238,8 @@ Sådan satte han Efraim foran Manasse!
 
 **29** Derpå gav han dem denne befaling: »Når jeg nu går til min slægt, så begrav mig hos mine fædre i hulen på hittitten Efrons mark, **30** i hulen på Makpelas mark øst for Mamre i Kana’an, den mark Abraham købte af hittitten Efron til gravplads. **31** Dér ligger Abraham og hans kone Sara begravet, dér ligger Isak og hans kone Rebekka begravet, og dér har jeg selv begravet Lea. **32** Marken og hulen på den er købt af hittitterne.« **33** Da Jakob havde givet sine sønner denne befaling, trak han sine ben op i sengen. Så døde han og gik til sin slægt.
 
+[– tilbage –](#indhold)
+
 <a id="1mos50"></a>
 
 ### 1 Mos 50
@@ -1164,6 +1264,8 @@ Sådan satte han Efraim foran Manasse!
 
 **26** Så døde Josef 110 år gammel. Han blev balsameret og lagt i kiste i Egypten.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Anden Mosebog
@@ -1184,6 +1286,8 @@ Sådan satte han Efraim foran Manasse!
 
 **22** Men Farao befalede hele sit folk: »Hver eneste dreng, der bliver født, skal I kaste i Nilen; men pigerne kan I lade leve.«
 
+[– tilbage –](#indhold)
+
 <a id="2mos2"></a>
 
 ### 2 Mos 2
@@ -1200,6 +1304,8 @@ Sådan satte han Efraim foran Manasse!
 
 **23** Lang tid efter døde egypterkongen. Israelitterne sukkede og klagede under arbejdet, og deres klageråb under arbejdet nåede op til Gud. **24** Gud hørte deres jamren, og Gud huskede på sin pagt med Abraham, Isak og Jakob. **25** Gud så til israelitterne, og han tog sig af dem.
 
+[– tilbage –](#indhold)
+
 <a id="2mos3"></a>
 
 ### 2 Mos 3
@@ -1211,6 +1317,8 @@ Sådan satte han Efraim foran Manasse!
 **7** Så sagde Herren: »Jeg har set mit folks lidelse i Egypten, og jeg har hørt deres klageskrig over slavefogederne. Jeg har lagt mig deres lidelser på sinde, **8** og derfor er jeg kommet ned for at redde dem fra egypterne og føre dem op fra dette land til et godt og vidtstrakt land, et land der flyder med mælk og honning, dér hvor kana’anæerne, hittitterne, amoritterne, perizzitterne, hivvitterne og jebusitterne bor. **9** Nu har israelitternes klageskrig nået mig, og jeg har set, hvordan egypterne undertrykker dem. **10** Gå nu! Jeg vil sende dig til Farao. Du skal føre mit folk israelitterne ud af Egypten.« **11** Moses sagde til Gud: »Hvem er jeg, at jeg skulle gå til Farao og føre israelitterne ud af Egypten?« **12** Gud svarede: »Jeg vil være med dig, og dette skal du have som tegn på, at det er mig, der sender dig: Når du har ført folket ud af Egypten, skal I dyrke Gud på dette bjerg.« **13** Moses sagde til Gud: »Når jeg kommer til israelitterne og siger til dem, at deres fædres Gud har sendt mig til dem, og de spørger mig, hvad hans navn er, hvad skal jeg så sige til dem?« **14** Gud svarede Moses: »Jeg er den, jeg er!« Og han sagde: »Sådan skal du sige til israelitterne: Jeg Er har sendt mig til jer.«
 
 **15** Gud sagde videre til Moses: »Sådan skal du sige til israelitterne: Jahve, jeres fædres Gud, Abrahams Gud, Isaks Gud og Jakobs Gud, har sendt mig til jer. Det er mit navn til evig tid, og sådan skal jeg kaldes i slægt efter slægt. **16** Gå nu og kald Israels ældste sammen, og sig til dem: Herren, jeres fædres Gud, Abrahams, Isaks og Jakobs Gud, har vist sig for mig og sagt: ›Jeg er opmærksom på jer og på det, der er overgået jer i Egypten, **17** og jeg har besluttet at føre jer bort fra lidelsen i Egypten, til kana’anæernes, hittitternes, amoritternes, perizzitternes, hivvitternes og jebusitternes land, et land der flyder med mælk og honning.‹ **18** De vil høre på dig, og sammen med Israels ældste skal du gå til Egyptens konge og sige til ham: ›Herren, hebræernes Gud, har mødt os. Lad os få lov til at gå tre dagsrejser ud i ørkenen og ofre til Herren vores Gud.‹ **19** Jeg ved, at egypterkongen ikke vil give jer lov til at gå, hvis ikke han mærker en stærk hånd. **20** Derfor vil jeg række hånden ud og ramme egypterne med alle de undere, jeg vil gøre blandt dem, og så vil han lade jer gå. **21** Og jeg vil lade egypterne fatte velvilje for dette folk, så I ikke kommer til at drage tomhændet bort. **22** Hver kvinde skal bede sine nabokoner og de kvinder, hun har boende i huset, om ting af sølv og guld og om klæder. Det skal I give jeres sønner og døtre at bære. På den måde skal I plyndre Egypten.«
+
+[– tilbage –](#indhold)
 
 <a id="2mos4"></a>
 
@@ -1228,6 +1336,8 @@ Sådan satte han Efraim foran Manasse!
 
 **27** Herren sagde til Aron: »Gå Moses i møde ude i ørkenen!« Han gik af sted og mødte ham på Guds bjerg, og han kyssede ham. **28** Moses fortalte Aron om alt det, Herren havde givet ham besked om, og om alle de tegn, han havde pålagt ham. **29** Så tog Moses og Aron af sted. De kaldte alle israelitternes ældste sammen, **30** og Aron fortalte alt det, Herren havde sagt til Moses. Han gjorde tegnene for øjnene af folket, **31** og folket troede på ham. Og da de hørte, at Herren var opmærksom på israelitterne og havde set deres lidelse, bøjede de sig dybt.
 
+[– tilbage –](#indhold)
+
 <a id="2mos5"></a>
 
 ### 2 Mos 5
@@ -1239,6 +1349,8 @@ Sådan satte han Efraim foran Manasse!
 **6** Samme dag gav Farao folkets slavefogeder og arbejdsformændene den befaling: **7** »I må ikke længere give dem halm til fremstillingen af teglsten, som I hidtil har gjort. Lad dem selv gå ud og samle halm. **8** Men pålæg dem at levere den samme mængde teglsten som hidtil. I må ikke skære ned på det! De er dovne! Det er derfor, de råber op om, at de vil ud og ofre til deres Gud. **9** Mændene skal være beskæftiget med strengt arbejde; de skal ikke lytte til falsk tale!« **10** Så gik slavefogederne og formændene ud og sagde til folket: »Dette siger Farao: Jeg vil ikke levere jer halm! **11** Gå selv ud og skaf jer halm, hvor I kan finde det. Men der bliver ikke skåret ned på det arbejde, I skal yde!« **12** Så spredte folket sig over hele Egypten for at samle strå til halm. **13** Slavefogederne skyndede på dem og sagde: »I skal yde fuldt arbejde hver dag, som dengang I fik leveret halm.« **14** Og Faraos slavefogeder pryglede de formænd, de havde sat over israelitterne, og sagde: »Hvorfor har I hverken i går eller i dag leveret det samme antal teglsten som før?« **15** Israelitternes formænd gik da til Farao og klagede: »Hvorfor behandler du dine trælle sådan? **16** Dine trælle får ikke halm, og alligevel får vi besked om at lave teglsten. Dine trælle bliver pryglet, og det er dit folk, der er skyld i det.« **17** Men han svarede: »Dovne er I! Det er derfor, I siger: Lad os få lov til at gå ud og ofre til Herren. **18** Gå nu ud og bestil noget! I får ikke hakkelse, og I skal levere det fastsatte antal teglsten!«
 
 **19** Da israelitternes formænd hørte, at der ikke måtte skæres ned på det daglige antal teglsten, var de i knibe, **20** og da de på vej bort fra Farao traf Moses og Aron, som stod og ventede på dem, **21** sagde de til dem: »Herren se til jer og dømme jer! I har lagt os for had hos Farao og hans hoffolk og har givet dem et sværd i hånden, så de kan slå os ihjel.« **22** Da vendte Moses sig til Herren og sagde: »Herre, hvorfor handler du ondt mod dette folk? Hvorfor har du dog sendt mig? **23** Lige siden jeg gik til Farao for at tale i dit navn, har han mishandlet dette folk, og du har ikke befriet dit folk!«
+
+[– tilbage –](#indhold)
 
 <a id="2mos6"></a>
 
@@ -1272,6 +1384,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 
 **28** Den dag Herren talte til Moses i Egypten, **29** sagde han til ham: »Jeg er Herren! Alt det, jeg taler til dig, skal du tale til Farao, Egyptens konge.« **30** Moses sagde for Herrens ansigt: »Jeg er uomskåret på læberne, så hvorfor skulle Farao høre på mig?«
 
+[– tilbage –](#indhold)
+
 <a id="2mos7"></a>
 
 ### 2 Mos 7
@@ -1294,6 +1408,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 
 **26** Herren sagde til Moses: »Gå til Farao og sig: Dette siger Herren: Lad mit folk gå, så de kan dyrke mig. **27** Hvis du nægter at lade dem gå, slår jeg hele dit land med frøer. **28** Nilen skal vrimle med frøer; de skal kravle op og komme ind i dit hus og i dit sovekammer og op i din seng og ind i dine hoffolks huse og til dit folk, ja, ind i dine bageovne og dine dejtrug. **29** Frøerne skal kravle rundt på dig og dit folk og alle dine hoffolk.«
 
+[– tilbage –](#indhold)
+
 <a id="2mos8"></a>
 
 ### 2 Mos 8
@@ -1311,6 +1427,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 **16** Herren sagde til Moses: »Træd frem for Farao i morgen tidlig, når han går ned til floden, og sig til ham: Dette siger Herren: Lad mit folk gå, så de kan dyrke mig! **17** Hvis du ikke lader mit folk gå, sender jeg fluer over dig og dine hoffolk, dit folk og dine huse. Husene i Egypten og den jord, de står på, skal blive fulde af fluer. **18** Men samme dag vil jeg udskille landet Goshen, hvor mit folk opholder sig, så der ikke kommer fluer dér, for at du skal forstå, at jeg, Herren, er her i landet. **19** Jeg sætter skel mellem mit folk og dit folk. I morgen skal dette tegn ske.« **20** Det gjorde Herren; der kom en mængde fluer ind i Faraos hus og ind i hans hoffolks huse. Overalt i Egypten hærgedes landet af fluerne. **21** Så tilkaldte Farao Moses og Aron og sagde: »Gå hen og bring ofre til jeres Gud her i landet!« **22** Men Moses sagde: »Det kan vi ikke, for det, vi ofrer til Herren vores Gud, er afskyeligt for egypterne. Hvis vi for øjnene af egypterne ofrer noget, de finder afskyeligt, vil de så ikke stene os? **23** Vi vil gå tre dagsrejser ud i ørkenen, og så vil vi ofre til Herren vores Gud, sådan som han siger, vi skal.« **24** Farao sagde: »Jeg vil lade jer gå, så I kan ofre til Herren jeres Gud i ørkenen. Men I må ikke gå langt bort! Gå så i forbøn for mig!« **25** Moses svarede: »Nu forlader jeg dig. Når jeg går i forbøn hos Herren, vil fluerne i morgen forsvinde fra Farao, fra hans hoffolk og fra hans folk. Men Farao må ikke narre os igen, så han ikke lader folket gå ud og ofre til Herren!«
 
 **26** Så forlod Moses Farao. Han gik i forbøn hos Herren, **27** og Herren gjorde, som Moses bad; fluerne forsvandt fra Farao og hans hoffolk og fra hans folk. Der blev ikke én tilbage. **28** Men også denne gang forhærdede Farao sig og lod ikke folket gå.
+
+[– tilbage –](#indhold)
 
 <a id="2mos9"></a>
 
@@ -1336,6 +1454,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 
 **33** Så forlod Moses Farao og gik ud af byen, og han bredte sine hænder ud mod Herren; torden og hagl hørte op, og regnen styrtede ikke længere ned. **34** Men da Farao så, at regn og hagl og torden var holdt op, fortsatte han med at synde, og han og hans hoffolk forhærdede sig. **35** Farao gjorde sig hård, og han lod ikke israelitterne gå, sådan som Herren havde talt ved Moses.
 
+[– tilbage –](#indhold)
+
 <a id="2mos10"></a>
 
 ### 2 Mos 10
@@ -1356,6 +1476,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 
 **27** Men Herren gjorde Farao hård, så han ikke ville lade israelitterne gå. **28** Farao sagde til ham: »Forsvind, og vov ikke at vise dig for mig igen! Den dag du gør det, skal du dø!« **29** Moses svarede: »Som du siger! Jeg viser mig ikke for dig igen.«
 
+[– tilbage –](#indhold)
+
 <a id="2mos11"></a>
 
 ### 2 Mos 11
@@ -1367,6 +1489,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 **4** Moses sagde: »Dette siger Herren: Ved midnat går jeg midt gennem Egypten. **5** Så skal alle førstefødte i Egypten dø, lige fra den førstefødte hos Farao, som sidder på tronen, til den førstefødte hos trælkvinden, som sidder ved kværnen; også alt det førstefødte af kvæget skal dø. **6** I hele Egypten skal der lyde så højt et skrig, at noget lignende aldrig har lydt og heller ikke skal lyde igen; **7** men ikke en hund skal gø ad israelitterne, hverken ad mennesker eller dyr. Sådan skal I forstå, at Herren holder egypterne adskilt fra israelitterne. **8** Alle dine hoffolk skal komme og kaste sig ned for mig og sige: ›Drag bort både du og hele det folk, der følger dig!‹ Derefter vil jeg drage bort.« Så forlod han Farao i glødende vrede.
 
 **9** Herren sagde til Moses: »Farao vil ikke høre på jer; det sker, for at mine undere i Egypten skal blive mange.« **10** Alle disse undere havde Moses og Aron gjort over for Farao, men Herren gjorde Farao hård, så han ikke lod israelitterne gå ud af sit land.
+
+[– tilbage –](#indhold)
 
 <a id="2mos12"></a>
 
@@ -1388,6 +1512,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 
 **50** Alle israelitterne gjorde sådan, som Herren havde befalet Moses og Aron. **51** Netop den dag førte Herren israelitterne ud af Egypten i deres hærskarer.
 
+[– tilbage –](#indhold)
+
 <a id="2mos13"></a>
 
 ### 2 Mos 13
@@ -1404,6 +1530,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 
 **17** Dengang Farao lod folket gå, førte Gud dem ikke ad vejen til filistrenes land, skønt det var den korteste; for Gud tænkte: »Bare folket ikke fortryder og vender tilbage til Egypten, når de oplever krig.« **18** Derfor førte Gud dem ad en omvej gennem ørkenen til Sivhavet. I række og geled drog israelitterne op fra Egypten. **19** Moses tog Josefs ben med sig, for Josef havde taget israelitterne i ed og sagt: »Når Gud tager sig af jer, skal I bringe mine ben med jer op herfra.« **20** Så brød de op fra Sukkot, og de slog lejr i Etam på grænsen til ørkenen. **21** Herren gik foran dem, om dagen i en skysøjle for at føre dem på vejen og om natten i en ildsøjle for at lyse for dem, så de kunne gå både dag og nat. **22** Skysøjlen fjernede sig ikke fra folket om dagen og ildsøjlen ikke om natten.
 
+[– tilbage –](#indhold)
+
 <a id="2mos14"></a>
 
 ### 2 Mos 14
@@ -1419,6 +1547,8 @@ Det var overhovederne for levitternes fædrenehuse slægt for slægt.
 **19** Guds engel, som gik foran Israels hær, rykkede nu om bag dem, og skysøjlen foran dem rykkede om bag dem, **20** så den kom til at stå mellem egypternes hær og israelitternes hær. Skyen kom med mørke, men oplyste natten. Hele natten kom de ikke nær til hinanden. **21** Moses rakte sin hånd ud over havet, og hele natten igennem drev Herren havet tilbage med en stærk østenstorm og gjorde havet til tørt land. Vandet kløvedes, **22** så israelitterne kunne gå tørskoet gennem havet, og vandet stod som en mur til højre og til venstre for dem. **23** Egypterne satte efter dem lige ud i havet med alle Faraos heste, hans vogne og ryttere. **24** Men i morgenvagten så Herren i ildsøjlen og skysøjlen ned på Egyptens hær. Han skabte forvirring i Egyptens hær **25** og blokerede hjulene på vognene, så de kun med besvær kunne få dem frem. Da sagde egypterne: »Lad os flygte for Israel, for Herren fører krig for dem mod Egypten.« **26** Men Herren sagde til Moses: »Ræk din hånd ud over havet, så vandet vender tilbage over egypterne, over deres vogne og ryttere.« **27** Moses rakte sin hånd ud over havet, og ved daggry vendte havet tilbage til sit normale leje. På deres flugt kom egypterne lige imod det, og Herren styrtede egypterne i havet. **28** Vandet vendte tilbage og lukkede sig over alle vognene og rytterne i Faraos hær, som var fulgt efter dem ud i havet. Der blev ikke en eneste af dem tilbage. **29** Men israelitterne gik tørskoet gennem havet, og vandet stod som en mur til højre og til venstre for dem.
 
 **30** Sådan frelste Herren Israel fra egypterne den dag, og Israel så egypterne ligge døde på havets bred. **31** Da Israel så, hvordan Herren havde vist sin store magt mod Egypten, frygtede folket Herren, og de troede på Herren og på hans tjener Moses.
+
+[– tilbage –](#indhold)
 
 <a id="2mos15"></a>
 
@@ -1504,6 +1634,8 @@ Dér fastsatte han lov og ret for folket, og dér satte han det på prøve. **26
 
 **27** Så kom de til Elim. Dér var tolv kilder og halvfjerds palmer. De slog lejr dér ved vandet.
 
+[– tilbage –](#indhold)
+
 <a id="2mos16"></a>
 
 ### 2 Mos 16
@@ -1524,6 +1656,8 @@ Dér fastsatte han lov og ret for folket, og dér satte han det på prøve. **26
 
 **36** En omer er en tiendedel efa.
 
+[– tilbage –](#indhold)
+
 <a id="2mos17"></a>
 
 ### 2 Mos 17
@@ -1537,6 +1671,8 @@ Dér fastsatte han lov og ret for folket, og dér satte han det på prøve. **26
 **8** Amalekitterne kom og gik til angreb på israelitterne i Refidim. **9** Da sagde Moses til Josva: »Udvælg nogle mænd, og ryk ud og kæmp mod amalekitterne! I morgen vil jeg stå på toppen af højen med Guds stav i min hånd.« **10** Josva gjorde, som Moses havde sagt, og rykkede ud til kamp mod amalekitterne. Moses, Aron og Hur var gået op på toppen af højen. **11** Når nu Moses løftede hånden, fik israelitterne overtaget; men når han lod hånden synke, fik amalekitterne overtaget. **12** Da Moses blev træt i armene, tog de en sten og anbragte den under ham. Han satte sig på den, og Aron og Hur støttede hans hænder fra hver sin side, så hans arme blev holdt oppe, til solen gik ned. **13** Sådan besejrede Josva med sværd amalekitterne og deres hær.
 
 **14** Herren sagde til Moses: »Skriv dette i bogen til erindring, og indprent Josva, at jeg vil udslette mindet om amalekitterne under himlen.« **15** Moses byggede et alter og kaldte det: »Herren er mit banner.« **16** Han sagde: »Hånd på Herrens banner! Herren fører krig mod Amalek slægt efter slægt!«
+
+[– tilbage –](#indhold)
 
 <a id="2mos18"></a>
 
@@ -1554,6 +1690,8 @@ Dér fastsatte han lov og ret for folket, og dér satte han det på prøve. **26
 
 **27** Så tog Moses afsked med sin svigerfar, som vendte hjem til sit land.
 
+[– tilbage –](#indhold)
+
 <a id="2mos19"></a>
 
 ### 2 Mos 19
@@ -1567,6 +1705,8 @@ Dér fastsatte han lov og ret for folket, og dér satte han det på prøve. **26
 **14** Så kom Moses ned fra bjerget til folket; han helligede folket, og de vaskede deres klæder. **15** Og han sagde til dem: »Hold jer rede til i overmorgen; hold jer fra kvinder!«
 
 **16** Da det blev morgen den tredje dag, kom der lyn og torden; en tung sky lagde sig over bjerget, og der lød kraftig klang af horn, så hele folket i lejren skælvede af rædsel. **17** Men Moses førte folket ud af lejren, hen imod Gud, og de stillede sig op ved foden af bjerget. **18** Hele Sinajs bjerg var hyllet i røg, fordi Herren var steget ned på det i ild, og røgen steg til vejrs som røgen fra en smelteovn. Hele bjerget skælvede af stor rædsel, **19** og hornklangen blev kraftigere og kraftigere. Moses talte, og Gud svarede ham, så det kunne høres. **20** Herren steg ned på Sinajs bjerg, på toppen af bjerget; han kaldte Moses op på toppen af bjerget, og Moses gik derop. **21** Herren sagde til Moses: »Gå ned og advar folket mod at trænge sig frem til Herren for at se ham, for så vil mange af dem miste livet. **22** Selv præsterne, der må træde frem for Herren, skal hellige sig, for at Herren ikke skal bryde løs mod dem.« **23** Moses svarede Herren: »Folket kan ikke komme op på Sinajs bjerg, for du har jo selv advaret os og sagt, at vi skulle afspærre bjerget og hellige det.« **24** Men Herren sagde til ham: »Gå nu ned, og kom så herop sammen med Aron! Præsterne og folket må ikke trænge sig frem for at komme op til Herren, for så bryder han løs mod dem.« **25** Så gik Moses ned til folket og sagde det til dem.
+
+[– tilbage –](#indhold)
 
 <a id="2mos20"></a>
 
@@ -1602,6 +1742,8 @@ Dér fastsatte han lov og ret for folket, og dér satte han det på prøve. **26
 
 **22** Herren sagde til Moses: Dette skal du sige til israelitterne: I har selv oplevet, at jeg har talt til jer fra himlen. **23** I må ikke lave guder af sølv ved siden af mig, og I må ikke lave jer guder af guld. **24** Du skal lave mig et alter af jord, og på det skal du bringe dine brændofre og dine måltidsofre, dine får og dine køer. Hvor som helst jeg lader mit navn nævne, vil jeg komme til dig og velsigne dig. **25** Men hvis du vil lave mig et alter af sten, må du ikke bygge det af kvadersten. For ved at bearbejde dem med mejsel har du vanhelliget dem. **26** Du må ikke gå op på mit alter ad trin, for at ikke dit køn skal blottes over det.
 
+[– tilbage –](#indhold)
+
 <a id="2mos21"></a>
 
 ### 2 Mos 21
@@ -1633,6 +1775,8 @@ Dér fastsatte han lov og ret for folket, og dér satte han det på prøve. **26
 **35** Når en mands okse stanger en anden mands okse ihjel, skal de to mænd sælge den levende okse og dele pengene; også den døde okse skal de dele. **36** Hvis oksens ejer ikke har passet på den, skønt det var kendt, at den havde stanget tidligere, skal han yde en okse som erstatning; det døde dyr må han selv beholde.
 
 **37** Når en mand stjæler en okse eller et får og slagter det eller sælger det, skal han yde erstatning med fem stykker hornkvæg for en okse og fire stykker småkvæg for et får.
+
+[– tilbage –](#indhold)
 
 <a id="2mos22"></a>
 
@@ -1670,6 +1814,8 @@ Han skal yde fuld erstatning; hvis han ikke ejer noget, skal han sælges som bet
 
 **30** I skal være hellige for mig. Kødet af sønderrevne dyr, som I finder på marken, må I ikke spise; det skal I kaste for hundene.
 
+[– tilbage –](#indhold)
+
 <a id="2mos23"></a>
 
 ### 2 Mos 23
@@ -1698,6 +1844,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **27** Jeg vil sende rædsel for mig foran dig og skabe forvirring i alle de folk, du kommer til, og jeg vil slå alle dine fjender på flugt. **28** Jeg vil sende modløsheden foran dig, og den skal drive hivvitterne, kana’anæerne og hittitterne bort foran dig. **29** Men jeg vil ikke drive dem bort foran dig på ét år; for så bliver landet lagt øde, og de vilde dyr bliver for talrige for dig. **30** Lidt efter lidt vil jeg drive dem bort foran dig, til I er blevet så talrige, at I kan tage landet i besiddelse. **31** Jeg vil lade dit landområde gå fra Sivhavet til Filisterhavet, og fra Ørkenen til Eufratfloden; jeg vil give landets indbyggere i jeres magt, og du skal drive dem bort foran dig. **32** Du må ikke slutte pagt med dem og deres guder. **33** De må ikke blive boende i dit land, for at de ikke skal få dig til at synde imod mig. Dyrker du deres guder, bliver det en snare for dig.
 
+[– tilbage –](#indhold)
+
 <a id="2mos24"></a>
 
 ### 2 Mos 24
@@ -1713,6 +1861,8 @@ Du må ikke koge et kid i dets mors mælk.
 **12** Herren sagde til Moses: »Kom op til mig på bjerget og bliv der, så vil jeg give dig stentavlerne med den lov og befaling, som jeg har skrevet ned for at belære dem.« **13** Så rejste Moses sig sammen med Josva, som var i hans tjeneste, og Moses gik op på Guds bjerg. **14** Til de ældste sagde han: »Bliv her, til vi kommer tilbage til jer; Aron og Hur er hos jer. Skal nogen have en sag afgjort, kan han henvende sig til dem.«
 
 **15** Så gik Moses op på bjerget. Skyen dækkede bjerget, **16** og Herrens herlighed tog bolig på Sinajs bjerg. I seks dage dækkede skyen bjerget, og på den syvende dag kaldte han på Moses inde fra skyen. **17** For israelitterne så Herrens herlighed ud som en fortærende ild på bjergets top. **18** Men Moses gik ind i skyen og op på bjerget, og han blev på bjerget i fyrre dage og fyrre nætter.
+
+[– tilbage –](#indhold)
 
 <a id="2mos25"></a>
 
@@ -1734,6 +1884,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **31** Du skal lave en lysestage af rent guld; som udhamret arbejde skal lysestagen laves, både dens fod og selve stagen; dens bægre, vulster og blomster skal gå i ét med den. **32** Seks arme skal gå ud fra dens sider, tre arme fra lysestagens ene side og tre arme fra dens anden side. **33** På den første arm skal der være tre bægre formede som mandelblomster med vulst og blomst, tre bægre formede som mandelblomster med vulst og blomst på den næste arm, og således med alle seks arme, der går ud fra lysestagen. **34** På selve lysestagen skal der være fire bægre formede som mandelblomster med vulst og blomst. **35** Der skal være en vulst under det første par arme på den, en vulst under det næste par arme på den, og en vulst under det sidste par arme på den, altså de seks arme, som går ud fra lysestagen. **36** Vulsterne og armene skal gå i ét med selve stagen. Det hele skal være udhamret arbejde i ét stykke af rent guld. **37** Du skal lave dens syv lamper, og lamperne skal sættes på, så de kan lyse foran den. **38** Tænger og fyrbækkener til den skal være af rent guld. **39** Af en talent rent guld skal du lave den og alle disse redskaber. **40** Sørg for at lave det efter det forbillede, du fik at se på bjerget.
 
+[– tilbage –](#indhold)
+
 <a id="2mos26"></a>
 
 ### 2 Mos 26
@@ -1748,6 +1900,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **31** Du skal lave forhænget af purpurblåt, purpurrødt og karminrødt stof og tvundet, fint linned med kunstfærdigt indvævede keruber. **32** Du skal fæstne det til fire stolper af akacietræ, der er beklædt med guld og har kroge af guld og står på fire fodstykker af sølv; **33** du skal fæstne forhænget neden under hagerne. Så skal du bringe Vidnesbyrdets ark ind bag forhænget, så forhænget danner skel for jer mellem det Hellige og det Allerhelligste, **34** og du skal lægge sonedækket oven på Vidnesbyrdets ark i det Allerhelligste. **35** Du skal stille bordet uden for forhænget; lysestagen skal stå over for bordet ved boligens sydvæg, og bordet skal du stille ved nordvæggen. **36** For indgangen til teltet skal du lave et forhæng af purpurblåt, purpurrødt og karminrødt stof og tvundet, fint linned i broget vævning. **37** Til forhænget skal du lave fem stolper af akacietræ; du skal beklæde dem med guld, og krogene på dem skal være af guld, og du skal støbe fem fodstykker af bronze til dem.
 
+[– tilbage –](#indhold)
+
 <a id="2mos27"></a>
 
 ### 2 Mos 27
@@ -1757,6 +1911,8 @@ Du må ikke koge et kid i dets mors mælk.
 **9** Du skal lave forgården til boligen. På sydsiden, mod syd, skal omhænget til forgården være af tvundet, fint linned, 100 alen langt på den ene side. **10** Der skal være tyve stolper med tyve fodstykker af bronze, mens stolpernes kroge og tværstænger skal være af sølv. **11** Ligeledes skal der på nordsiden i hele længden være omhæng, 100 alen langt, med tyve stolper og tyve fodstykker af bronze, mens stolpernes kroge og tværstænger skal være af sølv. **12** På forgårdens vestlige bredside skal der være et omhæng på 50 alen med ti stolper og ti fodstykker. **13** Forgårdens østlige bredside, mod øst, skal være 50 alen; **14** til den ene side skal der være et omhæng på 15 alen med tre stolper og tre fodstykker, **15** og til den anden side et omhæng på 15 alen med tre stolper og tre fodstykker. **16** Til forgårdens portåbning skal der være et forhæng på 20 alen af purpurblåt, purpurrødt og karminrødt stof og tvundet, fint linned i broget vævning med fire stolper og fire fodstykker. **17** Alle forgårdens stolper hele vejen rundt skal være forbundet med tværstænger af sølv; de skal have kroge af sølv og fodstykker af bronze. **18** Forgården skal være 100 alen lang og 50 alen bred og 5 alen høj, og omhænget skal være af tvundet, fint linned, og fodstykkerne skal være af bronze. **19** Alle redskaber til alt arbejdet på boligen, alle dens pløkke og alle forgårdens pløkke skal være af bronze.
 
 **20** Du skal give israelitterne besked om at skaffe dig ren olie af knuste oliven til lysestagen, så man altid kan sætte en lampe på. **21** I Åbenbaringsteltet uden for forhænget foran Vidnesbyrdet, skal Aron og hans sønner sørge for, at den fra aften til morgen kan brænde for Herrens ansigt. Det skal være en eviggyldig ordning, slægt efter slægt, hos israelitterne.
+
+[– tilbage –](#indhold)
 
 <a id="2mos28"></a>
 
@@ -1780,6 +1936,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **40** Til Arons sønner skal du lave kjortler, og du skal lave skærf til dem, og huer skal du lave til dem til ære og pryd; **41** det skal du give din bror Aron og hans sønner på. Så skal du salve dem og indsætte dem som præster og hellige dem, og de skal gøre præstetjeneste for mig. **42** Du skal lave linnedbukser til dem til at skjule deres kønsdele; de skal gå fra deres hofter ned over lårene. **43** Aron og hans sønner skal have dem på, når de går ind i Åbenbaringsteltet, eller når de kommer nær til alteret for at gøre tjeneste i helligdommen, så de ikke pådrager sig skyld og dør. Dette skal være en eviggyldig ordning for ham og hans efterkommere.
 
+[– tilbage –](#indhold)
+
 <a id="2mos29"></a>
 
 ### 2 Mos 29
@@ -1802,6 +1960,8 @@ Når du indsætter Aron og hans sønner, **10** skal du føre tyren frem foran �
 
 **38** Dette skal du ofre på alteret: to årgamle lam som dagligt offer. **39** Det ene lam skal du ofre om morgenen, og det andet lam skal du ofre, lige inden mørket falder på. **40** Sammen med det ene lam skal du bringe en tiendedel efa fint mel, rørt op med en kvart hin olie af knuste oliven, og et drikoffer på en kvart hin vin. **41** Det andet lam skal du ofre, lige inden mørket falder på; sammen med det skal du bringe afgrødeoffer med tilhørende drikoffer som om morgenen, en liflig duft, et offer for Herren. **42** Det er det daglige brændoffer, slægt efter slægt, for Herrens ansigt, ved indgangen til Åbenbaringsteltet, dér hvor jeg vil åbenbare mig for jer og tale til dig. **43** Der vil jeg åbenbare mig for israelitterne, så stedet helliges ved min herlighed. **44** Jeg vil hellige Åbenbaringsteltet og alteret, og Aron og hans sønner vil jeg hellige til at gøre præstetjeneste for mig. **45** Jeg vil tage bolig iblandt israelitterne, og jeg vil være deres Gud. **46** De skal vide, at jeg er Herren deres Gud, som førte dem ud af Egypten for at tage bolig blandt dem. Jeg er Herren deres Gud.
 
+[– tilbage –](#indhold)
+
 <a id="2mos30"></a>
 
 ### 2 Mos 30
@@ -1822,6 +1982,8 @@ Når du indsætter Aron og hans sønner, **10** skal du føre tyren frem foran �
 
 **34** Herren sagde til Moses: Tag vellugtende stoffer: stakte-dråber, mollusk-olie, galban-gummi og ren røgelse i lige store mål. **35** Det skal du lave til en krydret røgelse, som en røgelsesblander laver det, saltet, ren og hellig. **36** Du skal støde det til et fint pulver og lægge noget af det foran Vidnesbyrdet i Åbenbaringsteltet, hvor jeg vil åbenbare mig for dig. Det skal være højhelligt for jer. **37** Røgelse, som du laver i dette forhold, må I ikke lave til jer selv; den skal være helliget Herren. **38** Enhver, som fremstiller noget sådant for at nyde duften af det, skal udryddes fra sit folk.
 
+[– tilbage –](#indhold)
+
 <a id="2mos31"></a>
 
 ### 2 Mos 31
@@ -1835,6 +1997,8 @@ Når du indsætter Aron og hans sønner, **10** skal du føre tyren frem foran �
 **12** Herren sagde til Moses: **13** Sig til israelitterne: I skal holde mine sabbatter, for sabbatten er et tegn mellem mig og jer, slægt efter slægt, for at I skal vide, at det er mig, Herren, som helliger jer. **14** I skal holde sabbatten, for den er hellig for jer. Den, som vanhelliger den, skal lide døden; enhver, som udfører arbejde på den, skal udryddes fra sit folk. **15** I seks dage må der udføres arbejde, men på den syvende dag skal der være fuldstændig hvile; den er hellig for Herren. Enhver, der udfører arbejde på sabbatsdagen, skal lide døden. **16** Israelitterne skal holde sabbatten, så de fejrer sabbat slægt efter slægt som en eviggyldig pagt. **17** Den er et tegn mellem mig og israelitterne til evig tid; for på seks dage skabte Herren himlen og jorden, men på den syvende dag hvilede han og pustede ud.
 
 **18** Da han var færdig med at tale med Moses på Sinajs bjerg, gav han ham Vidnesbyrdets to tavler, stentavler beskrevet med Guds finger.
+
+[– tilbage –](#indhold)
 
 <a id="2mos32"></a>
 
@@ -1862,6 +2026,8 @@ Når du indsætter Aron og hans sønner, **10** skal du føre tyren frem foran �
 
 **35** Og Herren slog folket med plager, fordi de havde lavet kalven, den Aron havde lavet.
 
+[– tilbage –](#indhold)
+
 <a id="2mos33"></a>
 
 ### 2 Mos 33
@@ -1873,6 +2039,8 @@ Når du indsætter Aron og hans sønner, **10** skal du føre tyren frem foran �
 **7** Moses plejede at hente teltet og slå det op uden for lejren i god afstand fra den; han kaldte det Åbenbaringsteltet. Hver gang nogen søgte råd hos Herren, gik han ud til Åbenbaringsteltet uden for lejren. **8** Og hver gang Moses gik ud til teltet, stillede hele folket sig i hver sin teltåbning og fulgte Moses med øjnene, til han var kommet ind i teltet. **9** Når Moses kom ind i teltet, steg skysøjlen ned og stod i indgangen til teltet, og Herren talte med Moses. **10** Når folket så skysøjlen stå i indgangen til teltet, rejste de sig alle sammen, og de kastede sig ned, hver i sin teltåbning. **11** Og Herren talte med Moses ansigt til ansigt, som det ene menneske taler med det andet. Derpå vendte Moses tilbage til lejren. Den unge mand Josva, Nuns søn, der var i hans tjeneste, veg ikke fra teltet.
 
 **12** Moses sagde til Herren: »Se, du siger til mig, at jeg skal føre dette folk op, men du har ikke fortalt mig, hvem du vil sende med mig; og dog har du selv sagt: ›Jeg kender dig ved navn, du har fundet nåde for mine øjne‹. **13** Hvis jeg virkelig har fundet nåde for dine øjne, så kundgør mig din vej, og lad mig kende dig, så jeg kan bevare din velvilje. Husk på, at dette folk er dit folk!« **14** Han svarede: »Jeg vil selv gå med og skaffe dig et sted at bo.« **15** Moses svarede: »Ja, hvis du ikke selv går med, skal du ikke føre os op herfra. **16** Og hvordan kan man overhovedet vide, at jeg og dit folk har fundet nåde for dine øjne, medmindre du går med os, og jeg og dit folk bliver begunstiget frem for alle andre folk på jorden?« **17** Herren svarede Moses: »Også det, du her siger, vil jeg gøre, for du har fundet nåde for mine øjne, og jeg kender dig ved navn.« **18** Da sagde Moses: »Lad mig dog se din herlighed!« **19** Herren svarede: »Jeg vil lade al min skønhed gå forbi dig, og jeg vil udråbe Herrens navn foran dig. Jeg viser nåde, mod hvem jeg vil, og forbarmer mig, over hvem jeg vil.« **20** Men han sagde: »Du får ikke lov at se mit ansigt, for intet menneske kan se mig og beholde livet.« **21** Og Herren sagde: »Her hos mig er der et sted; stil dig på klippen. **22** Når min herlighed går forbi, stiller jeg dig i klippespalten og dækker med hånden for dig, til jeg er kommet forbi. **23** Derefter tager jeg min hånd væk, så du får mig at se fra ryggen. Mit ansigt må ingen se.«
+
+[– tilbage –](#indhold)
 
 <a id="2mos34"></a>
 
@@ -1908,6 +2076,8 @@ Du må ikke koge et kid i dets mors mælk.«
 
 **29** Da Moses kom ned fra Sinajs bjerg, havde han Vidnesbyrdets to tavler i hånden, da han gik ned fra bjerget. Moses vidste ikke selv, at det strålede fra hans ansigt, fordi Herren havde talt med ham; **30** men Aron og alle israelitterne så, at det strålede fra hans ansigt, og de blev bange for at komme ham nær. **31** Men Moses kaldte på dem, og Aron og alle overhovederne i menigheden kom hen til ham igen, og Moses talte med dem. **32** Derefter kom også alle israelitterne nærmere, og han gav dem besked om alt det, som Herren havde sagt ham på Sinajs bjerg. **33** Og da Moses var færdig med at tale med dem, lagde han et slør over sit ansigt. **34** Men hver gang Moses kom ind for Herrens ansigt for at tale med ham, tog han sløret af, indtil han skulle ud igen. Så gik han ud og fortalte israelitterne, hvad han havde fået befaling om. **35** Og hver gang israelitterne så Moses’ ansigt, så de, at det strålede fra hans ansigt; Moses tog da sløret for sit ansigt, indtil han igen skulle ind og tale med Herren.
 
+[– tilbage –](#indhold)
+
 <a id="2mos35"></a>
 
 ### 2 Mos 35
@@ -1925,6 +2095,8 @@ Du må ikke koge et kid i dets mors mælk.«
 #### Indsættelse af håndværkerne
 
 **30** Moses sagde til israelitterne: »Se, Herren har udvalgt Besal’el, søn af Uri, søn af Hur fra Judas stamme, **31** og fyldt ham med Guds ånd, med visdom og klogskab og indsigt til at udføre al slags arbejde, **32** lave udkast til kunstneriske arbejder i guld, sølv og bronze, **33** gravere i sten til indlægning, udskære i træ, ja, udføre al slags kunstnerisk arbejde. **34** Han har givet både ham og Oholiab, Akisamaks søn fra Dans stamme, evnen til at lære fra sig, **35** og han har fyldt dem med kundskab til at udføre al slags arbejde med indgravering, med kunstfærdig og broget vævning af purpurblåt, purpurrødt og karminrødt stof og fint linned og med almindelig vævning; de skal udføre al slags arbejde og lave udkast til kunstneriske arbejder.
+
+[– tilbage –](#indhold)
 
 <a id="2mos36"></a>
 
@@ -1945,6 +2117,8 @@ Du må ikke koge et kid i dets mors mælk.«
 
 **35** Han lavede forhænget af purpurblåt, purpurrødt og karminrødt stof og tvundet, fint linned med kunstfærdigt indvævede keruber. **36** Han lavede fire stolper af akacietræ til det og beklædte dem med guld; de havde kroge af guld, og han støbte fire fodstykker af sølv til dem. **37** For indgangen til teltet lavede han et forhæng af purpurblåt, purpurrødt og karminrødt stof og tvundet, fint linned i broget vævning, **38** og han lavede fem stolper med kroge til det, og han beklædte stolpehovederne og tværstængerne med guld, mens de fem fodstykker til dem var af bronze.
 
+[– tilbage –](#indhold)
+
 <a id="2mos37"></a>
 
 ### 2 Mos 37
@@ -1958,6 +2132,8 @@ Du må ikke koge et kid i dets mors mælk.«
 **17** Han lavede lysestagen af rent guld; som udhamret arbejde lavede han lysestagen, både dens fod og selve stagen; dens bægre, vulster og blomster gik i ét med den. **18** Seks arme gik ud fra dens sider, tre arme fra lysestagens ene side og tre arme fra dens anden side. **19** På den første arm var der tre bægre formede som mandelblomster med vulst og blomst, tre bægre formede som mandelblomster med vulst og blomst på den næste arm, og således med alle seks arme, der gik ud fra lysestagen. **20** På selve lysestagen var der fire bægre formede som mandelblomster med vulst og blomst. **21** Der var en vulst under det første par arme på den, en vulst under det næste par arme på den og en vulst under det sidste par arme på den, altså de seks arme, som gik ud fra den. **22** Vulsterne og armene gik i ét med selve stagen. Det hele var udhamret arbejde i ét stykke af rent guld. **23** Og han lavede dens syv lamper, tængerne og fyrbækkenerne til den af rent guld. **24** Af en talent rent guld lavede han den og alle redskaberne til den.
 
 **25** Han lavede røgelsesofferalteret af akacietræ; det var kvadratisk, en alen langt og en alen bredt og to alen højt; hornene på det gik i ét med det. **26** Han beklædte det med rent guld, både ovenpå, hele vejen rundt på siderne og på hornene, og han lavede en kant af guld hele vejen rundt. **27** Han lavede to guldringe til det under kanten på to af siderne, på dens to sider som holdere for bærestængerne, så man kunne bære det med dem. **28** Han lavede bærestængerne af akacietræ og beklædte dem med guld. **29** Og han lavede den hellige salvningsolie og den rene, vellugtende røgelse, som en salveblander laver den.
+
+[– tilbage –](#indhold)
 
 <a id="2mos38"></a>
 
@@ -1974,6 +2150,8 @@ Du må ikke koge et kid i dets mors mælk.«
 **21** Dette er regnskabet for boligen, Vidnesbyrdets bolig, som blev opgjort på befaling af Moses; det var levitternes arbejde under ledelse af præsten Itamar, Arons søn. **22** Besal’el, søn af Uri, søn af Hur fra Judas stamme, gjorde alt, hvad Herren havde befalet Moses, **23** og sammen med ham Oholiab, Akisamaks søn fra Dans stamme, hvis arbejde var indgravering samt kunstfærdig og broget vævning af purpurblåt, purpurrødt og karminrødt stof og fint linned.
 
 **24** Alt guldet, som blev anvendt til arbejdet på helligdommen, guldet, der blev svunget, udgjorde 29 talenter og 730 sekel efter helligdommens vægt. **25** Sølvet fra dem i menigheden, der blev mønstret, udgjorde 100 talenter og 1775 sekel efter helligdommens vægt, **26** en beka – en halv sekel efter helligdommens vægt – for hver person af alle dem, der blev mønstret fra tyve år og opefter, i alt 603.550. **27** 100 talenter sølv gik til støbning af helligdommens fodstykker og forhængets fodstykker, 100 fodstykker svarende til 100 talenter, en talent til hvert fodstykke. **28** Af de 1775 sekel lavede han kroge til stolperne, beklædte stolpehovederne og forbandt dem med tværstænger. **29** Bronzen, der blev svunget, udgjorde 70 talenter og 2400 sekel. **30** Af den lavede han fodstykkerne til indgangen til Åbenbaringsteltet og bronzealteret og bronzegitteret til det, alle redskaberne til alteret, **31** fodstykkerne til forgården hele vejen rundt, fodstykkerne til portåbningen til forgården og alle pløkkene til boligen og til forgården hele vejen rundt.
+
+[– tilbage –](#indhold)
 
 <a id="2mos39"></a>
 
@@ -1996,6 +2174,8 @@ Du må ikke koge et kid i dets mors mælk.«
 #### Arbejdets fuldførelse
 
 **32** Sådan blev hele arbejdet på Åbenbaringsteltets bolig fuldført, og israelitterne gjorde, ganske som Herren havde befalet Moses. **33** De bragte boligen til Moses, teltet med hele dets udstyr, dets hager, planker, tværlægter, stolper, fodstykker, **34** dækket af rødindfarvede vædderskind, dækket af delfinskind, forhænget, **35** Vidnesbyrdets ark og bærestængerne til den, sonedækket, **36** bordet med alle genstandene på det og skuebrødene, **37** lysestagen af rent guld med dens lamper, som sad i række, redskaberne til den og lampeolien, **38** guldalteret, salvningsolien og den vellugtende røgelse, forhænget for indgangen til teltet, **39** bronzealteret med dets bronzegitter, bærestængerne og alle redskaberne til det, bækkenet og fodstykket til det, **40** forgårdens omhæng, dens stolper og fodstykker, forhænget for portåbningen til forgården, dens barduner og pløkke, alle redskaberne til tjenesten i Åbenbaringsteltets bolig, **41** dragterne til tjenesten i helligdommen, de hellige klæder til præsten Aron og klæderne til hans sønner til præstetjenesten. **42** Ganske som Herren havde befalet Moses, udførte israelitterne hele arbejdet. **43** Moses tog hele arbejdet i øjesyn; han så, at de havde gjort det sådan, som Herren havde befalet. Og Moses velsignede dem.
+
+[– tilbage –](#indhold)
 
 <a id="2mos40"></a>
 
@@ -2027,6 +2207,8 @@ Sådan fuldførte Moses arbejdet.
 
 **36** På hele deres vandring fra sted til sted brød israelitterne op, når skyen løftede sig fra boligen. **37** Men hvis skyen ikke løftede sig, gjorde de det ikke; de brød ikke op, før den løftede sig. **38** For Herrens sky var over boligen om dagen, og om natten var der en ild i den for øjnene af hele Israels hus på hele deres vandring fra sted til sted.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Tredje Mosebog
@@ -2045,6 +2227,8 @@ Sådan fuldførte Moses arbejdet.
 
 **14** Hvis hans gave til Herren er et brændoffer af fugle, skal han bringe en turteldue eller en dueunge som sin gave. **15** Præsten skal bringe den hen til alteret og knibe dens hoved af og brænde det på alteret. Han skal presse dens blod ud på alterets side, **16** fjerne dens kro med indhold og kaste det øst for alteret, hvor fedtasken ligger, **17** og rive dens vinger løs uden at rive dem af. Så skal præsten brænde den på alteret på brændet over ilden. Det er et brændoffer, et offer, en liflig duft for Herren.
 
+[– tilbage –](#indhold)
+
 <a id="3mos2"></a>
 
 ### 3 Mos 2
@@ -2059,6 +2243,8 @@ Sådan fuldførte Moses arbejdet.
 
 **14** Hvis du vil bringe et førstegrødeoffer til Herren, skal du ofre friske aks, ristet over ild, og gruttet frisk korn som dit førstegrødeoffer. **15** Du skal hælde olie over det og komme røgelse på; det er et afgrødeoffer. **16** Præsten skal brænde noget af det gruttede og olien med al røgelsen som duftoffer, et offer for Herren.
 
+[– tilbage –](#indhold)
+
 <a id="3mos3"></a>
 
 ### 3 Mos 3
@@ -2068,6 +2254,8 @@ Sådan fuldførte Moses arbejdet.
 **1** Hvis den gave, han bringer, er et måltidsoffer, og hvis den tages fra hornkvæget, skal det være et lydefrit handyr eller hundyr, han ofrer for Herrens ansigt. **2** Han skal lægge sin hånd på offerdyrets hoved og slagte det ved indgangen til Åbenbaringsteltet, og præsterne, Arons sønner, skal stænke blodet på alteret hele vejen rundt. **3** Af sit måltidsoffer skal han bringe Herren et offer; det skal være det fedt, der dækker indvoldene, og alt fedtet på indvoldene, **4** de to nyrer og fedtet, som sidder på dem ved lændemusklerne, og leverlappen, som han skal skære af sammen med nyrerne. **5** Arons sønner skal brænde det på alteret sammen med brændofferet, som ligger på brændet over ilden, et offer, en liflig duft for Herren.
 
 **6** Hvis den gave, han bringer Herren som måltidsoffer, tages fra småkvæget, skal det være et lydefrit handyr eller hundyr, han ofrer. **7** Hvis det er et får, han bringer som gave, skal han ofre det for Herrens ansigt. **8** Han skal lægge sin hånd på dyrets hoved og slagte det foran Åbenbaringsteltet, og Arons sønner skal stænke dets blod på alteret hele vejen rundt. **9** Af sit måltidsoffer skal han bringe Herren et offer; det skal være fedtet: hele fedthalen, som han skal skære af tæt ved halebenet, det fedt, der dækker indvoldene, og alt fedtet på indvoldene, **10** de to nyrer og fedtet, som sidder på dem ved lændemusklerne, og leverlappen, som han skal skære af sammen med nyrerne. **11** Præsten skal brænde det på alteret som offerspise for Herren. **12** Hvis hans gave er en ged, skal han ofre den for Herrens ansigt. **13** Han skal lægge sin hånd på dens hoved og slagte den foran Åbenbaringsteltet, og Arons sønner skal stænke dens blod på alteret hele vejen rundt. **14** Af sin gave skal han bringe Herren et offer; det skal være det fedt, der dækker indvoldene, og alt fedtet på indvoldene, **15** de to nyrer og fedtet, som sidder på dem ved lændemusklerne, og leverlappen, som han skal skære af sammen med nyrerne. **16** Præsten skal brænde det på alteret som offerspise, en liflig duft. Alt fedt tilhører Herren. **17** Det skal være en eviggyldig ordning for jer, slægt efter slægt, overalt hvor I bor. I må aldrig spise fedt eller blod.
+
+[– tilbage –](#indhold)
 
 <a id="3mos4"></a>
 
@@ -2084,6 +2272,8 @@ Sådan fuldførte Moses arbejdet.
 **22** Er det en fyrste, der synder og uforsætligt overtræder et af Herren hans Guds bud, som ikke må overtrædes, og pådrager sig skyld, **23** og han så får at vide, at han har begået den synd, skal han som sin gave bringe en lydefri gedebuk. **24** Han skal lægge sin hånd på bukkens hoved og slagte den på det sted, hvor man slagter brændofferdyret for Herrens ansigt. Det er et syndoffer. **25** Så skal præsten tage noget af syndofferdyrets blod på sin finger og stryge det på brændofferalterets horn; resten af dets blod skal han hælde ud ved brændofferalterets sokkel. **26** Alt dets fedt skal han brænde på alteret ligesom måltidsofferdyrets fedt. På den måde skaffer præsten ham soning for hans synd, så han får tilgivelse.
 
 **27** Hvis det er et almindeligt menneske, der synder uforsætligt ved at overtræde et af Herrens bud, som ikke må overtrædes, og pådrager sig skyld, **28** og han så får at vide, at han har begået den synd, skal han som sin gave bringe en lydefri ged for den synd, han har begået. **29** Han skal lægge sin hånd på syndofferdyrets hoved og slagte dyret på det sted, hvor man slagter brændofferdyret. **30** Så skal præsten tage noget af dets blod på sin finger og stryge det på brændofferalterets horn; resten af dets blod skal han hælde ud ved alterets sokkel. **31** Alt dets fedt skal han skære fra, ligesom fedtet skæres fra måltidsofferdyret, og præsten skal brænde det på alteret, en liflig duft for Herren. På den måde skaffer præsten ham soning, så han får tilgivelse. **32** Hvis den gave, han bringer som syndoffer, er et lam, skal det være et lydefrit hundyr. **33** Han skal lægge sin hånd på syndofferdyrets hoved og slagte det som syndoffer på det sted, hvor man slagter brændofferdyret. **34** Så skal præsten tage noget af syndofferdyrets blod på sin finger og stryge det på brændofferalterets horn; resten af dets blod skal han hælde ud ved alterets sokkel. **35** Alt dets fedt skal han skære fra, ligesom fedtet skæres fra måltidsofferlammet, og præsten skal brænde det på alteret sammen med Herrens ofre. På den måde skaffer præsten ham soning for den synd, han har begået, så han får tilgivelse.
+
+[– tilbage –](#indhold)
 
 <a id="3mos5"></a>
 
@@ -2103,6 +2293,8 @@ Sådan fuldførte Moses arbejdet.
 
 **20** Herren talte til Moses og sagde: **21** Når nogen synder i troløshed mod Herren og lyver for sin landsmand om noget, der er forvaret eller betroet, eller noget, der er røvet, eller han udplyndrer sin landsmand, **22** eller han finder en tabt ting og lyver om det, eller han sværger falsk om en af de synder, et menneske kan begå **23** – når han altså synder og pådrager sig skyld, skal han bringe det tilbage, han har røvet, eller det, han har plyndret, eller det, der er forvaret hos ham, eller den tabte ting, han har fundet, **24** eller alt, hvad han har svoret falsk om; han skal betale fuld erstatning med tillæg af en femtedel, og det skal han give til ejeren, når han er fundet skyldig. **25** Han skal bringe sit skyldoffer til Herren; en lydefri vædder fra småkvæget, takseret som skyldoffer, skal han bringe til præsten, **26** og præsten skal skaffe ham soning for Herrens ansigt, så han får tilgivelse for alt, hvad han har gjort sig skyldig i.
 
+[– tilbage –](#indhold)
+
 <a id="3mos6"></a>
 
 ### 3 Mos 6
@@ -2120,6 +2312,8 @@ Sådan fuldførte Moses arbejdet.
 #### Loven om syndofferet
 
 **17** Herren talte til Moses og sagde: **18** Sig til Aron og hans sønner: Dette er loven om syndofferet. Syndofferdyret skal slagtes for Herrens ansigt på det sted, hvor brændofferdyret slagtes; det er højhelligt. **19** Den præst, der bringer det som syndoffer, skal spise det. På et helligt sted skal det spises, i forgården til Åbenbaringsteltet. **20** Enhver, som rører ved dyrets kød, bliver hellig, og enhver, som får blodstænk på klæderne, skal vaske blodstænkene af på et helligt sted. **21** Det lerkar, kødet bliver kogt i, skal knuses; men hvis det bliver kogt i et bronzekar, skal karret skures og skylles med vand. **22** Alle mænd blandt præsterne må spise det; det er højhelligt. **23** Men intet syndoffer må spises, hvis noget af dets blod bringes ind i Åbenbaringsteltet for at skaffe soning i helligdommen; det skal brændes.
+
+[– tilbage –](#indhold)
 
 <a id="3mos7"></a>
 
@@ -2143,6 +2337,8 @@ Hvad kødet angår, må enhver, der er ren, spise det. **20** Men den, der i ure
 
 **37** Det var loven om brændofferet, afgrødeofferet, syndofferet, skyldofferet, indsættelsesofferet og måltidsofferet, **38** som Herren pålagde Moses på Sinajs bjerg, den dag han i Sinajs ørken befalede israelitterne at bringe deres gaver til Herren.
 
+[– tilbage –](#indhold)
+
 <a id="3mos8"></a>
 
 ### 3 Mos 8
@@ -2165,6 +2361,8 @@ Hvad kødet angår, må enhver, der er ren, spise det. **20** Men den, der i ure
 
 **36** Aron og hans sønner gjorde alt det, som Herren havde befalet gennem Moses.
 
+[– tilbage –](#indhold)
+
 <a id="3mos9"></a>
 
 ### 3 Mos 9
@@ -2180,6 +2378,8 @@ Hvad kødet angår, må enhver, der er ren, spise det. **20** Men den, der i ure
 **15** Dernæst bragte han folkets gave. Han tog folkets syndofferbuk og slagtede den og bragte den som syndoffer ligesom det førnævnte. **16** Så bragte han brændofferet i overensstemmelse med forordningen. **17** Så bragte han afgrødeofferet. Han tog en håndfuld af det og brændte det på alteret; det ofrede han foruden morgenbrændofferet. **18** Så slagtede han oksen og vædderen som folkets måltidsoffer. Arons sønner rakte ham blodet, som han stænkede på alteret hele vejen rundt, **19** og de rakte ham fedtstykkerne fra oksen og fra vædderen, fedthalen, det fedt, der dækkede indvoldene, nyrerne og leverlappen, **20** og han lagde fedtstykkerne på bryststykkerne og brændte fedtstykkerne på alteret. **21** Aron foretog svingningen med bryststykkerne og det højre lårstykke for Herrens ansigt, sådan som Moses havde befalet.
 
 **22** Derpå løftede Aron sine hænder mod folket og velsignede det. Efter at han havde bragt syndofferet, brændofferet og måltidsofferet, gik han ned. **23** Så gik Moses og Aron ind i Åbenbaringsteltet, og da de kom ud, velsignede de folket. Herrens herlighed viste sig for hele folket, **24** og en ild slog ud fra Herren og fortærede brændofferet og fedtstykkerne på alteret, og da hele folket så det, brød de ud i jubel og kastede sig ned.
+
+[– tilbage –](#indhold)
 
 <a id="3mos10"></a>
 
@@ -2203,6 +2403,8 @@ Men Aron tav. **4** Så kaldte Moses på Mishael og Elsafan, sønner af Arons fa
 **14** Svingnings-bryststykket og afgifts-lårstykket skal du og dine sønner og de døtre, der bor hos dig, spise på et rent sted, for det har du og dine sønner fået som jeres retmæssige del af israelitternes måltidsofre. **15** Sammen med ofrene af fedtstykkerne skal I frembære afgifts-lårstykket og svingnings-bryststykket og foretage svingningen for Herrens ansigt. Det skal tilfalde dig og dine sønner som en eviggyldig rettighed, sådan som Herren har befalet.«
 
 **16** Moses spurgte efter syndofferbukken, men den var blevet brændt. Da blev han vred på Eleazar og Itamar, dem der var tilbage af Arons sønner, og han sagde: **17** »Hvorfor har I ikke spist syndofferet på det hellige sted? Det er jo højhelligt, og det har han givet jer, for at I skal tage menighedens skyld bort og skaffe dem soning for Herrens ansigt. **18** Dets blod er ikke blevet bragt indenfor i helligdommen, derfor skulle I have spist det på det hellige sted, som jeg har befalet.« **19** Men Aron sagde til Moses: »Se, de har i dag bragt deres syndoffer og deres brændoffer for Herrens ansigt, og så er noget sådant overgået mig! Havde det været godt i Herrens øjne, hvis jeg havde spist syndoffer i dag?« **20** Det svar godtog Moses.
+
+[– tilbage –](#indhold)
 
 <a id="3mos11"></a>
 
@@ -2230,6 +2432,8 @@ Men Aron tav. **4** Så kaldte Moses på Mishael og Elsafan, sønner af Arons fa
 
 **46** Det var loven om dyr og fugle og om alle levende væsener, som rører sig i vandet, og om alle væsener, som kryber på jorden, **47** så I kan skille det urene fra det rene, og dyr, der må spises, fra dyr, der ikke må spises.
 
+[– tilbage –](#indhold)
+
 <a id="3mos12"></a>
 
 ### 3 Mos 12
@@ -2241,6 +2445,8 @@ Men Aron tav. **4** Så kaldte Moses på Mishael og Elsafan, sønner af Arons fa
 Det var loven om en kvinde, der føder en dreng eller en pige.
 
 **8** Men hvis hun ikke har råd til et lam, skal hun tage to turtelduer eller to dueunger, den ene til brændoffer og den anden til syndoffer. På den måde skaffer præsten hende soning; så er hun ren.
+
+[– tilbage –](#indhold)
 
 <a id="3mos13"></a>
 
@@ -2268,6 +2474,8 @@ Det var loven om en kvinde, der føder en dreng eller en pige.
 
 **59** Det var loven om angreb af spedalskhed på tøj af uld eller hør, på trend eller islæt, eller på læderting, så I kan erklære det rent eller urent.
 
+[– tilbage –](#indhold)
+
 <a id="3mos14"></a>
 
 ### 3 Mos 14
@@ -2285,6 +2493,8 @@ Det var loven om en kvinde, der føder en dreng eller en pige.
 **54** Det var loven om alle angreb af spedalskhed, skurv, **55** spedalskhed på tøj og huse, **56** hævelse, udslæt og lyse pletter, **57** til belæring om, hvornår noget er urent, og hvornår det er rent.
 
 Det var loven om spedalskhed.
+
+[– tilbage –](#indhold)
 
 <a id="3mos15"></a>
 
@@ -2310,6 +2520,8 @@ Det var loven om spedalskhed.
 
 **32** Det var loven om den mand, der har udflåd, og om den, der har sædafgang og bliver uren ved det, **33** og om den kvinde, der har menstruation, og om den, der har udflåd, mand eller kvinde, og om den mand, som har samleje med en uren kvinde.
 
+[– tilbage –](#indhold)
+
 <a id="3mos16"></a>
 
 ### 3 Mos 16
@@ -2334,6 +2546,8 @@ Det var loven om spedalskhed.
 
 Aron gjorde, som Herren havde befalet Moses.
 
+[– tilbage –](#indhold)
+
 <a id="3mos17"></a>
 
 ### 3 Mos 17
@@ -2351,6 +2565,8 @@ Aron gjorde, som Herren havde befalet Moses.
 **13** Hvem som helst af israelitterne og af de fremmede, der bor som gæst blandt dem, som fanger noget vildt eller en fugl, der må spises, skal lade blodet løbe fra og dække det til med jord. **14** For blodet er livet i alt kød; det er dets liv. Og jeg siger til israelitterne: I må ikke spise blodet fra noget som helst kød, for blodet er livet i alt kød. Enhver, der spiser det, skal udryddes.
 
 **15** Enhver – det gælder både landets egne og de fremmede – der spiser selvdøde eller sønderrevne dyr, skal vaske sit tøj og bade sig i vand; han er uren indtil aften. Så er han ren. **16** Hvis han ikke vasker sit tøj og bader sig, må han bære sin straf.
+
+[– tilbage –](#indhold)
 
 <a id="3mos18"></a>
 
@@ -2400,6 +2616,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **24** Gør jer ikke urene med al den slags, for med al den slags har de folk gjort sig urene, som jeg jager bort foran jer. **25** Landet blev urent, og jeg straffede det for dets synd, og landet spyttede sine indbyggere ud. **26** Men I skal holde mine love og mine retsregler og undlade at gøre nogen af disse vederstyggeligheder, det gælder både landets egne og de fremmede, der bor som gæst blandt jer; **27** for alle disse vederstyggeligheder gjorde de, der var i landet før jer, så landet blev urent. **28** Ellers vil landet spytte jer ud, fordi I gør det urent, sådan som det har spyttet det folk ud, som var der før jer. **29** For enhver, som gør nogen af disse vederstyggeligheder, det menneske skal udryddes fra sit folk. **30** Hold mine bud, og følg ikke de vederstyggelige skikke, som man fulgte tidligere, og gør jer ikke urene ved dem! Jeg er Herren jeres Gud!
 
+[– tilbage –](#indhold)
+
 <a id="3mos19"></a>
 
 ### 3 Mos 19
@@ -2435,6 +2653,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **33** Når en fremmed bor som gæst i jeres land, må I ikke udnytte ham. **34** Den fremmede, der bor som gæst hos jer, skal være som en af landets egne, og du skal elske ham som dig selv. I var jo selv fremmede i Egypten. Jeg er Herren jeres Gud!
 
 **35** I må ikke øve uret i retssager om længdemål, vægt eller rummål. **36** Korrekt vægt, korrekte lodder, korrekt efa og korrekt hin skal I bruge. Jeg er Herren jeres Gud, som førte jer ud af Egypten! **37** I skal omhyggeligt følge alle mine love og alle mine retsregler. Jeg er Herren!
+
+[– tilbage –](#indhold)
 
 <a id="3mos20"></a>
 
@@ -2476,6 +2696,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **27** Når en mand eller en kvinde har en dødemaners eller en sandsigers ånd i sig, skal de lide døden. I skal stene dem. De har selv skylden for deres død.
 
+[– tilbage –](#indhold)
+
 <a id="3mos21"></a>
 
 ### 3 Mos 21
@@ -2489,6 +2711,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **16** Herren talte til Moses og sagde: **17** Sig til Aron: Ingen af dine efterkommere i slægt efter slægt, som har en legemsfejl, må komme nær og frembære sin Guds føde. **18** Ingen mand, som har en fejl, må komme nær, hvad enten han er blind eller halt, har hareskår eller en forvokset legemsdel, **19** eller han har brækket ben eller arm, **20** er pukkelrygget eller dværg eller har hvid plet i øjet, eller har skab eller fnat eller beskadigede testikler. **21** Ingen af præsten Arons slægt, som har nogen fejl, må træde frem og frembære Herrens ofre. Hvis han har en fejl, må han ikke træde frem og frembære sin Guds føde. **22** Han har lov at spise sin Guds føde, både det højhellige og helliggaverne. **23** Men han må ikke komme hen til forhænget, og han må ikke komme nær til alteret, for han har en fejl; han må ikke vanhellige min helligdom, for jeg, Herren, helliger den.
 
 **24** Sådan talte Moses til Aron og hans sønner og til alle israelitterne.
+
+[– tilbage –](#indhold)
 
 <a id="3mos22"></a>
 
@@ -2507,6 +2731,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **26** Herren talte til Moses og sagde: **27** Når der fødes en kalv, et lam eller et kid, skal det blive syv dage hos sin mor; fra den ottende dag og fremefter kan det bruges som offergave til Herren og bringe hans velbehag. **28** Hvad okse og får angår, må I ikke slagte et dyr og dets afkom på samme dag. **29** Når I bringer et takoffer til Herren, skal I gøre det, så I opnår hans velbehag. **30** Det skal spises samme dag, I må ikke levne noget af det til næste morgen. Jeg er Herren!
 
 **31** I skal omhyggeligt følge mine befalinger. Jeg er Herren! **32** I må ikke vanhellige mit hellige navn. Jeg vil være helliget blandt israelitterne. Jeg, Herren, helliger jer. **33** Det var mig, der førte jer ud af Egypten for at være jeres Gud. Jeg er Herren!
+
+[– tilbage –](#indhold)
 
 <a id="3mos23"></a>
 
@@ -2536,6 +2762,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **44** Det var, hvad Moses sagde til israelitterne om Herrens fester.
 
+[– tilbage –](#indhold)
+
 <a id="3mos24"></a>
 
 ### 3 Mos 24
@@ -2553,6 +2781,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **17** Når nogen slår et menneske ihjel, skal han lide døden. **18** Den, der slår et husdyr ihjel, skal erstatte det med liv for liv. **19** Når nogen tilføjer sin landsmand en legemsskade, skal der gøres det samme ved ham, som han selv har gjort, **20** brud for brud, øje for øje, tand for tand. Den legemsskade, man påfører en anden, skal man selv påføres. **21** Den, der slår et husdyr ihjel, skal erstatte det, og den, der slår et menneske ihjel, skal lide døden. **22** Hos jer skal én og samme forordning gælde for de fremmede såvel som for landets egne. Jeg er Herren jeres Gud!
 
 **23** Det sagde Moses til israelitterne, og så førte de ham, der havde udtalt forbandelsen, uden for lejren og stenede ham. Israelitterne gjorde, som Herren havde befalet Moses.
+
+[– tilbage –](#indhold)
 
 <a id="3mos25"></a>
 
@@ -2578,6 +2808,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **47** Når den fremmede og tilflytteren hos dig klarer sig godt, men det går dårligt for din landsmand hos ham, så han lader sig sælge til den fremmede eller tilflytteren hos dig eller til en efterkommer i den fremmedes slægt, **48** skal han, efter at han er solgt, have mulighed for indløsning. En af hans slægtninge kan indløse ham; **49** enten kan hans farbror eller hans fætter indløse ham, eller en anden af hans kødelige slægtninge kan indløse ham. Eller hvis han skaffer sig nok, kan han indløse sig selv. **50** Sammen med ham, der købte ham, skal han beregne tiden fra det år, han blev solgt, frem til jubelåret, og beløbet for salget af ham skal svare til antallet af år. Hans tid hos ham skal beregnes som en daglejers. **51** Er der endnu mange år tilbage, skal han for sin indløsning betale en tilsvarende del af købesummen. **52** Er der kun få år tilbage til jubelåret, skal han beregne efter det, og svarende til antallet af de år skal han betale for sin indløsning. **53** Han skal have det hos ham som en daglejer år efter år; den, der købte ham, må ikke underkue ham med vold. **54** Bliver han ikke indløst på nogen af disse måder, skal han gives fri i jubelåret sammen med sine børn. **55** For israelitterne tilhører mig som trælle; de er mine trælle, som jeg førte ud af Egypten. Jeg er Herren jeres Gud!
 
+[– tilbage –](#indhold)
+
 <a id="3mos26"></a>
 
 ### 3 Mos 26
@@ -2593,6 +2825,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **14** Men hvis I ikke hører på mig og ikke følger alle disse befalinger, **15** hvis I forkaster mine love og vrager mine retsregler, og ikke følger alle mine befalinger, men bryder min pagt, **16** da vil jeg til gengæld gøre sådan ved jer: Jeg vil hjemsøge jer med rædsler, svindsot og feber, der slukker lyset i jeres øjne og tager livskraften fra jer. Forgæves skal I så jeres sæd, jeres fjender får udbyttet at spise. **17** Jeg vender mig mod jer, så I bliver slået af jeres fjender, og jeres modstandere kommer til at herske over jer; I skal flygte, selv om ingen forfølger jer. **18** Hvis I alligevel ikke hører på mig, vil jeg tugte jer yderligere syvdobbelt for jeres synder. **19** Jeg sønderbryder jeres stolte styrke; himlen over jer gør jeg til jern, og jeres land til bronze. **20** Jeres kraft skal opbruges til ingen nytte, jeres land skal ikke give afgrøde, og træerne i landet skal ikke give frugt. **21** Hvis I stadig trodser mig og nægter at høre på mig, vil jeg ramme jer yderligere syvdobbelt for jeres synder. **22** Jeg vil sende vilde dyr mod jer, de skal gøre jer barnløse og udrydde jeres kvæg; de skal gøre jer fåtallige, og jeres veje skal ligge øde hen. **23** Hvis I alligevel ikke lader jer tugte, men stadig trodser mig, **24** vil også jeg vise jer trods og ramme jer syvdobbelt for jeres synder. **25** Jeg vil bringe sværdet over jer, som skal hævne pagtsbruddet, og når I trækker jer tilbage i jeres byer, vil jeg sende pest blandt jer, og I bliver overgivet til jeres fjender. **26** Når jeg knækker brødets støttestav for jer, skal ti kvinder bage jeres brød i én ovn; de skal give jer jeres brød tilbage efter vægt, og I kan ikke spise jer mætte. **27** Hvis I alligevel ikke hører på mig, men stadig trodser mig, **28** vil også jeg vise jer trods i vrede og tugte jer syvdobbelt for jeres synder. **29** I skal æde kødet af jeres egne sønner og døtre. **30** Jeg ødelægger jeres høje og tilintetgør jeres røgelsesaltre, jeg dynger jeres lig oven på ligene af jeres møgguder, og jeg vrager jer. **31** Jeres byer lægger jeg i ruiner, jeg ødelægger jeres helligdomme, og jeg vil ikke indånde den liflige duft af jeres ofre. **32** Jeg lægger landet øde, så jeres fjender, som bosætter sig i det, skal gyse over det. **33** Jer selv vil jeg sprede blandt folkene, og med draget sværd vil jeg forfølge jer; jeres land skal blive til ørken og jeres byer lægges i ruiner. **34** Da skal landet få erstatning for sine sabbatter al den tid, det ligger øde hen, mens I er i jeres fjenders land; landet skal hvile og få erstatning for sine sabbatter. **35** Al den tid, det ligger øde hen, skal det hvile, fordi det ikke kunne hvile under jeres sabbatter, da I boede i det. **36** På dem af jer, som endnu er tilbage i deres fjenders land, bringer jeg frygtsomhed i hjertet; selv lyden af visne blade jager dem op, og de skal flygte, som man flygter for sværdet, de skal falde, selv om ingen forfølger dem. **37** Selv om ingen forfølger dem, skal de snuble over hinanden, som var de på flugt for sværdet, og I skal ikke kunne holde stand over for jeres fjender. **38** I skal gå til grunde blandt folkene, og jeres fjenders land skal fortære jer. **39** De af jer, der er tilbage, skal rådne op i jeres fjenders land i deres egen skyld; også i deres fædres skyld skal de rådne op. **40** Da skal de bekende den synd, de selv og deres fædre i troløshed begik mod mig, og også, at de trodsede mig, **41** så også jeg måtte vise dem trods og føre dem ind i deres fjenders land. Og da skal deres uomskårne hjerte ydmyge sig, og de skal betale af på deres skyld. **42** Så vil jeg huske på min pagt med Jakob; også min pagt med Isak og også min pagt med Abraham vil jeg huske på, og landet vil jeg huske på. **43** Men først skal landet forlades af dem og have erstatning for sine sabbatter, mens det ligger øde hen, befriet for dem; og de skal betale af på deres skyld, netop fordi de forkastede mine retsregler og vragede mine love. **44** Men selv da, når de er i deres fjenders land, vil jeg ikke forkaste dem og ikke vrage dem og ikke gøre det af med dem, så jeg bryder min pagt med dem. Jeg er Herren deres Gud! **45** For deres skyld vil jeg huske på pagten med fædrene, som jeg førte ud af Egypten for øjnene af folkene for at være deres Gud. Jeg er Herren!
 
 **46** Det var de love og retsregler og lovbud, som Herren på Sinajs bjerg fastsatte mellem sig selv og israelitterne gennem Moses.
+
+[– tilbage –](#indhold)
 
 <a id="3mos27"></a>
 
@@ -2613,6 +2847,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **30** Al tiende af landet, både jordens korn og træernes frugt, tilhører Herren. Det er helliget Herren. **31** Hvis nogen vil indløse noget af sin tiende, skal der lægges en femtedel til. **32** Med hensyn til tiende af køer og får, af alt det, som passerer under hyrdestaven, skal hvert tiende dyr være helliget Herren. **33** Der må ikke skelnes mellem godt og dårligt, og det må ikke byttes. Bytter man det alligevel, skal begge dyr, både det, der skulle afgives, og det, det er byttet med, være helliget. Det kan ikke indløses.
 
 **34** Det var de befalinger, Herren pålagde Moses at give israelitterne på Sinajs bjerg.
+
+[– tilbage –](#indhold)
 
 ------------------------------------------------------------------------
 
@@ -2656,6 +2892,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **54** Israelitterne gjorde, ganske som Herren havde befalet Moses.
 
+[– tilbage –](#indhold)
+
 <a id="4mos2"></a>
 
 ### 4 Mos 2
@@ -2675,6 +2913,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **32** Det var de israelitter, der blev mønstret efter deres fædrenehuse. Alle de mønstrede i lejrene, hærafdeling for hærafdeling, udgjorde 603.550. **33** Levitterne blev ikke mønstret blandt israelitterne, sådan som Herren havde befalet Moses.
 
 **34** Israelitterne gjorde, ganske som Herren havde befalet Moses. De slog lejr, fanehær for fanehær, og de brød op, slægt for slægt i deres fædrenehuse.
+
+[– tilbage –](#indhold)
 
 <a id="4mos3"></a>
 
@@ -2710,6 +2950,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **44** Herren talte til Moses og sagde: **45** »Udtag levitterne i stedet for alle førstefødte blandt israelitterne, og udtag levitternes dyr i stedet for israelitternes dyr. Levitterne skal tilhøre mig. Jeg er Herren! **46** Til frikøb af de 273 af israelitternes førstefødte, som overstiger levitternes antal, **47** skal du tage fem sekel for hver person; du skal tage dem efter helligdommens vægt; en sekel er tyve gera. **48** Pengene skal du give Aron og hans sønner til frikøb af de overskydende.« **49** Moses tog frikøbspengene for dem, der oversteg antallet af dem, der var frikøbt ved levitterne. **50** Han tog pengene fra israelitternes førstefødte, 1365 sekel efter helligdommens vægt. **51** På Herrens befaling gav Moses frikøbspengene til Aron og hans sønner, sådan som Herren havde befalet Moses.
 
+[– tilbage –](#indhold)
+
 <a id="4mos4"></a>
 
 ### 4 Mos 4
@@ -2734,6 +2976,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **46** Alle de levitter, som Moses og Aron og Israels overhoveder holdt mønstring over, slægt for slægt og fædrenehus for fædrenehus, **47** fra tredive år og opefter indtil halvtreds år, alle der skulle udføre arbejde i Åbenbaringsteltet og arbejde med at bære, **48** disse mønstrede udgjorde 8580. **49** Aron holdt mønstring over dem på Herrens befaling ved Moses, hver enkelt til sit arbejde med at bære. De blev mønstret, sådan som Herren havde befalet Moses.
 
+[– tilbage –](#indhold)
+
 <a id="4mos5"></a>
 
 ### 4 Mos 5
@@ -2751,6 +2995,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **11** Herren talte til Moses og sagde: **12** Tal til israelitterne og sig til dem: Hvis en kvinde kommer på afveje og er sin mand utro, **13** ved at en anden mand har samleje med hende, uden at hendes mand ved det, og uden at det bliver opdaget, skønt hun er blevet uren, og der ikke er noget vidne imod hende, fordi hun ikke blev grebet på fersk gerning, **14** og skinsygen griber ham, og han bliver skinsyg på sin hustru, der er blevet uren, eller hvis skinsygen griber ham, og han bliver skinsyg på sin hustru, skønt hun ikke er blevet uren, **15** så skal manden føre sin hustru til præsten. Som offergave for hende skal han medbringe en tiendedel efa bygmel, som han ikke må hælde olie over og ikke komme røgelse på; det er et skinsygeoffer, et erindringsoffer, der skal gøre Gud opmærksom på skylden. **16** Præsten skal lade hende træde frem og stille hende for Herrens ansigt. **17** Præsten skal så tage helligt vand i en lerskål, og han skal tage noget af støvet på gulvet i boligen og komme det i vandet. **18** Når præsten har stillet kvinden frem for Herrens ansigt, skal han løse hendes hår og lægge erindringsofferet, skinsygeofferet, i hendes hænder, mens præsten i sin hånd skal have bitterhedens vand, der bringer forbandelse. **19** Præsten skal så tage kvinden i ed og sige til hende: »Hvis der ikke er nogen, der har haft samleje med dig, og du ikke er kommet på afveje, så du, en gift kvinde, er blevet uren, så vil dette bitterhedens vand, der bringer forbandelse, ikke skade dig. **20** Men hvis du, en gift kvinde, er kommet på afveje og er blevet uren, fordi en anden end din mand har haft samleje med dig« – **21** præsten tager nu kvinden i ed med forbandelseseden og siger til hende – »så skal Herren gøre dig til en forbandelse og besværgelse i dit folk ved at lade dine hofter skrumpe og din mave svulme. **22** Når dette vand, der bringer forbandelse, kommer ned i dine indvolde, skal din mave svulme og dine hofter skrumpe«. Og kvinden skal sige: »Amen, amen.« **23** Præsten skal skrive disse forbandelser ned og vaske dem ud i bitterhedens vand; **24** han skal give kvinden bitterhedens vand, der bringer forbandelse, at drikke, og bitterhedens vand, der bringer forbandelse, skal komme ind i hende. **25** Så skal præsten tage skinsygeofferet fra kvindens hånd og foretage svingningen med det for Herrens ansigt og bringe det hen til alteret. **26** Af afgrødeofferet skal han tage en håndfuld som duftoffer og brænde det på alteret. Derefter skal han give kvinden vandet at drikke. **27** Han skal give hende vandet at drikke, og hvis hun er blevet uren og har været sin mand utro, så vil hendes mave svulme og hendes hofter skrumpe, når bitterhedens vand, der bringer forbandelse, kommer ind i hende, og så bliver kvinden til forbandelse i sit folk. **28** Men hvis kvinden ikke er blevet uren, men er ren, skader det hende ikke, og hun vil kunne få børn.
 
 **29** Det var loven om skinsyge, når en gift kvinde bedrager sin mand og bliver uren, **30** eller når skinsygen griber en mand, så han bliver skinsyg på sin hustru. Præsten skal stille hende frem for Herrens ansigt, og følge hele denne lov. **31** Manden går fri af straf, men kvinden må bære sin straf.
+
+[– tilbage –](#indhold)
 
 <a id="4mos6"></a>
 
@@ -2773,6 +3019,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 >  **26** Herren løfte sit ansigt mod dig og give dig fred.
 
 **27** Sæt mit navn på israelitterne, så vil jeg velsigne dem.
+
+[– tilbage –](#indhold)
 
 <a id="4mos7"></a>
 
@@ -2812,6 +3060,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **89** Hver gang Moses gik ind i Åbenbaringsteltet for at tale med Herren, hørte han stemmen tale til sig fra sonedækket oven på Vidnesbyrdets ark mellem de to keruber; den talte til ham.
 
+[– tilbage –](#indhold)
+
 <a id="4mos8"></a>
 
 ### 4 Mos 8
@@ -2828,6 +3078,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **23** Herren talte til Moses og sagde: **24** Dette gælder for levitterne: Fra det femogtyvende år og opefter er de forpligtede til at udføre arbejde i Åbenbaringsteltet. **25** Fra det halvtredsindstyvende år skal de trække sig tilbage fra arbejdet; da må de ikke mere udføre arbejde. **26** De kan hjælpe deres brødre i Åbenbaringsteltet med vagttjenesten, men de må ikke udføre arbejde. Sådan skal du gøre med hensyn til levitternes vagttjeneste.
 
+[– tilbage –](#indhold)
+
 <a id="4mos9"></a>
 
 ### 4 Mos 9
@@ -2843,6 +3095,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 #### Skyen over helligdommen
 
 **15** Den dag, boligen blev rejst, dækkede skyen boligen, Vidnesbyrdets telt, og om aftenen var der over boligen noget, der så ud som ild; det blev der til om morgenen. **16** Sådan var det hele tiden: Skyen dækkede den, og om natten var der noget, der så ud som ild. **17** Hver gang skyen løftede sig fra teltet, brød israelitterne op, og på det sted, hvor skyen lagde sig, slog israelitterne lejr. **18** På Herrens befaling brød israelitterne op, og på Herrens befaling slog de lejr. Så længe skyen lå over boligen, blev de i lejren. **19** Når skyen blev liggende over boligen i flere dage, holdt israelitterne Herrens bud og brød ikke op. **20** Skete det, at skyen kun lå få dage over boligen, blev de i lejren på Herrens befaling, og på Herrens befaling brød de op. **21** Skete det, at skyen lå fra aften til morgen, og den så løftede sig om morgenen, brød de op. Hvad enten det var dag eller nat, brød de op, når skyen løftede sig. **22** Eller når skyen blev liggende over boligen i to dage, eller en måned eller længere endnu, blev israelitterne i lejren og brød ikke op. Men når den løftede sig, brød de op. **23** På Herrens befaling slog de lejr, og på Herrens befaling brød de op. De holdt Herrens bud på Herrens befaling gennem Moses.
+
+[– tilbage –](#indhold)
 
 <a id="4mos10"></a>
 
@@ -2869,6 +3123,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 > »Vend tilbage, Herre,
 > du Israels stammers titusinder!«
 
+[– tilbage –](#indhold)
+
 <a id="4mos11"></a>
 
 ### 4 Mos 11
@@ -2892,6 +3148,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **33** Men endnu mens de havde kødet mellem tænderne og ikke havde tygget færdig, flammede Herrens vrede op mod folket, og Herren slog en mængde af dem ihjel. **34** Dette sted fik navnet Kibrot-ha-Ta’ava, fordi de, der havde været grådige, blev begravet der.
 
 **35** Fra Kibrot-ha-Ta’ava brød de op og drog til Haserot, og de blev i Haserot.
+
+[– tilbage –](#indhold)
 
 <a id="4mos12"></a>
 
@@ -2917,6 +3175,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **9** Herrens vrede flammede op imod dem, og han gik bort. **10** Da skyen fjernede sig fra teltet, var Mirjam hvid som sne af spedalskhed; Aron vendte sig mod Mirjam og så, at hun var spedalsk. **11** Da sagde Aron til Moses: »Hør mig, herre! Lad ikke straffen ramme os for den synd, vi var så tåbelige at begå. **12** Lad hende ikke blive som en dødfødt, hvis krop er halvt fortæret, når den kommer ud af moders liv.« **13** Da råbte Moses til Herren: »Ak nej! Gør hende dog rask!« **14** Men Herren sagde til Moses: »Hvis hendes far havde spyttet hende i ansigtet, måtte hun så ikke bære sin skam i syv dage? I syv dage skal hun lukkes ude fra lejren; derefter kan hun komme ind igen.« **15** Så blev Mirjam lukket ude fra lejren i syv dage, og folket brød ikke op, før Mirjam var kommet ind igen. **16** Derefter brød de op fra Haserot og slog lejr i Parans ørken.
 
+[– tilbage –](#indhold)
+
 <a id="4mos13"></a>
 
 ### 4 Mos 13
@@ -2933,6 +3193,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **30** Kaleb tyssede på folket, der havde vendt sig mod Moses. Han sagde: »Lad os dog drage op og erobre landet. Det kan vi sagtens!« **31** Men de mænd, der havde været deroppe sammen med ham, sagde: »Vi kan ikke drage op mod det folk, for de er stærkere end vi.« **32** Og til israelitterne udspredte de rygter om det land, de havde udspejdet: »Det land, vi drog igennem og udspejdede, er et land, der vil fortære sine egne indbyggere. Alle de folk, vi så i landet, var umådeligt store. **33** Ja, vi har set kæmper dér – Anak-sønnerne hører til kæmperne – så vi var som græshopper i vores egne øjne; det var vi også i deres øjne!«
 
+[– tilbage –](#indhold)
+
 <a id="4mos14"></a>
 
 ### 4 Mos 14
@@ -2946,6 +3208,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **36** De mænd, Moses havde sendt af sted for at udspejde landet, og som kom tilbage og fik hele menigheden til at give ondt af sig mod ham ved at udsprede rygter om landet, **37** de mænd, der havde udspredt onde rygter om landet, led en brat død for Herrens ansigt. **38** Og af de mænd, der var draget ud for at udspejde landet, blev kun Josva, Nuns søn, og Kaleb, Jefunnes søn, i live.
 
 **39** Da Moses sagde dette til alle israelitterne, blev folket grebet af sorg. **40** Næste morgen ville de drage højt op i bjerglandet, og de sagde: »Vi har syndet! men nu vil vi drage op til det sted, Herren talte om.« **41** Men Moses sagde: »Hvorfor vil I overtræde Herrens befaling? Det vil mislykkes! **42** Drag ikke op, for Herren vil ikke være hos jer. I må ikke blive slået af jeres fjender! **43** Der vil I blive mødt af amalekitterne og kana’anæerne, og I vil falde for sværdet. I har jo vendt jer fra Herren; derfor vil han ikke være med jer.« **44** Alligevel var de overmodige nok til at drage højt op i bjerglandet, men hverken Herrens pagts ark eller Moses veg fra lejren. **45** Og amalekitterne og kana’anæerne, som boede i bjerglandet, drog ned og slog dem og splittede dem, helt til Horma.
+
+[– tilbage –](#indhold)
 
 <a id="4mos15"></a>
 
@@ -2969,6 +3233,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **37** Herren talte til Moses og sagde: **38** Tal til israelitterne og sig til dem, at de slægt efter slægt skal sætte kvaster i hjørnerne af deres kapper og en purpurblå snor i hver kvast. **39** Det skal I have som kvast, og når I ser den, skal I huske på alle Herrens befalinger og følge dem og ikke lade jer lede af det, jeres hjerte tragter efter, og som jeres øjne ser, det I horer med. **40** Men I skal huske alle mine befalinger og følge dem, så I bliver hellige for jeres Gud. **41** Jeg er Herren jeres Gud, der førte jer ud af Egypten for at være jeres Gud. Jeg er Herren jeres Gud!
 
+[– tilbage –](#indhold)
+
 <a id="4mos16"></a>
 
 ### 4 Mos 16
@@ -2987,6 +3253,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **31** Så snart han havde sagt disse ord, revnede jorden under dem. **32** Jorden åbnede sit gab og slugte dem sammen med deres familier og alle de mennesker, der hørte til Kora, og alle deres ejendele. **33** De og alle, der hørte til dem, styrtede levende ned i dødsriget, og jorden lukkede sig over dem; de blev udryddet fra forsamlingen. **34** Men hele Israel, der stod rundt om dem, flygtede ved deres skrig, for de tænkte: »Jorden skal ikke sluge os!« **35** En ild slog ud fra Herren og fortærede de 250 mand, der ofrede røgelse.
 
+[– tilbage –](#indhold)
+
 <a id="4mos17"></a>
 
 ### 4 Mos 17
@@ -3004,6 +3272,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 
 **27** Men israelitterne sagde til Moses: »Vi omkommer! Vi går til grunde! Vi går alle sammen til grunde! **28** Enhver, der kommer Herrens bolig nær, dør! Skal vi omkomme alle sammen?«
 
+[– tilbage –](#indhold)
+
 <a id="4mos18"></a>
 
 ### 4 Mos 18
@@ -3016,6 +3286,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **20** Herren sagde til Aron: »Du får ingen arvelod i deres land, og du får ikke del blandt dem; jeg er din lod og del blandt israelitterne. **21** Levitterne giver jeg al tiende i Israel som arvelod, til gengæld for det arbejde, de udfører i Åbenbaringsteltet, **22** så israelitterne ikke mere skal komme Åbenbaringsteltet nær og pådrage sig skyld og dø. **23** Levitterne skal udføre arbejdet i Åbenbaringsteltet, og de skal have ansvaret for det. Det skal være en eviggyldig ordning for jer, slægt efter slægt. Blandt israelitterne skal de ikke have arvelod. **24** For den tiende, israelitterne yder Herren som afgift, giver jeg levitterne som arvelod; derfor har jeg sagt til dem, at de ikke skal have arvelod blandt israelitterne.«
 
 **25** Herren talte til Moses og sagde: **26** »Du skal tale til levitterne og sige til dem: Når I fra israelitterne modtager den tiende, som jeg har tildelt jer som jeres arvelod fra dem, så skal I som afgift til Herren yde en tiendedel af tienden. **27** Det skal regnes som jeres afgift, som var det kornet fra tærskepladsen og udbyttet fra vinpersen. **28** På den måde yder også I afgift til Herren af al den tiende, I modtager fra israelitterne, og heraf skal I give den afgift, der tilkommer Herren, til præsten Aron. **29** Af alle de gaver, I får, skal I yde fuld afgift til Herren; helliggaven til ham skal være det bedste af tienden. **30** Du skal sige til dem: Når I har ydet det bedste af tienden – det gælder for levitterne som afgrøde fra tærskeplads og vinperse – **31** så må I og jeres familie spise resten et hvilket som helst sted, for det er jeres løn for arbejdet i Åbenbaringsteltet. **32** Når I yder det bedste af tienden, pådrager I jer ikke skyld, og I vanhelliger ikke israelitternes helliggaver; så skal I ikke dø!«
+
+[– tilbage –](#indhold)
 
 <a id="4mos19"></a>
 
@@ -3030,6 +3302,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 **14** Dette er loven: Når et menneske dør i et telt, er enhver, der kommer ind i teltet, og enhver, der er i teltet, uren i syv dage. **15** Ethvert åbent kar, der ikke er bundet noget over, er urent. **16** Enhver, der på åben mark rører ved én, der er dræbt af sværdet eller er død på anden vis, eller ved knogler af et menneske eller ved en grav, er uren i syv dage. **17** Man skal tage noget af asken fra det brændte syndoffer med henblik på den urene og hælde frisk vand over den i en skål. **18** Så skal en mand, der er ren, tage isop, dyppe den i vandet og stænke det på teltet og på alle de genstande og de mennesker, som var dér, og på den, der har rørt ved knogler eller ved én, der er dræbt eller er død på anden vis, eller ved en grav. **19** Den rene skal stænke det på den urene den tredje og den syvende dag; på den måde har han renset ham for synd på den syvende dag. Derpå skal han vaske sit tøj og bade sig i vand; så er han ren, når det bliver aften.
 
 **20** Den, som er uren og ikke renser sig for synd, det menneske skal udryddes fra forsamlingen, for han har gjort Herrens helligdom uren; der er ikke stænket renselsesvand på ham, han er uren. **21** Det skal være en eviggyldig ordning for jer. Den, der stænker renselsesvandet, skal vaske sit tøj, og den, der rører renselsesvandet, er uren indtil aften. **22** Alt, hvad den urene rører ved, er urent, og den, der rører ved det, er uren indtil aften.
+
+[– tilbage –](#indhold)
 
 <a id="4mos20"></a>
 
@@ -3050,6 +3324,8 @@ Ingen kvinde må byde sig til for et dyr, for at det skal parre sig med hende. D
 #### Arons død
 
 **22** Så brød israelitterne op fra Kadesh, og hele israelitternes menighed kom til bjerget Hor. **23** Og ved bjerget Hor på grænsen til Edom sagde Herren til Moses og Aron: **24** »Aron skal gå til sin slægt; han må ikke komme ind i det land, jeg har givet israelitterne, for I trodsede Herrens befaling ved Meribas vand. **25** Tag Aron og hans søn Eleazar og før dem op på bjerget Hor. **26** Tag så klæderne af Aron, og giv hans søn Eleazar dem på. Dér skal Aron gå til sin slægt og dø.« **27** Moses gjorde, som Herren havde befalet; de gik op på bjerget Hor for øjnene af hele menigheden. **28** Moses tog klæderne af Aron og gav hans søn Eleazar dem på. Dér, på toppen af bjerget, døde Aron, og Moses og Eleazar gik ned fra bjerget. **29** Da hele menigheden så, at Aron var død, græd hele Israels hus over ham i tredive dage.
+
+[– tilbage –](#indhold)
 
 <a id="4mos21"></a>
 
@@ -3104,6 +3380,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **32** Moses sendte nogle mænd ud for at udspionere Jazer, og israelitterne indtog den med tilhørende småbyer og fordrev amoritterne, som boede der. **33** Så begav de sig op i retning af Bashan, og med hele sin hær rykkede Bashans konge Og ud til kamp mod dem ved Edre’i. **34** Da sagde Herren til Moses: »Vær ikke bange for ham, for jeg giver ham og hele hans hær og hans land i din magt. Du skal gøre med ham, som du gjorde med amoritterkongen Sihon, der regerede i Heshbon.« **35** Så slog de ham og hans sønner og hele hans hær; der var ingen, der overlevede. Og de erobrede hans land.
 
+[– tilbage –](#indhold)
+
 <a id="4mos22"></a>
 
 ### 4 Mos 22
@@ -3121,6 +3399,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 **22** Men Gud blev vred over, at han tog af sted, og Herrens engel stillede sig i vejen for ham, da han kom ridende på sit æsel ledsaget af sine to tjenere. **23** Da æslet så Herrens engel stå på vejen med draget sværd i hånden, drejede det af fra vejen og gik ud på marken; men Bileam slog æslet for at få det ind på vejen igen. **24** Så stillede Herrens engel sig i en hulvej mellem vingårdene, hvor der var et stengærde på begge sider. **25** Da æslet så Herrens engel, klemte det sig ind mod muren, så det kom til at klemme Bileams fod mod muren, og han slog det igen. **26** Men Herrens engel gik længere frem og stillede sig på et så snævert sted, at det var umuligt at komme forbi til højre eller venstre. **27** Da æslet så Herrens engel, lagde det sig ned, mens Bileam sad på det, og Bileam blev vred og slog æslet med stokken. **28** Da åbnede Herren æslets mund, og det sagde til Bileam: »Hvad har jeg gjort dig, siden du nu har slået mig tre gange?« **29** Bileam sagde til æslet: »Du har tirret mig. Havde jeg haft et sværd i hånden, havde jeg slået dig ihjel!« **30** Men æslet sagde til Bileam: »Er jeg ikke dit eget æsel, som du har redet på, lige fra du var lille til i dag! Plejer jeg måske at behandle dig på den måde?« »Nej,« svarede han. **31** Da åbnede Herren Bileams øjne; han så Herrens engel stå på vejen med draget sværd i hånden, og han bøjede sig dybt. **32** Herrens engel sagde til ham: »Hvorfor har du slået dit æsel tre gange? Jeg har stillet mig i vejen for dig, for din rejse er overilet og imod min vilje. **33** Æslet så mig, og tre gange bøjede det af foran mig; hvis det ikke var bøjet af foran mig, ville jeg have dræbt dig, men æslet havde jeg ladet leve!« **34** Da sagde Bileam til Herrens engel: »Jeg har syndet! Jeg vidste jo ikke, at du havde stillet dig foran mig på vejen! Hvis nu dette er ondt i dine øjne, vender jeg om.« **35** Men Herrens engel sagde til Bileam: »Gå kun med disse mænd. Men du må kun sige det, jeg taler til dig.« Så drog Bileam videre sammen med Balaks stormænd.
 
 **36** Da Balak hørte, at Bileam var kommet, gik han ham i møde ved Ar-Moab, der ligger ved grænsefloden Arnon, i det yderste af området. **37** Balak sagde til Bileam: »Når jeg nu sendte bud efter dig, hvorfor kom du så ikke til mig? Skulle jeg måske ikke være i stand til at betale dig?« **38** Bileam svarede Balak: »Nu er jeg jo kommet til dig! Men jeg er ikke i stand til at sige andet end det, Gud lægger mig i munden!« **39** Så fulgte Bileam med Balak, og da de kom til Kirjat-Husot, **40** slagtede Balak køer og får og sendte noget af det til Bileam og de stormænd, der var hos ham. **41** Næste morgen hentede Balak Bileam og førte ham op på Bamot-Ba’al; derfra kunne han se den yderste del af folket.
+
+[– tilbage –](#indhold)
 
 <a id="4mos23"></a>
 
@@ -3171,6 +3451,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 **25** Balak sagde til Bileam: »Når du nu ikke forbander det, så lad i det mindste være med at velsigne det!« **26** Men Bileam svarede Balak: »Har jeg ikke allerede sagt dig, at jeg vil gøre alt, hvad Herren siger.«
 
 **27** Balak sagde til Bileam: »Kom med, jeg vil tage dig hen til et andet sted. Måske vil Gud bifalde, at du forbander folket for mig dér.« **28** Så tog Balak Bileam op på toppen af Peor, hvorfra der er udsigt over ørkenlandet. **29** Bileam sagde til Balak: »Byg mig syv altre her, og skaf mig syv tyre og syv væddere!« **30** Balak gjorde, som Bileam havde befalet, og han ofrede en tyr og en vædder på hvert alter.
+
+[– tilbage –](#indhold)
 
 <a id="4mos24"></a>
 
@@ -3243,6 +3525,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **25** Så brød Bileam op og drog hjem til sig selv. Og også Balak gik sin vej.
 
+[– tilbage –](#indhold)
+
 <a id="4mos25"></a>
 
 ### 4 Mos 25
@@ -3256,6 +3540,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 **14** Den israelit, der blev dræbt sammen med den midjanitiske kvinde, hed Zimri; han var søn af Salu, overhoved for et af simeonitternes fædrenehuse. **15** Den midjanitiske kvinde, der blev dræbt, hed Kozbi; hun var datter af Sur, der var stammehøvding for et fædrenehus i Midjan.
 
 **16** Herren sagde til Moses: **17** »Angrib midjanitterne og slå dem ihjel! **18** For de angreb jer og brugte list imod jer på grund af det, der skete ved Peor, og på grund af Kozbi, deres landsmand, datter af en høvding i Midjan. Det var hende, der blev dræbt, den dag plagen brød ud på grund af Peor.«
+
+[– tilbage –](#indhold)
 
 <a id="4mos26"></a>
 
@@ -3297,6 +3583,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **63** Det var dem, der blev mønstret af Moses og præsten Eleazar, dengang de holdt mønstring over israelitterne på Moabs sletter ved Jordan over for Jeriko. **64** Blandt dem var der ingen tilbage af dem, der var blevet mønstret af Moses og præsten Aron, dengang de havde mønstret israelitterne i Sinajs ørken. **65** For Herren havde sagt til dem, at de skulle dø i ørkenen. Der var ikke andre tilbage af dem end Kaleb, Jefunnes søn, og Josva, Nuns søn.
 
+[– tilbage –](#indhold)
+
 <a id="4mos27"></a>
 
 ### 4 Mos 27
@@ -3315,6 +3603,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **22** Moses gjorde, sådan som Herren havde befalet ham. Han tog Josva og fremstillede ham for præsten Eleazar og hele menigheden; **23** han lagde sine hænder på ham og indsatte ham, sådan som Herren havde befalet ved Moses.
 
+[– tilbage –](#indhold)
+
 <a id="4mos28"></a>
 
 ### 4 Mos 28
@@ -3330,6 +3620,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 **16** På den fjortende dag i den første måned er det påske for Herren. **17** På den femtende dag i samme måned skal du fejre fest; syv dage skal der spises usyrede brød. **18** På den første dag er der hellig festforsamling; da må I ikke udføre noget arbejde. **19** I skal bringe to tyrekalve, en vædder og syv årgamle lam som brændoffer til Herren; det skal være lydefri dyr. **20** Det tilhørende afgrødeoffer skal være fint mel, rørt op med olie; for hver tyr skal I ofre tre tiendedele efa, for hver vædder to tiendedele efa, **21** og for hvert enkelt af de syv lam skal du ofre en tiendedel efa. **22** Desuden skal I ofre en syndofferbuk for at skaffe jer soning. **23** Det skal I ofre foruden morgenbrændofferet, som hører til det daglige offer. **24** Disse ofre skal I bringe på hver af de syv dage, en offerspise, en liflig duft for Herren; det skal ofres med tilhørende drikoffer, foruden det daglige brændoffer. **25** På den syvende dag skal I holde hellig festforsamling; da må I ikke udføre noget arbejde.
 
 **26** På førstegrødens dag, når I bringer Herren et offer af den nye afgrøde under jeres ugefest, skal I holde hellig festforsamling; da må I ikke udføre noget arbejde. **27** Som brændoffer, en liflig duft for Herren, skal I bringe to tyrekalve, en vædder og syv årgamle lam. **28** Det tilhørende afgrødeoffer skal være tre tiendedele efa fint mel, rørt op med olie, for hver tyr, to tiendedele for hver vædder **29** og en tiendedel for hvert enkelt af de syv lam. **30** Desuden skal I ofre en gedebuk for at skaffe jer soning. **31** Det skal I ofre med tilhørende drikofre foruden det daglige brændoffer med tilhørende afgrødeoffer; det skal være lydefri dyr.
+
+[– tilbage –](#indhold)
 
 <a id="4mos29"></a>
 
@@ -3355,6 +3647,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **39** Det skal I ofre til Herren ved jeres fester, foruden jeres løfteofre og frivilligofre, hvad enten det drejer sig om jeres brændofre, afgrødeofre, drikofre eller måltidsofre.
 
+[– tilbage –](#indhold)
+
 <a id="4mos30"></a>
 
 ### 4 Mos 30
@@ -3375,6 +3669,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **17** Det var de love, Herren pålagde Moses, om forholdet mellem mand og hustru og mellem far og den datter, der er ung og bor i sin fars hus.
 
+[– tilbage –](#indhold)
+
 <a id="4mos31"></a>
 
 ### 4 Mos 31
@@ -3394,6 +3690,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 **31** Moses og præsten Eleazar gjorde sådan, som Herren havde befalet Moses. **32** Det, der var tilbage af, hvad krigerne havde taget som bytte, udgjorde 675.000 stykker småkvæg, **33** 72.000 stykker hornkvæg **34** og 61.000 æsler. **35** Af mennesker var der i alt 32.000 kvinder, der ikke havde haft samleje med en mand. **36** Den halvpart, der tilfaldt dem, der var rykket ud til kamp, udgjorde: småkvæg i et antal af 337.500, **37** og afgiften til Herren af småkvæget var 675; **38** 36.000 stykker hornkvæg, hvoraf afgiften til Herren var 72; **39** 30.500 æsler, hvoraf afgiften til Herren var 61; **40** 16.000 mennesker, hvoraf afgiften til Herren var 32. **41** Moses gav Herrens afgift til præsten Eleazar, sådan som Herren havde befalet Moses. **42** Israelitternes halvpart – den halvpart Moses tog fra dem, der havde gjort krigstjeneste – **43** menighedens halvpart udgjorde: af småkvæget 337.500 stykker, **44** 36.000 stykker hornkvæg, **45** 30.500 æsler **46** og 16.000 mennesker. **47** Og af israelitternes halvpart tog Moses en enkelt ud af hver halvtreds, både af mennesker og dyr, og dem gav han til levitterne, som vogter Herrens bolig, sådan som Herren havde befalet Moses.
 
 **48** Da kom de beskikkede førere over hærens afdelinger hen til Moses, både tusindførerne og hundredførerne. **49** De sagde til Moses: »Vi, dine tjenere, har holdt mandtal over de krigere, som vi havde kommandoen over, og der mangler ingen. **50** Derfor bringer vi som gave til Herren, hvad enhver har fået fat på af guldsmykker: armbånd, armringe, fingerringe, øreringe og halssmykker, for at skaffe os soning for Herrens ansigt.« **51** Moses og præsten Eleazar tog imod guldet, alt sammen kunsthåndværk. **52** Alt guldet, der blev ydet som afgift til Herren fra tusindførerne og hundredførerne, vejede 16.750 sekel. **53** – De enkelte krigere havde plyndret hver for sig. – **54** Moses og præsten Eleazar tog imod guldet fra tusindførerne og hundredførerne, og de bragte det hen til Åbenbaringsteltet, for at det skulle bringe israelitterne i erindring for Herrens ansigt.
+
+[– tilbage –](#indhold)
 
 <a id="4mos32"></a>
 
@@ -3417,6 +3715,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 
 **42** Noba drog hen og indtog Kenat med tilhørende småbyer; han kaldte den Noba efter sit eget navn.
 
+[– tilbage –](#indhold)
+
 <a id="4mos33"></a>
 
 ### 4 Mos 33
@@ -3436,6 +3736,8 @@ Fra ørkenen drog de til Mattana, **19** fra Mattana til Nahaliel, fra Nahaliel 
 #### Befaling om erobring og fordeling af Vestjordanlandet
 
 **50** Herren talte til Moses på Moabs sletter ved Jordan over for Jeriko og sagde: **51** Tal til israelitterne og sig til dem: Når I kommer over Jordan ind i Kana’an, **52** skal I drive alle landets indbyggere bort foran jer. I skal ødelægge alle deres billeder; alle deres støbte billeder skal I ødelægge, og alle deres offerhøje skal I tilintetgøre. **53** I skal erobre landet og bosætte jer i det, for jeg giver landet i jeres besiddelse. **54** Ved lodkastning skal I udskifte landet imellem jeres slægter; en stor slægt skal I give stor arvelod, en lille skal du give lille arvelod. Den jord, loddet bestemmer til en slægt, skal tilhøre den. I skal udskifte landet imellem jeres fædrenestammer. **55** Hvis I ikke driver landets indbyggere bort foran jer, skal de, som I lader blive tilbage, blive en torn i øjet og en brod i siden på jer, og de skal ligge i krig med jer om det land, I bor i. **56** Det, jeg havde planlagt at gøre mod dem, vil jeg gøre mod jer.
+
+[– tilbage –](#indhold)
 
 <a id="4mos34"></a>
 
@@ -3457,6 +3759,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 
 **29** Det var dem, Herren udpegede til at tildele israelitterne arvelod i Kana’an.
 
+[– tilbage –](#indhold)
+
 <a id="4mos35"></a>
 
 ### 4 Mos 35
@@ -3473,6 +3777,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 
 **30** Hvis nogen slår et menneske ihjel, må man kun henrette drabsmanden på grundlag af vidners udsagn; hvad ét vidne siger, er ikke nok til, at nogen skal lide døden. **31** I må ikke tage imod sonepenge for en drabsmands liv, når han er skyldig til døden; han skal lide døden. **32** I må heller ikke tage mod sonepenge for den, der er flygtet til sin tilflugtsby, så han skulle kunne vende tilbage og bo på sin jord, før ypperstepræsten er død. **33** I må ikke vanhellige det land, I bor i. Blod vanhelliger landet, og for det blod, der udgydes i det, kan der kun skaffes landet soning ved blodet af den, der udgød det. **34** Du må ikke gøre det land, I bor i, urent; i det har jeg min bolig, for jeg er Herren, som bor iblandt israelitterne.
 
+[– tilbage –](#indhold)
+
 <a id="4mos36"></a>
 
 ### 4 Mos 36
@@ -3482,6 +3788,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 **1** Overhovederne for fædrenehusene i gileaditternes slægt kom hen til Moses og til høvdingene, der var overhoveder for israelitternes fædrenehuse. Gilead var søn af Makir, der var søn af Manasse, en af Josefsønnernes slægter. De sagde: **2** »Herren har befalet dig, herre, at give israelitterne landet som ejendom ved lodkastning, og du har også fået befaling af Herren om at give vores broder Selofkads arvelod til hans døtre. **3** Men hvis de nu bliver gift med nogen fra en anden israelitisk stamme, så bliver deres arvelod revet løs fra vores fædrene arvelod og lagt til den stammes arvelod, som de kommer til at tilhøre; den bliver revet løs fra vores arvelod. **4** Når så israelitternes jubelår kommer, bliver deres arvelod lagt til den stammes arvelod, de er kommet til at tilhøre, og så bliver deres arvelod revet løs fra vores fædrenestammes arvelod.« **5** Da gav Moses israelitterne denne befaling efter Herrens afgørelse: »Josefsønnernes stamme har ret. **6** Dette er, hvad Herren har befalet om Selofkads døtre: De må indgå ægteskab, med hvem de vil; men det skal være inden for en slægt i deres fædrenestamme, de bliver gift. **7** Ingen arvelod hos israelitterne må gå over fra én stamme til en anden; enhver israelit skal holde fast ved sin fædrenestammes arvelod. **8** Enhver kvinde fra en israelitisk stamme, som kommer i besiddelse af en arvelod, må kun blive gift med en fra en slægt i sin fædrenestamme, for at alle israelitter kan forblive i besiddelse af deres fædrene arvelod. **9** Ingen arvelod må gå over fra én stamme til en anden, for de israelitiske stammer skal holde fast ved hver sin arvelod.« **10** Selofkads døtre gjorde, som Herren havde befalet Moses; **11** Makla, Tirsa, Hogla, Milka og Noa, Selofkads døtre, blev gift med sønner af deres farbrødre. **12** De blev gift inden for manassitternes slægter – Manasse var søn af Josef – så deres arvelod forblev i deres fædrene slægts stamme.
 
 **13** Det var de befalinger og retsregler, Herren gav israelitterne gennem Moses på Moabs sletter ved Jordan over for Jeriko.
+
+[– tilbage –](#indhold)
 
 ------------------------------------------------------------------------
 
@@ -3507,6 +3815,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 
 **34** Da Herren hørte, hvad I sagde, blev han vred og svor: **35** »Ikke en eneste af mændene her, dette onde slægtled, skal få det herlige land at se, som jeg lovede at give jeres fædre. **36** Kun Kaleb, Jefunnes søn, skal få det at se; ham og hans sønner vil jeg give det land, hvor han satte sin fod, fordi han fuldt og helt var med Herren.« **37** Også mig blev Herren vred på for jeres skyld, og han sagde: »Heller ikke du skal komme derind! **38** Men Josva, Nuns søn, som er i din tjeneste, skal komme derind. Sæt mod i ham, for han skal give Israel landet i eje. **39** Og jeres småbørn, som I sagde ville blive gjort til bytte, og jeres sønner, som endnu ikke kender forskel på godt og ondt, de skal komme derind; til dem vil jeg give det, og de skal tage det i besiddelse. **40** Bryd nu op, og begiv jer ind i ørkenen i retning mod Sivhavet!« **41** Men I sagde til mig: »Vi har syndet mod Herren! Nu vil vi drage op og kæmpe, sådan som Herren vor Gud har befalet os.« Hver af jer væbnede sig og regnede det ikke for noget at drage op i bjerglandet. **42** Men Herren sagde til mig: »Sig til dem: Lad være med at drage op og kæmpe, for jeg vil ikke være hos jer. I må ikke blive slået af jeres fjender.« **43** Men da jeg sagde det til jer, ville I ikke høre; I trodsede Herrens befaling, og i jeres selvrådighed begav I jer op i bjerglandet. **44** Amoritterne, som boede i bjerglandet dér, rykkede ud imod jer; de forfulgte jer som en bisværm og splittede jer i Se’ir, helt til Horma. **45** Da vendte I om og græd for Herrens ansigt, men Herren ville ikke høre på jer eller lytte til jer. **46** I måtte blive boende lang tid i Kadesh, så længe I nu boede der.
 
+[– tilbage –](#indhold)
+
 <a id="5mos2"></a>
 
 ### 5 Mos 2
@@ -3521,6 +3831,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 
 **26** Så sendte jeg bud fra Kedemots ørken til kong Sihon i Heshbon med tilbud om fred: **27** »Lad mig drage gennem dit land; jeg holder mig til vejen og drejer hverken af til højre eller til venstre. **28** Du kan sælge mig den mad, jeg skal spise, og det vand, jeg skal drikke, **29** ligesom Esaus sønner, der bor i Se’ir, og moabitterne, der bor i Ar, gjorde. Jeg ønsker blot at vandre gennem landet, så jeg kan gå over Jordan og komme ind i det land, som Herren vor Gud vil give os.« **30** Men kong Sihon i Heshbon ville ikke lade os drage igennem sit land, for Herren din Gud havde forhærdet hans ånd og gjort hans hjerte hårdt for at give ham og hans land i din magt, som det er i dag. **31** Da sagde Herren til mig: »Se, nu overgiver jeg Sihon og hans land til dig; gå nu i gang med at erobre hans land.« **32** Da Sihon med hele sin hær rykkede ud til kamp mod os ved Jasa, **33** overgav Herren vor Gud ham til os, og vi slog ham og hans sønner og hele hans hær. **34** Dengang indtog vi alle hans byer, og i hver eneste by lagde vi band på mænd, kvinder og børn; der var ingen, der overlevede. **35** Kun dyrene tog vi med som krigsbytte sammen med det, vi røvede i de byer, vi havde indtaget. **36** Fra Aro’er på kanten af Arnondalen og byen, som ligger i dalen, og helt til Gilead var der ikke den by, hvis mure var for høje for os; alt overlod Herren vor Gud til os. **37** Men ammonitternes land kom du ikke tæt på, landet langs Jabbokfloden og byerne i bjerglandet, for det havde Herren forbudt os.
 
+[– tilbage –](#indhold)
+
 <a id="5mos3"></a>
 
 ### 5 Mos 3
@@ -3534,6 +3846,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 **21** Dengang gav jeg Josva denne befaling: »Du har selv set, hvad Herren jeres Gud har gjort ved disse to konger. Sådan vil Herren gøre ved alle de kongeriger, som du rykker over mod. **22** I skal ikke være bange for dem, for Herren jeres Gud vil selv føre krigen for jer.«
 
 **23** Dengang bønfaldt jeg Herren: **24** »Du, Gud Herre, har vist din tjener din storhed og din stærke hånd – ja, hvilken gud, i himmel eller på jord, kan gøre den slags vældige gerninger, som du gør? **25** Lad mig få lov at komme over og se det herlige land på den anden side af Jordan, dette herlige bjergland og Libanon.« **26** Men Herren var vred på mig på grund af jer og ville ikke høre på mig; han sagde til mig: »Nu er det nok! Tal ikke mere til mig om den sag! **27** Gå op på Pisgas tinde, og løft dit blik mod vest og mod nord, mod syd og mod øst, og se dig omkring. Du kommer ikke over Jordan! **28** Du skal indsætte Josva og styrke ham og sætte mod i ham, for han skal gå over i spidsen for dette folk, og han skal give dem det land, du ser, i eje.« **29** Så blev vi i dalen over for Bet-Peor.
+
+[– tilbage –](#indhold)
 
 <a id="5mos4"></a>
 
@@ -3558,6 +3872,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 #### Pagtslutningen ved Horeb og de ti bud
 
 **44** Dette er den lov, Moses fremlagde for israelitterne. **45** Dette er de formaninger, love og retsregler, Moses kundgjorde for israelitterne, da de drog ud af Egypten. **46** Det foregik øst for Jordan, i dalen over for Bet-Peor, i det land som tilhørte amoritterkongen Sihon, der regerede i Heshbon, men som Moses og israelitterne besejrede, da de drog ud af Egypten, **47** og hvis land de erobrede tillige med det land, der tilhørte Bashans konge Og, de to amoritterkonger øst for Jordan, **48** fra Aro’er på kanten af Arnondalen op til Si’ons bjerg, det samme som Hermon, **49** og hele Araba-lavningen øst for Jordan, hen til Araba-havet, ved foden af Pisgas skråninger.
+
+[– tilbage –](#indhold)
 
 <a id="5mos5"></a>
 
@@ -3593,6 +3909,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 
 **28** Da Herren hørte, hvad det var, I sagde til mig, sagde han: »Jeg har hørt, hvad dette folk sagde til dig; de har ret i det hele. **29** Gid de altid må frygte mig i deres hjerte og holde alle mine befalinger, så det må gå dem og deres børn godt i evighed. **30** Gå hen og sig til dem, at de skal gå tilbage til deres telte. **31** Selv skal du blive her hos mig, så vil jeg kundgøre dig alle de befalinger og de love og retsregler, du skal lære dem; dem skal de følge i det land, jeg vil give dem i eje.« **32** Følg dem derfor omhyggeligt, sådan som Herren jeres Gud har befalet jer, uden at vige til højre eller til venstre. **33** I skal vandre ad den vej, Herren jeres Gud har befalet jer, for at I må leve, og det må gå jer godt, og I må få et langt liv i det land, som I skal tage i besiddelse.
 
+[– tilbage –](#indhold)
+
 <a id="5mos6"></a>
 
 ### 5 Mos 6
@@ -3608,6 +3926,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 **16** I må ikke udæske Herren jeres Gud, sådan som I gjorde ved Massa. **17** I skal holde Herren jeres Guds befalinger og de formaninger og love, han har givet dig. **18** Gør, hvad der er ret og godt i Herrens øjne, for at det må gå dig godt, og du må komme ind og tage det herlige land i besiddelse, som Herren har lovet dine fædre. **19** Herren vil jage alle dine fjender væk foran dig, sådan som han har lovet.
 
 **20** Når din søn i fremtiden spørger dig: »Hvilke formaninger, love og retsregler er det, Herren vor Gud har givet jer?« **21** skal du svare ham: »Vi var Faraos trælle i Egypten, men Herren førte os ud af Egypten med stærk hånd. **22** Og Herren gjorde store og ulykkebringende tegn og undere i Egypten mod Farao og hele hans hus for øjnene af os. **23** Men os førte han ud derfra for at føre os ind og give os det land, han havde lovet vore fædre. **24** Og Herren befalede os at følge alle disse love og at frygte Herren vor Gud til vort eget bedste alle dage, så han kunne holde os i live, som han har gjort indtil i dag. **25** Vores retfærdighed består deri, at vi for Herren vor Guds ansigt omhyggeligt følger hele denne befaling, sådan som han har pålagt os.«
+
+[– tilbage –](#indhold)
 
 <a id="5mos7"></a>
 
@@ -3627,6 +3947,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 
 **17** Skulle du sige til dig selv: »De folk er større end jeg; hvordan skal jeg kunne fordrive dem?« **18** så vær ikke bange for dem. Husk på, hvad Herren din Gud gjorde ved Farao og hele Egypten, **19** husk de store prøvelser, du selv så, tegnene og underne, husk den stærke hånd og den løftede arm, som Herren din Gud førte dig ud med; sådan vil Herren din Gud også gøre ved alle de folk, du nu er bange for. **20** Herren din Gud vil sende modløsheden i dem, til selv de, som er tilbage og har skjult sig for dig, er udryddet. **21** Du skal ikke nære rædsel for dem, for Herren din Gud er hos dig, en stor og frygtindgydende Gud, **22** og Herren din Gud vil drive disse folk væk foran dig lidt efter lidt. Du skal ikke tilintetgøre dem hurtigt, for så bliver de vilde dyr dig for talrige. **23** Herren din Gud vil overgive dem til dig og bringe en stor forvirring over dem, til de er udryddet. **24** Han vil give deres konger i din magt, og du skal udrydde deres navn under himlen. Ingen skal kunne holde stand imod dig; du skal få dem alle udryddet. **25** Deres gudebilleder skal I brænde, og du må ikke begære sølvet og guldet på dem og tage det, for så bliver du fanget i en snare; Herren din Gud afskyr det. **26** Du må ikke bringe noget afskyeligt ind i dit hus; så bliver der lagt band på dig, ligesom på det. Du skal betragte det som vederstyggeligt og afskyeligt, for der er lagt band på det.
 
+[– tilbage –](#indhold)
+
 <a id="5mos8"></a>
 
 ### 5 Mos 8
@@ -3638,6 +3960,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 **7** Når Herren din Gud fører dig ind i et herligt land, et land med bække, med kilder og med strømme af vand, der vælder frem i dale og bjerge, **8** et land med hvede og byg, med vin og figner og granatæbler, et land med olivenolie og honning, **9** et land, hvor du ikke skal skaffe dig føden i fattigdom og ikke kommer til at mangle noget, et land, hvis sten er jern, og i hvis bjerge du kan bryde kobber, **10** da skal du spise dig mæt og prise Herren din Gud for det herlige land, han har givet dig. **11** Men tag dig i agt, at du ikke glemmer Herren din Gud, så du undlader at holde hans befalinger og retsregler og love, som jeg giver dig i dag. **12** Når du spiser dig mæt og bygger dig gode huse at bo i, **13** når dine køer og får bliver talrige, når du får meget sølv og guld, når al din ejendom øges, **14** bliv da ikke hovmodig, så du glemmer Herren din Gud, som førte dig ud af Egypten, af trællehuset; **15** det var jo ham, som lod dig vandre gennem den store og frygtelige ørken med slanger, øgler og skorpioner og med vandløse områder, hvor han lod vand strømme ud af flinteklippen for din skyld; **16** det var ham, som gav dig manna at spise i ørkenen, noget dine fædre ikke havde kendt, for at ydmyge dig og for at sætte dig på prøve og derefter gøre vel mod dig. **17** Sig ikke til dig selv: »Min egen kraft og min hånds styrke har skaffet mig hele denne rigdom.« **18** Husk på Herren din Gud; det er ham, der giver dig kraft til at skabe rigdom, for han vil opretholde den pagt, han tilsvor dine fædre, som han gør i dag.
 
 **19** Men glemmer du Herren din Gud og følger andre guder og dyrker og tilbeder dem, så kan jeg i dag forsikre jer, at I vil blive udryddet. **20** Som de folk, Herren udryddede foran jer, skal I selv blive udryddet, fordi I ikke ville adlyde Herren jeres Gud.
+
+[– tilbage –](#indhold)
 
 <a id="5mos9"></a>
 
@@ -3654,6 +3978,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 **15** Jeg begav mig så ned ad bjerget, mens det stod i lys lue, og jeg bar pagtens to tavler i hænderne. **16** Da jeg så, hvordan I havde syndet mod Herren jeres Gud ved at støbe jer et billede af en tyrekalv og hurtigt var veget fra den vej, Herren havde befalet jer at følge, **17** greb jeg fat i de to tavler og slyngede dem til jorden, så de knustes for øjnene af jer. **18** Jeg kastede mig ned for Herrens ansigt i fyrre dage og fyrre nætter uden at spise eller drikke, ligesom forrige gang, på grund af den synd, I havde begået ved at gøre, hvad der var ondt i Herrens øjne, og krænke ham. **19** Jeg gruede for, at Herren skulle udrydde jer i den vrede og harme, han nærede mod jer; men Herren hørte mig også denne gang. **20** Også Aron blev Herren så vred på, at han ville tilintetgøre ham; men jeg bad dengang for Aron. **21** Og tyrekalven, det syndige gudebillede, I havde lavet, tog jeg og brændte; jeg knuste den til det fineste støv, og støvet kastede jeg i bækken, som løb ned ad bjerget.
 
 **22** Også i Tab’era, og i Massa, og ved Kibrot-ha-Ta’ava vakte I Herrens vrede. **23** Og dengang Herren ville sende jer af sted fra Kadesh-Barnea og sagde: »Drag op og tag det land i besiddelse, som jeg har givet jer,« da trodsede I Herren jeres Guds befaling; I troede ikke på ham og adlød ham ikke. **24** I har trodset Herren, lige så længe jeg har kendt jer. **25** Jeg kastede mig altså ned for Herrens ansigt de fyrre dage og fyrre nætter, for Herren havde sagt, at han ville udrydde jer. **26** Og jeg bad til Herren og sagde: »Gud Herre, ødelæg ikke dit folk og din ejendom, som du i din storhed har udfriet og ført ud af Egypten med stærk hånd. **27** Husk på dine tjenere Abraham, Isak og Jakob! Tag dig ikke af dette folks hårdhed, dets ondskab og dets synd; **28** ellers vil folk i det land, du førte os ud af, sige: ›Fordi Herren ikke magtede at føre dem ind i det land, han havde lovet dem, og fordi han hadede dem, førte han dem ud for at lade dem dø i ørkenen.‹ **29** De er dog dit folk og din ejendom, som du har ført ud med din store kraft og din løftede arm«.
+
+[– tilbage –](#indhold)
 
 <a id="5mos10"></a>
 
@@ -3677,6 +4003,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 
 **12** Og nu, Israel, hvad andet kræver Herren din Gud af dig, end at du skal frygte Herren din Gud, vandre ad alle hans veje og elske ham og tjene Herren din Gud af hele dit hjerte og af hele din sjæl, **13** så du holder Herrens befalinger og hans love, som jeg giver dig i dag, til bedste for dig selv. **14** Himlen og himlenes himmel og jorden med alt, hvad der er på den, tilhører Herren din Gud. **15** Alligevel var det kun dine fædre, Herren fattede kærlighed til og elskede; det var jer, deres efterkommere, han udvalgte af alle folkene, og sådan er det i dag. **16** Omskær derfor jeres hjertes forhud, og gør ikke længere nakken stiv. **17** For Herren jeres Gud er gudernes Gud og herrernes Herre, den store, den vældige og den frygtindgydende Gud, som ikke er partisk og ikke lader sig bestikke, **18** men som skaffer den faderløse og enken ret, og som elsker den fremmede og giver ham føde og klæder. **19** Derfor skal I elske den fremmede, I var jo selv fremmede i Egypten. **20** Du skal frygte Herren din Gud, ham skal du tjene, ham skal du holde fast ved, og ved hans navn skal du sværge. **21** Han er din lovsang, og han er din Gud. For dig har han gjort disse store og frygtindgydende gerninger, du selv har set. **22** Med halvfjerds personer kom dine fædre ned til Egypten, og nu har Herren din Gud gjort dig så talrig som himlens stjerner.
 
+[– tilbage –](#indhold)
+
 <a id="5mos11"></a>
 
 ### 5 Mos 11
@@ -3690,6 +4018,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 **26** Se, jeg stiller jer i dag over for velsignelsen og forbandelsen, **27** velsignelsen, hvis I lytter til Herren jeres Guds befalinger, som jeg giver jer i dag, **28** og forbandelsen, hvis I ikke lytter til Herren jeres Guds befalinger, men viger fra den vej, jeg i dag befaler jer at vandre ad, og følger andre guder, som I ikke før har kendt.
 
 **29** Når Herren din Gud fører dig ind i det land, du skal ind og tage i besiddelse, læg da velsignelsen på Garizims bjerg og forbandelsen på Ebals bjerg. **30** – De ligger på den anden side af Jordan, ved vejen mod vest, i de kana’anæeres land, der bor i Araba-lavningen, lige over for Gilgal, ved siden af Orakel-egene. – **31** I skal jo over Jordan for at erobre det land, som Herren jeres Gud vil give jer. I skal tage det i besiddelse og bo i det, **32** og I skal omhyggeligt følge alle de love og retsregler, som jeg i dag lægger frem for jer.
+
+[– tilbage –](#indhold)
 
 <a id="5mos12"></a>
 
@@ -3713,6 +4043,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 
 **29** Når Herren din Gud udrydder de folk, hvis land du drager ind i for at drive dem bort foran dig, og du får dem fordrevet og bosætter dig i deres land, **30** tag dig da i agt, at du ikke lader dig forlede til at gå i deres spor, efter at de er blevet udryddet foran dig; spørg ikke: »Hvordan dyrkede disse folk deres guder? Jeg vil gøre det samme.« **31** På den måde må du ikke dyrke Herren din Gud. For de har dyrket deres guder med alt, hvad Herren afskyr og hader. De har endog brændt deres sønner og døtre for deres guder.
 
+[– tilbage –](#indhold)
+
 <a id="5mos13"></a>
 
 ### 5 Mos 13
@@ -3726,6 +4058,8 @@ Dette skal være jeres land med dets grænser hele vejen rundt.
 **7** Hvis din bror eller din søn eller datter eller din kone, som du elsker, eller din nærmeste ven i hemmelighed prøver at lokke dig og sige: »Lad os gå hen og dyrke andre guder,« guder som hverken du eller dine fædre har kendt, **8** men som dyrkes af de folk, som bor rundt omkring jer, enten nærved eller langt borte, over hele jorden, **9** da skal du ikke give efter for ham og ikke lytte til ham. Vis ham ingen barmhjertighed, og skån ham ikke, dæk ikke over ham, **10** men slå ham ihjel! Du skal være den første, der løfter hånden mod ham, når han skal dræbes; derefter skal resten af folket løfte hånden. **11** Du skal stene ham til døde, for han har forsøgt at lede dig bort fra Herren din Gud, som førte dig ud af Egypten, af trællehuset. **12** Hele Israel skal høre om det og blive bange, og man skal ikke mere begå så ond en handling hos dig.
 
 **13** Hvis du hører, at der i en af dine byer, som Herren din Gud giver dig at bo i, **14** har været ondsindede mennesker fra dit eget folk på færde, der har bragt indbyggerne i deres by på afveje og sagt: »Lad os gå hen og dyrke andre guder,« guder som I ikke før har kendt, **15** da skal du undersøge og efterforske det grundigt og forhøre dig om det. Hvis det virkelig forholder sig sådan, at denne afskyelige handling har fundet sted hos dig, **16** skal du hugge indbyggerne i den by ned med sværd; med sværdet skal du lægge band på den og på alt, hvad der er i den, også på dyrene. **17** Og alt byttet fra byen skal du samle på torvet, og så skal du brænde byen sammen med alt byttet som et heloffer til Herren din Gud; den skal være en evig ruinhøj og må ikke genopbygges, **18** og intet af det, der er lagt band på, må klæbe ved din hånd. Da vil Herren vende om fra sin glødende vrede; han vil vise dig barmhjertighed og forbarme sig over dig og gøre dig talrig, sådan som han tilsvor dine fædre, **19** fordi du adlyder Herren din Gud og holder alle hans befalinger, som jeg giver dig i dag, og gør, hvad der er ret i Herren din Guds øjne.
+
+[– tilbage –](#indhold)
 
 <a id="5mos14"></a>
 
@@ -3753,6 +4087,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **28** Hvert tredje år skal du udtage hele tienden af din afgrøde i det år og lade den blive hjemme i dine byer. **29** Så skal levitterne, der jo ikke har fået tildelt arvelod, sådan som du fik det, og de fremmede, de faderløse og enkerne, der bor i dine byer, komme og spise sig mætte, for at Herren din Gud kan velsigne dig i al den gerning, du udfører.
 
+[– tilbage –](#indhold)
+
 <a id="5mos15"></a>
 
 ### 5 Mos 15
@@ -3768,6 +4104,8 @@ Du må ikke koge et kid i dets mors mælk.
 #### Bestemmelser om det førstefødte
 
 **19** Alle førstefødte handyr, der fødes hos dine køer og får, skal du hellige Herren din Gud. Du må ikke udføre arbejde med en førstefødt af dine okser og ikke klippe et førstefødt af dine får. **20** For Herren din Guds ansigt skal du og din familie spise det, år efter år, på det sted, Herren udvælger. **21** Men hvis det er halt eller blindt eller har nogen anden fejl, må du ikke ofre det til Herren din Gud. **22** Du skal spise det hjemme i dine byer, både urene og rene må spise det, som man spiser gazelle og hjort. **23** Men blodet må du ikke spise; det skal du hælde ud på jorden som vand.
+
+[– tilbage –](#indhold)
 
 <a id="5mos16"></a>
 
@@ -3795,6 +4133,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **21** Du må ikke plante noget træ som Ashera-pæl ved siden af et alter, du bygger for Herren din Gud. **22** Du må heller ikke opstille nogen stenstøtte. Den slags hader Herren din Gud.
 
+[– tilbage –](#indhold)
+
 <a id="5mos17"></a>
 
 ### 5 Mos 17
@@ -3817,6 +4157,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **18** Når han har besteget sin kongetrone, skal han tage en afskrift af denne lov til eget brug, efter levitpræsternes diktat. **19** Den skal ligge hos ham, og han skal læse i den hele sit liv, for at han må lære at frygte Herren sin Gud og omhyggeligt følge denne lovbogs ord og disse love. **20** Han skal ikke hovmode sig over sine landsmænd eller vige til højre eller til venstre fra befalingen, for at han og hans sønner må regere længe i Israel.
 
+[– tilbage –](#indhold)
+
 <a id="5mos18"></a>
 
 ### 5 Mos 18
@@ -3834,6 +4176,8 @@ Du må ikke koge et kid i dets mors mælk.
 **9** Når du kommer ind i det land, som Herren din Gud vil give dig, må du ikke lægge dig efter at gøre de afskyelige ting, som folkene dér gør. **10** Hos dig må der ikke findes nogen, som lader sin søn eller datter gå gennem ilden, ingen, der driver spådomskunst eller trolddom, ingen, der tager varsler, ingen, der bruger magi, **11** ingen, der udtaler besværgelser, spørger dødemanere eller sandsigere til råds eller søger orakel hos de døde. **12** Herren afskyr enhver, som gør den slags, og på grund af den slags afskyeligheder vil Herren din Gud drive folkene bort foran dig; **13** udadlelig skal du være over for Herren din Gud.
 
 **14** De folk, du skal fordrive, lytter til dem, der driver trolddom eller spådomskunst; men det har Herren din Gud ikke givet dig lov til. **15** Herren din Gud vil af din midte lade en profet som mig fremstå for dig, en af dine egne; ham skal I adlyde. **16** Det var det, du bad Herren din Gud om ved Horeb, den dag I var forsamlet. Du sagde: »Jeg vil ikke høre Herren min Guds røst, og jeg vil ikke se denne vældige ild endnu en gang, for jeg vil ikke dø!« **17** Herren sagde da til mig: »De har ret i, hvad de siger! **18** Jeg vil af deres egen midte lade en profet som dig fremstå for dem, og jeg vil lægge mine ord i hans mund. Han skal forkynde dem alt det, jeg befaler ham, **19** og den, der ikke adlyder mine ord, som han taler i mit navn, vil jeg kræve til regnskab. **20** Men den profet, der formaster sig til at tale noget i mit navn, som jeg ikke har befalet ham at sige, eller som taler i andre guders navn, den profet skal dø!« **21** Måske tænker du: »Hvor kan vi vide, at det, han taler, er noget, Herren ikke har sagt?« **22** Hvis en profet taler i Herrens navn og hans ord ikke indtræffer og går i opfyldelse, da er det et ord, som Herren ikke har talt. I formastelighed har profeten talt; fra ham behøver du ikke at frygte noget.
+
+[– tilbage –](#indhold)
 
 <a id="5mos19"></a>
 
@@ -3855,6 +4199,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **16** Når én optræder som falsk vidne mod nogen og anklager ham for en lovovertrædelse, **17** og de to mænd, der har en retssag, træder frem for Herrens ansigt, for de præster og dommere, som er der til den tid, **18** og dommerne får sagen grundigt undersøgt, og det så viser sig, at vidnet lyver og har rettet falsk anklage mod sin landsmand, **19** da skal I gøre mod ham, som han havde planlagt at gøre mod sin landsmand. Du skal udrydde det onde af din midte. **20** Andre skal høre det og blive bange, og man skal ikke mere begå så ond en handling hos dig. **21** Vis ingen barmhjertighed! Liv for liv, øje for øje, tand for tand, hånd for hånd, fod for fod!
 
+[– tilbage –](#indhold)
+
 <a id="5mos20"></a>
 
 ### 5 Mos 20
@@ -3871,6 +4217,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **19** Når du gennem længere tid må belejre en by, før du kan angribe og indtage den, må du ikke svinge øksen mod træerne og ødelægge dem, for dem skal du jo leve af; du må ikke fælde dem. Er træerne på marken måske mennesker, så de også skulle omfattes af din belejring? **20** Men træer, som du ved ikke har spiselig frugt, må du gerne ødelægge og fælde. Af dem kan du bygge belejringsværker mod den by, som gør modstand mod dig, indtil den falder.
 
+[– tilbage –](#indhold)
+
 <a id="5mos21"></a>
 
 ### 5 Mos 21
@@ -3886,6 +4234,8 @@ Du må ikke koge et kid i dets mors mælk.
 **18** Hvis en mand har en genstridig og trodsig søn, der ikke vil adlyde sin far og mor og heller ikke vil rette sig efter dem, selv om de straffer ham, **19** skal hans far og mor gribe ham og føre ham til byens ældste i byporten. **20** De skal sige til de ældste: »Vores søn her er genstridig og trodsig, han vil ikke adlyde os, han er en frådser og dranker.« **21** Alle mændene i hans by skal så stene ham til døde. Du skal udrydde det onde af din midte. Hele Israel skal høre om det og blive bange.
 
 **22** Hvis en mand findes skyldig til døden og bliver henrettet, og du hænger ham på et træ, **23** må liget ikke hænge på træet natten over, men du skal begrave det samme dag; for den, der er hængt på et træ, er en Guds forbandelse, og du må ikke gøre det land urent, som Herren din Gud vil give dig i eje.
+
+[– tilbage –](#indhold)
 
 <a id="5mos22"></a>
 
@@ -3910,6 +4260,8 @@ Du må ikke koge et kid i dets mors mælk.
 **23** Når en jomfru er forlovet med en mand, og en anden mand træffer hende inde i byen og har samleje med hende, **24** skal I bringe dem begge ud til byporten og stene dem til døde; pigen, fordi hun ikke råbte om hjælp derinde i byen, og manden, fordi han voldtog en anden mands kvinde. Du skal udrydde det onde af din midte. **25** Men hvis det er ude på marken, manden træffer pigen, der er forlovet, og han griber fat i hende og har samleje med hende, så er det kun ham, der skal dø. **26** Pigen må du ikke gøre noget, hun har ikke gjort sig skyldig til døden. Det svarer til, at en mand overfalder en anden mand og myrder ham. **27** Han traf jo den forlovede pige ude på marken, og hun råbte om hjælp, men ingen kom hende til undsætning.
 
 **28** Når en mand træffer en jomfru, der ikke er forlovet, og han griber fat i hende og har samleje med hende, og de bliver grebet, **29** skal den mand, der havde samleje med pigen, betale hendes far halvtreds sekel sølv, og hun skal være hans kone, fordi han voldtog hende. Han må ikke sende hende bort, så længe han lever.
+
+[– tilbage –](#indhold)
 
 <a id="5mos23"></a>
 
@@ -3943,6 +4295,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **26** Når du kommer ind på en anden mands kornmark, må du gerne plukke aks med hånden, men du må ikke svinge seglen i hans korn.
 
+[– tilbage –](#indhold)
+
 <a id="5mos24"></a>
 
 ### 5 Mos 24
@@ -3967,6 +4321,8 @@ Du må ikke koge et kid i dets mors mælk.
 
 **19** Når du høster kornet på din mark og du glemmer et neg på marken, må du ikke vende om for at samle det op; lad den fremmede, den faderløse og enken få det, for at Herren din Gud må velsigne dig i al din gerning. **20** Når du slår dine oliven ned, må du ikke gå grenene efter; lad den fremmede, den faderløse og enken få, hvad der er tilbage. **21** Når du høster druerne i din vingård, må du ikke plukke rent efter dig; lad den fremmede, den faderløse og enken få, hvad der er tilbage. **22** Husk, at du selv var træl i Egypten. Derfor befaler jeg dig at handle sådan.
 
+[– tilbage –](#indhold)
+
 <a id="5mos25"></a>
 
 ### 5 Mos 25
@@ -3984,6 +4340,8 @@ Du må ikke koge et kid i dets mors mælk.
 #### Påbud om udryddelse af amalekitterne
 
 **17** Husk, hvad amalekitterne gjorde imod dig undervejs, da I var draget ud af Egypten. **18** De kom imod dig på vejen, da du var udmattet og træt, og uden at frygte Gud huggede de bagtroppen ned, alle dem, der var sakket bagud. **19** Når Herren din Gud får skaffet dig fred for dine fjender på alle sider i det land, Herren din Gud vil give dig i arv og eje, skal du udslette mindet om amalekitterne; glem det ikke!
+
+[– tilbage –](#indhold)
 
 <a id="5mos26"></a>
 
@@ -4004,6 +4362,8 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 **16** I dag befaler Herren din Gud dig at følge alle disse love og retsregler; du skal omhyggeligt følge dem af hele dit hjerte og af hele din sjæl.
 
 **17** Du har i dag erklæret, at Herren skal være din Gud, og at du vil vandre ad hans veje, holde hans love og befalinger og retsregler og adlyde ham. **18** Og Herren har i dag erklæret, at du skal være hans ejendomsfolk, sådan som han har lovet dig, og at du skal holde alle hans befalinger; **19** han vil ophøje dig over alle de folk, han har skabt, til lovsang, berømmelse og herlighed, og du skal være et helligt folk for Herren din Gud, sådan som han har lovet.
+
+[– tilbage –](#indhold)
 
 <a id="5mos27"></a>
 
@@ -4042,6 +4402,8 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 **25** Forbandet være den, der lader sig bestikke til at slå et menneske ihjel og udgyde uskyldigt blod. Og hele folket skal sige amen.
 
 **26** Forbandet være den, der ikke holder ordene i denne lov i hævd og følger dem. Og hele folket skal sige amen.
+
+[– tilbage –](#indhold)
 
 <a id="5mos28"></a>
 
@@ -4089,6 +4451,8 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 
 **69** Det var ordene i den pagt, Herren befalede Moses at slutte med israelitterne i Moabs land, ud over den pagt, han havde sluttet med dem ved Horeb.
 
+[– tilbage –](#indhold)
+
 <a id="5mos29"></a>
 
 ### 5 Mos 29
@@ -4105,6 +4469,8 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 
 **28** De skjulte ting hører Herren vor Gud til; de åbenbare hører for evigt os og vore børn til, for at vi må følge alle ordene i denne lov.«
 
+[– tilbage –](#indhold)
+
 <a id="5mos30"></a>
 
 ### 5 Mos 30
@@ -4120,6 +4486,8 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 **15** Se, jeg stiller dig i dag over for livet og lykken, døden og ulykken. **16** Hvis du lytter til Herren din Guds befalinger, som jeg giver dig i dag, og elsker Herren din Gud, vandrer ad hans veje og holder hans befalinger og love og retsregler, da skal du leve og blive talrig, og Herren din Gud vil velsigne dig i det land, du skal ind og tage i besiddelse.
 
 **17** Men hvis dit hjerte vender sig bort, og du ikke vil høre, men lader dig forlede til at tilbede andre guder og dyrke dem, **18** så kan jeg i dag forsikre jer om, at I vil blive udryddet. I vil ikke få noget langt liv på den jord, du skal tage i besiddelse, når du nu går over Jordan. **19** Jeg tager i dag himlen og jorden til vidne imod jer: Jeg har stillet dig over for livet og døden, velsignelsen og forbandelsen. Så vælg da livet, for at du og dine efterkommere må leve, **20** og elsk Herren din Gud, adlyd ham, og hold fast ved ham! Så vil du leve og få et langt liv og bo på den jord, Herren lovede dine fædre Abraham, Isak og Jakob at give dem.
+
+[– tilbage –](#indhold)
 
 <a id="5mos31"></a>
 
@@ -4148,6 +4516,8 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 #### Moses’ sang
 
 **30** Så fremsagde Moses i påhør af hele Israels forsamling denne sang fra ende til anden:
+
+[– tilbage –](#indhold)
 
 <a id="5mos32"></a>
 
@@ -4316,6 +4686,8 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 
 **48** Netop denne dag talte Herren til Moses og sagde: **49** »Gå op på Abarimbjerget, på Nebobjerget i Moab over for Jeriko, og se ud over Kana’an, som jeg vil give israelitterne til ejendom. **50** Du skal dø på det bjerg, du går op på, og gå til din slægt, ligesom din bror Aron døde på bjerget Hor og gik til sin slægt, **51** fordi I var troløse mod mig blandt israelitterne ved Meribat-Kadeshs vand i Sins ørken og ikke helligede mig blandt israelitterne. **52** Du skal få landet at se på afstand, men du kommer ikke ind i det land, jeg vil give israelitterne.«
 
+[– tilbage –](#indhold)
+
 <a id="5mos33"></a>
 
 ### 5 Mos 33
@@ -4451,6 +4823,8 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 > Dine fjender skal krybe for dig,
 > og du skal træde på ryggen af dem.
 
+[– tilbage –](#indhold)
+
 <a id="5mos34"></a>
 
 ### 5 Mos 34
@@ -4462,3 +4836,5 @@ Så skal du stille kurven for Herren din Guds ansigt. Du skal tilbede Herren din
 **9** Josva, Nuns søn, var fuld af visdoms ånd, for Moses havde lagt sine hænder på ham. Israelitterne lyttede til ham og fulgte de befalinger, Herren havde givet Moses.
 
 **10** Der fremstod ikke senere i Israel nogen profet som Moses, som Herren omgikkes ansigt til ansigt. **11** Tænk blot på de tegn og undere, som Herren satte ham til at udføre i Egypten mod Farao og mod alle hans hoffolk og hele hans land, **12** eller på alt det, hans stærke hånd udrettede, alt det store og frygtindgydende, Moses gjorde for øjnene af hele Israel.
+
+[– tilbage –](#indhold) 

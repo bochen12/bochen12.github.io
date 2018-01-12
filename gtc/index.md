@@ -13,15 +13,19 @@ lang: da
 
 ------------------------------------------------------------------------
 
-Job: [1](#job-1) [2](#job-2) [3](#job-3) [4](#job-4) [5](#job-5) [6](#job-6) [7](#job-7) [8](#job-8) [9](#job-9) [10](#job-10) [11](#job-11) [12](#job-12) [13](#job-13) [14](#job-14) [15](#job-15) [16](#job-16) [17](#job-17) [18](#job-18) [19](#job-19) [20](#job-20) [21](#job-21) [22](#job-22) [23](#job-23) [24](#job-24) [25](#job-25) [26](#job-26) [27](#job-27) [28](#job-28) [29](#job-29) [30](#job-30) [31](#job-31) [32](#job-32) [33](#job-33) [34](#job-34) [35](#job-35) [36](#job-36) [37](#job-37) [38](#job-38) [39](#job-39) [40](#job-40) [41](#job-41) [42](#job-42)
-Sl: [1](#sl-1) [2](#sl-2) [3](#sl-3) [4](#sl-4) [5](#sl-5) [6](#sl-6) [7](#sl-7) [8](#sl-8) [9](#sl-9) [10](#sl-10) [11](#sl-11) [12](#sl-12) [13](#sl-13) [14](#sl-14) [15](#sl-15) [16](#sl-16) [17](#sl-17) [18](#sl-18) [19](#sl-19) [20](#sl-20) [21](#sl-21) [22](#sl-22) [23](#sl-23) [24](#sl-24) [25](#sl-25) [26](#sl-26) [27](#sl-27) [28](#sl-28) [29](#sl-29) [30](#sl-30) [31](#sl-31) [32](#sl-32) [33](#sl-33) [34](#sl-34) [35](#sl-35) [36](#sl-36) [37](#sl-37) [38](#sl-38) [39](#sl-39) [40](#sl-40) [41](#sl-41) [42](#sl-42) [43](#sl-43) [44](#sl-44) [45](#sl-45) [46](#sl-46) [47](#sl-47) [48](#sl-48) [49](#sl-49) [50](#sl-50) [51](#sl-51) [52](#sl-52) [53](#sl-53) [54](#sl-54) [55](#sl-55) [56](#sl-56) [57](#sl-57) [58](#sl-58) [59](#sl-59) [60](#sl-60) [61](#sl-61) [62](#sl-62) [63](#sl-63) [64](#sl-64) [65](#sl-65) [66](#sl-66) [67](#sl-67) [68](#sl-68) [69](#sl-69) [70](#sl-70) [71](#sl-71) [72](#sl-72) [73](#sl-73) [74](#sl-74) [75](#sl-75) [76](#sl-76) [77](#sl-77) [78](#sl-78) [79](#sl-79) [80](#sl-80) [81](#sl-81) [82](#sl-82) [83](#sl-83) [84](#sl-84) [85](#sl-85) [86](#sl-86) [87](#sl-87) [88](#sl-88) [89](#sl-89) [90](#sl-90) [91](#sl-91) [92](#sl-92) [93](#sl-93) [94](#sl-94) [95](#sl-95) [96](#sl-96) [97](#sl-97) [98](#sl-98) [99](#sl-99) [100](#sl-100) [101](#sl-101) [102](#sl-102) [103](#sl-103) [104](#sl-104) [105](#sl-105) [106](#sl-106) [107](#sl-107) [108](#sl-108) [109](#sl-109) [110](#sl-110) [111](#sl-111) [112](#sl-112) [113](#sl-113) [114](#sl-114) [115](#sl-115) [116](#sl-116) [117](#sl-117) [118](#sl-118) [119](#sl-119) [120](#sl-120) [121](#sl-121) [122](#sl-122) [123](#sl-123) [124](#sl-124) [125](#sl-125) [126](#sl-126) [127](#sl-127) [128](#sl-128) [129](#sl-129) [130](#sl-130) [131](#sl-131) [132](#sl-132) [133](#sl-133) [134](#sl-134) [135](#sl-135) [136](#sl-136) [137](#sl-137) [138](#sl-138) [139](#sl-139) [140](#sl-140) [141](#sl-141) [142](#sl-142) [143](#sl-143) [144](#sl-144) [145](#sl-145) [146](#sl-146) [147](#sl-147) [148](#sl-148) [149](#sl-149) [150](#sl-150)
-Ordsp: [1](#ordsp-1) [2](#ordsp-2) [3](#ordsp-3) [4](#ordsp-4) [5](#ordsp-5) [6](#ordsp-6) [7](#ordsp-7) [8](#ordsp-8) [9](#ordsp-9) [10](#ordsp-10) [11](#ordsp-11) [12](#ordsp-12) [13](#ordsp-13) [14](#ordsp-14) [15](#ordsp-15) [16](#ordsp-16) [17](#ordsp-17) [18](#ordsp-18) [19](#ordsp-19) [20](#ordsp-20) [21](#ordsp-21) [22](#ordsp-22) [23](#ordsp-23) [24](#ordsp-24) [25](#ordsp-25) [26](#ordsp-26) [27](#ordsp-27) [28](#ordsp-28) [29](#ordsp-29) [30](#ordsp-30) [31](#ordsp-31)
-Præd: [1](#prd-1) [2](#prd-2) [3](#prd-3) [4](#prd-4) [5](#prd-5) [6](#prd-6) [7](#prd-7) [8](#prd-8) [9](#prd-9) [10](#prd-10) [11](#prd-11) [12](#prd-12)
-Højs: [1](#hjs-1) [2](#hjs-2) [3](#hjs-3) [4](#hjs-4) [5](#hjs-5) [6](#hjs-6) [7](#hjs-7) [8](#hjs-8)
+<a id="indhold"></a>
+
+Job: [1](#job1) [2](#job2) [3](#job3) [4](#job4) [5](#job5) [6](#job6) [7](#job7) [8](#job8) [9](#job9) [10](#job10) [11](#job11) [12](#job12) [13](#job13) [14](#job14) [15](#job15) [16](#job16) [17](#job17) [18](#job18) [19](#job19) [20](#job20) [21](#job21) [22](#job22) [23](#job23) [24](#job24) [25](#job25) [26](#job26) [27](#job27) [28](#job28) [29](#job29) [30](#job30) [31](#job31) [32](#job32) [33](#job33) [34](#job34) [35](#job35) [36](#job36) [37](#job37) [38](#job38) [39](#job39) [40](#job40) [41](#job41) [42](#job42)
+Sl: [1](#sl1) [2](#sl2) [3](#sl3) [4](#sl4) [5](#sl5) [6](#sl6) [7](#sl7) [8](#sl8) [9](#sl9) [10](#sl10) [11](#sl11) [12](#sl12) [13](#sl13) [14](#sl14) [15](#sl15) [16](#sl16) [17](#sl17) [18](#sl18) [19](#sl19) [20](#sl20) [21](#sl21) [22](#sl22) [23](#sl23) [24](#sl24) [25](#sl25) [26](#sl26) [27](#sl27) [28](#sl28) [29](#sl29) [30](#sl30) [31](#sl31) [32](#sl32) [33](#sl33) [34](#sl34) [35](#sl35) [36](#sl36) [37](#sl37) [38](#sl38) [39](#sl39) [40](#sl40) [41](#sl41) [42](#sl42) [43](#sl43) [44](#sl44) [45](#sl45) [46](#sl46) [47](#sl47) [48](#sl48) [49](#sl49) [50](#sl50) [51](#sl51) [52](#sl52) [53](#sl53) [54](#sl54) [55](#sl55) [56](#sl56) [57](#sl57) [58](#sl58) [59](#sl59) [60](#sl60) [61](#sl61) [62](#sl62) [63](#sl63) [64](#sl64) [65](#sl65) [66](#sl66) [67](#sl67) [68](#sl68) [69](#sl69) [70](#sl70) [71](#sl71) [72](#sl72) [73](#sl73) [74](#sl74) [75](#sl75) [76](#sl76) [77](#sl77) [78](#sl78) [79](#sl79) [80](#sl80) [81](#sl81) [82](#sl82) [83](#sl83) [84](#sl84) [85](#sl85) [86](#sl86) [87](#sl87) [88](#sl88) [89](#sl89) [90](#sl90) [91](#sl91) [92](#sl92) [93](#sl93) [94](#sl94) [95](#sl95) [96](#sl96) [97](#sl97) [98](#sl98) [99](#sl99) [100](#sl100) [101](#sl101) [102](#sl102) [103](#sl103) [104](#sl104) [105](#sl105) [106](#sl106) [107](#sl107) [108](#sl108) [109](#sl109) [110](#sl110) [111](#sl111) [112](#sl112) [113](#sl113) [114](#sl114) [115](#sl115) [116](#sl116) [117](#sl117) [118](#sl118) [119](#sl119) [120](#sl120) [121](#sl121) [122](#sl122) [123](#sl123) [124](#sl124) [125](#sl125) [126](#sl126) [127](#sl127) [128](#sl128) [129](#sl129) [130](#sl130) [131](#sl131) [132](#sl132) [133](#sl133) [134](#sl134) [135](#sl135) [136](#sl136) [137](#sl137) [138](#sl138) [139](#sl139) [140](#sl140) [141](#sl141) [142](#sl142) [143](#sl143) [144](#sl144) [145](#sl145) [146](#sl146) [147](#sl147) [148](#sl148) [149](#sl149) [150](#sl150)
+Ordsp: [1](#ordsp1) [2](#ordsp2) [3](#ordsp3) [4](#ordsp4) [5](#ordsp5) [6](#ordsp6) [7](#ordsp7) [8](#ordsp8) [9](#ordsp9) [10](#ordsp10) [11](#ordsp11) [12](#ordsp12) [13](#ordsp13) [14](#ordsp14) [15](#ordsp15) [16](#ordsp16) [17](#ordsp17) [18](#ordsp18) [19](#ordsp19) [20](#ordsp20) [21](#ordsp21) [22](#ordsp22) [23](#ordsp23) [24](#ordsp24) [25](#ordsp25) [26](#ordsp26) [27](#ordsp27) [28](#ordsp28) [29](#ordsp29) [30](#ordsp30) [31](#ordsp31)
+Præd: [1](#praed1) [2](#praed2) [3](#praed3) [4](#praed4) [5](#praed5) [6](#praed6) [7](#praed7) [8](#praed8) [9](#praed9) [10](#praed10) [11](#praed11) [12](#praed12)
+Højs: [1](#hoejs1) [2](#hoejs2) [3](#hoejs3) [4](#hoejs4) [5](#hoejs5) [6](#hoejs6) [7](#hoejs7) [8](#hoejs8)
 
 ------------------------------------------------------------------------
 
 ## Jobs’ Bog
+
+<a id="job1"></a>
 
 ### Job 1
 
@@ -44,6 +48,10 @@ Højs: [1](#hjs-1) [2](#hjs-2) [3](#hjs-3) [4](#hjs-4) [5](#hjs-5) [6](#hjs-6) [
 
 **22** Trods alt dette syndede Job ikke; og han bebrejdede ikke Gud noget.
 
+[– tilbage –](#indhold)
+
+<a id="job2"></a>
+
 ### Job 2
 
 **1** En dag kom gudssønnerne og trådte frem for Herren; blandt dem kom også Satan og trådte frem for Herren. **2** Herren spurgte Satan: »Hvor kommer du fra?« Satan svarede: »Jeg har gennemvandret jorden på kryds og tværs.« **3** Herren spurgte ham: »Lagde du mærke til min tjener Job? Hans lige findes ikke på hele jorden; han er en retsindig og retskaffen og gudfrygtig mand, der holder sig fra det, der er ondt. Han holder stadig fast ved sin retsindighed; uden grund fik du mig overtalt til at ødelægge ham.« **4** Satan svarede: »Hud for hud! En mand vil give alt, hvad han ejer, for sit liv. **5** Men ræk din hånd ud og rør ved hans kød og knogler. Så skal han nok forbande dig op i dit åbne ansigt!« **6** Da sagde Herren til Satan: »Nu får du magten over ham; men skån hans liv!« **7** Så forlod Satan Herren.
@@ -55,6 +63,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 #### Jobs tre venner, Elifaz, Bildad og Sofar
 
 **11** Da tre af Jobs venner hørte om al den ulykke, der havde ramt ham, kom de fra hver sit sted, Elifaz fra Teman, Bildad fra Shua og Sofar fra Na’ama; de mødtes og gik hen for at vise deres medfølelse og trøste ham. **12** Men da de et stykke borte fik øje på ham, kunne de ikke kende ham; de brast i gråd, flængede deres kapper og kastede støv på hovedet. **13** Så sad de syv dage og syv nætter på jorden hos ham. De sagde ikke noget til ham, for de så, hvor store hans lidelser var.
+
+[– tilbage –](#indhold)
+
+<a id="job3"></a>
 
 ### Job 3
 
@@ -118,6 +130,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **26** Jeg får ikke fred, ikke hvile,
 > ikke ro for den rædsel, der kommer.
 
+[– tilbage –](#indhold)
+
+<a id="job4"></a>
+
 ### Job 4
 
 #### Elifaz’ første tale
@@ -168,6 +184,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > før nogen ænser det, er de gået til grunde for evigt.
 >  **21** Deres teltreb rykkes op,
 > de dør, og det uden visdom.
+
+[– tilbage –](#indhold)
+
+<a id="job5"></a>
 
 ### Job 5
 
@@ -229,6 +249,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > ligesom kornneg bringes hjem til rette tid.
 >  **27** Se, det har vi udforsket, sådan er det!
 > Du skal høre det og selv forstå det.
+
+[– tilbage –](#indhold)
+
+<a id="job6"></a>
 
 ### Job 6
 
@@ -301,6 +325,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **30** Er der uret på min tunge?
 > Kan min gane ikke fornemme, hvad der er til fordærv?
 
+[– tilbage –](#indhold)
+
+<a id="job7"></a>
+
 ### Job 7
 
 >  **1** Er menneskets lod på jorden ikke hoveri,
@@ -353,6 +381,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > Snart ligger jeg under jorden,
 > leder du efter mig, er jeg her ikke.
 
+[– tilbage –](#indhold)
+
+<a id="job8"></a>
+
 ### Job 8
 
 #### Bildads første tale
@@ -404,6 +436,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > og dine læber med jubel.
 >  **22** De, der hader dig, må klæde sig i skam,
 > de ugudeliges telt skal forsvinde.
+
+[– tilbage –](#indhold)
+
+<a id="job9"></a>
 
 ### Job 9
 
@@ -484,6 +520,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **35** da kunne jeg tale uden at frygte ham,
 > for jeg ved, at jeg ikke har grund til det.
 
+[– tilbage –](#indhold)
+
+<a id="job10"></a>
+
 ### Job 10
 
 >  **1** Jeg væmmes ved livet;
@@ -538,6 +578,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > med mulm, uden orden,
 > hvor lyset er som det dybeste mørke.
 
+[– tilbage –](#indhold)
+
+<a id="job11"></a>
+
 ### Job 11
 
 #### Sofars første tale
@@ -586,6 +630,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **20** Men uretfærdiges øjne stirrer sig trætte,
 > for de har ingen steder at flygte hen.
 > Deres eneste håb er at udånde.
+
+[– tilbage –](#indhold)
+
+<a id="job12"></a>
 
 ### Job 12
 
@@ -647,6 +695,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > og lader dem flakke rundt i et uvejsomt øde.
 >  **25** I et mørke uden lys famler de sig frem,
 > han lader dem rave rundt som berusede.
+
+[– tilbage –](#indhold)
+
+<a id="job13"></a>
 
 ### Job 13
 
@@ -711,6 +763,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **28** Det er som en sæk, der er slidt,
 > som klæder, der er mølædt.
 
+[– tilbage –](#indhold)
+
+<a id="job14"></a>
+
 ### Job 14
 
 >  **1** Et menneske, en kvindefødt,
@@ -765,6 +821,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > går det dem dårligt, lægger han ikke mærke til det;
 >  **22** så mange smerter har han i kroppen,
 > så stor sorg har han i sjælen.
+
+[– tilbage –](#indhold)
+
+<a id="job15"></a>
 
 ### Job 15
 
@@ -846,6 +906,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **35** De undfanger ulykke og føder ondskab,
 > deres skød frembringer svig.
 
+[– tilbage –](#indhold)
+
+<a id="job16"></a>
+
 ### Job 16
 
 #### Jobs svar
@@ -904,6 +968,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **22** for der går ikke mange år,
 > før jeg må gå den vej, ad hvilken jeg ikke vender tilbage.
 
+[– tilbage –](#indhold)
+
+<a id="job17"></a>
+
 ### Job 17
 
 >  **1** Mit livsmod er brudt,
@@ -940,6 +1008,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > Hvem kan skimte håb for mig?
 >  **16** Følger det med mig ned i dødsriget?
 > Skal vi sammen synke i støvet?
+
+[– tilbage –](#indhold)
+
+<a id="job18"></a>
 
 ### Job 18
 
@@ -989,6 +1061,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > i øst gribes de af rædsel.
 >  **21** Ja, sådan er den uhæderliges bolig,
 > sådan er det sted, hvor man ikke kender Gud.
+
+[– tilbage –](#indhold)
+
+<a id="job19"></a>
 
 ### Job 19
 
@@ -1059,6 +1135,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > for den slags synder straffes med sværd.
 > I må forstå, at der er en dom!
 
+[– tilbage –](#indhold)
+
+<a id="job20"></a>
+
 ### Job 20
 
 #### Sofars anden tale
@@ -1125,6 +1205,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > rivende floder, på hans vredes dag.
 >  **29** Det er den lod, Gud tildeler den ugudelige,
 > det er den del, Gud har bestemt for ham.
+
+[– tilbage –](#indhold)
+
+<a id="job21"></a>
 
 ### Job 21
 
@@ -1204,6 +1288,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **34** Hvor tom er ikke den trøst, I bringer mig,
 > hvor falske de svar, I kommer med!
 
+[– tilbage –](#indhold)
+
+<a id="job22"></a>
+
 ### Job 22
 
 #### Elifaz’ tredje tale
@@ -1271,6 +1359,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **30** han redder enhver, der er skyldfri;
 > har du rene hænder, bliver du reddet.
 
+[– tilbage –](#indhold)
+
+<a id="job23"></a>
+
 ### Job 23
 
 #### Jobs svar
@@ -1309,6 +1401,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > den Almægtige har slået mig med rædsel.
 >  **17** Men mørket har ikke bragt mig til tavshed,
 > skønt det dybeste mørke skjuler mit ansigt.
+
+[– tilbage –](#indhold)
+
+<a id="job24"></a>
 
 ### Job 24
 
@@ -1378,6 +1474,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **25** Sådan er det! Hvem tør påstå, at det er løgn,
 > og gøre mine ord til intet?
 
+[– tilbage –](#indhold)
+
+<a id="job25"></a>
+
 ### Job 25
 
 #### Bildads tredje tale
@@ -1394,6 +1494,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > og stjernerne er ikke rene i hans øjne,
 >  **6** hvor meget mindre da mennesket, den maddike,
 > menneskebarnet, den orm?
+
+[– tilbage –](#indhold)
+
+<a id="job26"></a>
 
 ### Job 26
 
@@ -1430,6 +1534,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **14** Se, dette er kun fligen af hans værk;
 > det, vi hører om ham, er kun en svag lyd,
 > hvem fatter da tordenbraget fra hans storhed?
+
+[– tilbage –](#indhold)
+
+<a id="job27"></a>
 
 ### Job 27
 
@@ -1481,6 +1589,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > den er så voldsom, at han må tage flugten.
 >  **23** Skadefro klapper folk i hænderne
 > og pifter ham hånligt væk fra hans hjemsted.
+
+[– tilbage –](#indhold)
+
+<a id="job28"></a>
 
 ### Job 28
 
@@ -1548,6 +1660,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > »At frygte Herren, det er visdom,
 > at holde sig fra det onde er indsigt.«
 
+[– tilbage –](#indhold)
+
+<a id="job29"></a>
+
 ### Job 29
 
 #### Jobs klage over sin ufortjente ulykke
@@ -1606,6 +1722,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 >  **25** Jeg førte forsædet og valgte vejen for dem,
 > jeg sad som en konge blandt sine krigere,
 > som den, der trøster de sørgende.
+
+[– tilbage –](#indhold)
+
+<a id="job30"></a>
 
 ### Job 30
 
@@ -1681,6 +1801,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 > min krop brænder i feber.
 >  **31** Min citer er stemt til sorg,
 > min fløjte til gråd.
+
+[– tilbage –](#indhold)
+
+<a id="job31"></a>
 
 ### Job 31
 
@@ -1773,6 +1897,10 @@ Trods alt dette kom der ikke et syndigt ord over Jobs læber.
 
 Det var afslutningen på Jobs tale.
 
+[– tilbage –](#indhold)
+
+<a id="job32"></a>
+
 ### Job 32
 
 #### Elihus tale
@@ -1820,6 +1948,10 @@ Det var afslutningen på Jobs tale.
 > jeg vil ikke smigre noget menneske;
 >  **22** jeg kender ikke til at smigre,
 > for så ville min skaber snart rive mig bort.
+
+[– tilbage –](#indhold)
+
+<a id="job33"></a>
 
 ### Job 33
 
@@ -1897,6 +2029,10 @@ Det var afslutningen på Jobs tale.
 > Tal, jeg giver dig gerne ret!
 >  **33** Men har du det ikke, så hør på mig;
 > vær stille, så skal jeg lære dig visdom.
+
+[– tilbage –](#indhold)
+
+<a id="job34"></a>
 
 ### Job 34
 
@@ -1987,6 +2123,10 @@ Det var afslutningen på Jobs tale.
 > han klapper hånligt ad os,
 > han bruger mange ord imod Gud.«
 
+[– tilbage –](#indhold)
+
+<a id="job35"></a>
+
 ### Job 35
 
 **1** Og Elihu sagde:
@@ -2023,6 +2163,10 @@ Det var afslutningen på Jobs tale.
 > og ikke ænser overmod,
 >  **16** åbner Job munden med tom snak,
 > i sin uforstand bruger han en overflod af ord.
+
+[– tilbage –](#indhold)
+
+<a id="job36"></a>
 
 ### Job 36
 
@@ -2101,6 +2245,10 @@ Det var afslutningen på Jobs tale.
 >  **33** Hans torden melder om ham,
 > selv kvæget varsler hans komme.
 
+[– tilbage –](#indhold)
+
+<a id="job37"></a>
+
 ### Job 37
 
 >  **1** Ja, det får mit hjerte til at skælve
@@ -2158,6 +2306,10 @@ Det var afslutningen på Jobs tale.
 > han krænker aldrig retfærdighed;
 >  **24** derfor frygter mennesker ham.
 > De selvkloge ænser han ikke.
+
+[– tilbage –](#indhold)
+
+<a id="job38"></a>
 
 ### Job 38
 
@@ -2252,6 +2404,10 @@ Det var afslutningen på Jobs tale.
 > når dens unger skriger til Gud
 > og flakser omkring uden at finde føde?
 
+[– tilbage –](#indhold)
+
+<a id="job39"></a>
+
 ### Job 39
 
 >  **1** Ved du, hvornår stenbukkene får unger,
@@ -2318,6 +2474,10 @@ Det var afslutningen på Jobs tale.
 > dens øjne spejder vidt omkring.
 >  **30** Dens unger slubrer blod i sig,
 > og hvor der er ådsler, dér er den.
+
+[– tilbage –](#indhold)
+
+<a id="job40"></a>
 
 ### Job 40
 
@@ -2392,6 +2552,10 @@ Det var afslutningen på Jobs tale.
 >  **32** Læg din hånd på den!
 > Den kamp kommer du til at huske. Du gør det aldrig mere!
 
+[– tilbage –](#indhold)
+
+<a id="job41"></a>
+
 ### Job 41
 
 >  **1** Nej, den forventning ville være bedrag;
@@ -2450,6 +2614,10 @@ Det var afslutningen på Jobs tale.
 >  **26** Den tør se på alt ophøjet,
 > den er konge over alle stolte vilddyr.
 
+[– tilbage –](#indhold)
+
+<a id="job42"></a>
+
 ### Job 42
 
 **1** Job svarede Herren:
@@ -2476,9 +2644,13 @@ Det var afslutningen på Jobs tale.
 
 **16** Job levede endnu 140 år og så sine børn og børnebørn i fire slægtled. **17** Så døde Job gammel og mæt af dage.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Salmernes Bog
+
+<a id="sl1"></a>
 
 ### Sl 1
 
@@ -2502,6 +2674,10 @@ der blæses bort af vinden.
 syndere ikke i retfærdiges forsamling.
 **6** Herren kender de retfærdiges vej,
 men de ugudeliges vej går til grunde.
+
+[– tilbage –](#indhold)
+
+<a id="sl2"></a>
 
 ### Sl 2
 
@@ -2537,6 +2713,10 @@ for hans vrede blusser hurtigt op.
 
 Lykkelig hver den, der søger tilflugt hos ham.
 
+[– tilbage –](#indhold)
+
+<a id="sl3"></a>
+
 ### Sl 3
 
 **1** Salme af David.
@@ -2565,6 +2745,10 @@ og knust de ugudeliges tænder.
 **9** Frelsen kommer fra Herren.
 Din velsignelse komme over dit folk.    Sela
 
+[– tilbage –](#indhold)
+
+<a id="sl4"></a>
+
 ### Sl 4
 
 **1** For korlederen. Til strengespil. Salme af David.
@@ -2591,6 +2775,10 @@ Løft dit ansigts lys mod os, Herre!
 end man har, når der er rigdom af korn og vin.
 **9** I fred kan jeg lægge mig og sove,
 for kun du, Herre, lader mig bo i tryghed.
+
+[– tilbage –](#indhold)
+
+<a id="sl5"></a>
 
 ### Sl 5
 
@@ -2639,6 +2827,10 @@ skal fryde sig over dig.
 **13** For du velsigner den retfærdige, Herre,
 du beskytter ham med nåde som skjold.
 
+[– tilbage –](#indhold)
+
+<a id="sl6"></a>
+
 ### Sl 6
 
 **1** For korlederen. Til strengespil. Al-ha-sheminit. Salme af David.
@@ -2666,6 +2858,10 @@ Herren har hørt min gråd,
 Herren tager imod min bøn.
 **11** Alle mine fjender beskæmmes og gribes af rædsel,
 i et nu drives de tilbage med skam.
+
+[– tilbage –](#indhold)
+
+<a id="sl7"></a>
 
 ### Sl 7
 
@@ -2718,6 +2914,10 @@ hans uret kommer over hans eget hoved.
 **18** Jeg takker Herren for hans retfærdighed,
 jeg lovsynger Herren den Højestes navn.
 
+[– tilbage –](#indhold)
+
+<a id="sl8"></a>
+
 ### Sl 8
 
 **1** For korlederen. Al-ha-gittit. Salme af David.
@@ -2745,6 +2945,10 @@ dem som færdes ad havenes stier.
 **10** Herre, vor Herre!
 Hvor herligt er dit navn
 over hele jorden!
+
+[– tilbage –](#indhold)
+
+<a id="sl9"></a>
 
 ### Sl 9
 
@@ -2798,6 +3002,10 @@ lad folkene få deres dom for dit ansigt!
 **21** Herre, indgyd folkene frygt,
 så de forstår, at de kun er mennesker.    Sela
 
+[– tilbage –](#indhold)
+
+<a id="sl10"></a>
+
 ### Sl 10
 
 **1** Hvorfor står du så langt borte, Herre?
@@ -2848,6 +3056,10 @@ folkeslag skal udryddes fra hans land.
 du giver dem mod, du lytter til dem.
 **18** Du skal skaffe den faderløse og den undertrykte ret, så mennesker ikke længere skal øve vold i landet.
 
+[– tilbage –](#indhold)
+
+<a id="sl11"></a>
+
 ### Sl 11
 
 **1** For korlederen. Af David.
@@ -2871,6 +3083,10 @@ og han hader dem, der elsker vold.
 og en glohed vind bliver deres skæbne.
 **7** For Herren er retfærdig, han elsker ret,
 de retskafne skal se hans ansigt.
+
+[– tilbage –](#indhold)
+
+<a id="sl12"></a>
 
 ### Sl 12
 
@@ -2899,6 +3115,10 @@ du bevarer os evigt mod denne slægt,
 **9** hvor ugudelige vandrer omkring
 og usselhed triumferer blandt mennesker.
 
+[– tilbage –](#indhold)
+
+<a id="sl13"></a>
+
 ### Sl 13
 
 **1** For korlederen. Salme af David.
@@ -2918,6 +3138,10 @@ og mine uvenner jubler, fordi jeg vakler.
 mit hjerte skal juble over din frelse.
 Jeg vil synge for Herren,
 for han har handlet vel imod mig.
+
+[– tilbage –](#indhold)
+
+<a id="sl14"></a>
 
 ### Sl 14
 
@@ -2948,6 +3172,10 @@ Herren er dog hans tilflugt!
 Når Herren vender sit folks skæbne,
 skal Jakob juble og Israel glæde sig.
 
+[– tilbage –](#indhold)
+
+<a id="sl15"></a>
+
 ### Sl 15
 
 **1** Salme af David.
@@ -2970,6 +3198,10 @@ og ikke lader sig bestikke i sager mod uskyldige.
 
 Den, der overholder dette,
 skal aldrig vakle.
+
+[– tilbage –](#indhold)
+
+<a id="sl16"></a>
 
 ### Sl 16
 
@@ -3001,6 +3233,10 @@ din fromme vil du ikke lade se graven.
 **11** Du lærer mig livets vej,
 du mætter mig med glæde for dit ansigt,
 du har altid herlige ting i din højre hånd.
+
+[– tilbage –](#indhold)
+
+<a id="sl17"></a>
 
 ### Sl 17
 
@@ -3048,6 +3284,10 @@ og efterlade til deres småbørn, hvad de levner!
 
 **15** I retfærdighed skal jeg skue dit ansigt,
 mættes ved synet af dig, når jeg vågner.
+
+[– tilbage –](#indhold)
+
+<a id="sl18"></a>
 
 ### Sl 18
 
@@ -3182,6 +3422,10 @@ jeg vil lovsynge dit navn.
 og viser troskab mod sin salvede,
 mod David og hans slægt til evig tid.
 
+[– tilbage –](#indhold)
+
+<a id="sl19"></a>
+
 ### Sl 19
 
 **1** For korlederen. Salme af David.
@@ -3230,6 +3474,10 @@ og uden skyld i grov overtrædelse.
 og mit hjertes tanke,
 Herre, min klippe og forløser!
 
+[– tilbage –](#indhold)
+
+<a id="sl20"></a>
+
 ### Sl 20
 
 **1** For korlederen. Salme af David.
@@ -3256,6 +3504,10 @@ men vi rejser os og holder stand.
 
 **10** Herre, frels kongen!
 Svar os, den dag vi råber!
+
+[– tilbage –](#indhold)
+
+<a id="sl21"></a>
 
 ### Sl 21
 
@@ -3293,6 +3545,10 @@ med din bue sigter du på dem.
 
 **14** Herre, rejs dig i din styrke,
 vi vil prise din vælde med sang og spil.
+
+[– tilbage –](#indhold)
+
+<a id="sl22"></a>
 
 ### Sl 22
 
@@ -3382,6 +3638,10 @@ Der skal forkyndes om Herren for kommende slægter,
 **32** man skal forkynde hans retfærdighed for folk, der fødes,
 for han greb ind!
 
+[– tilbage –](#indhold)
+
+<a id="sl23"></a>
+
 ### Sl 23
 
 **1** Salme af David.
@@ -3406,6 +3666,10 @@ mit bæger er fyldt til overflod.
 så længe jeg lever,
 og jeg skal bo i Herrens hus
 alle mine dage.
+
+[– tilbage –](#indhold)
+
+<a id="sl24"></a>
 
 ### Sl 24
 
@@ -3438,6 +3702,10 @@ så ærens konge kan drage ind.
 **10** Hvem er han, ærens konge?
 Hærskarers Herre,
 han er ærens konge!    Sela
+
+[– tilbage –](#indhold)
+
+<a id="sl25"></a>
 
 ### Sl 25
 
@@ -3492,6 +3760,10 @@ for jeg sætter mit håb til dig.
 
 **22** Gud, udfri Israel af alle dets trængsler!
 
+[– tilbage –](#indhold)
+
+<a id="sl26"></a>
+
 ### Sl 26
 
 **1** Af David.
@@ -3525,6 +3797,10 @@ udfri mig og vær mig nådig!
 
 **12** Nu står min fod på den faste grund.
 I forsamlingerne vil jeg prise Herren.
+
+[– tilbage –](#indhold)
+
+<a id="sl27"></a>
 
 ### Sl 27
 
@@ -3584,6 +3860,10 @@ i de levendes land.
 vær stærk, fat mod,
 sæt dit håb til Herren!
 
+[– tilbage –](#indhold)
+
+<a id="sl28"></a>
+
 ### Sl 28
 
 **1** Af David.
@@ -3622,6 +3902,10 @@ han er værn og redning for sin salvede.
 og velsign din ejendom,
 vogt dem, og tag dig af dem til evig tid.
 
+[– tilbage –](#indhold)
+
+<a id="sl29"></a>
+
 ### Sl 29
 
 **1** Salme af David.
@@ -3651,6 +3935,10 @@ I hans tempel råber alle: Ære!
 Herren troner som konge i evighed.
 **11** Herren giver sit folk styrke,
 Herren velsigner sit folk med fred.
+
+[– tilbage –](#indhold)
+
+<a id="sl30"></a>
 
 ### Sl 30
 
@@ -3692,6 +3980,10 @@ du tog min sørgedragt af mig
 og klædte mig i glæde.
 **13** Derfor vil jeg lovsynge dig uden ophør;
 Herre min Gud, for evigt vil jeg takke dig.
+
+[– tilbage –](#indhold)
+
+<a id="sl31"></a>
 
 ### Sl 31
 
@@ -3771,6 +4063,10 @@ men gengælder til overmål den hovmodige.
 **25** Vær stærke, fat mod,
 alle I som venter på Herren!
 
+[– tilbage –](#indhold)
+
+<a id="sl32"></a>
+
 ### Sl 32
 
 **1** Maskil af David.
@@ -3812,6 +4108,10 @@ når de ikke vil komme hen til dig.
 men den, der stoler på Herren, omgiver han med godhed.
 **11** Glæd jer over Herren, fryd jer, I retfærdige,
 alle I oprigtige skal juble!
+
+[– tilbage –](#indhold)
+
+<a id="sl33"></a>
 
 ### Sl 33
 
@@ -3862,6 +4162,10 @@ han er vor hjælp og vort skjold.
 vi stoler på hans hellige navn.
 **22** Lad din godhed komme over os, Herre,
 for vi venter på dig.
+
+[– tilbage –](#indhold)
+
+<a id="sl34"></a>
 
 ### Sl 34
 
@@ -3923,6 +4227,10 @@ ingen af dem bliver knust.
 og den retfærdiges fjender straffes.
 **23** Herren udfrier sine tjenere,
 de, der søger tilflugt hos ham, straffes ikke.
+
+[– tilbage –](#indhold)
+
+<a id="sl35"></a>
 
 ### Sl 35
 
@@ -4013,6 +4321,10 @@ som vil sin tjeners lykke.
 **28** Min tunge skal forkynde din retfærdighed
 og lovprise dig dagen lang.
 
+[– tilbage –](#indhold)
+
+<a id="sl36"></a>
+
 ### Sl 36
 
 **1** For korlederen. Af Herrens tjener. Af David.
@@ -4046,6 +4358,10 @@ og din retfærdighed mod de oprigtige!
 lad ikke de ugudelige jage mig bort!
 **13** Da skal forbryderne falde,
 de stødes ned og kan ikke rejse sig.
+
+[– tilbage –](#indhold)
+
+<a id="sl37"></a>
 
 ### Sl 37
 
@@ -4148,6 +4464,10 @@ han er deres værn, når nøden kommer.
 han udfrier dem fra de uretfærdige og frelser dem,
 for de søger tilflugt hos ham.
 
+[– tilbage –](#indhold)
+
+<a id="sl38"></a>
+
 ### Sl 38
 
 **1** Salme af David. Le-hazkir.
@@ -4208,6 +4528,10 @@ hold dig ikke borte fra mig, min Gud!
 **23** Skynd dig til hjælp,
 Herre, min frelser!
 
+[– tilbage –](#indhold)
+
+<a id="sl39"></a>
+
 ### Sl 39
 
 **1** For korlederen. For Jedutun. Salme af David.
@@ -4251,6 +4575,10 @@ For jeg er gæst hos dig,
 en tilflytter som alle mine fædre.
 **14** Vend dit blik fra mig, så jeg bliver glad igen,
 før jeg går bort og ikke er mere.
+
+[– tilbage –](#indhold)
+
+<a id="sl40"></a>
 
 ### Sl 40
 
@@ -4327,6 +4655,10 @@ Herren vil tage sig af mig.
 Du er min hjælper og befrier,
 tøv ikke, min Gud!
 
+[– tilbage –](#indhold)
+
+<a id="sl41"></a>
+
 ### Sl 41
 
 **1** For korlederen. Salme af David.
@@ -4364,6 +4696,10 @@ og du vil altid lade mig stå for dit ansigt.
 **14** Lovet være Herren, Israels Gud,
 fra evighed og til evighed.
 Amen, amen.
+
+[– tilbage –](#indhold)
+
+<a id="sl42"></a>
 
 ### Sl 42
 
@@ -4423,6 +4759,10 @@ Vent på Gud!
 For jeg skal takke ham på ny,
 min frelser og min Gud.
 
+[– tilbage –](#indhold)
+
+<a id="sl43"></a>
+
 ### Sl 43
 
 **1** Skaf mig ret, Gud,
@@ -4448,6 +4788,10 @@ Hvorfor skælver du i mig?
 Vent på Gud!
 For jeg skal takke ham på ny,
 min frelser og min Gud.
+
+[– tilbage –](#indhold)
+
+<a id="sl44"></a>
 
 ### Sl 44
 
@@ -4517,6 +4861,10 @@ vor krop klæber til jorden.
 **27** Rejs dig, kom os til hjælp!
 Udfri os, så sandt du er trofast.
 
+[– tilbage –](#indhold)
+
+<a id="sl45"></a>
+
 ### Sl 45
 
 **1** For korlederen. Al-shoshannim. Maskil af Kora-sønnerne. En bryllupssang.
@@ -4568,6 +4916,10 @@ du skal gøre dem til fyrster over hele jorden.
 **18** Jeg vil prise dit navn i slægt efter slægt,
 derfor skal folkene prise dig for evigt og altid.
 
+[– tilbage –](#indhold)
+
+<a id="sl46"></a>
+
 ### Sl 46
 
 **1** For korlederen. Af Kora-sønnerne. Al-alamot. En sang.
@@ -4601,6 +4953,10 @@ ophøjet blandt folkene, ophøjet på jorden!
 **12** Hærskarers Herre er med os,
 Jakobs Gud er vor borg.    Sela
 
+[– tilbage –](#indhold)
+
+<a id="sl47"></a>
+
 ### Sl 47
 
 **1** For korlederen. Salme af Kora-sønnerne.
@@ -4627,6 +4983,10 @@ Gud sidder på sin hellige trone.
 med Abrahams Guds folk,
 for jordens skjolde tilhører Gud.
 Højt er han ophøjet.
+
+[– tilbage –](#indhold)
+
+<a id="sl48"></a>
 
 ### Sl 48
 
@@ -4678,6 +5038,10 @@ vor Gud i al evighed,
 han skal lede os!
 
 Al-mut.
+
+[– tilbage –](#indhold)
+
+<a id="sl49"></a>
 
 ### Sl 49
 
@@ -4733,6 +5097,10 @@ hans velstand følger ham ikke i graven.
 som aldrig mere får lyset at se.
 **21** Mennesker, der har rigdom, er uden forstand,
 de ligner dyrene, der går til grunde.
+
+[– tilbage –](#indhold)
+
+<a id="sl50"></a>
 
 ### Sl 50
 
@@ -4797,6 +5165,10 @@ uden at nogen kan redde.
 **23** Den, der bringer takoffer, ærer mig,
 ham lader jeg se Guds frelse.
 
+[– tilbage –](#indhold)
+
+<a id="sl51"></a>
+
 ### Sl 51
 
 **1** For korlederen. Salme af David.
@@ -4848,6 +5220,10 @@ opbyg Jerusalems mure!
 brændoffer og heloffer;
 da skal tyre ofres på dit alter.
 
+[– tilbage –](#indhold)
+
+<a id="sl52"></a>
+
 ### Sl 52
 
 **1** For korlederen. Maskil af David.
@@ -4882,6 +5258,10 @@ Blandt dine fromme
 sætter jeg mit håb til dit navn,
 for dit navn er godt.
 
+[– tilbage –](#indhold)
+
+<a id="sl53"></a>
+
 ### Sl 53
 
 **1** For korlederen. Al-mahalat. Maskil af David.
@@ -4913,6 +5293,10 @@ for Gud forkaster dem.
 Når Gud vender sit folks skæbne,
 skal Jakob juble og Israel glæde sig.
 
+[– tilbage –](#indhold)
+
+<a id="sl54"></a>
+
 ### Sl 54
 
 **1** For korlederen. Til strengespil. Maskil af David.
@@ -4936,6 +5320,10 @@ Gør det af med dem i din trofasthed!
 jeg vil takke dit navn, Herre, for dit navn er godt.
 **9** Han har reddet mig fra alle trængsler,
 og mit øje fryder sig over mine fjender.
+
+[– tilbage –](#indhold)
+
+<a id="sl55"></a>
 
 ### Sl 55
 
@@ -5015,6 +5403,10 @@ Mordere og bedragere
 får end ikke halvdelen af deres dage.
 Men jeg stoler på dig.
 
+[– tilbage –](#indhold)
+
+<a id="sl56"></a>
+
 ### Sl 56
 
 **1** For korlederen. Al-jonat-elem-rehokim. Miktam af David.
@@ -5056,6 +5448,10 @@ vil jeg indfri med takofre.
 og min fod fra at snuble,
 så jeg kan vandre for Guds ansigt
 i livets lys.
+
+[– tilbage –](#indhold)
+
+<a id="sl57"></a>
 
 ### Sl 57
 
@@ -5100,6 +5496,10 @@ din troskab til skyerne.
 **12** Løft dig højt over himlen, Gud,
 lad din herlighed komme over hele jorden.
 
+[– tilbage –](#indhold)
+
+<a id="sl58"></a>
+
 ### Sl 58
 
 **1** For korlederen. Al-tashket. Miktam af David.
@@ -5130,6 +5530,10 @@ han skal vaske sine fødder i den ugudeliges blod;
 **12** og folk skal sige:
 »Ja, den retfærdige får sin løn,
 der er en Gud, som dømmer på jorden!«
+
+[– tilbage –](#indhold)
+
+<a id="sl59"></a>
 
 ### Sl 59
 
@@ -5186,6 +5590,10 @@ en tilflugt, når jeg er i nød.
 for Gud er min borg,
 min trofaste Gud.
 
+[– tilbage –](#indhold)
+
+<a id="sl60"></a>
+
 ### Sl 60
 
 **1** For korlederen. Al-shushan-edut. Miktam af David. Til belæring.
@@ -5224,6 +5632,10 @@ menneskers hjælp er intet værd.
 **14** Ved Guds hjælp vinder vi sejr,
 han tramper vore fjender ned.
 
+[– tilbage –](#indhold)
+
+<a id="sl61"></a>
+
 ### Sl 61
 
 **1** For korlederen. Til strengespil. Af David.
@@ -5249,6 +5661,10 @@ hans år skal vare i slægt efter slægt.
 godhed og troskab skal beskytte ham.
 **9** Da vil jeg lovsynge dit navn til evig tid
 og indfri mine løfter dag efter dag.
+
+[– tilbage –](#indhold)
+
+<a id="sl62"></a>
 
 ### Sl 62
 
@@ -5295,6 +5711,10 @@ Hos Gud er der magt,
 For du vil gengælde enhver
 efter hans gerninger.
 
+[– tilbage –](#indhold)
+
+<a id="sl63"></a>
+
 ### Sl 63
 
 **1** Salme af David.
@@ -5330,6 +5750,10 @@ og blive bytte for rævene.
 alle, der sværger ved ham, skal prise sig lykkelige,
 for munden lukkes på løgnerne.
 
+[– tilbage –](#indhold)
+
+<a id="sl64"></a>
+
 ### Sl 64
 
 **1** For korlederen. Salme af David.
@@ -5361,6 +5785,10 @@ og giver agt på hans handling.
 **11** Den retfærdige glæder sig over Herren
 og søger tilflugt hos ham,
 alle de oprigtige priser sig lykkelige.
+
+[– tilbage –](#indhold)
+
+<a id="sl65"></a>
 
 ### Sl 65
 
@@ -5405,6 +5833,10 @@ og højene ifører sig jubel.
 **14** Engene klæder sig i lam,
 dalene hyller sig i korn;
 de jubler og synger.
+
+[– tilbage –](#indhold)
+
+<a id="sl66"></a>
 
 ### Sl 66
 
@@ -5461,6 +5893,10 @@ han lyttede til min bøn.
 Han har ikke afvist min bøn
 og taget sin trofasthed fra mig.
 
+[– tilbage –](#indhold)
+
+<a id="sl67"></a>
+
 ### Sl 67
 
 **1** For korlederen. Til strengespil. En salme. En sang.
@@ -5482,6 +5918,10 @@ alle folkene skal takke dig.
 Gud, vor Gud velsigne os,
 **8** Gud velsigne os,
 og hele den vide jord frygte ham.
+
+[– tilbage –](#indhold)
+
+<a id="sl68"></a>
 
 ### Sl 68
 
@@ -5592,6 +6032,10 @@ og hans styrke i skyerne.
 Israels Gud giver folket styrke og kraft.
 Lovet være Gud!
 
+[– tilbage –](#indhold)
+
+<a id="sl69"></a>
+
 ### Sl 69
 
 **1** For korlederen. Al-shoshannim. Af David.
@@ -5696,6 +6140,10 @@ så de kan bo der og få landet i eje.
 **37** Det skal gå i arv til hans tjeneres børn,
 de, der elsker hans navn, skal bo i det.
 
+[– tilbage –](#indhold)
+
+<a id="sl70"></a>
+
 ### Sl 70
 
 **1** For korlederen. Af David. Le-hazkir.
@@ -5718,6 +6166,10 @@ skal altid sige: Gud er stor!
 skynd dig at komme til mig, Gud!
 Du er min hjælper og befrier,
 tøv ikke, Herre!
+
+[– tilbage –](#indhold)
+
+<a id="sl71"></a>
 
 ### Sl 71
 
@@ -5795,6 +6247,10 @@ forkynde din retfærdighed;
 for de, der stræber efter min ulykke,
 bliver til spot og spe.
 
+[– tilbage –](#indhold)
+
+<a id="sl72"></a>
+
 ### Sl 72
 
 **1** Af Salomo.
@@ -5856,6 +6312,10 @@ Hans herlighed skal fylde hele jorden.
 Amen, amen.
 
 **20** Her slutter Davids, Isajs søns, bønner.
+
+[– tilbage –](#indhold)
+
+<a id="sl73"></a>
 
 ### Sl 73
 
@@ -5922,6 +6382,10 @@ du tilintetgør alle, der er dig utro.
 jeg tager min tilflugt til Gud Herren,
 så jeg kan fortælle om alle dine gerninger.
 
+[– tilbage –](#indhold)
+
+<a id="sl74"></a>
+
 ### Sl 74
 
 **1** Maskil af Asaf.
@@ -5980,6 +6444,10 @@ Husk, at tåben spotter dig dagen lang!
 **23** Glem ikke dine fjenders råb,
 dine modstanderes larm, der stadig rejser sig.
 
+[– tilbage –](#indhold)
+
+<a id="sl75"></a>
+
 ### Sl 75
 
 **1** For korlederen. Al-tashket. Salme af Asaf. En sang.
@@ -6011,6 +6479,10 @@ selv bærmen drikker alle jordens ugudelige.
 og synge om Jakobs Gud.
 **11** Alle de uretfærdiges horn hugger jeg af,
 men de retfærdiges horn skal løfte sig.
+
+[– tilbage –](#indhold)
+
+<a id="sl76"></a>
 
 ### Sl 76
 
@@ -6044,6 +6516,10 @@ de, der blev tilbage, skal se det og fejre dig.
 alle, der omgiver ham, skal frembære gaver til den frygtindgydende.
 **13** Han kuer fyrsters vrede,
 frygtindgydende er han for jordens konger.
+
+[– tilbage –](#indhold)
+
+<a id="sl77"></a>
 
 ### Sl 77
 
@@ -6096,6 +6572,10 @@ dine stier gennem de vældige vande,
 og dine spor var ikke at se.
 **21** Du førte dit folk som en fåreflok
 ved Moses’ og Arons hånd.
+
+[– tilbage –](#indhold)
+
+<a id="sl78"></a>
 
 ### Sl 78
 
@@ -6280,6 +6760,10 @@ og sin ejendom, Israel.
 **72** Og David vogtede dem med oprigtigt hjerte
 og førte dem med kyndig hånd.
 
+[– tilbage –](#indhold)
+
+<a id="sl79"></a>
+
 ### Sl 79
 
 **1** Salme af Asaf.
@@ -6322,6 +6806,10 @@ for den hån, de viser dig, Herre.
 **13** Vi er dit folk og de får, du vogter,
 vi vil takke dig til evig tid,
 i slægt efter slægt vil vi forkynde din pris.
+
+[– tilbage –](#indhold)
+
+<a id="sl80"></a>
 
 ### Sl 80
 
@@ -6373,6 +6861,10 @@ Hold os i live, så vil vi påkalde dit navn.
 **20** Herre, Hærskarers Gud, rejs os igen,
 lad dit ansigt lyse, så vi bliver frelst.
 
+[– tilbage –](#indhold)
+
+<a id="sl81"></a>
+
 ### Sl 81
 
 **1** For korlederen. Al-ha-gittit. Af Asaf.
@@ -6417,6 +6909,10 @@ og vende min hånd mod deres modstandere.
 **17** Men dig ville jeg give hvedens fedme,
 jeg ville mætte dig med honning fra klippen.
 
+[– tilbage –](#indhold)
+
+<a id="sl82"></a>
+
 ### Sl 82
 
 **1** Salme af Asaf.
@@ -6440,6 +6936,10 @@ og I skal falde som en af stormændene.
 
 **8** Rejs dig, Gud, hold dom over jorden,
 for du har alle folkene som ejendom.
+
+[– tilbage –](#indhold)
+
+<a id="sl83"></a>
 
 ### Sl 83
 
@@ -6485,6 +6985,10 @@ gøres til skamme og gå til grunde,
 – Jahve er dit navn –
 er den Højeste over hele jorden.
 
+[– tilbage –](#indhold)
+
+<a id="sl84"></a>
+
 ### Sl 84
 
 **1** For korlederen. Al-ha-gittit. Salme af Kora-sønnerne.
@@ -6529,6 +7033,10 @@ nægter han intet godt.
 **13** Hærskarers Herre,
 lykkeligt det menneske, der stoler på dig!
 
+[– tilbage –](#indhold)
+
+<a id="sl85"></a>
+
 ### Sl 85
 
 **1** For korlederen. Salme af Kora-sønnerne.
@@ -6564,6 +7072,10 @@ retfærdighed ser ned fra himlen.
 og vort land giver sin afgrøde.
 **14** Retfærdighed går foran ham,
 og fred følger i hans spor.
+
+[– tilbage –](#indhold)
+
+<a id="sl86"></a>
 
 ### Sl 86
 
@@ -6614,6 +7126,10 @@ så mine fjender ser det og beskæmmes.
 
 Du, Herre, har hjulpet og trøstet mig.
 
+[– tilbage –](#indhold)
+
+<a id="sl87"></a>
+
 ### Sl 87
 
 **1** Salme af Kora-sønnerne. En sang.
@@ -6637,6 +7153,10 @@ dér er de født.    Sela
 
 **7** Dansende synger de:
 Alle mine kilder er i dig.
+
+[– tilbage –](#indhold)
+
+<a id="sl88"></a>
 
 ### Sl 88
 
@@ -6683,6 +7203,10 @@ dine grusomheder gør det af med mig;
 de slår sammen over mig.
 **19** Ven og frænde har du taget fra mig,
 mine bekendte er borte i mørket.
+
+[– tilbage –](#indhold)
+
+<a id="sl89"></a>
 
 ### Sl 89
 
@@ -6801,6 +7325,10 @@ hvor de spotter din salvedes fodspor!
 **53** Lovet være Herren til evig tid!
 Amen, amen.
 
+[– tilbage –](#indhold)
+
+<a id="sl90"></a>
+
 ### Sl 90
 
 **1** Bøn af gudsmanden Moses.
@@ -6847,6 +7375,10 @@ lad deres børn se din pragt!
 Styrk vore hænders værk for os,
 ja, styrk vore hænders værk!
 
+[– tilbage –](#indhold)
+
+<a id="sl91"></a>
+
 ### Sl 91
 
 **1** Den, der sidder i den Højestes skjul,
@@ -6891,6 +7423,10 @@ jeg befrier ham og giver ham ære.
 **16** Jeg mætter ham med et langt liv
 og lader ham se min frelse.
 
+[– tilbage –](#indhold)
+
+<a id="sl92"></a>
+
 ### Sl 92
 
 **1** En salme. En sang på sabbatsdagen.
@@ -6928,6 +7464,10 @@ de er friske og grønne,
 **16** så de kan forkynde, at Herren er retskaffen;
 han er min klippe, der er ingen uret hos ham.
 
+[– tilbage –](#indhold)
+
+<a id="sl93"></a>
+
 ### Sl 93
 
 **1** Herren er konge! Han har klædt sig i højhed,
@@ -6944,6 +7484,10 @@ er Herren mægtig i det høje.
 **5** Dine vidnesbyrd står fast,
 hellighed smykker dit hus
 i al evighed, Herre.
+
+[– tilbage –](#indhold)
+
+<a id="sl94"></a>
 
 ### Sl 94
 
@@ -6999,6 +7543,10 @@ min Gud blev min tilflugtsklippe.
 og tilintetgjorde dem i deres ondskab.
 Herren, vor Gud, tilintetgjorde dem.
 
+[– tilbage –](#indhold)
+
+<a id="sl95"></a>
+
 ### Sl 95
 
 **1** Kom, lad os juble for Herren,
@@ -7027,6 +7575,10 @@ og satte mig på prøve, skønt de havde set mine gerninger.
 og jeg sagde: De er et folk, der farer vild i deres hjerte, og de kender ikke mine veje.
 **11** Så svor jeg i min vrede:
 De skal aldrig komme ind til min hvile.
+
+[– tilbage –](#indhold)
+
+<a id="sl96"></a>
 
 ### Sl 96
 
@@ -7061,6 +7613,10 @@ han kommer for at holde dom over jorden,
 han holder dom over verden med retfærdighed
 og over folkene i sin trofasthed.
 
+[– tilbage –](#indhold)
+
+<a id="sl97"></a>
+
 ### Sl 97
 
 **1** Herren er konge! Jorden skal juble,
@@ -7093,6 +7649,10 @@ og glæde for de oprigtige.
 **12** I retfærdige, glæd jer i Herren,
 og lovpris hans hellige navn.
 
+[– tilbage –](#indhold)
+
+<a id="sl98"></a>
+
 ### Sl 98
 
 **1** En salme.
@@ -7123,6 +7683,10 @@ alle bjerge skal juble
 for at holde dom over jorden.
 Han holder dom over verden med retfærdighed
 og over folkene med retskaffenhed.
+
+[– tilbage –](#indhold)
+
+<a id="sl99"></a>
 
 ### Sl 99
 
@@ -7155,6 +7719,10 @@ og kunne hævne deres gerninger.
 kaste jer ned for hans hellige bjerg,
 for hellig er Herren, vor Gud!
 
+[– tilbage –](#indhold)
+
+<a id="sl100"></a>
+
 ### Sl 100
 
 **1** En salme til takofferet.
@@ -7173,6 +7741,10 @@ tak ham, pris hans navn!
 **5** For Herren er god,
 hans trofasthed varer til evig tid,
 hans troskab i slægt efter slægt.
+
+[– tilbage –](#indhold)
+
+<a id="sl101"></a>
 
 ### Sl 101
 
@@ -7207,6 +7779,10 @@ skal ikke bestå for mine øjne.
 vil jeg gøre det af med hver morgen.
 Jeg vil udrydde alle forbrydere
 af Herrens by.
+
+[– tilbage –](#indhold)
+
+<a id="sl102"></a>
 
 ### Sl 102
 
@@ -7279,6 +7855,10 @@ dine år får aldrig ende.
 **29** Dine tjeneres børn skal bo i tryghed,
 deres efterkommere bestå for dit ansigt.
 
+[– tilbage –](#indhold)
+
+<a id="sl103"></a>
+
 ### Sl 103
 
 **1** Af David.
@@ -7333,6 +7913,10 @@ hans tjenere, der udfører hans vilje.
 overalt i hans rige.
 
 Min sjæl, pris Herren!
+
+[– tilbage –](#indhold)
+
+<a id="sl104"></a>
 
 ### Sl 104
 
@@ -7422,6 +8006,10 @@ jeg har min glæde i Herren.
 og de ugudelige ikke længere være til!
 
 Min sjæl, pris Herren!
+
+[– tilbage –](#indhold)
+
+<a id="sl105"></a>
 
 ### Sl 105
 
@@ -7522,6 +8110,10 @@ sine udvalgte drage ud under jubel.
 folkeslags udbytte fik de i eje,
 **45** for at de skulle holde hans love
 og overholde hans lovbud.
+
+[– tilbage –](#indhold)
+
+<a id="sl106"></a>
 
 ### Sl 106
 
@@ -7645,6 +8237,10 @@ og være stolte over at lovprise dig.
 fra evighed til evighed,
 og hele folket skal sige: Amen!
 
+[– tilbage –](#indhold)
+
+<a id="sl107"></a>
+
 ### Sl 107
 
 **1** Halleluja.
@@ -7742,6 +8338,10 @@ munden skal lukkes på al uretfærdighed.
 **43** Den vise skal mærke sig dette,
 han skal give agt på Herrens trofasthed.
 
+[– tilbage –](#indhold)
+
+<a id="sl108"></a>
+
 ### Sl 108
 
 **1** En sang. Salme af David.
@@ -7781,6 +8381,10 @@ du drager ikke ud med vore hære.
 menneskers hjælp er intet værd.
 **14** Ved Guds hjælp vinder vi sejr,
 han tramper vore fjender ned.
+
+[– tilbage –](#indhold)
+
+<a id="sl109"></a>
 
 ### Sl 109
 
@@ -7858,6 +8462,10 @@ blandt de mange vil jeg lovprise ham,
 **31** for han står på den fattiges side
 for at frelse ham fra dem, der vil dømme ham.
 
+[– tilbage –](#indhold)
+
+<a id="sl110"></a>
+
 ### Sl 110
 
 **1** Salme af David.
@@ -7886,6 +8494,10 @@ han knuser hoveder ud over den vide jord.
 
 **7** Af bækken ved vejen drikker han,
 derfor kan han løfte hovedet.
+
+[– tilbage –](#indhold)
+
+<a id="sl111"></a>
 
 ### Sl 111
 
@@ -7918,6 +8530,10 @@ enhver, der gør det, bliver såre klog.
 
 Herrens pris består til evig tid.
 
+[– tilbage –](#indhold)
+
+<a id="sl112"></a>
+
 ### Sl 112
 
 **1** Halleluja.
@@ -7945,6 +8561,10 @@ hans horn løfter sig herligt.
 han skærer tænder og synker sammen.
 Hvad de ugudelige ønsker, lykkes ikke.
 
+[– tilbage –](#indhold)
+
+<a id="sl113"></a>
+
 ### Sl 113
 
 **1** Halleluja.
@@ -7970,6 +8590,10 @@ blandt sit folks fyrster.
 **9** Han lader den ufrugtbare kvinde sidde
 som lykkelig mor til sønner.
 
+[– tilbage –](#indhold)
+
+<a id="sl114"></a>
+
 ### Sl 114
 
 **1** Halleluja.
@@ -7993,6 +8617,10 @@ høje, hvorfor sprang I som kid og lam?
 skælv for Jakobs Gud,
 **8** ham som forvandler klippen til kildevæld
 og flint til rislende kilder.
+
+[– tilbage –](#indhold)
+
+<a id="sl115"></a>
 
 ### Sl 115
 
@@ -8039,6 +8667,10 @@ men jorden gav han menneskene.
 de som gik ned i stilheden;
 **18** men vi priser Herren
 fra nu af og til evig tid.
+
+[– tilbage –](#indhold)
+
+<a id="sl116"></a>
 
 ### Sl 116
 
@@ -8089,6 +8721,10 @@ for øjnene af hele hans folk,
 **19** i forgårdene til Herrens tempel,
 i din midte, Jerusalem.
 
+[– tilbage –](#indhold)
+
+<a id="sl117"></a>
+
 ### Sl 117
 
 **1** Halleluja.
@@ -8097,6 +8733,10 @@ Lovpris Herren, alle folkeslag!
 Lovsyng ham, alle folk!
 **2** For hans godhed mod os er stor,
 Herrens troskab varer til evig tid.
+
+[– tilbage –](#indhold)
+
+<a id="sl118"></a>
 
 ### Sl 118
 
@@ -8175,6 +8815,10 @@ min Gud, jeg priser dig.
 
 **29** Tak Herren, for han er god,
 hans trofasthed varer til evig tid.
+
+[– tilbage –](#indhold)
+
+<a id="sl119"></a>
 
 ### Sl 119
 
@@ -8551,6 +9195,10 @@ gid dine bud må være mig til hjælp!
 led da efter din tjener,
 for jeg glemmer ikke dine befalinger.
 
+[– tilbage –](#indhold)
+
+<a id="sl120"></a>
+
 ### Sl 120
 
 **1** Valfartssang.
@@ -8573,6 +9221,10 @@ jeg må bo blandt Kedars telte.
 hos dem, der hader fred;
 **7** så snart jeg taler fred,
 taler de krig.
+
+[– tilbage –](#indhold)
+
+<a id="sl121"></a>
 
 ### Sl 121
 
@@ -8597,6 +9249,10 @@ månen ikke om natten.
 han bevare dit liv.
 **8** Herren bevare din udgang og din indgang
 fra nu af og til evig tid.
+
+[– tilbage –](#indhold)
+
+<a id="sl122"></a>
 
 ### Sl 122
 
@@ -8626,6 +9282,10 @@ siger jeg: Fred over dig!
 **9** For Herren vor Guds tempels skyld
 ønsker jeg lykke for dig.
 
+[– tilbage –](#indhold)
+
+<a id="sl123"></a>
+
 ### Sl 123
 
 **1** Valfartssang.
@@ -8644,6 +9304,10 @@ Vi er mættede med foragt,
 **4** vi er overmætte
 af de sorgløses spot,
 de overmodiges foragt.
+
+[– tilbage –](#indhold)
+
+<a id="sl124"></a>
 
 ### Sl 124
 
@@ -8669,6 +9333,10 @@ og vi blev reddet.
 **8** Vi har vor hjælp i Herrens navn,
 himlens og jordens skaber.
 
+[– tilbage –](#indhold)
+
+<a id="sl125"></a>
+
 ### Sl 125
 
 **1** Valfartssang.
@@ -8693,6 +9361,10 @@ sammen med forbryderne.
 
 Fred over Israel!
 
+[– tilbage –](#indhold)
+
+<a id="sl126"></a>
+
 ### Sl 126
 
 **1** Valfartssang.
@@ -8714,6 +9386,10 @@ skal høste med jubel.
 mens han bærer såsæden;
 med jubel vender han hjem,
 mens han bærer sine neg.
+
+[– tilbage –](#indhold)
+
+<a id="sl127"></a>
 
 ### Sl 127
 
@@ -8737,6 +9413,10 @@ er sønner, man får i sin ungdom.
 de bliver ikke til skamme,
 når de taler til deres fjender i porten.
 
+[– tilbage –](#indhold)
+
+<a id="sl128"></a>
+
 ### Sl 128
 
 **1** Valfartssang.
@@ -8758,6 +9438,10 @@ så længe du lever,
 **6** og så du får dine sønners sønner at se.
 
 Fred over Israel!
+
+[– tilbage –](#indhold)
+
+<a id="sl129"></a>
 
 ### Sl 129
 
@@ -8782,6 +9466,10 @@ den, der binder op, får ikke favnen fuld.
 Herrens velsignelse være med jer!
 
 Vi velsigner jer i Herrens navn.
+
+[– tilbage –](#indhold)
+
+<a id="sl130"></a>
 
 ### Sl 130
 
@@ -8809,6 +9497,10 @@ hos ham er der altid udfrielse.
 **8** Han udfrier Israel
 fra al dets skyld.
 
+[– tilbage –](#indhold)
+
+<a id="sl131"></a>
+
 ### Sl 131
 
 **1** Valfartssang. Af David.
@@ -8824,6 +9516,10 @@ som barnet er min sjæl i mig.
 
 **3** Israel, vent på Herren
 fra nu af og til evig tid!
+
+[– tilbage –](#indhold)
+
+<a id="sl132"></a>
 
 ### Sl 132
 
@@ -8874,6 +9570,10 @@ og sørger for en lampe til min salvede.
 **18** Hans fjender klæder jeg i skam,
 men på ham skal kronen stråle.
 
+[– tilbage –](#indhold)
+
+<a id="sl133"></a>
+
 ### Sl 133
 
 **1** Valfartssang. Af David.
@@ -8889,6 +9589,10 @@ på Zions bjerge.
 For dér giver Herren velsignelsen,
 livet i al evighed.
 
+[– tilbage –](#indhold)
+
+<a id="sl134"></a>
+
 ### Sl 134
 
 **1** Valfartssang.
@@ -8902,6 +9606,10 @@ og pris Herren!
 
 **3** Herren velsigne dig fra Zion,
 han som skabte himlen og jorden.
+
+[– tilbage –](#indhold)
+
+<a id="sl135"></a>
 
 ### Sl 135
 
@@ -8957,6 +9665,10 @@ Pris Herren, Arons hus!
 Pris Herren, I der frygter Herren!
 **21** Lovet være Herren fra Zion,
 han som bor i Jerusalem.
+
+[– tilbage –](#indhold)
+
+<a id="sl136"></a>
 
 ### Sl 136
 
@@ -9019,6 +9731,10 @@ hans trofasthed varer til evig tid.
 **26** Tak himlens Gud,
 hans trofasthed varer til evig tid.
 
+[– tilbage –](#indhold)
+
+<a id="sl137"></a>
+
 ### Sl 137
 
 **1** Ved Babylons floder
@@ -9053,6 +9769,10 @@ den gerning, du gjorde mod os!
 **9** Lykkelig den, der griber dine spædbørn
 og knuser dem mod klippen!
 
+[– tilbage –](#indhold)
+
+<a id="sl138"></a>
+
 ### Sl 138
 
 **1** Af David.
@@ -9082,6 +9802,10 @@ og din højre hånd frelser mig;
 
 Herre, din trofasthed varer til evig tid,
 opgiv ikke dine hænders værk!
+
+[– tilbage –](#indhold)
+
+<a id="sl139"></a>
 
 ### Sl 139
 
@@ -9144,6 +9868,10 @@ prøv mig, og kend mine tanker,
 **24** se efter, om jeg følger afgudsvej!
 Led mig ad evigheds vej!
 
+[– tilbage –](#indhold)
+
+<a id="sl140"></a>
+
 ### Sl 140
 
 **1** For korlederen. Salme af David.
@@ -9180,6 +9908,10 @@ og skaffe de fattige ret.
 **14** Retfærdige skal takke dit navn,
 retskafne skal bo for dit ansigt.
 
+[– tilbage –](#indhold)
+
+<a id="sl141"></a>
+
 ### Sl 141
 
 **1** Salme af David.
@@ -9211,6 +9943,10 @@ og fra forbrydernes snarer.
 **10** Lad de uretfærdige falde i deres eget net,
 mens jeg alene går fri.
 
+[– tilbage –](#indhold)
+
+<a id="sl142"></a>
+
 ### Sl 142
 
 **1** Maskil af David. En bøn.
@@ -9240,6 +9976,10 @@ for de er stærkere end jeg.
 så jeg kan takke dit navn.
 De retfærdige samler sig om mig,
 for du handler vel imod mig.
+
+[– tilbage –](#indhold)
+
+<a id="sl143"></a>
 
 ### Sl 143
 
@@ -9283,6 +10023,10 @@ og før mig ud af nøden i din retfærdighed!
 **12** Udryd mine fjender i din godhed,
 og tilintetgør alle mine modstandere,
 for jeg er din tjener.
+
+[– tilbage –](#indhold)
+
+<a id="sl144"></a>
 
 ### Sl 144
 
@@ -9335,6 +10079,10 @@ Der lyder ikke klageråb på vore torve.
 **15** Lykkeligt det folk, der har det sådan,
 lykkeligt det folk, der har Herren til Gud!
 
+[– tilbage –](#indhold)
+
+<a id="sl145"></a>
+
 ### Sl 145
 
 **1** Lovsang af David.
@@ -9386,6 +10134,10 @@ men alle de ugudelige udrydder han.
 alle mennesker skal prise hans hellige navn,
 for evigt og altid.
 
+[– tilbage –](#indhold)
+
+<a id="sl146"></a>
+
 ### Sl 146
 
 **1** Halleluja.
@@ -9417,6 +10169,10 @@ men fører de ugudelige på vildspor.
 din Gud, Zion, i slægt efter slægt.
 
 Halleluja.
+
+[– tilbage –](#indhold)
+
+<a id="sl147"></a>
 
 ### Sl 147
 
@@ -9469,6 +10225,10 @@ de kender ikke hans bud.
 
 Halleluja.
 
+[– tilbage –](#indhold)
+
+<a id="sl148"></a>
+
 ### Sl 148
 
 **1** Halleluja.
@@ -9508,6 +10268,10 @@ Israel, det folk, der står ham nær!
 
 Halleluja.
 
+[– tilbage –](#indhold)
+
+<a id="sl149"></a>
+
 ### Sl 149
 
 **1** Halleluja.
@@ -9533,6 +10297,10 @@ til herlighed for alle hans fromme.
 
 Halleluja.
 
+[– tilbage –](#indhold)
+
+<a id="sl150"></a>
+
 ### Sl 150
 
 **1** Halleluja.
@@ -9551,9 +10319,13 @@ lovpris ham med rungende cymbler!
 
 Halleluja.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Ordsprogenes Bog
+
+<a id="ordsp1"></a>
 
 ### Ordsp 1
 
@@ -9629,6 +10401,10 @@ tåbernes sorgløshed tilintetgør dem selv.
 **33** Men den, der adlyder mig, bor trygt
 og lever uforstyrret uden frygt for ulykker.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp2"></a>
+
 ### Ordsp 2
 
 **1** Min søn, hvis du tager imod mine ord
@@ -9675,6 +10451,10 @@ og holde dig til de retfærdiges stier;
 de retsindige blive tilbage i det.
 **22** Men de uretfærdige skal udryddes af landet,
 de troløse rives bort derfra.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp3"></a>
 
 ### Ordsp 3
 
@@ -9753,6 +10533,10 @@ men ydmyge viser han velvilje.
 **35** De vise får ære i eje,
 tåberne sætter skammen i højsædet.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp4"></a>
+
 ### Ordsp 4
 
 **1** Lyt, sønner, til en fars formaning,
@@ -9813,6 +10597,10 @@ du skal styre hele din færden;
 **27** bøj ikke af til højre eller venstre,
 hold din fod fra det onde!
 
+[– tilbage –](#indhold)
+
+<a id="ordsp5"></a>
+
 ### Ordsp 5
 
 **1** Min søn, lyt til min visdom,
@@ -9864,6 +10652,10 @@ han giver agt på alle hans stier.
 han holdes fast i sine synders bånd.
 **23** Han dør af mangel på opdragelse,
 han farer vild i sin store dumhed.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp6"></a>
 
 ### Ordsp 6
 
@@ -9942,6 +10734,10 @@ han er skånselsløs den dag, han tager hævn.
 **35** Han tager ikke imod sonepenge,
 han giver ikke efter for bestikkelse, hvor stor du end gør den.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp7"></a>
+
 ### Ordsp 7
 
 **1** Min søn, bevar mine ord,
@@ -10000,6 +10796,10 @@ forvild dig ikke ind på hendes stier;
 talrige har hun slået ihjel.
 **27** Hendes hus er veje til dødsriget,
 de fører ned til dødens kamre.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp8"></a>
 
 ### Ordsp 8
 
@@ -10081,6 +10881,10 @@ og opnår Herrens velbehag.
 **36** Men den, der går fejl af mig, skader sig selv,
 alle, der hader mig, elsker døden.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp9"></a>
+
 ### Ordsp 9
 
 **1** Visdommen har bygget sit hus,
@@ -10119,6 +10923,10 @@ Til den uforstandige siger hun:
 det hemmelige brød er dejligt.«
 **18** Han ved ikke, at dødninge bor der,
 hendes gæster er i dødsrigets dybder.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp10"></a>
 
 ### Ordsp 10
 
@@ -10189,6 +10997,10 @@ den svigefulde tunge skæres af.
 **32** Den retfærdiges læber forstår sig på velvilje,
 uretfærdiges mund forstår sig på svig.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp11"></a>
+
 ### Ordsp 11
 
 **1** Falsk vægt vækker Herrens afsky,
@@ -10254,6 +11066,10 @@ og den vise vinder mennesker for sig.
 **31** Når den retfærdige får sin løn på jorden,
 hvor meget mere da ikke den uretfærdige og synderen!
 
+[– tilbage –](#indhold)
+
+<a id="ordsp12"></a>
+
 ### Ordsp 12
 
 **1** Den, der elsker formaning, elsker kundskab,
@@ -10313,6 +11129,10 @@ et flittigt menneske opnår kostbart gods.
 **28** På retfærdighedens vej er livet,
 tåbelighedens vej fører til døden.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp13"></a>
+
 ### Ordsp 13
 
 **1** En vis søn elsker formaning,
@@ -10365,6 +11185,10 @@ men den går tabt, hvis der ikke øves ret.
 den, der elsker sin søn, tugter ham i tide.
 **25** Den retfærdige kan spise, til han er mæt,
 uretfærdige må gå med tom mave.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp14"></a>
 
 ### Ordsp 14
 
@@ -10439,6 +11263,10 @@ synd er en modbydelighed blandt folkeslag.
 **35** En klog tjener vækker velvilje hos kongen,
 en, der gør ham skam, rammes af hans vrede.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp15"></a>
+
 ### Ordsp 15
 
 **1** Et mildt svar afvender vrede,
@@ -10507,6 +11335,10 @@ får sin plads blandt de vise.
 den, der lytter til retledning, erhverver fornuft.
 **33** At frygte Herren er opdragelse til visdom.
 Ydmyghed går forud for ære.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp16"></a>
 
 ### Ordsp 16
 
@@ -10577,6 +11409,10 @@ hellere beherske sig selv end indtage en by.
 **33** I kappefolden rystes loddet,
 men afgørelsen kommer altid fra Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp17"></a>
+
 ### Ordsp 17
 
 **1** Hellere et stykke tørt brød med tryghed til
@@ -10638,6 +11474,10 @@ den, der holder hovedet koldt, er en forstandig mand.
 **28** Selv den dumme, der tier, kan regnes for vís,
 den, der holder læberne lukket, gælder som forstandig.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp18"></a>
+
 ### Ordsp 18
 
 **1** Den, der går sine egne veje, følger egen lyst,
@@ -10688,6 +11528,10 @@ og opnået Herrens velbehag.
 den rige svarer hårdt.
 **24** Der er venner, der volder hinanden ondt,
 men en ven kan være mere trofast end en bror.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp19"></a>
 
 ### Ordsp 19
 
@@ -10749,6 +11593,10 @@ så forvilder du dig bort fra kundskabs ord!
 uretfærdiges mund sluger ondskab.
 **29** Spotterne har straf i vente,
 tåbers ryg får bank.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp20"></a>
 
 ### Ordsp 20
 
@@ -10812,6 +11660,10 @@ med troskab understøtter han sin trone.
 de gamles ære er det grå hår.
 **30** Den onde lutres af skrammer og flænger,
 kamrene i hans indre af prygl.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp21"></a>
 
 ### Ordsp 21
 
@@ -10878,6 +11730,10 @@ gælder over for Herren.
 **31** Hesten gøres rede til krigens dag,
 men sejren er Herrens sag.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp22"></a>
+
 ### Ordsp 22
 
 **1** Et navn er mere værd end stor rigdom,
@@ -10940,6 +11796,10 @@ som dine fædre har sat.
 **29** Ser du en mand, der er rask til sit arbejde,
 så lad ham træde frem for konger;
 jævne folk skal han ikke træde frem for.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp23"></a>
 
 ### Ordsp 23
 
@@ -11021,6 +11881,10 @@ som en, der ligger på en mastetop.
 jeg er slået ud, uden at jeg mærkede det.
 Hvornår vågner jeg? Jeg vil opsøge vinen igen!«
 
+[– tilbage –](#indhold)
+
+<a id="ordsp24"></a>
+
 ### Ordsp 24
 
 **1** Vær ikke misundelig på onde mennesker,
@@ -11101,6 +11965,10 @@ lidt hænderne i skødet«,
 **34** men så kommer armoden over dig som en landstryger,
 nøden som en røver.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp25"></a>
+
 ### Ordsp 25
 
 **1** Det følgende er også ordsprog af Salomo, som Judas konge Hizkijas mænd har samlet.
@@ -11164,6 +12032,10 @@ og at søge egen ære er en tung byrde.
 **28** En åben by uden mur:
 en mand uden selvbeherskelse.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp26"></a>
+
 ### Ordsp 26
 
 **1** Den uretfærdige flygter, skønt ingen forfølger ham,
@@ -11225,6 +12097,10 @@ den, der lukker sine øjne, rammes af mange forbandelser.
 **28** Når de uretfærdige kommer ovenpå, gemmer folk sig,
 når de går til grunde, får de retfærdige magt.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp27"></a>
+
 ### Ordsp 27
 
 **1** Du skal ikke rose dig af dagen i morgen,
@@ -11283,6 +12159,10 @@ når høet fra bjergene samles ind,
 bukke til at købe en mark for
 **27** og gedemælk nok til føde for dig og dit hus
 og til livets ophold for dine piger.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp28"></a>
 
 ### Ordsp 28
 
@@ -11345,6 +12225,10 @@ den, der lukker sine øjne, rammes af mange forbandelser.
 **28** Når de uretfærdige kommer ovenpå, gemmer folk sig,
 når de går til grunde, får de retfærdige magt.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp29"></a>
+
 ### Ordsp 29
 
 **1** Den, der bliver irettesat, men gør nakken stiv,
@@ -11401,6 +12285,10 @@ men den, der stoler på Herren, er i sikkerhed.
 men dommen får man fra Herren.
 **27** Retfærdige afskyr den uhæderlige mand,
 den uretfærdige afskyr den, der lever retskaffent.
+
+[– tilbage –](#indhold)
+
+<a id="ordsp30"></a>
 
 ### Ordsp 30
 
@@ -11490,6 +12378,10 @@ eller du har tænkt dig om, så læg hånden på munden.
 tryk på næsen giver blod,
 og tryk på vreden giver strid.
 
+[– tilbage –](#indhold)
+
+<a id="ordsp31"></a>
+
 ### Ordsp 31
 
 **1** Ord til kong Lemuel af Massa, som hans mor opdrog ham med.
@@ -11557,9 +12449,13 @@ men en kvinde, der frygter Herren, skal berømmes.
 **31** Lad hende nyde frugten af sit arbejde,
 lad hendes gerninger berømme hende i portene.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Prædikerens Bog
+
+<a id="praed1"></a>
 
 ### Præd 1
 
@@ -11617,6 +12513,10 @@ lad hendes gerninger berømme hende i portene.
 > jo større visdom, des større kval,
 > den, der øger sin kundskab, øger sin smerte.
 
+[– tilbage –](#indhold)
+
+<a id="praed2"></a>
+
 ### Præd 2
 
 #### Rigdommens utilstrækkelighed
@@ -11643,6 +12543,10 @@ Men jeg måtte også erkende, at én og samme skæbne rammer dem begge. **15** D
 #### Alt kommer fra Gud
 
 **24** Intet er bedre for mennesket end at spise og drikke og nyde frugten af sit slid. Men jeg så også, at det kommer fra Gud; **25** hvem kan spise, og hvem kan nyde livet, uden han giver lov? **26** Det menneske, han finder godt, giver han visdom og kundskab og glæde; men synderen giver han den plage at samle og hobe op for så at skulle give det til en, som Gud finder god. Også det er tomhed og jagen efter vind!
+
+[– tilbage –](#indhold)
+
+<a id="praed3"></a>
 
 ### Præd 3
 
@@ -11694,6 +12598,10 @@ Men jeg måtte også erkende, at én og samme skæbne rammer dem begge. **15** D
 
 **22** Jeg så, at intet er bedre for mennesket end at glæde sig i alt, hvad det gør; det er dets løn. For ingen kan sætte det i stand til at se, hvad der sker i fremtiden.
 
+[– tilbage –](#indhold)
+
+<a id="praed4"></a>
+
 ### Præd 4
 
 #### Uretten i samfundet
@@ -11731,6 +12639,10 @@ Men jeg måtte også erkende, at én og samme skæbne rammer dem begge. **15** D
 #### Mådehold frem for alt
 
 **17** Vogt din fod, når du går til Guds hus. Det er bedre at gå derhen for at høre end for at bringe offer, som tåberne gør, for de forstår ikke andet end at volde ondt.
+
+[– tilbage –](#indhold)
+
+<a id="praed5"></a>
 
 ### Præd 5
 
@@ -11774,6 +12686,10 @@ og han får intet ud af sit slid, som han kan tage med sig. **15** Ja, dette er 
 
 **17** Det er, hvad jeg har set: Det er godt og rigtigt at spise og drikke og nyde frugten af alt det, et menneske slider med under solen i det korte liv, Gud har givet ham; det er hans løn. **18** At Gud giver menneskene rigdom og formue og giver dem mulighed for at nyde den og få deres løn og glæde sig i deres slid, det er en gave fra Gud. **19** De skal ikke altid tænke på deres levedage, for Gud giver dem glæde i hjertet.
 
+[– tilbage –](#indhold)
+
+<a id="praed6"></a>
+
 ### Præd 6
 
 **1** Der er et onde, jeg har set under solen, og det ligger tungt på menneskene: **2** Gud kan give en mand rigdom og formue og ære, så han ikke behøver at nægte sig noget, han har lyst til, men når Gud ikke giver ham mulighed for at nyde det, men en fremmed kommer til at nyde det, så er det tomhed og en tung lidelse! **3** Hvis en mand får hundrede børn og lever i mange år, men i alle sine leveår ikke mættes af livets goder og end ikke får en grav, så siger jeg: »Lykkeligere end han er det dødfødte barn!« **4** For i tomhed kom det, i mørke går det bort, og i mørke er dets navn skjult. **5** Det har hverken set solen eller kendt noget til den. Det har mere fred end han. **6** Om han så levede to gange tusind år og aldrig fandt lykken – går ikke alle samme sted hen?
@@ -11789,6 +12705,10 @@ og han får intet ud af sit slid, som han kan tage med sig. **15** Ja, dette er 
 Også det er tomhed og jagen efter vind!
 
 **10** Det, som er til, har allerede været nævnt ved navn, og det er kendt, hvad et menneske skal blive; det kan ikke gå i rette med ham, som er stærkere end det selv. **11** Ord i mængde gør tomheden større; hvad får mennesket ud af det? **12** Hvem kan vide, hvad der er godt for mennesket i det korte, tomme liv, det henlever som en skygge? Ingen kan fortælle mennesket, hvad der i fremtiden sker under solen.
+
+[– tilbage –](#indhold)
+
+<a id="praed7"></a>
 
 ### Præd 7
 
@@ -11854,6 +12774,10 @@ men fordelen ved at forstå visdommen er, at den giver liv til dem, der ejer den
 
 **23** Alt dette ville jeg prøve med visdom; jeg sagde: Jeg vil vinde visdom! Men den var langt borte fra mig. **24** Langt borte er det, der sker, dybt, dybt nede; hvem kan finde ud af det? **25** Jeg gav mig til at forstå, at søge og udforske visdom og sammenhæng og at forstå tåbelig uretfærdighed, dårskab og dumhed. **26** Jeg fandt, at bitrere end døden er kvinden, der sætter sine garn; hendes hjerte er et net, hendes hænder er lænker. Han, som Gud finder god, undslipper hende, men synderen indfanges af hende. **27** Dette er, hvad jeg fandt ud af lidt efter lidt, da jeg ville finde sammenhængen, sagde Prædikeren. **28** Det, jeg blev ved at søge efter, fandt jeg ikke: Ud af tusind fandt jeg én mand, men blandt dem alle fandt jeg ikke en kvinde! **29** Kun det fandt jeg ud af, at Gud har skabt menneskene enfoldige, men de gør sig alle mulige spekulationer.
 
+[– tilbage –](#indhold)
+
+<a id="praed8"></a>
+
 ### Præd 8
 
 #### Vismandens resignation
@@ -11872,6 +12796,10 @@ men fordelen ved at forstå visdommen er, at den giver liv til dem, der ejer den
 **15** Da priste jeg glæden, for intet under solen er bedre for mennesket end at spise og drikke og være glad. Det kan ledsage mennesket i dets slid alle de levedage, Gud har givet det under solen.
 
 **16** Hver gang jeg havde til hensigt at forstå visdom og få indsigt i den plage, der forekommer på jorden – hverken dag eller nat får man søvn i øjnene – **17** da indså jeg om alt det, Gud gør, at mennesket ikke kan finde ud af det, der sker under solen. Hvor meget mennesket end slider og søger, finder det ikke ud af det. Og selv om den vise siger, at han forstår det, kan han ikke finde ud af det.
+
+[– tilbage –](#indhold)
+
+<a id="praed9"></a>
 
 ### Præd 9
 
@@ -11917,6 +12845,10 @@ men fattiges visdom ringeagtes, ingen hører deres ord.
 > end råb fra en hersker blandt tåber.
 >  **18** Hellere visdom end våben, men én synder kan ødelægge meget godt.
 
+[– tilbage –](#indhold)
+
+<a id="praed10"></a>
+
 ### Præd 10
 
 >  **1** Døde fluer kan få salveblanderens olie til at stinke og boble;
@@ -11960,6 +12892,10 @@ men fattiges visdom ringeagtes, ingen hører deres ord.
 
 **20** Ikke engang i tankerne må du forbande en konge, ikke engang i dit sovekammer må du forbande en rig; for himlens fugle kan bringe ordene videre, og de vingede væsener kan fortælle, hvad du sagde.
 
+[– tilbage –](#indhold)
+
+<a id="praed11"></a>
+
 ### Præd 11
 
 >  **1** Kast dit brød på vandet,
@@ -11988,6 +12924,10 @@ men du skal vide, at Gud vil kræve dig til regnskab for det alt sammen.
 >  **10** Fjern kvalen fra dit hjerte,
 > og hold dig det onde fra livet.
 > Ungdom og morgenrøde er tomhed!
+
+[– tilbage –](#indhold)
+
+<a id="praed12"></a>
 
 ### Præd 12
 
@@ -12027,9 +12967,13 @@ men du skal vide, at Gud vil kræve dig til regnskab for det alt sammen.
 
 **12** Men ud over det: Min søn, lad dig advare! Der er ingen ende på de mange bøger, der skrives, og den megen læsning bliver man træt af. **13** Når du har hørt det hele, skal du drage den slutning: Frygt Gud, og hold hans bud, det skal alle mennesker! **14** For Gud kræver dig til regnskab for enhver handling, alt det skjulte, godt eller ondt.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Højsangen
+
+<a id="hoejs1"></a>
 
 ### Højs 1
 
@@ -12089,6 +13033,10 @@ hvor er du smuk, dine øjne er duer.
 vort leje er grønt.
 **17** Cedertræerne er bjælker i vores hus,
 cypresserne er loftet.
+
+[– tilbage –](#indhold)
+
+<a id="hoejs2"></a>
 
 ### Højs 2
 
@@ -12158,6 +13106,10 @@ vend da om, min elskede, som en gazelle,
 som en hjortekalv
 på duftende bjerge.
 
+[– tilbage –](#indhold)
+
+<a id="hoejs3"></a>
+
 ### Højs 3
 
 **1** På mit leje om natten søgte jeg ham,
@@ -12204,6 +13156,10 @@ af kong Salomo og den krone,
 hans mor kronede ham med
 på hans bryllupsdag,
 på hans hjertes glædesdag.
+
+[– tilbage –](#indhold)
+
+<a id="hoejs4"></a>
 
 ### Højs 4
 
@@ -12272,6 +13228,10 @@ der strømmer fra Libanon.
 Lad det lufte i min have, lad dens balsam strømme.
 Min elskede skal komme til sin have
 og spise af dens herlige frugter.
+
+[– tilbage –](#indhold)
+
+<a id="hoejs5"></a>
 
 ### Højs 5
 
@@ -12342,6 +13302,10 @@ alt ved ham er dejligt.
 Sådan er min elskede, sådan er min ven,
 Jerusalems døtre.
 
+[– tilbage –](#indhold)
+
+<a id="hoejs6"></a>
+
 ### Højs 6
 
 **1** Hvor er din elskede gået hen,
@@ -12389,6 +13353,10 @@ for at se, om vinstokken har sat skud,
 om granatæblerne blomstrer.
 **12** Jeg blev ude af mig selv,
 det ædle folks datter gjorde mig bange.
+
+[– tilbage –](#indhold)
+
+<a id="hoejs7"></a>
 
 ### Højs 7
 
@@ -12443,6 +13411,10 @@ Dér vil jeg give dig min elskov.
 over vore døre er alle herlige frugter,
 nye og gamle,
 dem har jeg gemt til dig, min elskede.
+
+[– tilbage –](#indhold)
+
+<a id="hoejs8"></a>
 
 ### Højs 8
 
@@ -12510,3 +13482,5 @@ lad mig høre dig sige:
 som en gazelle,
 som en hjortekalv
 hen over balsambjergene.
+
+[– tilbage –](#indhold)

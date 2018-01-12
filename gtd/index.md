@@ -13,27 +13,33 @@ lang: da
 
 ------------------------------------------------------------------------
 
-Es: [1](#es-1) [2](#es-2) [3](#es-3) [4](#es-4) [5](#es-5) [6](#es-6) [7](#es-7) [8](#es-8) [9](#es-9) [10](#es-10) [11](#es-11) [12](#es-12) [13](#es-13) [14](#es-14) [15](#es-15) [16](#es-16) [17](#es-17) [18](#es-18) [19](#es-19) [20](#es-20) [21](#es-21) [22](#es-22) [23](#es-23) [24](#es-24) [25](#es-25) [26](#es-26) [27](#es-27) [28](#es-28) [29](#es-29) [30](#es-30) [31](#es-31) [32](#es-32) [33](#es-33) [34](#es-34) [35](#es-35) [36](#es-36) [37](#es-37) [38](#es-38) [39](#es-39) [40](#es-40) [41](#es-41) [42](#es-42) [43](#es-43) [44](#es-44) [45](#es-45) [46](#es-46) [47](#es-47) [48](#es-48) [49](#es-49) [50](#es-50) [51](#es-51) [52](#es-52) [53](#es-53) [54](#es-54) [55](#es-55) [56](#es-56) [57](#es-57) [58](#es-58) [59](#es-59) [60](#es-60) [61](#es-61) [62](#es-62) [63](#es-63) [64](#es-64) [65](#es-65) [66](#es-66)
-Jer: [1](#jer-1) [2](#jer-2) [3](#jer-3) [4](#jer-4) [5](#jer-5) [6](#jer-6) [7](#jer-7) [8](#jer-8) [9](#jer-9) [10](#jer-10) [11](#jer-11) [12](#jer-12) [13](#jer-13) [14](#jer-14) [15](#jer-15) [16](#jer-16) [17](#jer-17) [18](#jer-18) [19](#jer-19) [20](#jer-20) [21](#jer-21) [22](#jer-22) [23](#jer-23) [24](#jer-24) [25](#jer-25) [26](#jer-26) [27](#jer-27) [28](#jer-28) [29](#jer-29) [30](#jer-30) [31](#jer-31) [32](#jer-32) [33](#jer-33) [34](#jer-34) [35](#jer-35) [36](#jer-36) [37](#jer-37) [38](#jer-38) [39](#jer-39) [40](#jer-40) [41](#jer-41) [42](#jer-42) [43](#jer-43) [44](#jer-44) [45](#jer-45) [46](#jer-46) [47](#jer-47) [48](#jer-48) [49](#jer-49) [50](#jer-50) [51](#jer-51) [52](#jer-52)
-Klages: [1](#klages-1) [2](#klages-2) [3](#klages-3) [4](#klages-4) [5](#klages-5)
-Ez: [1](#ez-1) [2](#ez-2) [3](#ez-3) [4](#ez-4) [5](#ez-5) [6](#ez-6) [7](#ez-7) [8](#ez-8) [9](#ez-9) [10](#ez-10) [11](#ez-11) [12](#ez-12) [13](#ez-13) [14](#ez-14) [15](#ez-15) [16](#ez-16) [17](#ez-17) [18](#ez-18) [19](#ez-19) [20](#ez-20) [21](#ez-21) [22](#ez-22) [23](#ez-23) [24](#ez-24) [25](#ez-25) [26](#ez-26) [27](#ez-27) [28](#ez-28) [29](#ez-29) [30](#ez-30) [31](#ez-31) [32](#ez-32) [33](#ez-33) [34](#ez-34) [35](#ez-35) [36](#ez-36) [37](#ez-37) [38](#ez-38) [39](#ez-39) [40](#ez-40) [41](#ez-41) [42](#ez-42) [43](#ez-43) [44](#ez-44) [45](#ez-45) [46](#ez-46) [47](#ez-47) [48](#ez-48)
-Dan: [1](#dan-1) [2](#dan-2) [3](#dan-3) [4](#dan-4) [5](#dan-5) [6](#dan-6) [7](#dan-7) [8](#dan-8) [9](#dan-9) [10](#dan-10) [11](#dan-11) [12](#dan-12)
-Hos: [1](#hos-1) [2](#hos-2) [3](#hos-3) [4](#hos-4) [5](#hos-5) [6](#hos-6) [7](#hos-7) [8](#hos-8) [9](#hos-9) [10](#hos-10) [11](#hos-11) [12](#hos-12) [13](#hos-13) [14](#hos-14)
-Joel: [1](#joel-1) [2](#joel-2) [3](#joel-3) [4](#joel-4)
-Am: [1](#am-1) [2](#am-2) [3](#am-3) [4](#am-4) [5](#am-5) [6](#am-6) [7](#am-7) [8](#am-8) [9](#am-9)
-Obad: [1](#obad-1)
-Jon: [1](#jon-1) [2](#jon-2) [3](#jon-3) [4](#jon-4)
-Mika: [1](#mika-1) [2](#mika-2) [3](#mika-3) [4](#mika-4) [5](#mika-5) [6](#mika-6) [7](#mika-7)
-Nah: [1](#nah-1) [2](#nah-2) [3](#nah-3)
-Hab: [1](#hab-1) [2](#hab-2) [3](#hab-3)
-Sef: [1](#sef-1) [2](#sef-2) [3](#sef-3)
-Hagg: [1](#hagg-1) [2](#hagg-2)
-Zak: [1](#zak-1) [2](#zak-2) [3](#zak-3) [4](#zak-4) [5](#zak-5) [6](#zak-6) [7](#zak-7) [8](#zak-8) [9](#zak-9) [10](#zak-10) [11](#zak-11) [12](#zak-12) [13](#zak-13) [14](#zak-14)
-Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
+<a id="indhold"></a>
+
+Es: [1](#es1) [2](#es2) [3](#es3) [4](#es4) [5](#es5) [6](#es6) [7](#es7) [8](#es8) [9](#es9) [10](#es10) [11](#es11) [12](#es12) [13](#es13) [14](#es14) [15](#es15) [16](#es16) [17](#es17) [18](#es18) [19](#es19) [20](#es20) [21](#es21) [22](#es22) [23](#es23) [24](#es24) [25](#es25) [26](#es26) [27](#es27) [28](#es28) [29](#es29) [30](#es30) [31](#es31) [32](#es32) [33](#es33) [34](#es34) [35](#es35) [36](#es36) [37](#es37) [38](#es38) [39](#es39) [40](#es40) [41](#es41) [42](#es42) [43](#es43) [44](#es44) [45](#es45) [46](#es46) [47](#es47) [48](#es48) [49](#es49) [50](#es50) [51](#es51) [52](#es52) [53](#es53) [54](#es54) [55](#es55) [56](#es56) [57](#es57) [58](#es58) [59](#es59) [60](#es60) [61](#es61) [62](#es62) [63](#es63) [64](#es64) [65](#es65) [66](#es66)
+Jer: [1](#jer1) [2](#jer2) [3](#jer3) [4](#jer4) [5](#jer5) [6](#jer6) [7](#jer7) [8](#jer8) [9](#jer9) [10](#jer10) [11](#jer11) [12](#jer12) [13](#jer13) [14](#jer14) [15](#jer15) [16](#jer16) [17](#jer17) [18](#jer18) [19](#jer19) [20](#jer20) [21](#jer21) [22](#jer22) [23](#jer23) [24](#jer24) [25](#jer25) [26](#jer26) [27](#jer27) [28](#jer28) [29](#jer29) [30](#jer30) [31](#jer31) [32](#jer32) [33](#jer33) [34](#jer34) [35](#jer35) [36](#jer36) [37](#jer37) [38](#jer38) [39](#jer39) [40](#jer40) [41](#jer41) [42](#jer42) [43](#jer43) [44](#jer44) [45](#jer45) [46](#jer46) [47](#jer47) [48](#jer48) [49](#jer49) [50](#jer50) [51](#jer51) [52](#jer52)
+Klages: [1](#klages1) [2](#klages2) [3](#klages3) [4](#klages4) [5](#klages5)
+Ez: [1](#ez1) [2](#ez2) [3](#ez3) [4](#ez4) [5](#ez5) [6](#ez6) [7](#ez7) [8](#ez8) [9](#ez9) [10](#ez10) [11](#ez11) [12](#ez12) [13](#ez13) [14](#ez14) [15](#ez15) [16](#ez16) [17](#ez17) [18](#ez18) [19](#ez19) [20](#ez20) [21](#ez21) [22](#ez22) [23](#ez23) [24](#ez24) [25](#ez25) [26](#ez26) [27](#ez27) [28](#ez28) [29](#ez29) [30](#ez30) [31](#ez31) [32](#ez32) [33](#ez33) [34](#ez34) [35](#ez35) [36](#ez36) [37](#ez37) [38](#ez38) [39](#ez39) [40](#ez40) [41](#ez41) [42](#ez42) [43](#ez43) [44](#ez44) [45](#ez45) [46](#ez46) [47](#ez47) [48](#ez48)
+Dan: [1](#dan1) [2](#dan2) [3](#dan3) [4](#dan4) [5](#dan5) [6](#dan6) [7](#dan7) [8](#dan8) [9](#dan9) [10](#dan10) [11](#dan11) [12](#dan12)
+Hos: [1](#hos1) [2](#hos2) [3](#hos3) [4](#hos4) [5](#hos5) [6](#hos6) [7](#hos7) [8](#hos8) [9](#hos9) [10](#hos10) [11](#hos11) [12](#hos12) [13](#hos13) [14](#hos14)
+Joel: [1](#joel1) [2](#joel2) [3](#joel3) [4](#joel4)
+Am: [1](#am1) [2](#am2) [3](#am3) [4](#am4) [5](#am5) [6](#am6) [7](#am7) [8](#am8) [9](#am9)
+Obad: [1](#obad1)
+Jon: [1](#jon1) [2](#jon2) [3](#jon3) [4](#jon4)
+Mika: [1](#mika1) [2](#mika2) [3](#mika3) [4](#mika4) [5](#mika5) [6](#mika6) [7](#mika7)
+Nah: [1](#nah1) [2](#nah2) [3](#nah3)
+Hab: [1](#hab1) [2](#hab2) [3](#hab3)
+Sef: [1](#sef1) [2](#sef2) [3](#sef3)
+Hagg: [1](#hagg1) [2](#hagg2)
+Zak: [1](#zak1) [2](#zak2) [3](#zak3) [4](#zak4) [5](#zak5) [6](#zak6) [7](#zak7) [8](#zak8) [9](#zak9) [10](#zak10) [11](#zak11) [12](#zak12) [13](#zak13) [14](#zak14)
+Mal: [1](#mal1) [2](#mal2) [3](#mal3)
 
 ------------------------------------------------------------------------
 
 ## Esajas‘ Bog
+
+[– tilbage –](#indhold)
+
+<a id="es1"></a>
 
 ### Es 1
 
@@ -169,6 +175,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > sammen går de op i luer,
 > som ingen kan slukke.
 
+[– tilbage –](#indhold)
+
+<a id="es2"></a>
+
 ### Es 2
 
 #### Jerusalems kommende herlighed
@@ -256,6 +266,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > hvis åndedrag er et vindpust;
 > hvad regnes det for?
 
+[– tilbage –](#indhold)
+
+<a id="es3"></a>
+
 ### Es 3
 
 #### Dommen over folkets ledere
@@ -338,6 +352,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 >  **26** Zions porte skal klage og sørge,
 > ribbet for alt sidder hun på jorden.
 
+[– tilbage –](#indhold)
+
+<a id="es4"></a>
+
 ### Es 4
 
 >  **1** På den dag skal syv kvinder
@@ -350,6 +368,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 #### Frelsen på Zion for Israels rest
 
 **2** På den dag bliver Herrens spire til herlighed og ære, og landets frugt bliver til stolthed og pryd for Israels overlevende. **3** De, der er til rest i Zion, de, der bliver tilbage i Jerusalem, skal kaldes hellige, alle i Jerusalem, der er indskrevet til livet. **4** Når Herren har vasket urenheden af Zions døtre og har skyllet blodet ud af Jerusalem med dommens og udrensningens ånd, **5** så skaber Herren over hele Zions bjerg og over festforsamlingen dér en sky om dagen og en rygende og flammende ild om natten, for over alt herligt skal der være et dække. **6** Der skal være en hytte, som kan skygge mod heden om dagen og give ly og læ mod skybrud og regn.
+
+[– tilbage –](#indhold)
+
+<a id="es5"></a>
 
 ### Es 5
 
@@ -487,6 +509,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > er der mørke og trængsel,
 > lyset er blevet til mørke under skyerne.
 
+[– tilbage –](#indhold)
+
+<a id="es6"></a>
+
 ### Es 6
 
 #### Esajas kaldes til profet
@@ -533,6 +559,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > som når en terebinte eller en eg bliver fældet,
 > og der bliver en stub tilbage.
 > Dens stub er hellig sæd.
+
+[– tilbage –](#indhold)
+
+<a id="es7"></a>
 
 ### Es 7
 
@@ -587,6 +617,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > holder man sig fra af frygt for tjørn og tidsel.
 > Det bliver til overdrev for kvæg,
 > det trampes ned af får.
+
+[– tilbage –](#indhold)
+
+<a id="es8"></a>
 
 ### Es 8
 
@@ -662,6 +696,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > over Vejen langs Havet,
 > Landet på den anden side af Jordan
 > og Folkeslagenes Galilæa.
+
+[– tilbage –](#indhold)
+
+<a id="es9"></a>
 
 ### Es 9
 
@@ -752,6 +790,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > i fællesskab falder de over Juda.
 > Trods det har hans vrede ikke lagt sig,
 > hans hånd er stadig løftet.
+
+[– tilbage –](#indhold)
+
+<a id="es10"></a>
 
 ### Es 10
 
@@ -858,6 +900,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 >  **34** Han rydder skovens tætte krat med øksen,
 > Libanon falder for den Mægtige.
 
+[– tilbage –](#indhold)
+
+<a id="es11"></a>
+
 ### Es 11
 
 #### Davidssønnens fredsrige
@@ -926,6 +972,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > ligesom der var for Israel,
 > den dag de drog op fra Egypten.
 
+[– tilbage –](#indhold)
+
+<a id="es12"></a>
+
 ### Es 12
 
 #### Det frelste Israels lovsang
@@ -949,6 +999,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > det skal hele jorden vide.
 >  **6** I, som bor på Zion, skal juble og råbe af fryd,
 > for Israels Hellige er stor iblandt jer.
+
+[– tilbage –](#indhold)
+
+<a id="es13"></a>
 
 ### Es 13
 
@@ -1037,6 +1091,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > og sjakaler i de herlige paladser.
 > Babyloniens tid er nær,
 > det varer ikke længe!
+
+[– tilbage –](#indhold)
+
+<a id="es14"></a>
 
 ### Es 14
 
@@ -1167,6 +1225,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > At Herren har grundlagt Zion,
 > og dér skal hans hjælpeløse folk søge tilflugt.
 
+[– tilbage –](#indhold)
+
+<a id="es15"></a>
+
 ### Es 15
 
 #### Mod Moab
@@ -1211,6 +1273,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > Jeg har mere tilbage til Dimon:
 > Løver til de overlevende i Moab,
 > til dem, der er tilbage i landet!
+
+[– tilbage –](#indhold)
+
+<a id="es16"></a>
 
 ### Es 16
 
@@ -1275,6 +1341,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 
 **13** Det er, hvad Herren tidligere har sagt om Moab; **14** men nu siger Herren: »Om tre år, som daglejeren beregner dem, skal det herlige Moab blive gjort til skamme med hele sin store folkemængde. Tilbage bliver kun en ganske lille rest; stor er den ikke!«
 
+[– tilbage –](#indhold)
+
+<a id="es17"></a>
+
 ### Es 17
 
 #### Mod Damaskus og Efraim
@@ -1331,6 +1401,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > Den lod får de, der plyndrer os,
 > den del får de, der røver fra os.
 
+[– tilbage –](#indhold)
+
+<a id="es18"></a>
+
 ### Es 18
 
 #### Mod Nubien
@@ -1362,6 +1436,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > og jordens vilde dyr om vinteren.
 
 **7** På den tid bringer man gaver til Hærskarers Herre fra det granvoksne, glinsende folk, et folk, som frygtes vidt omkring, fra det spændstige, krigeriske folk, hvis land gennemstrømmes af floder, til Zions bjerg, det sted hvor Hærskarers Herres navn hører til.
+
+[– tilbage –](#indhold)
+
+<a id="es19"></a>
 
 ### Es 19
 
@@ -1431,6 +1509,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 > mine hænders værk Assyrien
 > og min ejendom Israel.«
 
+[– tilbage –](#indhold)
+
+<a id="es20"></a>
+
 ### Es 20
 
 #### Billedhandling om Egyptens og Nubiens nederlag
@@ -1438,6 +1520,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 **1** I det år, da assyrerkongen Sargon sendte sin hærchef til Ashdod, og han angreb byen og indtog den, **2** på den tid talte Herren ved Esajas, Amos’ søn, og sagde: »Løs nu sækken om din lænd, og tag sandalerne af dine fødder.« Det gjorde han og gik nøgen og barfodet omkring.
 
 **3** Så sagde Herren: »Som min tjener Esajas har gået nøgen og barfodet omkring i tre år som et tegn og varsel for Egypten og Nubien, **4** således skal assyrerkongen føre fanger fra Egypten og bortførte fra Nubien med sig, unge og gamle, nøgne og barfodede, med blottet bagdel, til skændsel for Egypten.« **5** Da skal de blive fyldt af rædsel og skam over Nubien, deres håb, og over Egypten, deres stolthed. **6** På den dag skal de, som bor på disse kyster, sige: »Således gik det vort håb, som vi flygtede til efter hjælp for at blive reddet fra assyrerkongen. Hvordan skal vi nu blive befriet?«
+
+[– tilbage –](#indhold)
+
+<a id="es21"></a>
 
 ### Es 21
 
@@ -1525,6 +1611,10 @@ Mal: [1](#mal-1) [2](#mal-2) [3](#mal-3)
 
 **16** Dette siger Herren til mig: »Om et år, som daglejeren beregner det, skal al Kedars herlighed forsvinde. **17** Der bliver kun en lille rest af Kedars heltes buer tilbage.« For Herren, Israels Gud, har talt.
 
+[– tilbage –](#indhold)
+
+<a id="es22"></a>
+
 ### Es 22
 
 #### Mod Jerusalem
@@ -1601,6 +1691,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 
 **20** På den dag vil jeg tilkalde min tjener Eljakim, Hilkijas søn. **21** Jeg vil give ham din kjortel på, binde dit skærf om ham og overdrage ham din myndighed. Han skal blive en far for Jerusalems indbyggere og for Judas hus. **22** Jeg vil lægge nøglen til Davids hus på hans skulder; og når han lukker op, skal ingen lukke i, og når han lukker i, skal ingen lukke op. **23** Jeg banker ham ind som en nagle på et solidt sted, så han bliver en ærestrone for sin fars hus. **24** Hele vægten af hans fars hus hænger på ham som kviste og blade – alle småtingene, både skåle og krukker. **25** På den dag, siger Hærskarers Herre, skal naglen gå løs, selv om den var sat solidt fast; den bliver revet ud og falder ned, og alt det, der hang på den, bliver knust. Herren har talt.
 
+[– tilbage –](#indhold)
+
+<a id="es23"></a>
+
 ### Es 23
 
 #### Mod Tyrus og Sidon
@@ -1668,6 +1762,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > så man husker dig!«
 
 **17** Når de halvfjerds år er gået, vil Herren tage sig af Tyrus, så hun atter tjener sin skøgeløn. Hun skal hore med jordens kongeriger over hele verden. **18** Men hendes fortjeneste skal helliges Herren; den skal ikke lægges til side og spares op, men tilfalde dem, der bor hos Herren, så de kan spise sig mætte og klæde sig smukt.
+
+[– tilbage –](#indhold)
+
+<a id="es24"></a>
 
 ### Es 24
 
@@ -1754,6 +1852,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > på Zions bjerg og i Jerusalem,
 > og de ældste skal se hans herlighed.
 
+[– tilbage –](#indhold)
+
+<a id="es25"></a>
+
 ### Es 25
 
 >  **1** Herre, du er min Gud,
@@ -1802,6 +1904,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 >  **12** Han bryder dine stejle fæstningsmure ned,
 > han jævner dem med jorden,
 > så de ligger i støvet.
+
+[– tilbage –](#indhold)
+
+<a id="es26"></a>
 
 ### Es 26
 
@@ -1877,6 +1983,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Jorden må afsløre sin blodskyld,
 > for den kan ikke længere skjule de dræbte.
 
+[– tilbage –](#indhold)
+
+<a id="es27"></a>
+
 ### Es 27
 
 >  **1** På den dag straffer Herren
@@ -1932,6 +2042,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > og de fordrevne i Egypten
 > skal komme og kaste sig ned for Herren
 > på det hellige bjerg i Jerusalem.
+
+[– tilbage –](#indhold)
+
+<a id="es28"></a>
 
 ### Es 28
 
@@ -2054,6 +2168,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 >  **29** Også dette kommer fra Hærskarers Herre,
 > hans råd er underfulde, hans visdom stor.
 
+[– tilbage –](#indhold)
+
+<a id="es29"></a>
+
 ### Es 29
 
 #### Veråb over Jerusalem
@@ -2158,6 +2276,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > og Israels Gud skal være deres rædsel.
 >  **24** De, der er faret vild i ånden, får indsigt,
 > de, der murrer, tager imod belæring.
+
+[– tilbage –](#indhold)
+
+<a id="es30"></a>
 
 ### Es 30
 
@@ -2322,6 +2444,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Hans ånde er som en strøm af svovl,
 > der sætter det i brand.
 
+[– tilbage –](#indhold)
+
+<a id="es31"></a>
+
 ### Es 31
 
 >  **1** Ve dem, der drager ned til Egypten efter hjælp!
@@ -2375,6 +2501,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > siger Herren,
 > som har sit bål på Zion
 > og sin ovn i Jerusalem.
+
+[– tilbage –](#indhold)
+
+<a id="es32"></a>
 
 ### Es 32
 
@@ -2447,6 +2577,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > byen synker fuldstændig sammen.
 >  **20** Men lykkelige I, der sår ved hvert vandløb
 > og lader okser og æsler løbe frit omkring.
+
+[– tilbage –](#indhold)
+
+<a id="es33"></a>
 
 ### Es 33
 
@@ -2538,6 +2672,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Folket, der bor der,
 > har fået synden tilgivet.
 
+[– tilbage –](#indhold)
+
+<a id="es34"></a>
+
 ### Es 34
 
 #### Herrens hævn over Edom
@@ -2610,6 +2748,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > til evig tid skal de eje det,
 > slægt efter slægt skal de bo der.
 
+[– tilbage –](#indhold)
+
+<a id="es35"></a>
+
 ### Es 35
 
 #### Ørkenen skal blomstre
@@ -2655,6 +2797,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > fryd og glæde når dem,
 > suk og klage flygter.
 
+[– tilbage –](#indhold)
+
+<a id="es36"></a>
+
 ### Es 36
 
 #### Assyrerkongen Sankeribs angreb
@@ -2668,6 +2814,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 **21** Men de forholdt sig tavse og svarede ham ikke et ord, for kongens befaling lød på, at de ikke måtte svare ham.
 
 **22** Så gik hofchefen Eljakim, Hilkijas søn, sammen med statsskriveren Shebna og sekretæren Joa, Asafs søn, til Hizkija med flængede klæder og fortalte ham, hvad kommandanten havde sagt.
+
+[– tilbage –](#indhold)
+
+<a id="es37"></a>
 
 ### Es 37
 
@@ -2755,6 +2905,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 
 **36** Så gik Herrens engel ud, og i assyrernes lejr dræbte han 185.000 mand; da det blev morgen, lå de alle døde. **37** Da brød assyrerkongen Sankerib op og vendte tilbage og blev i Nineve. **38** Men engang han bad i sin gud Nisroks tempel, huggede hans sønner Adrammelek og Sareser ham ned med sværd. De slap bort til Ararats land, og hans søn Asarhaddon blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="es38"></a>
+
 ### Es 38
 
 #### Hizkijas sygdom og helbredelse
@@ -2816,6 +2970,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 
 **21** Så sagde Esajas, at de skulle tage et figenplaster og gnide hans byld med det, så ville han blive rask. **22** Da sagde Hizkija: »Hvad er tegnet på, at jeg kan gå op til Herrens tempel?«
 
+[– tilbage –](#indhold)
+
+<a id="es39"></a>
+
 ### Es 39
 
 #### Sendebudene fra Babylon
@@ -2825,6 +2983,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 **3** Men så kom profeten Esajas til kong Hizkija og sagde til ham: »Hvad har disse mænd sagt, og hvorfra kom de til dig?« Og da Hizkija svarede: »De kom fra et fjernt land, fra Babylonien,« **4** spurgte han: »Hvad har de set i dit palads?« Hizkija svarede: »De så alt, hvad der er i mit palads. Der er ikke det i mine forrådskamre, jeg ikke har vist dem.«
 
 **5** Da sagde Esajas til Hizkija: »Hør Hærskarers Herres ord: **6** Den tid skal komme, da alt, hvad der er i dit palads, alt, hvad dine fædre har samlet sammen indtil denne dag, skal bringes til Babylonien. Intet bliver tilbage, siger Herren, **7** og nogle af dine sønner, som nedstammer fra dig, og som fødes for dig, bliver taget og gjort til hofmænd i babylonerkongens palads.« **8** Men Hizkija sagde til Esajas: »Det ord fra Herren, som du har talt, er godt!« For han tænkte: »Der vil være fred og tryghed i min levetid.«
+
+[– tilbage –](#indhold)
+
+<a id="es40"></a>
 
 ### Es 40
 
@@ -2951,6 +3113,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > De løber uden at blive trætte,
 > de vandrer uden at udmattes.
 
+[– tilbage –](#indhold)
+
+<a id="es41"></a>
+
 ### Es 41
 
 #### Perserkongen Kyros, redskabet til Israels frelse
@@ -3071,6 +3237,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > deres gerninger er intet,
 > deres støbte billeder er vind og tomhed.
 
+[– tilbage –](#indhold)
+
+<a id="es42"></a>
+
 ### Es 42
 
 #### Herrens tjener
@@ -3177,6 +3347,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > den brændte dem,
 > men de lagde sig det ikke på sinde.
 
+[– tilbage –](#indhold)
+
+<a id="es43"></a>
+
 ### Es 43
 
 >  **1** Men nu siger Herren,
@@ -3280,6 +3454,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > jeg overgav Jakob til forbandelse
 > og Israel til spot.
 
+[– tilbage –](#indhold)
+
+<a id="es44"></a>
+
 ### Es 44
 
 >  **1** Men hør nu, Jakob, min tjener,
@@ -3363,6 +3541,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Han skal udføre alt det, jeg vil.
 > Jeg siger til Jerusalem: »Du skal genopbygges,
 > og templet skal grundlægges.«
+
+[– tilbage –](#indhold)
+
+<a id="es45"></a>
 
 ### Es 45
 
@@ -3488,6 +3670,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 >  **25** Hele Israels slægt
 > får ret og fryder sig over Herren.
 
+[– tilbage –](#indhold)
+
+<a id="es46"></a>
+
 ### Es 46
 
 #### Babylons fald
@@ -3539,6 +3725,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > min frelse lader ikke vente på sig.
 > Jeg giver frelse i Zion
 > og min herlighed i Israel.
+
+[– tilbage –](#indhold)
+
+<a id="es47"></a>
 
 ### Es 47
 
@@ -3621,6 +3811,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > troldmændene fra din ungdom,
 > de flakker om til alle sider,
 > der er ingen, der frelser dig.
+
+[– tilbage –](#indhold)
+
+<a id="es48"></a>
 
 ### Es 48
 
@@ -3715,6 +3909,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > så vandet flyder.
 
 **22** De gudløse har ikke fred, siger Herren.
+
+[– tilbage –](#indhold)
+
+<a id="es49"></a>
 
 ### Es 49
 
@@ -3839,6 +4037,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > at jeg, Herren, frelser dig,
 > Jakobs Mægtige løskøber dig.
 
+[– tilbage –](#indhold)
+
+<a id="es50"></a>
+
 ### Es 50
 
 >  **1** Dette siger Herren:
@@ -3900,6 +4102,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > i den ild, I har antændt med jeres pile.
 > Fra min hånd skal dette ramme jer,
 > I skal ligge i pinsler.
+
+[– tilbage –](#indhold)
+
+<a id="es51"></a>
 
 ### Es 51
 
@@ -4018,6 +4224,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Du måtte gøre din ryg som den faste jord,
 > som en gade for de forbipasserende.
 
+[– tilbage –](#indhold)
+
+<a id="es52"></a>
+
 ### Es 52
 
 >  **1** Vågn op, vågn op,
@@ -4077,6 +4287,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > for det, de ikke har fået fortalt, ser de,
 > og det, de ikke har hørt, indser de.
 
+[– tilbage –](#indhold)
+
+<a id="es53"></a>
+
 ### Es 53
 
 >  **1** Hvem troede på det, vi hørte?
@@ -4130,6 +4344,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > og blev regnet blandt lovbrydere.
 > Men han bar de manges synd
 > og trådte i stedet for syndere.
+
+[– tilbage –](#indhold)
+
+<a id="es54"></a>
 
 ### Es 54
 
@@ -4203,6 +4421,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > deres retfærdighed kommer fra mig,
 > siger Herren.
 
+[– tilbage –](#indhold)
+
+<a id="es55"></a>
+
 ### Es 55
 
 #### Herrens trofasthed mod pagten
@@ -4259,6 +4481,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > myrter i stedet for nælder.
 > Det skal blive til ry for Herren,
 > et evigt minde, der ikke slettes.
+
+[– tilbage –](#indhold)
+
+<a id="es56"></a>
 
 ### Es 56
 
@@ -4325,6 +4551,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > vi fylder os med øl!
 > I morgen skal blive som i dag,
 > ja, bedre endnu!«
+
+[– tilbage –](#indhold)
+
+<a id="es57"></a>
 
 ### Es 57
 
@@ -4421,6 +4651,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 
 **21** De gudløse har ikke fred, siger min Gud.
 
+[– tilbage –](#indhold)
+
+<a id="es58"></a>
+
 ### Es 58
 
 #### Faste og sabbat
@@ -4493,6 +4727,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Jeg vil føre dig frem over landets høje
 > og lade dig nyde godt af din fader Jakobs ejendom.
 > Herren selv har talt.
+
+[– tilbage –](#indhold)
+
+<a id="es59"></a>
 
 ### Es 59
 
@@ -4579,6 +4817,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > siger Herren.
 
 **21** Dette er min pagt med dem, siger Herren: Min ånd, som er over dig, og mine ord, som jeg har lagt i din mund, skal aldrig forsvinde fra din mund eller dine børns mund eller dine børnebørns mund fra nu af og til evig tid, siger Herren.
+
+[– tilbage –](#indhold)
+
+<a id="es60"></a>
 
 ### Es 60
 
@@ -4674,6 +4916,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Jeg er Herren,
 > jeg vil fremskynde det, når tiden er inde.
 
+[– tilbage –](#indhold)
+
+<a id="es61"></a>
+
 ### Es 61
 
 #### Et nådeår fra Herren
@@ -4727,6 +4973,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > og frø spirer frem i haven,
 > sådan lader Gud Herren retfærdighed spire
 > og lovsang gro frem for alle folkenes øjne.
+
+[– tilbage –](#indhold)
+
+<a id="es62"></a>
 
 ### Es 62
 
@@ -4790,6 +5040,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Herrens Løskøbte;
 > og dig skal man kalde Den Eftertragtede,
 > byen der aldrig bliver forladt.
+
+[– tilbage –](#indhold)
+
+<a id="es63"></a>
 
 ### Es 63
 
@@ -4884,6 +5138,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Gid du ville flænge himlen og stige ned,
 > så bjergene rystede foran dig,
 
+[– tilbage –](#indhold)
+
+<a id="es64"></a>
+
 ### Es 64
 
 >  **1** som når ild sætter kvas i brand,
@@ -4923,6 +5181,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > alt det, vi elsker, ligger i ruiner.
 >  **11** Holder du dig borte trods det, Herre?
 > Tier du og ydmyger os så dybt?
+
+[– tilbage –](#indhold)
+
+<a id="es65"></a>
 
 ### Es 65
 
@@ -5036,6 +5298,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > Der findes hverken ondskab eller ødelæggelse
 > på hele mit hellige bjerg, siger Herren.
 
+[– tilbage –](#indhold)
+
+<a id="es66"></a>
+
 ### Es 66
 
 #### Den nye himmel og nye jord
@@ -5143,9 +5409,13 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > og deres ild slukkes ikke.
 > De skal være til afsky for alle mennesker.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Jeremias‘ Bog
+
+<a id="jer1"></a>
 
 ### Jer 1
 
@@ -5213,6 +5483,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > men ikke overvinde dig,
 > for jeg er med dig og redder dig,
 > siger Herren.
+
+[– tilbage –](#indhold)
+
+<a id="jer2"></a>
 
 ### Jer 2
 
@@ -5378,6 +5652,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > for Herren har forkastet dem, du stolede på,
 > dem får du ingen nytte af.
 
+[– tilbage –](#indhold)
+
+<a id="jer3"></a>
+
 ### Jer 3
 
 >  **1** Når en mand sender sin kone bort,
@@ -5458,6 +5736,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > vi og vore fædre,
 > fra vor ungdom til denne dag.
 > Vi adlød ikke Herren vor Gud.
+
+[– tilbage –](#indhold)
+
+<a id="jer4"></a>
 
 ### Jer 4
 
@@ -5599,6 +5881,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > »Ve mig, jeg bukker under
 > for mordere!«
 
+[– tilbage –](#indhold)
+
+<a id="jer5"></a>
+
 ### Jer 5
 
 #### Ingen retfærdige, ingen tilgivelse
@@ -5730,6 +6016,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 > og mit folk elsker det sådan!
 
 > Hvad vil I gøre, når det sker?
+
+[– tilbage –](#indhold)
+
+<a id="jer6"></a>
 
 ### Jer 6
 
@@ -5865,6 +6155,10 @@ Den dag satte I jeres håb til våbnene i Skovhuset. **9** I så, at der var man
 >  **30** Vraget sølv kaldes de,
 > for Herren har vraget dem.
 
+[– tilbage –](#indhold)
+
+<a id="jer7"></a>
+
 ### Jer 7
 
 #### Den falske gudsdyrkelse i templet
@@ -5891,6 +6185,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > sin vredes slægt.
 
 **30** Judæerne har gjort, hvad der er ondt i mine øjne, siger Herren; de har opstillet deres ækle guder i det hus, som mit navn er udråbt over, og gjort det urent. **31** De har bygget Tofets offerhøje i Hinnoms søns dal for at brænde deres sønner og døtre. Det har jeg aldrig befalet eller haft i tankerne. **32** Derfor skal der komme dage, siger Herren, da det ikke længere skal kaldes Tofet eller Hinnoms søns dal, men Drabets dal, og der skal begraves så mange i Tofet, at der ikke bliver plads tilbage. **33** Ligene af dette folk skal blive til føde for himlens fugle og jordens dyr, dem skal ingen jage bort. **34** I Judas byer og Jerusalems gader gør jeg ende på fryderåb og glædesråb, brudgoms og bruds stemme, for landet skal ligge i ruiner.
+
+[– tilbage –](#indhold)
+
+<a id="jer8"></a>
 
 ### Jer 8
 
@@ -5992,6 +6290,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > så ville jeg græde dag og nat
 > over de dræbte hos mit folks datter.
 
+[– tilbage –](#indhold)
+
+<a id="jer9"></a>
+
 ### Jer 9
 
 #### Klagesang over Herrens straf
@@ -6082,6 +6384,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > det er, hvad jeg ønsker, siger Herren.
 
 **24** Der skal komme dage, da jeg straffer de omskårne: **25** Egypten, Juda, Edom, ammonitterne, Moab og alle dem med klippede tindinger, som bor i ørkenen. Alle folkene er uomskårne, men alle israelitterne er uomskårne på hjertet.
+
+[– tilbage –](#indhold)
+
+<a id="jer10"></a>
 
 ### Jer 10
 
@@ -6188,6 +6494,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > for de har fortæret Jakob, fortæret og gjort ende på ham,
 > de har lagt hans bolig øde.
 
+[– tilbage –](#indhold)
+
+<a id="jer11"></a>
+
 ### Jer 11
 
 #### Folkets brud på pagten
@@ -6223,6 +6533,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > Dig overgiver jeg min sag.
 
 **21** Derfor siger Herren imod de mænd i Anatot, som stræber mig efter livet og siger: »Du må ikke profetere i Herrens navn, ellers skal du dø for vores hånd!« **22** Derfor siger Hærskarers Herre: Nu vil jeg straffe jer! De unge mænd skal dø for sværdet, og deres sønner og døtre skal dø af sult. **23** Der skal ikke blive nogen tilbage, for jeg bringer ulykke over mændene i Anatot i straffens år.
+
+[– tilbage –](#indhold)
+
+<a id="jer12"></a>
 
 ### Jer 12
 
@@ -6275,6 +6589,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > gjorde deres afgrøde til skamme.
 
 **14** Dette siger Herren om alle de onde naboer, som gør indhug i den ejendom, jeg tildelte mit folk, Israel: Jeg rykker dem op af deres jord, og Juda vil jeg rykke op sammen med dem. **15** Men efter at jeg har rykket dem op, vil jeg igen forbarme mig over dem og føre dem tilbage, hver til sin ejendom og hver til sit land. **16** Hvis de lærer af mit folk at sværge ved mit navn: »Så sandt Herren lever«, ligesom de lærte mit folk at sværge ved Ba’al, da skal de bygges op i mit folk. **17** Men hvis de ikke hører, vil jeg rykke dette folk op og ødelægge det, siger Herren.
+
+[– tilbage –](#indhold)
+
+<a id="jer13"></a>
 
 ### Jer 13
 
@@ -6343,6 +6661,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 
 > Ve dig, Jerusalem, du kan ikke blive ren.
 > Hvor længe skal det vare?
+
+[– tilbage –](#indhold)
+
+<a id="jer14"></a>
 
 ### Jer 14
 
@@ -6421,6 +6743,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > Nej, det er dig, Herre,
 > vor Gud, som vi håber på,
 > det er dig, der gør alt dette.
+
+[– tilbage –](#indhold)
+
+<a id="jer15"></a>
 
 ### Jer 15
 
@@ -6515,6 +6841,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 >  **21** Jeg redder dig fra de ondes magt
 > og udfrier dig fra voldsmænds hånd.
 
+[– tilbage –](#indhold)
+
+<a id="jer16"></a>
+
 ### Jer 16
 
 #### Jeremias’ ensomhed er varsel om ulykken
@@ -6539,6 +6869,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > ja, denne gang skal jeg vise dem
 > min magt og min styrke;
 > så skal de forstå, at mit navn er Jahve!
+
+[– tilbage –](#indhold)
+
+<a id="jer17"></a>
 
 ### Jer 17
 
@@ -6616,6 +6950,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 
 **19** Dette sagde Herren til mig: Gå hen og stil dig i folkets sønners port, som Judas konger går ud og ind igennem, og i alle Jerusalems porte. **20** Du skal sige til dem: »Hør Herrens ord, Judas konger, alle judæere og alle Jerusalems indbyggere, som går ind gennem disse porte! **21** Dette siger Herren: Tag jer i agt! I må ikke bære noget ind gennem Jerusalems porte på sabbatsdagen. **22** I må ikke bære noget ud af jeres hus på sabbatsdagen. I må ikke gøre noget som helst arbejde; I skal holde sabbatsdagen hellig, sådan som jeg befalede jeres fædre.« **23** Men de hørte ikke og lyttede ikke; de gjorde nakken stiv og ville ikke høre og tage ved lære. **24** Hvis I vil adlyde mig, siger Herren, og lade være med at bære noget ind gennem denne bys porte på sabbatsdagen, men holde den hellig og ikke gøre noget som helst arbejde på den, **25** så skal konger og stormænd, der sidder på Davids trone, og som har heste og vogne, gå gennem denne bys porte, både de selv og deres stormænd, judæerne og Jerusalems indbyggere, og denne by skal være beboet til evig tid. **26** De skal komme fra Judas byer og Jerusalems omegn, fra Benjamins land og fra Lavlandet, fra Bjerglandet og fra Sydlandet; de skal bringe brændofre og slagtofre, afgrødeofre og røgelse, og de skal bringe takofre til Herrens tempel. **27** Men hvis ikke I vil adlyde mig og holde sabbatsdagen hellig og lade være med at bære noget og gå gennem Jerusalems porte på sabbatsdagen, så vil jeg sætte ild på Jerusalems porte, så den fortærer dens borge, og den skal aldrig slukkes.
 
+[– tilbage –](#indhold)
+
+<a id="jer18"></a>
+
 ### Jer 18
 
 #### Pottemagerlignelsen
@@ -6676,6 +7014,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > Lad dem snuble for dit ansigt,
 > grib ind mod dem, når din vrede kommer!
 
+[– tilbage –](#indhold)
+
+<a id="jer19"></a>
+
 ### Jer 19
 
 #### Billedhandling om Jerusalems ødelæggelse
@@ -6685,6 +7027,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 **10** Du skal knuse krukken for øjnene af de mænd, som fulgte med dig, **11** og sige til dem: Dette siger Hærskarers Herre: Som man knuser en pottemagers kar, så det ikke kan sættes sammen igen, sådan vil jeg knuse dette folk og denne by. Der skal begraves så mange i Tofet, at der ikke bliver en gravplads tilbage. **12** Sådan vil jeg gøre med dette sted og dets indbyggere, siger Herren; jeg gør denne by til et Tofet! **13** Jerusalems huse og Judas kongers huse skal blive urene ligesom stedet Tofet, alle de huse, hvor de tændte offerild på taget for hele himlens hær og udgød drikofre for andre guder.
 
 **14** Så kom Jeremias tilbage fra Tofet, hvor Herren havde sendt ham hen at profetere. Han stillede sig i forgården til Herrens tempel og sagde til hele forsamlingen: **15** Dette siger Hærskarers Herre, Israels Gud: Over denne by og over alle landets byer bringer jeg al den ulykke, jeg har truet den med, for de har gjort nakken stiv og vil ikke høre på mine ord.
+
+[– tilbage –](#indhold)
+
+<a id="jer20"></a>
 
 ### Jer 20
 
@@ -6746,6 +7092,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > for kun at se ulykke og sorg,
 > så mine dage svinder hen i skam?
 
+[– tilbage –](#indhold)
+
+<a id="jer31"></a>
+
 ### Jer 21
 
 #### Opfordring til overgivelse
@@ -6775,6 +7125,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > efter jeres gerninger, siger Herren;
 > jeg sætter ild på skoven,
 > den skal fortære alt omkring byen.
+
+[– tilbage –](#indhold)
+
+<a id="jer22"></a>
 
 ### Jer 22
 
@@ -6862,6 +7216,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > for det skal ikke lykkes nogen af hans efterkommere
 > at tage sæde på Davids trone
 > og på ny herske over Juda.
+
+[– tilbage –](#indhold)
+
+<a id="jer23"></a>
 
 ### Jer 23
 
@@ -6971,6 +7329,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 
 **35** Sådan skal I spørge hinanden, mand og mand imellem: »Hvad har Herren svaret, hvad har Herren talt?« **36** Men ordene »Herrens orakel« må I aldrig mere nævne, for et orakel er et menneskes eget ord, og I fordrejer ordene fra den levende Gud, Hærskarers Herre, vor Gud. **37** Sådan skal du spørge profeten: »Hvad har Herren svaret dig, hvad har Herren talt?« **38** Men »Herrens orakel« må I ikke sige! Derfor siger Herren: I siger disse ord »Herrens orakel«, skønt jeg gav jer besked om ikke at sige »Herrens orakel«. **39** Derfor løfter jeg jer op og kaster jer og den by, jeg gav jer og jeres fædre, bort fra mig. **40** Jeg bringer evig skam og skændsel over jer, og den skal aldrig blive glemt.
 
+[– tilbage –](#indhold)
+
+<a id="jer24"></a>
+
 ### Jer 24
 
 #### De gode og de dårlige figner
@@ -6980,6 +7342,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 **4** Herrens ord kom til mig: **5** Dette siger Herren, Israels Gud: De bortførte fra Juda, som jeg sendte bort fra dette sted til kaldæernes land, anerkender jeg som gode, ligesom disse gode figner. **6** Jeg retter mit blik mod dem, så det bliver til lykke, og jeg fører dem tilbage til dette land. Jeg bygger dem op og jævner ikke med jorden, jeg planter dem og rykker ikke op med rode. **7** Jeg giver dem et hjerte, så de kan kende mig og forstå, at jeg er Herren. De skal være mit folk, og jeg vil være deres Gud, når de vender om til mig af hele deres hjerte.
 
 **8** Dette siger Herren: Judas konge Sidkija, hans stormænd og de øvrige fra Jerusalem, både dem, der er blevet tilbage i dette land, og dem, der har slået sig ned i Egypten, vil jeg gøre med som med de dårlige figner, der er så dårlige, at de er uspiselige; det skal blive til ulykke for dem. **9** Jeg gør dem til rædsel for alle jordens kongeriger, til spot og spe, til forhånelse og forbandelse alle de steder, jeg fordriver dem til. **10** Jeg sender sværd, sult og pest imod dem, indtil de er udryddet fra det land, jeg gav dem og deres fædre.
+
+[– tilbage –](#indhold)
+
+<a id="jer25"></a>
 
 ### Jer 25
 
@@ -7030,6 +7396,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > ved det ødelæggende sværd,
 > ved hans glødende vrede.
 
+[– tilbage –](#indhold)
+
+<a id="jer26"></a>
+
 ### Jer 26
 
 #### Anklage mod Jeremias for profetien om templets ødelæggelse
@@ -7053,6 +7423,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 
 **24** Men Shafans søn Ahikam holdt hånden over Jeremias, så han ikke kom i hænderne på folket og blev dræbt.
 
+[– tilbage –](#indhold)
+
+<a id="jer27"></a>
+
 ### Jer 27
 
 #### Billedhandling om babylonerkongens åg
@@ -7064,6 +7438,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 **12** Alt dette talte jeg til Judas konge, Sidkija. Jeg sagde: Bøj nakken under babylonerkongens åg, og træl for ham og hans folk, så skal I leve. **13** Hvorfor vil I dø, du og dit folk, ved sværd, sult og pest, sådan som Herren har truet det folk, der ikke vil trælle for babylonerkongen? **14** Lyt ikke til de profeter, der siger til jer: »I kommer ikke til at trælle for babylonerkongen.« De profeterer løgn for jer! **15** Jeg har ikke sendt dem, siger Herren, og de profeterer løgn i mit navn; derfor fordriver jeg jer, så I og de profeter, der profeterer for jer, går til grunde.
 
 **16** Men til præsterne og til hele dette folk talte jeg og sagde: Dette siger Herren: Lyt ikke til de profeter, der profeterer for jer og siger: »Karrene fra Herrens tempel skal snart blive bragt tilbage fra Babylon.« De profeterer løgn for jer! **17** I skal ikke høre efter dem. I skal trælle for babylonerkongen, så skal I leve. Hvorfor skal denne by lægges i ruiner? **18** Men hvis de er profeter, der har Herrens ord, skal de indtrængende bede Hærskarers Herre om, at de kar, der er tilbage i Herrens tempel og i Judas konges palads og i Jerusalem, ikke skal komme til Babylon. **19** For dette siger Hærskarers Herre om søjlerne, om Havet, om vognstellene og om resten af karrene, der er tilbage i denne by, **20** dem babylonerkongen Nebukadnesar ikke tog med, da han førte Judas konge Jekonja, Jojakims søn, i eksil fra Jerusalem til Babylon sammen med alle de fornemme i Juda og Jerusalem; **21** ja, dette siger Hærskarers Herre, Israels Gud, om de kar, der er tilbage i Herrens tempel og i Judas konges palads og i Jerusalem: **22** De bliver bragt til Babylon, og dér skal de blive til den dag, jeg drager omsorg for dem og bringer dem tilbage til dette sted, siger Herren.
+
+[– tilbage –](#indhold)
+
+<a id="jer28"></a>
 
 ### Jer 28
 
@@ -7078,6 +7456,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 **15** Profeten Jeremias sagde til profeten Hananja: »Hør, Hananja! Du er ikke sendt af Herren! Du har fået dette folk til at sætte sin lid til løgn. **16** Derfor siger Herren: Nu vil jeg sende dig bort fra jorden! Du skal dø i år, for du har prædiket frafald fra Herren.«
 
 **17** Profeten Hananja døde samme år i den syvende måned.
+
+[– tilbage –](#indhold)
+
+<a id="jer29"></a>
 
 ### Jer 29
 
@@ -7098,6 +7480,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 **24** Til Shemaja fra Nehelam skal du sige: **25** Dette siger Hærskarers Herre, Israels Gud: Du har i dit eget navn sendt brev til hele befolkningen i Jerusalem, til præsten Sefanja, Ma’asejas søn, og til alle præsterne, og skrevet: **26** »Herren har gjort dig til præst i stedet for Jojada, for at du kan holde opsyn i Herrens tempel med alle, der er forrykte og profeterer i henrykkelse, og lægge dem i blok og halsjern. **27** Hvorfor advarer du så ikke Jeremias fra Anatot, der profeterer i henrykkelse hos jer? **28** For han har sendt bud til os her i Babylonien og sagt: Det varer længe! Byg huse, og bo i dem, plant haver, og spis frugten fra dem!«
 
 **29** Dette brev læste præsten Sefanja op for profeten Jeremias, **30** og da kom Herrens ord til Jeremias: **31** Send bud til alle de landflygtige, og sig: Dette siger Herren om Shemaja fra Nehelam: Shemaja har profeteret for jer, skønt jeg ikke har sendt ham, og han har fået jer til at sætte jeres lid til løgn. **32** Derfor siger Herren: Jeg vil straffe Shemaja fra Nehelam og hans efterkommere. Ingen af hans slægt skal komme til at bo sammen med dette folk og opleve det gode, som jeg vil gøre for mit folk, siger Herren, for han har prædiket frafald fra Herren.
+
+[– tilbage –](#indhold)
+
+<a id="jer30"></a>
 
 ### Jer 30
 
@@ -7188,6 +7574,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 > og jeg vil være jeres Gud.
 
 **23** Herrens storm bryder frem med vrede, en hvirvelstorm, der hvirvler over hovedet på de ugudelige. **24** Herrens glødende vrede lægger sig ikke, før han har iværksat og gennemført sit hjertes planer. Til sidst skal I forstå dem!
+
+[– tilbage –](#indhold)
+
+<a id="jer31"></a>
 
 ### Jer 31
 
@@ -7324,6 +7714,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 
 **38** Der skal komme dage, siger Herren, da Herrens by skal genopbygges fra Hanan’el-tårnet til Hjørneporten. **39** Målesnoren går videre ligeud over Gareb-højen og drejer mod Goa. **40** Og hele dalen med ligene og med offerasken, alle skråningerne ned mod Kedrondalen hen til Hesteportens hjørne mod øst – det hele skal være helligt for Herren. Byen skal aldrig mere rykkes op med rode og jævnes med jorden.
 
+[– tilbage –](#indhold)
+
+<a id="jer32"></a>
+
 ### Jer 32
 
 #### Jeremias’ jordkøb, billede på folkets fremtid
@@ -7342,6 +7736,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 
 **42** Dette siger Herren: Ligesom jeg bragte hele denne store ulykke over dette folk, bringer jeg nu alt det gode over dem, som jeg lover dem. **43** Der skal atter købes marker her i landet, selv om I siger, at det er en ødemark uden mennesker og dyr, som er givet i kaldæernes hånd. **44** Man skal købe marker, udfærdige dokumenter, forsegle dem og skaffe vidner i Benjamins land og i Jerusalems omegn, i Judas byer, i Bjerglandets byer, i Lavlandets byer og i Sydlandets byer, for jeg vender deres skæbne, siger Herren.
 
+[– tilbage –](#indhold)
+
+<a id="jer33"></a>
+
 ### Jer 33
 
 #### Herrens løfter skal indfries
@@ -7359,6 +7757,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 
 **14** Der skal komme dage, siger Herren, da jeg opfylder det gode løfte, jeg gav Israels hus og Judas hus. **15** I de dage og til den tid vil jeg lade en retfærdigheds spire af Davids slægt vokse op; han skal øve ret og retfærdighed i landet. **16** I de dage skal Juda frelses og Jerusalem ligge trygt. Og man skal kalde den »Herren er vor Retfærdighed«. **17** For dette siger Herren: Der skal aldrig mangle en af Davids slægt på Israels trone. **18** Og der skal aldrig mangle en levitpræst til at træde frem for mig og bringe brændoffer, afgrødeoffer og slagtoffer. **19** Herrens ord kom til Jeremias: **20** Dette siger Herren: Lige så lidt min pagt med dagen og natten kan brydes, så dag og nat ikke kommer til rette tid, **21** kan min pagt med min tjener David brydes, så der ikke er nogen af hans slægt til at sidde som konge på hans trone; og pagten med levitpræsterne, som gør tjeneste for mig, kan heller ikke brydes. **22** Som himlens hær, der ikke kan tælles, og havets sand, der ikke kan måles, så talrige gør jeg min tjener Davids efterkommere og levitterne, der gør tjeneste for mig. **23** Herrens ord kom til Jeremias: **24** Har du ikke hørt, hvad dette folk siger: »To slægter udvalgte Herren, og dem har han forkastet!« De lader hånt om mit folk og regner det ikke længere for et folk. **25** Dette siger Herren: Så sandt som jeg har oprettet min pagt med dag og nat og givet mine bestemmelser for himmel og jord, **26** vil jeg ikke forkaste Jakobs efterkommere og min tjener David, men tage en af hans efterkommere til at herske over Abrahams, Isaks og Jakobs efterkommere. For jeg vender deres skæbne og forbarmer mig over dem.
 
+[– tilbage –](#indhold)
+
+<a id="jer34"></a>
+
 ### Jer 34
 
 #### Advarsel til kong Sidkija
@@ -7372,6 +7774,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 **8** Det ord, som kom til Jeremias fra Herren, da kong Sidkija havde indgået en aftale med alle i Jerusalem om, at der skulle udråbes frigivelse; **9** enhver skulle frigive sin hebraiske træl eller trælkvinde, så at ingen havde en judæisk broder som træl. **10** Alle de stormænd og borgere, som havde indgået aftalen om hver især at frigive sin træl og sin trælkvinde, så ingen mere skulle trælle for dem, holdt den og frigav dem. **11** Men senere fortrød de og tog de trælle og trælkvinder, som de havde frigivet, tilbage og tvang dem på ny i trældom. **12** Da kom Herrens ord til Jeremias: **13** Dette siger Herren, Israels Gud: Jeg sluttede den pagt med jeres fædre, da jeg førte dem ud af Egypten, af trællehuset: **14** Når syv år er gået, skal en landsmand, en hebræer, der har solgt sig til dig og har tjent dig i seks år, frigives. Jeres fædre hørte ikke på mig og lyttede ikke til mig. **15** Men nu har I gjort det, der er ret i mine øjne, og udråbt frigivelse enhver for sin landsmand, og I har indgået aftalen for mit ansigt i det hus, mit navn er udråbt over. **16** Men I fortrød, og I har vanhelliget mit navn og taget de trælle og trælkvinder, som I havde frigivet, tilbage og på ny tvunget dem i trældom. **17** Derfor siger Herren: Fordi I ikke hørte på mig og udråbte frigivelse enhver for sin broder og sin landsmand, vil jeg udråbe frigivelse for jer, siger Herren – frigivelse til sværd, pest og sult! Jeg gør jer til rædsel for alle jordens kongeriger.
 
 **18** De mænd, som overtræder min pagt og ikke overholder ordene i den aftale, de indgik for mit ansigt, da de skar kalven i to stykker og gik frem mellem de to halvdele **19** – det var Judas stormænd, Jerusalems stormænd, hofmændene, præsterne og storbønderne, der gik frem mellem de to halvdele af kalven – **20** dem giver jeg i hænderne på deres fjender og på dem, som stræber dem efter livet. Deres lig skal blive til føde for himlens fugle og jordens dyr. **21** Og Judas konge Sidkija og hans stormænd giver jeg i hænderne på deres fjender og på dem, som stræber dem efter livet. Jeg giver dem i hænderne på babylonerkongens hær, som nu er under opbrud bort fra jer. **22** For jeg befaler, siger Herren, at de skal vende tilbage til denne by og gå til angreb på den, indtage den og brænde den ned. Og Judas byer gør jeg til en ødemark, så ingen kan bo der.
+
+[– tilbage –](#indhold)
+
+<a id="jer35"></a>
 
 ### Jer 35
 
@@ -7388,6 +7794,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 **17** Derfor siger Herren, Hærskarers Gud, Israels Gud: Jeg bringer hele den ulykke, jeg har truet med, over Juda og over alle Jerusalems indbyggere. Skønt jeg talte til dem, hørte de ikke, og skønt jeg råbte til dem, svarede de ikke.
 
 **18** Til rekabitterne sagde Jeremias: Dette siger Hærskarers Herre, Israels Gud: I adlød, hvad jeres stamfader Jonadab befalede, I holdt alle hans befalinger og gjorde alt, hvad han befalede jer. **19** Derfor siger Hærskarers Herre, Israels Gud: Der skal aldrig mangle en af Rekabs søn Jonadabs slægt til at træde frem for mig.
+
+[– tilbage –](#indhold)
+
+<a id="jer36"></a>
 
 ### Jer 36
 
@@ -7409,6 +7819,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 
 **32** Så tog Jeremias en ny rulle og gav den til skriveren Baruk, Nerijas søn. Efter Jeremias’ diktat skrev han i den alle ordene fra den bog, Judas konge Jojakim havde brændt. Desuden blev der tilføjet mange lignende ord.
 
+[– tilbage –](#indhold)
+
+<a id="jer37"></a>
+
 ### Jer 37
 
 #### Jeremias råder til overgivelse og kastes i fængsel
@@ -7428,6 +7842,10 @@ Herrens tempel, Herrens tempel, Herrens tempel!
 **17** I hemmelighed sendte kong Sidkija bud efter ham og spurgte ham i sit palads: »Har du et ord fra Herren?« »Ja,« svarede Jeremias, »du bliver givet i babylonerkongens magt.« **18** Så spurgte Jeremias kong Sidkija: »Hvordan har jeg forsyndet mig mod dig og dine hoffolk og mod dette folk, siden I har sat mig i fængsel? **19** Hvor er jeres profeter, som profeterede for jer og sagde: Babylons konge skal ikke angribe jer og dette land? **20** Men hør mig nu, herre konge; jeg bønfalder dig: Send mig ikke tilbage til skriveren Jonatans hus! Jeg vil ikke dø dér.« **21** Kong Sidkija befalede, at Jeremias skulle anbringes i vagtgården, og man gav ham hver dag et brød fra bagergaden, indtil der ikke var mere brød i byen.
 
 Så sad Jeremias i vagtgården.
+
+[– tilbage –](#indhold)
+
+<a id="jer38"></a>
 
 ### Jer 38
 
@@ -7452,6 +7870,10 @@ Så sad Jeremias i vagtgården.
 
 **27** Da alle stormændene kom til Jeremias og udspurgte ham, fortalte han alt det, kongen havde befalet ham. Så lod de ham være, for der blev intet røbet. **28** Og Jeremias sad i vagtgården til den dag, Jerusalem blev indtaget.
 
+[– tilbage –](#indhold)
+
+<a id="jer39"></a>
+
 ### Jer 39
 
 #### Jerusalems fald og kong Sidkijas flugt
@@ -7468,6 +7890,10 @@ Så sad Jeremias i vagtgården.
 
 **15** Mens Jeremias sad indespærret i vagtgården, kom Herrens ord til ham: **16** »Gå hen og sig til nubieren Ebed-Melek: Dette siger Hærskarers Herre, Israels Gud: Jeg vil lade mine ord mod denne by gå i opfyldelse til dens ulykke, ikke til dens lykke, og det skal ske for øjnene af dig på den dag. **17** Men dig redder jeg på den dag, siger Herren, så du ikke bliver givet i hænderne på de mænd, du gruer for. **18** Jeg lader dig undslippe, så du ikke falder for sværdet. Du skal få livet som bytte, fordi du stolede på mig, siger Herren.«
 
+[– tilbage –](#indhold)
+
+<a id="jer40"></a>
+
 ### Jer 40
 
 **1** Det ord, som kom til Jeremias fra Herren, efter at Nebuzar’adan, chefen for livvagten, havde løsladt ham i Rama. Han havde været taget til fange og lagt i lænker sammen med alle dem fra Jerusalem og Juda, som skulle føres i eksil til Babylonien. **2** Chefen for livvagten lod Jeremias hente og sagde til ham: »Herren din Gud truede dette sted med denne ulykke, **3** og Herren har ladet sin trussel gå i opfyldelse. Fordi I syndede mod Herren og ikke adlød ham, er dette kommet over jer. **4** Men i dag løser jeg dine hænder af lænkerne. Hvis du gerne vil med mig til Babylon, så tag med; jeg skal nok passe på dig; men hvis du ikke vil med mig til Babylon, så lad være. Hele landet ligger åbent for dig; tag hen, hvor du har lyst. **5** Hvis du gerne vil blive, så tag tilbage til Gedalja, Ahikams søn, Shafans sønnesøn, som Babylons konge har indsat over Judas byer, og bo frit blandt folk hos ham, eller tag hen, hvor som helst du har lyst.« Chefen for livvagten sørgede for hans underhold og lod ham gå. **6** Jeremias tog hen til Gedalja, Ahikams søn, i Mispa og boede dér blandt dem, som var tilbage i landet.
@@ -7477,6 +7903,10 @@ Så sad Jeremias i vagtgården.
 **11** Da de judæere, som var i Moab, blandt ammonitterne og i Edom, og de, der var i alle de andre lande, hørte, at babylonerkongen havde ladet nogle blive tilbage i Juda og havde indsat Gedalja, Ahikams søn, Shafans sønnesøn, over dem, **12** så vendte alle judæerne tilbage fra de steder, de var fordrevet til, og de kom til Juda, til Gedalja i Mispa. Og de samlede vin og frugt i store mængder.
 
 **13** Johanan, Kareas søn, og alle hærførerne ude omkring i landet kom til Gedalja i Mispa **14** og sagde til ham: »Ved du, at Ba’alis, ammonitternes konge, har sendt Ismael, Netanjas søn, for at slå dig ihjel?« Men Gedalja, Ahikams søn, troede ikke på dem. **15** Da sagde Johanan, Kareas søn, i hemmelighed til Gedalja i Mispa: »Jeg vil tage af sted og dræbe Ismael, Netanjas søn. Ingen må få noget at vide om det! Hvorfor skal han slå dig ihjel, så alle de judæere, som slutter op om dig, bliver spredt, og resten af Juda går til grunde?« **16** Men Gedalja, Ahikams søn, svarede Johanan, Kareas søn: »Det må du ikke gøre, for det er løgn, hvad du siger om Ismael!«
+
+[– tilbage –](#indhold)
+
+<a id="jer41"></a>
 
 ### Jer 41
 
@@ -7490,6 +7920,10 @@ Så sad Jeremias i vagtgården.
 
 **16** Johanan, Kareas søn, og alle de hærførere, der var med ham, tog så alle dem af folket, der var tilbage, mænd, krigere, kvinder, børn og hoffolk, dem som Ismael, Netanjas søn, havde taget til fange i Mispa efter mordet på Gedalja, Ahikams søn, og førte dem med fra Gibeon. **17** De drog af sted og tog ophold i Gerut-Kimham i nærheden af Betlehem for at flygte til Egypten, **18** bort fra kaldæerne. De var nemlig bange for kaldæerne, fordi Ismael, Netanjas søn, havde dræbt Gedalja, Ahikams søn, som babylonerkongen havde indsat over landet.
 
+[– tilbage –](#indhold)
+
+<a id="jer42"></a>
+
 ### Jer 42
 
 #### Flugten til Egypten
@@ -7500,6 +7934,10 @@ Så sad Jeremias i vagtgården.
 
 **19** Herren har talt til jer judæere, der er tilbage. Drag ikke til Egypten! I skal vide, at jeg har advaret jer i dag. **20** I fører jer selv vild. I har sendt mig til Herren jeres Gud og sagt: Bed til Herren vor Gud for os! Fortæl os alt, hvad Herren vor Gud siger, så vil vi gøre det. **21** Jeg har fortalt jer det i dag, men I adlyder ikke Herren jeres Gud og det, han har sendt til jer gennem mig. **22** Nu skal I vide, at I skal dø ved sværd, sult og pest på det sted, hvor I agter at slå jer ned som fremmede.
 
+[– tilbage –](#indhold)
+
+<a id="jer43"></a>
+
 ### Jer 43
 
 **1** Da Jeremias var færdig med at tale alle disse ord til hele folket, de ord, som Herren deres Gud havde sendt til dem gennem ham, **2** sagde Azarja, Hoshajas søn, og Johanan, Kareas søn, og alle de overmodige mænd til Jeremias: »Det er løgn, hvad du siger! Herren vor Gud har ikke sendt dig for at sige, at vi ikke skal drage til Egypten og bo der som fremmede. **3** Nej, det er Baruk, Nerijas søn, der sætter dig op imod os, så vi kan falde i kaldæernes hånd, og de kan dræbe os eller føre os til Babylon i eksil.«
@@ -7509,6 +7947,10 @@ Så sad Jeremias i vagtgården.
 #### Billedhandling om Nebukadnesars erobring af Egypten
 
 **8** Herrens ord kom til Jeremias i Takpankes: **9** Tag nogle store sten, og grav dem ned i mørtelen i brolægningen ved indgangen til Faraos palads i Takpankes, mens de judæiske mænd ser på det. **10** Du skal sige til dem: Dette siger Hærskarers Herre, Israels Gud: Jeg sender bud efter min tjener, babylonerkongen Nebukadnesar. Jeg stiller hans trone oven på de sten, jeg har gravet ned her, og han skal brede sit trontæppe ud over dem. **11** Han skal komme og slå Egypten: Den, der tilhører døden, skal gå til døden; den, der tilhører fangenskabet, til fangenskabet, og den, der tilhører sværdet, til sværdet. **12** Han skal sætte ild på Egyptens templer, brænde dem ned og føre guderne bort. Han skal afluse Egypten, som en hyrde afluser sin kappe, og drage derfra som sejrherre. **13** Han skal knuse stenstøtterne i Bet-Shemesh i Egypten og brænde Egyptens templer ned.
+
+[– tilbage –](#indhold)
+
+<a id="jer44"></a>
 
 ### Jer 44
 
@@ -7530,6 +7972,10 @@ Så sad Jeremias i vagtgården.
 
 **24** Jeremias sagde til hele folket og til alle kvinderne: »Hør Herrens ord, alle judæere i Egypten: **25** Dette siger Hærskarers Herre, Israels Gud: I og jeres hustruer aflægger løfter, og I opfylder det, I har lovet. I siger: Vi vil holde de løfter, vi har aflagt, og tænde offerild for Himmeldronningen og udgyde drikofre for hende. Så hold da jeres løfter, og indfri jeres løfter! **26** Men hør nu Herrens ord, alle I judæere, som bor i Egypten: Jeg sværger ved mit store navn, siger Herren: Aldrig mere skal nogen judæer i hele Egypten tage mit navn i sin mund og sige: Så sandt Gud Herren lever! **27** Jeg våger over dem til ulykke, ikke til lykke. Alle judæere i Egypten skal udryddes fuldstændigt af sværd og sult. **28** Kun nogle få skal undslippe sværdet og vende tilbage til Juda fra Egypten; så skal alle de judæere, der var tilbage, og som kom for at bo som fremmede i Egypten, indse, hvis ord der står ved magt, mit eller deres. **29** Og dette skal I have som tegn på, at jeg vil straffe jer på dette sted, siger Herren, så I indser, at mine ulykkesord imod jer står fast. **30** Dette siger Herren: Jeg giver egypterkongen Farao Hofra i hænderne på hans fjender og på dem, som stræber ham efter livet, sådan som jeg gav Judas konge Sidkija i babylonerkongen Nebukadnesars magt, hans fjende som stræbte ham efter livet.«
 
+[– tilbage –](#indhold)
+
+<a id="jer45"></a>
+
 ### Jer 45
 
 #### Trøsteord til skriveren Baruk
@@ -7542,6 +7988,10 @@ Så sad Jeremias i vagtgården.
 > jeg finder ikke hvile.
 
 **4** Sådan skal du sige til ham: Dette siger Herren: Hvad jeg har bygget op, vil jeg jævne med jorden, hvad jeg har plantet, vil jeg rykke op med rode; det gælder hele dette land. **5** Du søger det store. Gør det ikke! Se, jeg bringer ulykke over alle mennesker, siger Herren, men dig giver jeg livet som bytte, overalt hvor du går hen.
+
+[– tilbage –](#indhold)
+
+<a id="jer46"></a>
 
 ### Jer 46
 
@@ -7662,6 +8112,10 @@ Imod egypterkongen Farao Nekos hær, som stod i Karkemish ved Eufratfloden, og s
 > men jeg tugter dig med måde
 > og lader dig ikke helt ustraffet.
 
+[– tilbage –](#indhold)
+
+<a id="jer47"></a>
+
 ### Jer 47
 
 #### Mod filistrene
@@ -7699,6 +8153,10 @@ Imod egypterkongen Farao Nekos hær, som stod i Karkemish ved Eufratfloden, og s
 > når Herren har givet det befaling?
 > Han beordrede det
 > mod Ashkalon og kystlandet.
+
+[– tilbage –](#indhold)
+
+<a id="jer48"></a>
 
 ### Jer 48
 
@@ -7886,6 +8344,10 @@ Dette siger Hærskarers Herre, Israels Gud:
 
 Her ender dommen over Moab.
 
+[– tilbage –](#indhold)
+
+<a id="jer49"></a>
+
 ### Jer 49
 
 #### Mod ammonitterne
@@ -8068,6 +8530,10 @@ Dette siger Hærskarers Herre:
 
 >  **39** Men til sidst vil jeg vende Elams skæbne,
 > siger Herren.
+
+[– tilbage –](#indhold)
+
+<a id="jer50"></a>
 
 ### Jer 50
 
@@ -8278,6 +8744,10 @@ Først åd assyrerkongen det, og nu har babylonerkongen Nebukadnesar gnavet bene
 >  **46** Ved råbet: Babylon er erobret!
 > ryster jorden,
 > der høres skrig blandt folkene.
+
+[– tilbage –](#indhold)
+
+<a id="jer51"></a>
 
 ### Jer 51
 
@@ -8530,6 +9000,10 @@ Først åd assyrerkongen det, og nu har babylonerkongen Nebukadnesar gnavet bene
 
 Jeremias’ ord går til: »deres møje ...«
 
+[– tilbage –](#indhold)
+
+<a id="jer52"></a>
+
 ### Jer 52
 
 #### Sidkija og Judas undergang
@@ -8552,9 +9026,13 @@ Sidkija gjorde oprør mod babylonerkongen. **4** I Sidkijas niende regeringsår,
 
 **31** I det syvogtredivte år efter at Judas konge Jojakin var blevet ført i eksil, på den femogtyvende dag i den tolvte måned i det år, da Evil-Merodak blev babylonernes konge, benådede han Judas konge Jojakin og førte ham ud af fængslet. **32** Han behandlede ham godt og gav ham en plads højere oppe end de andre konger, som var hos ham i Babylon. **33** Jojakin aflagde sin fangedragt, og hele resten af sit liv spiste han ved babylonerkongens bord; **34** så længe han levede, fik han sit daglige underhold af babylonerkongen dag efter dag lige til sin dødsdag.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Klagesangene
+
+<a id="klages1"></a>
 
 ### Klages 1
 
@@ -8693,6 +9171,10 @@ som du har gjort mod mig
 for alle mine synders skyld.
 Talrige er mine suk,
 mit hjerte er sygt.
+
+[– tilbage –](#indhold)
+
+<a id="klages2"></a>
 
 ### Klages 2
 
@@ -8837,6 +9319,10 @@ på Herrens vredes dag;
 de børn, jeg bragte til verden og opfostrede,
 har min fjende tilintetgjort.
 
+[– tilbage –](#indhold)
+
+<a id="klages3"></a>
+
 ### Klages 3
 
 **1** Jeg er manden, der har oplevet lidelse
@@ -8976,6 +9462,10 @@ og send din forbandelse over dem!
 **66** Forfølg dem i vrede, og udryd dem
 under Herrens himmel!
 
+[– tilbage –](#indhold)
+
+<a id="klages4"></a>
+
 ### Klages 4
 
 **1** Ak! Guldet bliver sort,
@@ -9069,6 +9559,10 @@ han fører dig ikke bort igen.
 Han vil straffe din skyld, Edoms datter,
 afsløre alle dine synder.
 
+[– tilbage –](#indhold)
+
+<a id="klages5"></a>
+
 ### Klages 5
 
 **1** Husk, Herre, hvad der skete os,
@@ -9117,9 +9611,13 @@ gør vore dage nye, som de var i fortiden,
 **22** hvis du ikke helt har forkastet os
 og ikke er alt for vred på os.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Ezekiels Bog
+
+<a id="ez1"></a>
 
 ### Ez 1
 
@@ -9137,9 +9635,17 @@ og ikke er alt for vred på os.
 
 Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg mig ned, og jeg hørte en stemme tale.
 
+[– tilbage –](#indhold)
+
+<a id="ez2"></a>
+
 ### Ez 2
 
 **1** Han sagde til mig: »Menneske, rejs dig op, jeg vil tale til dig!« **2** Ånden kom ind i mig og rejste mig op, da han talte til mig, så jeg kunne høre ham tale til mig. **3** Han sagde til mig: »Menneske, jeg sender dig til israelitterne, til de oprørske folk, som lige til denne dag gør oprør imod mig; de og deres fædre har brudt med mig, **4** og de er stivsindede og hårdhjertede. Jeg sender dig til dem, og du skal sige: ›Dette siger Gud Herren‹, **5** hvad enten de vil høre eller ej, for de er et genstridigt folk. Så skal de forstå, at der er kommet en profet blandt dem. **6** Men du, menneske, frygt dem ikke, og frygt ikke deres ord, om så torne omringer dig, og du sidder på skorpioner. Frygt ikke deres ord, og lad dig ikke skræmme af dem, for de er et genstridigt folk. **7** Du skal tale mine ord til dem, hvad enten de vil høre eller ej, for de er genstridige. **8** Men du, menneske, hør, hvad jeg taler til dig! Vær ikke genstridig som det genstridige folk, men luk munden op, og spis det, jeg giver dig.« **9** Jeg så en hånd rakt frem imod mig, og den holdt en bogrulle. **10** Han rullede den op for mig, og den var beskrevet både på indersiden og på ydersiden, og der stod skrevet klage, suk og ve.
+
+[– tilbage –](#indhold)
+
+<a id="ez3"></a>
 
 ### Ez 3
 
@@ -9152,6 +9658,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 
 **22** Herrens hånd kom over mig, og han sagde til mig: »Rejs dig, og gå ud i dalen; dér vil jeg tale til dig.« **23** Jeg rejste mig og gik ud i dalen, og se, dér stod Herrens herlighed; den var som den herlighed, jeg havde set ved floden Kebar, og jeg kastede mig ned. **24** Ånden kom ind i mig og rejste mig op. Så talte han til mig og sagde: Gå hjem og luk dig inde i dit hus! **25** Og du, menneske, de skal lægge dig i reb og binde dig, så du ikke kan gå ud til dem. **26** Jeg lader din tunge klæbe til ganen, så du bliver stum og ikke kan anklage dem; de er et genstridigt folk. **27** Men når jeg så taler til dig, vil jeg åbne din mund, og du skal sige til dem: »Dette siger Gud Herren!« Den, der vil høre, må høre, og den, der ikke vil, må lade være, for de er et genstridigt folk.
 
+[– tilbage –](#indhold)
+
+<a id="ez4"></a>
+
 ### Ez 4
 
 #### Billedhandlinger om Jerusalems belejring og erobring
@@ -9161,6 +9671,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 **4** Læg dig på din venstre side, og tag Israels skyld på dig. Det antal dage, du ligger på den side, skal du bære deres skyld. **5** Lige så mange år, som de har syndet, lige så mange dage, 390 dage, pålægger jeg dig at bære Israels skyld. **6** Når de dage er gået, skal du dernæst lægge dig på din højre side og bære Judas skyld i fyrre dage; en dag for hvert år pålægger jeg dig. **7** Du skal vende dit ansigt mod det belejrede Jerusalem; din arm skal være blottet, og du skal profetere imod byen. **8** Jeg lægger dig i reb, så du ikke kan vende dig fra den ene side til den anden, før belejringens dage er til ende.
 
 **9** Tag hvede, byg, bønner, linser, hirse og spelt, hæld det i samme fad, og bag brød af det. I de 390 dage, du ligger på siden, skal du leve af det. **10** Maden, du spiser, skal være afvejet, tyve sekel om dagen; det er, hvad du må spise daglig. **11** Du skal drikke vand efter mål, en sjettedel hin; det er, hvad du må drikke daglig. **12** Du skal spise det som bygbrød, og du skal bage det med menneskeskarn som brændsel, mens de ser på det. **13** Og Herren sagde: »Sådan skal israelitterne spise uren mad blandt de folkeslag, jeg fordriver dem til.« **14** Men jeg sagde: »Ak, Gud Herre! Jeg har aldrig været uren. Fra min ungdom og til nu har jeg hverken spist selvdøde eller sønderrevne dyr, og jeg har aldrig smagt urent kød.« **15** Da sagde han til mig: »Så giver jeg dig komøg i stedet for menneskeskarn; det skal du bage dit brød over.« **16** Videre sagde han til mig: »Menneske, nu knækker jeg brødets støttestav i Jerusalem; med bekymring skal de spise det afvejede brød, og med ængstelse skal de drikke det afmålte vand. **17** De skal komme til at mangle brød og vand, de skal alle sammen ligge forkomne og rådne op i deres skyld.«
+
+[– tilbage –](#indhold)
+
+<a id="ez5"></a>
 
 ### Ez 5
 
@@ -9176,6 +9690,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 
 **16** Jeg sender sultens onde pile imod jer, og de skal bringe ødelæggelse, når jeg sender dem for at ødelægge jer; jeg lader sulten tage til hos jer, jeg knækker brødets støttestav. **17** Jeg sender sult og rovdyr imod jer, og de skal affolke dig. Pest og drab skal hærge dig, og jeg bringer mit sværd over dig. Jeg, Herren, har talt!
 
+[– tilbage –](#indhold)
+
+<a id="ez6"></a>
+
 ### Ez 6
 
 #### Straffen for afgudsdyrkelsen på offerhøjene
@@ -9185,6 +9703,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 **8** Jeg lader nogle overleve. Når de af jer, der er undsluppet sværdet, kommer ud blandt folkene og bliver spredt i landene, **9** skal de af jer, der er undsluppet, huske på mig ude blandt folkene, hvor de er fanger, fordi jeg knuste hjertet på dem, som horede og veg bort fra mig, og øjnene på dem, som horede med møgguderne. Og de skal væmmes over det onde, de har gjort, alle deres afskyelige handlinger. **10** Så skal de forstå, at jeg er Herren. Ikke uden grund har jeg truet dem med denne ulykke.
 
 **11** Dette siger Gud Herren: Slå hænderne sammen, stamp med foden, og råb ve over alle Israels onde og afskyelige handlinger, når de falder for sværd, sult og pest. **12** Den, som er langt borte, skal dø af pest, den, som er nær ved, skal falde for sværd, og den, som bliver tilbage og overlever, skal dø af sult; jeg giver min harme mod dem frit løb. **13** Så skal I forstå, at jeg er Herren, når de ligger dræbt imellem deres møgguder rundt om altrene, på alle høje bakker og alle bjergtoppe, under alle grønne træer og alle løvrige ege, de steder hvor de bragte alle deres møgguder liflig offerduft. **14** Jeg løfter min hånd imod dem og gør landet til ørken og ødemark overalt, hvor de bor, fra ørkenen til Ribla. Så skal de forstå, at jeg er Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez7"></a>
 
 ### Ez 7
 
@@ -9305,6 +9827,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 > og jeg dømmer dem med deres egne domme.
 > Så skal de forstå, at jeg er Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez8"></a>
+
 ### Ez 8
 
 #### Afgudsdyrkelsen i templet
@@ -9319,11 +9845,19 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 
 **16** Da førte han mig ind i den indre forgård til Herrens tempel. Og dér, ved indgangen til Herrens tempel, mellem forhallen og alteret, befandt sig henved femogtyve mænd med ryggen mod Herrens tempel og ansigtet mod øst. Vendt mod øst tilbad de solen. **17** Han sagde til mig: »Har du set det, menneske? Er det ikke nok, at Juda begår alle deres afskyelige handlinger og fylder landet med vold og krænker mig igen og igen? Nu rækker de også vinranken op i næsen på mig! **18** Så vil jeg vise min vrede uden barmhjertighed og skånsel. Selv om de råber højt til mig, vil jeg ikke høre på dem.«
 
+[– tilbage –](#indhold)
+
+<a id="ez9"></a>
+
 ### Ez 9
 
 #### Straffen over Jerusalem er nær
 
 **1** Nu råbte han til mig med høj røst: »Straffen over byen er nær! Hver skal gribe sit mordvåben!« **2** Da kom seks mænd ind fra den øvre port, der vender mod nord, hver med sin hammer i hånden. En af dem var iført en linneddragt og havde en skrivetavle ved hoften. De gik hen og stillede sig ved siden af bronzealteret. **3** Israels Guds herlighed havde løftet sig fra keruben, som den havde stået over, og flyttet sig til templets tærskel. Nu råbte Herren til manden, der var iført en linneddragt og havde sin skrivetavle ved hoften; **4** Herren sagde til ham: »Gå igennem byen, igennem Jerusalem, og sæt et kryds i panden på dem, der sukker og stønner over alle de afskyelige handlinger, der begås dér.« **5** Og til de andre hørte jeg ham sige: »Gå bag efter ham igennem byen, og hug ned uden barmhjertighed og skånsel! **6** Gamle, unge mænd og piger, kvinder og børn skal I dræbe og udrydde; men ingen, som har et kryds i panden, må I komme nær. I skal begynde i min helligdom.« Og de begyndte med de gamle mænd foran templet. **7** Derpå sagde han: »Gør templet urent, fyld forgårdene med dræbte, og gå så ud og hug ned i byen.« **8** Jeg blev tilbage, og mens de huggede ned, kastede jeg mig ned og råbte: »Ak, Gud Herre, vil du udrydde hele Israels rest og udøse din harme over Jerusalem?« **9** Han svarede: »Israels og Judas skyld er umådelig stor. Landet er fyldt med blodskyld og byen med uret, for de siger: ›Herren har forladt landet, Herren ser intet‹. **10** Så vil jeg heller ikke vise dem barmhjertighed og skånsel, jeg gengælder dem deres færd.« **11** Manden, der var iført en linneddragt og havde sin tavle ved hoften, aflagde beretning og sagde: »Jeg har gjort, hvad du befalede mig.«
+
+[– tilbage –](#indhold)
+
+<a id="ez10"></a>
 
 ### Ez 10
 
@@ -9334,6 +9868,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 **8** Under kerubernes vinger kom der noget af form som en menneskehånd til syne. **9** Jeg så fire hjul ved keruberne, et hjul ved hver kerub, og hjulene så ud som funklende krysolit. **10** De så alle fire ens ud, og det var, som der var anbragt et hjul inden i hjulet. **11** Når keruberne gik, kunne hjulene bevæge sig i alle fire retninger, og de drejede ikke, når de gik. For de fulgte den retning, hovedet vendte, og de drejede sig ikke, når de gik. **12** Hele deres krop, deres ryg, deres hænder, deres vinger og hjulene var fulde af øjne, der sad rundt om på dem alle fire, på hjulene. **13** Jeg hørte, at hjulene blev kaldt Galgal. **14** Hver havde fire ansigter: Det første var et kerubansigt, det andet et menneskeansigt, det tredje et løveansigt og det fjerde et ørneansigt. **15** Og keruberne hævede sig. Det var det samme levende væsen, som jeg havde set ved floden Kebar. **16** Når keruberne gik, bevægede hjulene sig ved siden af dem, og når keruberne løftede deres vinger for at hæve sig fra jorden, drejede hjulene ikke bort. **17** Når de stod stille, stod hjulene også stille, og når de hævede sig, hævede hjulene sig sammen med dem, for det levende væsens ånd var i dem.
 
 **18** Herrens herlighed forlod nu templets tærskel og stillede sig over keruberne. **19** Mens jeg så på det, løftede keruberne deres vinger og hævede sig fra jorden, og hjulene fulgte med. Så stillede de sig i østporten til Herrens tempel, og Israels Guds herlighed var oven over dem. **20** Det var det samme levende væsen, som jeg havde set under Israels Gud ved floden Kebar, og jeg forstod, at det var keruber. **21** Hver havde fire ansigter og fire vinger og under vingerne noget, der lignede menneskehænder. **22** Deres ansigter lignede og så ud som de ansigter, jeg havde set ved floden Kebar. De gik hver især lige frem.
+
+[– tilbage –](#indhold)
+
+<a id="ez11"></a>
 
 ### Ez 11
 
@@ -9348,6 +9886,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 **14** Da kom Herrens ord til mig: **15** Menneske, til dine brødre, dine slægtninge, ja, til hele Israels hus siger Jerusalems indbyggere: »Hold jer borte fra Herren! Byen er vores. Vi har fået landet som ejendom.« **16** Sig derfor: Dette siger Gud Herren: Da jeg førte dem ud blandt folkene og spredte dem i landene, blev jeg en kort tid helligdom for dem i de lande, de var kommet til. **17** Sig derfor: Dette siger Gud Herren: Jeg bringer jer tilbage fra folkene, jeg samler jer fra de lande, hvor I blev spredt, og jeg giver jer Israels land. **18** Når de kommer hjem, skal de fjerne alle ækle og afskyelige guder. **19** Jeg giver dem et andet hjerte og en ny ånd i deres indre. Jeg fjerner stenhjertet fra deres krop og giver dem et hjerte af kød, **20** så de følger mine love og omhyggeligt holder mine bud. De skal være mit folk, og jeg vil være deres Gud. **21** Men dem, der af hjertet følger deres ækle og afskyelige guder, gengælder jeg deres færd, siger Gud Herren.
 
 **22** Så løftede keruberne deres vinger, og samtidig løftede hjulene sig, og Israels Guds herlighed var oven over dem. **23** Herrens herlighed steg op fra byen og stillede sig på bjerget øst for byen. **24** Ånden løftede mig op og bragte mig til de landflygtige i Kaldæa i et syn ved Guds ånd; så forsvandt det syn, jeg havde set, fra mig. **25** Og jeg forkyndte alt det, Herren havde ladet mig se, for de landflygtige.
+
+[– tilbage –](#indhold)
+
+<a id="ez12"></a>
 
 ### Ez 12
 
@@ -9365,6 +9907,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 
 **26** Herrens ord kom til mig: **27** Menneske, hør hvad israelitterne siger: »Han ser syner om fremtiden, profeterer om fjerne tider.« **28** Sig derfor til dem: Dette siger Gud Herren: Nu varer det ikke længe! Alt, hvad jeg taler, skal gå i opfyldelse, siger Gud Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez13"></a>
+
 ### Ez 13
 
 #### Veråb over de falske profeter
@@ -9376,6 +9922,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 **17** Du, menneske, vend dig mod de kvinder i dit folk, der profeterer ud af eget hjerte. Du skal profetere imod dem **18** og sige: Dette siger Gud Herren: Ve dem, når de syr bånd til ethvert håndled og laver hovedklæder i alle størrelser for at jage mennesker. Vil I jage mennesker i mit folk og holde mennesker i live til gavn for jer selv? **19** For nogle håndfulde byg og et par stykker brød vanhelliger I mig i mit folk. I dræber mennesker, som ikke skulle dø, og holder mennesker i live, som ikke skulle leve, når I lyver for mit folk, der må lytte til løgn. **20** Derfor siger Gud Herren: Jeg vender mig imod de bånd, I jager mennesker med, som var de fugle; jeg river dem af jeres arme, og de mennesker, I jagede, slipper jeg løs som fugle. **21** Jeg river jeres hovedklæder i stykker og redder mit folk ud af jeres hænder; de skal ikke mere være jagtbytte for jer. Så skal I forstå, at jeg er Herren.
 
 **22** I bringer lidelse over den retfærdige ved jeres falskhed, skønt jeg ikke ville bringe lidelse over ham, og I opmuntrer den uretfærdige, så han ikke vender om fra sin onde vej, skønt jeg gerne ville lade ham leve. **23** Derfor skal I ikke mere have falske syner eller drive spådomskunst. Jeg redder mit folk ud af jeres hænder. Så skal I forstå, at jeg er Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez14"></a>
 
 ### Ez 14
 
@@ -9389,9 +9939,17 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 
 **21** For dette siger Gud Herren: Ja, jeg sender mine fire hårde straffe imod Jerusalem, sværd, sult, rovdyr og pest, for at udrydde mennesker og dyr. **22** Men der er nogle overlevende i byen, som bliver ført ud, sønner og døtre. Når de nu kommer over til jer, og I ser deres færd og gerninger, så finder I trøst for den ulykke, jeg bragte over Jerusalem, alt det, jeg bragte over den. **23** Når I ser deres færd og gerninger, bliver de jeres trøst. Så skal I forstå, at det ikke var uden grund, jeg gjorde alt det mod byen, siger Gud Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez15"></a>
+
 ### Ez 15
 
 **1** Herrens ord kom til mig: **2** Menneske, hvad har vinstokken frem for alle andre træer, vinranken, der gror blandt skovens træer? **3** Kan man anvende den slags træ? Kan man lave en knage af det og hænge alt muligt på den? **4** Hvis man nu lader ilden fortære den, og ilden så fortærer begge ender af den og svider det midterste, kan man så anvende den til noget? **5** Man kunne ikke anvende den, da den var hel; hvordan skulle man så kunne det, når ilden har fortæret og svedet den? **6** Derfor siger Gud Herren: Ligesom jeg af skovens træer udleverer vinstokken til at blive fortæret af ilden, sådan udleverer jeg Jerusalems indbyggere. **7** Jeg vender mig imod dem, der undslap ilden, og ilden skal fortære dem. Så skal I forstå, at jeg er Herren, når jeg vender mig imod dem. **8** Landet gør jeg til en ørken på grund af deres troløshed, siger Gud Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez16"></a>
 
 ### Ez 16
 
@@ -9420,6 +9978,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 **56** Var det ikke dig, der snakkede om din søster Sodoma i din egen storheds tid, **57** før din ondskab blev afsløret, dengang aramæerkvinderne og alle deres naboer, filisterkvinderne, spottede dig og talte foragteligt om dig alle vegne? **58** Din skamløshed og dine afskyelige handlinger må du selv bære, siger Herren.
 
 **59** Dette siger Gud Herren: Jeg gør mod dig, hvad du gjorde, da du ringeagtede eden og brød pagten. **60** Jeg husker på min pagt med dig i din ungdom, og jeg vil oprette en evig pagt med dig. **61** Du skal huske din færd og blive beskæmmet, når jeg tager dine søstre, både dem, der er ældre, og dem, der er yngre end du, og gør dem til dine døtre, skønt de ikke hørte til pagten med mig. **62** Jeg opretter min pagt med dig. Så skal du forstå, at jeg er Herren. **63** Når jeg tilgiver dig, skal du huske alt, hvad du har gjort, så du skammer dig på grund af din skændsel og ikke mere åbner munden, siger Gud Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez17"></a>
 
 ### Ez 17
 
@@ -9484,6 +10046,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 
 **22** Dette siger Gud Herren: Jeg vil tage et sart skud fra toppen af det høje cedertræ, jeg river topskuddet af og planter det på det høje, knejsende bjerg. **23** På Israels højeste bjerg planter jeg det. Det skal sætte grene og bære frugt, så det bliver et prægtigt træ; alle vingede fugle skal bo i det, i nålehangets skygge skal de bo. **24** Så skal alle skovens træer forstå, at jeg er Herren. Jeg ydmyger det høje træ og ophøjer det lave, jeg lader det friske træ visne og lader det visne blomstre. Jeg, Herren, har talt, og jeg vil gøre det.
 
+[– tilbage –](#indhold)
+
+<a id="ez18"></a>
+
 ### Ez 18
 
 #### Enhver skal undgælde for egne handlinger
@@ -9506,6 +10072,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 **24** Men hvis den retfærdige vender om fra sin retfærdighed og øver uret, så han gør alle de afskyelige handlinger, den uretfærdige gør, skulle han så leve? Ingen af de retfærdige gerninger, han har øvet, skal huskes. For sin troløshed og sin synd skal han dø. **25** I siger: »Herren handler ikke rimeligt.« Hør dog, Israels hus: Handler jeg ikke rimeligt? Er det ikke jer, der ikke handler rimeligt? **26** Hvis den retfærdige vender om fra sin retfærdighed og øver uret, så skal han dø for det; han skal dø for den uret, han øvede. **27** Og hvis den uretfærdige vender om fra den uretfærdighed, han har begået, og øver ret og retfærdighed, skal han bevare sit liv. **28** Han ser alle de overtrædelser, han har begået, og vender om fra dem. Han skal bevare livet; han skal ikke dø. **29** Israels hus siger: »Herren handler ikke rimeligt.« Handler jeg ikke rimeligt, Israels hus? Er det ikke jer, der ikke handler rimeligt?
 
 **30** Derfor vil jeg dømme jer, Israels hus, hver især efter jeres handlinger, siger Herren. Vend om! Vend jer bort fra alle jeres overtrædelser, så de ikke bliver årsag til skyld. **31** Kast jeres overtrædelser bort, skab jer et nyt hjerte og en ny ånd! Hvorfor vil I dø, Israels hus? **32** Jeg ønsker ikke nogens død, siger Gud Herren. Vend om, så skal I leve!
+
+[– tilbage –](#indhold)
+
+<a id="ez19"></a>
 
 ### Ez 19
 
@@ -9570,6 +10140,10 @@ Sådan så det ud, der lignede Herrens herlighed, og da jeg så den, kastede jeg
 
 Dette er en dødsklage, og en dødsklage er det blevet.
 
+[– tilbage –](#indhold)
+
+<a id="ez20"></a>
+
 ### Ez 20
 
 #### Forfædrenes troløshed
@@ -9591,6 +10165,10 @@ Dette er en dødsklage, og en dødsklage er det blevet.
 **33** Så sandt jeg lever, siger Gud Herren: Med stærk hånd og løftet arm og med udøst harme vil jeg herske over jer. **34** Jeg fører jer bort fra folkene, og med stærk hånd og løftet arm og med udøst harme samler jeg jer fra de lande, hvor I blev spredt. **35** Så fører jeg jer ud i folkenes ørken, og dér fælder jeg dom over jer ansigt til ansigt med jer. **36** Som jeg fældede dom over jeres fædre i Egyptens ørken, sådan vil jeg fælde dom over jer, siger Gud Herren. **37** Så lader jeg jer passere under hyrdestaven og fører jer ind i pagtens bånd. **38** Oprørerne og dem, der brød med mig, skiller jeg ud fra jer; jeg fører dem ud af det land, hvor de har boet som fremmede, men i Israels land kommer de ikke ind. Så skal I forstå, at jeg er Herren.
 
 **39** Israels hus, dette siger Gud Herren: Gå alle sammen hen og dyrk jeres møgguder, men siden hen skal I adlyde mig, og mit hellige navn skal I ikke mere vanhellige med jeres gaver og jeres møgguder. **40** På mit hellige bjerg, på Israels højeste bjerg, siger Gud Herren, dér skal Israels hus, alle i landet, dyrke mig. Dér vil jeg tage nådigt imod dem, ja, dér ønsker jeg at få jeres afgifter og førstegrødegaver, alle jeres helliggaver. **41** Jeg tager nådigt imod jer som liflig offerduft, når jeg fører jer bort fra folkene og samler jer fra de lande, hvor I blev spredt, og jeg viser min hellighed på jer for øjnene af folkene. **42** Så skal I forstå, at jeg er Herren, når jeg bringer jer til Israels land, til det land jeg med løftet hånd svor at give jeres fædre. **43** Dér skal I huske jeres færd og alle de gerninger, I gjorde jer urene ved, og I skal væmmes ved alt det onde, I har gjort. **44** Så skal I forstå, at jeg er Herren, når jeg handler mod jer for mit navns skyld, Israels hus, og ikke for jeres onde færd og jeres fordærvelige handlinger, siger Gud Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez21"></a>
 
 ### Ez 21
 
@@ -9667,6 +10245,10 @@ Det skal dog ikke ske, før han, som jeg overdrager domsmagten til, kommer.
 
 **34** Du har modtaget falske syner og løgnespådomme om, at sværdet skal ramme de vanhellige gudløse i nakken, når deres dag kommer, og de får deres endelige straf. **35** Stik sværdet i skeden! På det sted, du blev skabt, i det land, du stammer fra, vil jeg dømme dig. **36** Jeg udøser min harme over dig, jeg blæser min vredes ild imod dig og giver dig i hænderne på grusomme mennesker, mestre i at ødelægge. **37** Du bliver ildens bytte, dit blod skal flyde i landet. Ingen skal længere huske dig. Jeg, Herren, har talt!
 
+[– tilbage –](#indhold)
+
+<a id="ez22"></a>
+
 ### Ez 22
 
 #### Jerusalem, blodets by
@@ -9680,6 +10262,10 @@ Det skal dog ikke ske, før han, som jeg overdrager domsmagten til, kommer.
 **17** Herrens ord kom til mig: **18** Menneske, for mig er Israels hus blevet slagger. Det hele, sølv, kobber, tin, jern og bly, er blevet slagger i ovnen. **19** Derfor siger Gud Herren: Fordi I alle er blevet slagger, vil jeg samle jer inde i Jerusalem. **20** Som man samler sølv, kobber, jern, bly og tin i en ovn, så man kan blæse ilden op og smelte det, sådan samler jeg jer i min vrede og harme; jeg lægger jer til rette og smelter jer. **21** Jeg samler jer og blæser min vredes ild op imod jer, så I smelter i den. **22** Som man smelter sølv i en ovn, skal I smeltes i byen. Så skal I forstå, at jeg er Herren. Jeg udøser min harme over jer.
 
 **23** Herrens ord kom til mig: **24** Menneske, sig til landet: Du blev ikke renset og fik ikke regn på vredens dag. **25** Dine fyrster er som brølende løver, der sønderriver bytte. De æder mennesker, river rigdomme og kostbarheder til sig og gør mange i landet til enker. **26** Dine præster forbryder sig mod min lov, og de vanhelliger mine helliggaver. De skiller ikke det hellige fra det uhellige og kundgør ikke forskellen på rent og urent. De lukker øjnene for mine sabbatter, så jeg bliver vanæret blandt dem. **27** Stormændene i landet er som ulve, der sønderriver bytte; de udgyder blod og gør det af med mennesker for at skaffe sig uretmæssig vinding. **28** Profeterne kalker over med falske syner og løgnespådomme, når de siger: »Dette siger Gud Herren«, skønt Herren ikke har talt. **29** Landets folk øver vold og røver bytte; de udnytter hjælpeløse og fattige og undertrykker fremmede uden lov og dom. **30** Jeg søgte én iblandt dem til at rejse gærde eller stille sig i murbruddet foran mig til værn for landet, for at det ikke skulle gå til grunde; men jeg fandt ingen. **31** Da udøste jeg min harme over dem, tilintetgjorde dem i min vredes ild og gengældte dem deres færd, siger Gud Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez23"></a>
 
 ### Ez 23
 
@@ -9719,6 +10305,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **46** For dette siger Gud Herren: Du skal føre en skare mod dem og overgive dem til rædsel og udplyndring. **47** De skal stene dem og sønderhugge dem med deres sværd. Deres sønner og døtre skal de dræbe, og deres huse skal de brænde ned. **48** Jeg gør ende på skamløsheden i landet, så alle kvinder bliver advaret mod at begå jeres skamløshed. **49** De gengælder jer for jeres skamløshed, og I skal bære skylden for jeres møgguder. Så skal I forstå, at jeg er Gud Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez24"></a>
+
 ### Ez 24
 
 #### Blodets by, en anløben gryde
@@ -9750,6 +10340,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **25** Og du, menneske: Den dag jeg tager deres værn fra dem, deres glæde og pryd, deres øjnes lyst, deres hjertes længsel, deres sønner og døtre, **26** den dag kommer en flygtning til dig og meddeler det. **27** Den dag skal din mund åbnes, du skal tale og ikke længere være stum, og du skal blive et varsel for dem. Så skal de forstå, at jeg er Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez25"></a>
+
 ### Ez 25
 
 #### Mod ammonitterne
@@ -9769,6 +10363,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 #### Mod filistrene
 
 **15** Dette siger Gud Herren: Filistrene var hævngerrige og tog hævn, fulde af foragt hærgede de i evigt fjendskab; **16** derfor siger Gud Herren: Jeg løfter min hånd imod filistrene, jeg udrydder kreterne og tilintetgør resten af dem, der bor i kystlandet. **17** Jeg tager en grusom hævn over dem, en frygtelig gengældelse. Så skal de forstå, at jeg er Herren, når jeg tager hævn over dem.
+
+[– tilbage –](#indhold)
+
+<a id="ez26"></a>
 
 ### Ez 26
 
@@ -9856,6 +10454,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 > over dit endeligt.
 
 **19** For dette siger Gud Herren: Når jeg gør dig til en ruinby som de byer, der er uden beboere, når jeg rejser havdybet over dig og de vældige vande lukker sig over dig, **20** da styrter jeg dig ned til dem, der er gået i graven, til fortidens folk. Jeg lader dig ligge i jordens dyb, som ruinerne fra fortiden, sammen med dem, der er gået i graven, for at du ikke mere skal bebos og rejse dig i de levendes land. **21** Jeg gør dig til rædsel, så du ikke mere er til. Man skal søge efter dig, men aldrig mere finde dig, siger Gud Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez27"></a>
 
 ### Ez 27
 
@@ -9947,6 +10549,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 > pifter hånligt ad dig,
 > du er blevet en rædsel,
 > du er borte for evigt.
+
+[– tilbage –](#indhold)
+
+<a id="ez28"></a>
 
 ### Ez 28
 
@@ -10044,6 +10650,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **25** Dette siger Gud Herren: Når jeg samler Israel fra de folk, de er spredt iblandt, vil jeg vise min hellighed på dem for øjnene af folkene. De skal bo på deres jord, som jeg gav min tjener Jakob. **26** Dér skal de bo trygt. De skal bygge huse og plante vingårde og bo trygt. Når jeg bringer straf over alle de omboende, som foragter dem, skal de forstå, at jeg er Herren deres Gud.
 
+[– tilbage –](#indhold)
+
+<a id="ez29"></a>
+
 ### Ez 29
 
 #### Mod egypterkongen Farao
@@ -10093,6 +10703,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 **17** I det syvogtyvende år på den første dag i den første måned kom Herrens ord til mig: **18** Menneske, Babylons konge, Nebukadnesar, har ladet sin hær udføre et storværk mod Tyrus; hvert hoved er skaldet, hver skulder er nøgen. Men han og hans hær fik ikke løn af Tyrus for det værk, han havde udført mod den. **19** Derfor siger Gud Herren: Jeg giver Egypten til Babylons konge, Nebukadnesar. Han skal tage dets rigdom, plyndre og røve i det, så hans hær kan få sin løn. **20** Jeg giver ham Egypten som arbejdsløn for det, de udførte for mig, siger Gud Herren.
 
 **21** Den dag lader jeg et horn vokse frem for Israel, og jeg åbner din mund iblandt dem. Så skal de forstå, at jeg er Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez30"></a>
 
 ### Ez 30
 
@@ -10179,6 +10793,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 > og strør dem ud i landene.
 > Så skal de forstå, at jeg er Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez31"></a>
+
 ### Ez 31
 
 #### Farao, det fældede cedertræ
@@ -10234,6 +10852,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 **15** Dette siger Gud Herren: Den dag den gik ned i dødsriget, lod jeg urdybet sørge over den og dække den til. Jeg holdt dets strømme tilbage, så de vældige vande standsede; jeg klædte Libanon i sort for dens skyld, og alle markens træer sygnede hen. **16** Ved braget, da den faldt, fik jeg folkene til at skælve, da jeg styrtede den ned i dødsriget til dem, der er gået i graven. Alle Edens træer i jordens dyb finder trøst, de udvalgte og gode på Libanon, alle de, der drikker vand. **17** Ligesom den er de gået ned i dødsriget til dem, der er dræbt af sværdet. De, der sad i dens skygge, er strøet ud blandt folkene.
 
 **18** Hvem sammenligner du dig med i herlighed og storhed blandt Edens træer? Du skal styrtes ned sammen med Edens træer i jordens dyb, blandt uomskårne skal du ligge sammen med dem, der er dræbt af sværdet. Det er Farao og hele hans larmende hob, siger Gud Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez32"></a>
 
 ### Ez 32
 
@@ -10315,6 +10937,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **32** Jeg spredte rædsel for ham i de levendes land; men han skal lægges blandt uomskårne sammen med dem, der er dræbt af sværdet, Farao og hele hans larmende hob, siger Gud Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez33"></a>
+
 ### Ez 33
 
 #### Vægteren for Israels hus
@@ -10339,6 +10965,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **30** Du, menneske, dine landsmænd sidder langs murene og i døråbningerne og taler om dig. De siger til hinanden: »Kom dog og hør det ord, der udgår fra Herren!« **31** Så stimler de sammen hos dig, og mit folk sætter sig foran dig; de hører på dine ord, men de handler ikke efter dem, for de handler efter deres egne elskovsord; de jager efter vinding. **32** For dem er du som en, der synger om elskov med dejlig stemme til smuk musik; de hører på dine ord, men de handler ikke efter dem. **33** Når det kommer – og det vil komme – skal de forstå, at der er kommet en profet blandt dem.
 
+[– tilbage –](#indhold)
+
+<a id="ez34"></a>
+
 ### Ez 34
 
 #### Israels slette hyrder og den rette hyrde
@@ -10348,6 +10978,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 **17** Dette siger Gud Herren: Mine får, jeg vil dømme dyrene imellem, både væddere og bukke. **18** Er det ikke nok, at I har den gode græsgang at græsse på? Behøver I at trampe resten af græsset ned? Er det ikke nok, at I har det klare vand at drikke? Behøver I at trampe rundt i resten af vandet? **19** Mine får må græsse, hvor I har trampet ned, og drikke, hvor I har trampet rundt. **20** Derfor siger Gud Herren til dem: Jeg vil selv dømme mellem de fede og de magre dyr. **21** Fordi I med side og nakke skubber alle de svage væk og stanger dem med hornene, så I får dem spredt, **22** vil jeg redde mine får, så de ikke mere skal blive til bytte; jeg vil dømme dyrene imellem. **23** Jeg vil sætte én hyrde over dem, min tjener David; han skal vogte dem og være deres hyrde. **24** Jeg, Herren, vil være deres Gud, og min tjener David skal være fyrste hos dem. Jeg, Herren, har talt!
 
 **25** Jeg vil slutte en fredspagt med dem. Jeg udrydder rovdyrene i landet, så folket kan bo trygt på steppen og sove i skovene. **26** Jeg sender velsignelse over dem, hvor de bor rundt om min høj, og jeg lader regnen falde til rette tid, en regn til velsignelse. **27** Markens træer giver deres frugt og jorden sin afgrøde, og de skal bo trygt i deres land. Så skal de forstå, at jeg er Herren, når jeg bryder deres åg og redder dem fra dem, der holder dem i trældom. **28** De skal ikke længere være bytte for folkene eller føde for de vilde dyr; de skal bo trygt, uden at nogen jager dem bort. **29** Jeg lader planter vokse op, der gør dem navnkundige, og ingen i landet skal længere omkomme af sult, og de skal ikke mere rammes af folkenes spot. **30** De skal forstå, at jeg er Herren deres Gud. Jeg er med dem, og de er mit folk, Israels hus, siger Gud Herren. **31** I er mine får, de får jeg har på græs. I er mennesker, jeg er jeres Gud, siger Gud Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez35"></a>
 
 ### Ez 35
 
@@ -10380,6 +11014,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **14** Dette siger Gud Herren: Da du har glædet dig over, at mit land blev lagt øde, vil jeg gøre det samme mod dig. **15** Da du har glædet dig over, at Israels arvelod blev lagt øde, vil jeg gøre det samme mod dig. Du skal blive til ørken, Se’irs bjerge, hele Edom! Så skal de forstå, at jeg er Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez36"></a>
+
 ### Ez 36
 
 #### Israels bjerge befolkes på ny
@@ -10400,6 +11038,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **37** Dette siger Gud Herren: Endnu ét vil jeg gøre for Israels hus på deres bøn: Jeg vil gøre menneskene talrige som en fårehjord, **38** som offerfårene, som fårene i Jerusalem ved festtiderne. Sådan skal byerne, der lå i ruiner, fyldes med en menneskehjord. Så skal de forstå, at jeg er Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez37"></a>
+
 ### Ez 37
 
 #### Det døde folk bliver levende
@@ -10414,6 +11056,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **20** De træstykker, du har skrevet på, skal du holde i hånden, så de kan se dem, **21** og så skal du sige til dem: Dette siger Gud Herren: Jeg henter israelitterne hjem fra de folkeslag, hvor de måtte drage hen. Jeg samler dem alle vegne fra og bringer dem til deres eget land. **22** Jeg gør dem til ét folk i landet, på Israels bjerge, og der skal være én konge for dem alle. De skal aldrig mere blive to folk og aldrig mere deles i to kongeriger. **23** De skal ikke længere gøre sig urene ved deres ækle guder og deres møgguder og alle deres overtrædelser. Jeg frelser dem fra deres syndige frafald og renser dem; de skal være mit folk, og jeg vil være deres Gud. **24** Min tjener David skal være konge over dem, og de skal alle have én hyrde. De skal følge mine bud og omhyggeligt holde mine love. **25** De skal bo i det land, jeg gav min tjener Jakob, der hvor deres fædre boede. De og deres børn og børnebørn skal bo der for evigt, og min tjener David skal være deres fyrste til evig tid. **26** Jeg slutter en fredspagt med dem; det skal være en evig pagt. Jeg gør dem talrige, og jeg giver dem min helligdom for evigt. **27** Min bolig skal være hos dem; jeg vil være deres Gud, og de skal være mit folk. **28** Så skal folkeslagene forstå, at jeg er Herren. Jeg helliger Israel, for min helligdom er hos dem til evig tid.
 
+[– tilbage –](#indhold)
+
+<a id="ez38"></a>
+
 ### Ez 38
 
 #### Storfyrsten Gog fra Magog
@@ -10423,6 +11069,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 **8** Når lang tid er gået, skal du mønstres. Når årene er omme, skal du rykke frem imod det land, som er genrejst efter sværdet, og hvis indbyggere er blevet samlet fra mange folkeslag på Israels bjerge, som længe havde ligget øde hen. De blev hentet hjem fra folkene og bor nu alle trygt. **9** Du skal trække op som et uvejr og komme og dække landet som en sky, du og alle dine tropper og de mange folkeslag sammen med dig. **10** Dette siger Gud Herren: Den dag får du noget i tankerne, du vil planlægge ondt **11** og tænke: »Jeg vil drage op imod et åbent land og rykke frem mod folk, der lever roligt og trygt, og som alle sammen bor uden bymure med port og slå.« **12** Du kommer for at røve og plyndre og vende din hånd imod de ruiner, der nu er beboede, og imod det folk, der er samlet hjem fra folkeslagene, og som nu har erhvervet sig rigdom og gods og bor i jordens navle. **13** Saba og Dedan, opkøbere og handelsmænd fra Tarshish, alle spørger de dig: Er det for at røve, du kommer? Er det for at plyndre, du har samlet dine skarer? Er det for at føre sølv og guld bort, for at fjerne rigdom og gods, for at tage stort bytte? **14** Derfor, menneske, skal du profetere og sige til Gog: Dette siger Gud Herren: Den dag mit folk Israel bor trygt, bryder du op **15** og rykker ud fra dit land i det yderste nord, du og de mange folkeslag, som er sammen med dig, alle til hest, en stor skare, en vældig hær. **16** Som en sky skal du trække op imod mit folk Israel og dække landet. Når tiden er gået, skal det ske. Da fører jeg dig, Gog, imod mit land, for at folkene skal kende mig, når jeg viser min hellighed på dig for øjnene af dem.
 
 **17** Dette siger Gud Herren: Var det ikke dig, jeg talte om i fortidens dage ved mine tjenere, Israels profeter? De profeterede dengang, at jeg ville føre dig imod Israel. **18** Når Gog rykker imod Israels land, siger Gud Herren, stiger en voldsom harme op i mig, **19** og jeg taler i min lidenskab, i min flammende vrede. Ja, den dag skal der komme et stort jordskælv over Israels land. **20** Alle skal skælve for mig, havets fisk, himlens fugle, de vilde dyr, alle krybdyr, der kryber på jorden, og alle mennesker på jorden. Bjergene jævnes med jorden, klippevæggene falder, og alle bymure styrter sammen. **21** Jeg nedkalder sværdet over ham på alle mine bjerge, siger Gud Herren. De skal rette deres sværd mod hinanden. **22** Jeg fælder dom over ham med pest og blod, og jeg lader skylregn, hagl, ild og svovl regne ned over ham og hans tropper og over de mange folkeslag, der er sammen med ham. **23** Sådan viser jeg min storhed og hellighed og giver mig til kende for øjnene af mange folkeslag. Så skal de forstå, at jeg er Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez39"></a>
 
 ### Ez 39
 
@@ -10437,6 +11087,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 **21** Jeg viser min herlighed blandt folkene, så alle folkene kan se min dom, som jeg fuldbyrder, og min hånd, som jeg lægger på dem. **22** Israels hus skal forstå, at jeg er Herren deres Gud, fra den dag og i al fremtid. **23** Folkene skal forstå, at det var på grund af Israels synd, og fordi de handlede troløst imod mig, at de blev ført i eksil. Jeg skjulte mit ansigt for dem og overgav dem i deres fjenders magt, så de alle faldt for sværdet. **24** Jeg gengældte dem deres urene handlinger og deres overtrædelser, og jeg skjulte mit ansigt for dem.
 
 **25** Derfor siger Gud Herren: Nu vil jeg vende Jakobs skæbne og vise barmhjertighed mod hele Israels hus; jeg brænder af nidkærhed for mit hellige navn. **26** Deres skændsel og al den troløshed, de viste mig, skal de glemme, når de igen bor trygt i deres eget land, og ingen jager dem bort. **27** Når jeg lader dem vende tilbage fra folkene og samler dem fra deres fjenders lande, vil jeg vise min hellighed på dem for øjnene af de mange folkeslag. **28** Så skal de forstå, at jeg er Herren deres Gud, når jeg efter at have ført dem bort til folkene samler dem i deres land uden at efterlade nogen af dem derude. **29** Jeg vil aldrig mere skjule mit ansigt for dem, for jeg udgyder min ånd over Israels hus, siger Gud Herren.
+
+[– tilbage –](#indhold)
+
+<a id="ez40"></a>
 
 ### Ez 40
 
@@ -10466,6 +11120,10 @@ Ohola er navnet for Samaria og Oholiba for Jerusalem.
 
 **48** Så førte han mig ind i templets forhal, og han målte forhallens dørposter: fem alen på begge sider. Portåbningens bredde var 14 alen, og væggene på begge sider af åbningen til forhallen var tre alen. **49** Forhallen var 20 alen lang og 12 alen bred. Man gik op til den ad ti trin. Der var søjler ved dørposterne, én på hver side.
 
+[– tilbage –](#indhold)
+
+<a id="ez41"></a>
+
 ### Ez 41
 
 **1** Derpå førte han mig ind i tempelhallen. Han målte dørposterne på begge sider: seks alen brede. **2** Døråbningen var ti alen bred, og dens vægge på begge sider var fem alen. Han målte hallens længde: 40 alen, og bredden: 20 alen.
@@ -10484,6 +11142,10 @@ Foran det hellige rum var der noget, der så ud som **22** et alter af træ, tre
 
 **23** Tempelhallen og det hellige rum havde hver en tofløjet dør. **24** Dørene havde to fløje, to drejelige fløje, to på den ene dør og to på den anden. **25** Der var udskårne keruber og palmetter på tempelhallens døre ligesom på væggene. Der var en gesims af træ på ydersiden af forhallen. **26** Vinduerne havde gitterværk, og der var palmetter på forhallens sidevægge, på templets siderum og på gesimserne.
 
+[– tilbage –](#indhold)
+
+<a id="ez42"></a>
+
 ### Ez 42
 
 **1** Så førte han mig ud i den ydre forgård mod nord og ind i kammerbygningen ved den åbne plads, mod nord over for bygningen. **2** Den var 100 alen lang på nordsiden og 50 alen bred **3** og lå ud til den indre forgård, der var 20 alen bred, over for brolægningen i den ydre forgård. Kammerbygningen var bygget med tre afsatser. **4** Foran kamrene mod nord, på den side, der vendte indad, var der en passage, ti alen bred og 100 alen lang, med døre til kamrene. **5** De øverste kamre var smalle, for afsatserne tog noget af pladsen fra den underste og mellemste etage i bygningen. **6** Der var tre etager, men der var ikke søjler, som der var i forgårdene; derfor måtte kamrene set nedefra rykkes tilbage i forhold til de underste og i forhold til de midterste. **7** Ud fra kamrene var der en mur i forlængelse af siden på kamrene ud imod den ydre forgård. Muren var 50 alen lang, **8** for kamrene i den ydre forgård var 50 alen lange, mens kamrene over for templet var 100 alen. **9** Når man fra den ydre forgård kom til disse kamre, var adgangen fra øst neden for dem, **10** der hvor muren ud mod forgården begyndte.
@@ -10493,6 +11155,10 @@ Mod syd foran den åbne plads og foran bygningen var der kamre, **11** og der va
 **13** Han sagde til mig: »Kamrene mod nord og mod syd på begge sider af den åbne plads er de hellige kamre, hvor de præster, der må komme nær til Herren, spiser de højhellige offergaver. Dér skal de lægge de højhellige offergaver, både afgrødeofferet og syndofferet og skyldofferet, for dette sted er helligt. **14** Når præsterne er gået ind i helligdommen, må de ikke derfra gå ud i den ydre forgård, men i kamrene skal de lægge de klæder, som de gjorde tjeneste i, for de er hellige. De skal tage andre klæder på, før de går ud, hvor folket er.«
 
 **15** Da han havde afsluttet opmålingen inden for tempelområdet, førte han mig ud gennem porten, som vendte mod øst, og målte det hele vejen rundt. **16** Han målte østsiden med målestokken: 500 alen. Han drejede **17** og målte nordsiden med målestokken: 500 alen. Han drejede **18** og målte sydsiden med målestokken: 500 alen. **19** Han drejede og målte vestsiden med målestokken: 500 alen. **20** På alle fire sider målte han det. Der var en mur hele vejen rundt, 500 alen på langs og 500 alen på tværs. Den skulle skille helligt fra uhelligt.
+
+[– tilbage –](#indhold)
+
+<a id="ez43"></a>
 
 ### Ez 43
 
@@ -10510,6 +11176,10 @@ Mod syd foran den åbne plads og foran bygningen var der kamre, **11** og der va
 
 **18** Han sagde til mig: Menneske, dette siger Gud Herren: Dette er forskrifterne for alteret, når det skal bygges, for at man kan bringe brændoffer og stænke blod på det. **19** Til levitpræsterne af Sadoks slægt, dem som må komme nær til mig for at gøre tjeneste for mig, skal du give en tyrekalv til syndoffer, siger Gud Herren. **20** Du skal tage noget af dens blod og komme det på alterets fire horn, på afsatsens fire hjørner og på kanten rundt om, så du renser alteret for synd og skaffer det soning. **21** Derefter skal du tage syndoffertyren og brænde den på templets mønstringsplads uden for helligdommen. **22** Den næste dag skal du bringe en lydefri gedebuk som syndoffer, og man skal rense alteret for synd, ligesom de rensede det for synd med tyren. **23** Når du er færdig med at rense det for synd, skal du bringe en lydefri tyrekalv og en lydefri vædder fra småkvæget. **24** Du skal ofre dem for Herrens ansigt, og præsterne skal kaste salt på dem og bringe dem som brændoffer til Herren. **25** Hver dag i syv dage skal du ofre en syndofferbuk, og man skal ofre en lydefri tyrekalv og en lydefri vædder fra småkvæget. **26** Syv dage skal man skaffe alteret soning og rense det og indvi det. **27** Når de dage er gået, skal præsterne på den ottende dag og hver dag derefter bringe jeres brændofre og jeres måltidsofre på alteret, og jeg vil tage nådigt imod jer, siger Gud Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez44"></a>
+
 ### Ez 44
 
 #### Den lukkede østport
@@ -10525,6 +11195,10 @@ Mod syd foran den åbne plads og foran bygningen var der kamre, **11** og der va
 **10** Levitterne derimod, som fjernede sig fra mig, da Israel for vild, dengang de forvildede sig bort fra mig og fulgte deres møgguder, de skal bære deres straf. **11** I min helligdom skal de have vagttjenesten ved templets porte, og de skal gøre tjeneste i templet; de skal slagte brændofferdyret og slagtofferdyret for folket og forrette tjenesten for dem. **12** De gjorde tjeneste for dem foran deres møgguder, så de blev årsag til skyld i Israels hus; derfor løftede jeg min hånd imod dem, siger Gud Herren. De skal bære deres straf. **13** De må ikke træde frem for mig og gøre præstetjeneste og ikke nærme sig nogen af mine hellige offergaver, de højhellige offergaver; men de skal bære deres skændsel og de afskyelige handlinger, de har begået. **14** Jeg sætter dem til at varetage tjenesten i templet med det arbejde, der hører til, og med alt, hvad der skal gøres dér.
 
 **15** Men de levitpræster, sadokiderne, som varetog tjenesten i min helligdom, dengang israelitterne forvildede sig bort fra mig, de må komme nær til mig og gøre tjeneste for mig, og de skal træde frem for mig og bringe mig fedt og blod, siger Gud Herren. **16** De skal komme i min helligdom, de må komme nær til mit bord og gøre tjeneste for mig; de skal varetage tjenesten for mig. **17** Når de kommer til portene til den indre forgård, skal de tage klæder af hørlinned på; de må ikke have uld på, når de gør tjeneste i portene til den indre forgård og i templet. **18** De skal have linnedturbaner på hovedet og linnedbukser om lænden, og de må ikke klæde sig i noget, der får dem til at svede. **19** Når de går ud i den ydre forgård til folket, skal de tage de klæder af, som de har gjort tjeneste i, og lægge dem i de hellige kamre og tage andre klæder på; de må ikke gøre folket helligt med deres klæder. **20** De må ikke rage deres hoveder og ikke lade håret vokse frit; de skal klippe deres hår. **21** Ingen præst må drikke vin, når han er kommet ind i den indre forgård. **22** De må ikke gifte sig med en enke eller en fraskilt, men kun med en jomfru af Israels hus eller med en enke efter en præst. **23** De skal give mit folk belæring om forskellen mellem helligt og uhelligt, og de skal kundgøre forskellen mellem rent og urent. **24** I en retssag skal de træde frem som dommere og dømme efter mine bud. De skal holde mine love og forskrifter for alle mine fester og holde mine sabbatter hellige. **25** De må ikke gå ind til et dødt menneske, så de bliver urene; kun hvis der er tale om far, mor, søn, datter, bror eller ugift søster, må de pådrage sig urenhed. **26** Efter at han er blevet renset, skal man tælle syv dage frem, **27** og den dag han kommer til helligdommen, ind i den indre forgård, for at gøre tjeneste i helligdommen, skal han bringe sit syndoffer, siger Gud Herren. **28** De må ikke have arvelod, jeg er deres lod; I skal ikke give dem ejendom i Israel, jeg er deres ejendom. **29** De skal leve af afgrødeofferet, syndofferet og skyldofferet, og alt, hvad der er lagt band på i Israel, skal være deres. **30** Det bedste af al førstegrøde og af al afgift, af alle jeres afgifter, skal tilfalde præsterne, og det første af jeres dej skal I give til præsten, for at han kan lade velsignelsen hvile over dit hus. **31** Ingen selvdøde eller sønderrevne dyr, hvad enten det er fugle eller dyr, må præsterne spise.
+
+[– tilbage –](#indhold)
+
+<a id="ez45"></a>
 
 ### Ez 45
 
@@ -10550,6 +11224,10 @@ Mod syd foran den åbne plads og foran bygningen var der kamre, **11** og der va
 
 **25** I den syvende måned, på den femtende dag i måneden, ved valfartsfesten, skal han i syv dage ofre det samme som syndoffer, brændoffer, afgrødeoffer og olie.
 
+[– tilbage –](#indhold)
+
+<a id="ez46"></a>
+
 ### Ez 46
 
 **1** Dette siger Gud Herren: Østporten til den indre forgård skal være lukket de seks arbejdsdage, men på sabbatsdagen og på nymånedagen skal den være åben. **2** Så skal fyrsten komme gennem portens forrum udefra og stille sig ved dørstolpen, og mens præsterne ofrer hans brændoffer og hans måltidsoffer, skal han tilbede på portens tærskel. Så skal han gå ud, og porten skal ikke lukkes før aften. **3** Også landets folk skal tilbede Herren i denne portåbning på sabbatter og nymånedage.
@@ -10572,6 +11250,10 @@ Mod syd foran den åbne plads og foran bygningen var der kamre, **11** og der va
 
 **21** Så førte han mig ud i den ydre forgård; han lod mig gå forbi forgårdens fire hjørner, og i hvert hjørne af gården var der et gårdsrum. **22** Der var fire små gårdsrum i gårdens fire hjørner, 40 alen lange og 30 alen brede, samme mål for dem alle fire. **23** Der var en stensætning rundt om hvert af de fire, og der var indrettet kogesteder hele vejen rundt neden for stensætningerne. **24** Han sagde til mig: Her er køkkenerne, hvor de, der gør tjeneste i templet, koger folkets slagtofre.
 
+[– tilbage –](#indhold)
+
+<a id="ez47"></a>
+
 ### Ez 47
 
 #### Tempelkilden
@@ -10592,6 +11274,10 @@ Nordgrænsen: Fra Det Store Hav i retning af Hetlon, Lebo-Hamat, Sedad, **16** B
 
 **21** I skal fordele dette land indbyrdes mellem Israels stammer. **22** Og når I fordeler det som ejendom til jer og de fremmede, der bor som gæst hos jer, og som har fået børn hos jer, skal I regne dem som landets egne blandt israelitterne, og de skal have ejendom hos jer blandt Israels stammer. **23** I den stamme, hvor den fremmede bor som gæst, dér skal I give dem arvelod, siger Gud Herren.
 
+[– tilbage –](#indhold)
+
+<a id="ez48"></a>
+
 ### Ez 48
 
 **1** Dette er navnene på stammerne.
@@ -10606,9 +11292,13 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 
 **30** Disse er udgangene i byen: Nordsiden måler 4.500 alen. **31** Byens porte har navn efter Israels stammer. Der er tre porte mod nord: Rubens port: én; Judas port: én; Levis port: én. **32** På østsiden, der er 4.500 alen, er der tre porte: Josefs port: én; Benjamins port: én; Dans port: én. **33** Sydsiden måler 4.500 alen, og der er tre porte: Simeons port: én; Issakars port: én; Zebulons port: én. **34** Vestsiden er 4.500 alen med tre porte: Gads port: én; Ashers port: én; Naftalis port: én. **35** Hele vejen rundt måler byen 18.000 alen, og byen skal for fremtiden hedde: »Herren er her«.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Daniels Bog
+
+<a id="dan1"></a>
 
 ### Dan 1
 
@@ -10621,6 +11311,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 **8** Daniel satte sig for, at han ikke ville være uren ved mad og vin fra det kongelige taffel, og han bad hofchefen om, at han måtte undgå at blive uren. **9** Gud lod Daniel finde velvilje og barmhjertighed hos hofchefen, **10** men hofchefen sagde til Daniel: »Jeg frygter, at min herre kongen, som har tildelt jer mad og drikke, vil synes, at I ser dårligere ud end de andre unge mænd på jeres alder. Så bringer I mit liv i fare hos kongen.« **11** Men Daniel sagde til den tilsynsmand, som hofchefen havde sat over Daniel, Hananja, Mishael og Azarja: **12** »Sæt dine tjenere på en prøve! I ti dage skal vi kun have grønsager at spise og vand at drikke; **13** derpå skal du sammenligne vores udseende med de unge mænd, der får deres mad fra det kongelige taffel. Så kan du gøre med os, efter hvad du får at se, herre.« **14** Han føjede dem og lod dem komme på prøve i ti dage. **15** Da de ti dage var gået, så de bedre ud og var mere velnærede end alle de unge mænd, der fik deres mad fra det kongelige taffel. **16** Så holdt tilsynsmanden op med at bringe dem mad og vin fra taflet og gav dem grønsager i stedet for. **17** Gud gav disse fire unge mænd forstand og indsigt i al slags skrift og visdom. Og Daniel forstod sig på alle slags syner og drømme.
 
 **18** Da nu den tid var gået, som kongen havde fastsat, førte hofchefen de unge mænd frem for Nebukadnesar. **19** Kongen talte med dem, og blandt dem alle fandtes der ingen som Daniel, Hananja, Mishael og Azarja. Så trådte de i kongens tjeneste. **20** Hver gang kongen spurgte dem om noget, der krævede visdom og indsigt, opdagede han, at de var ti gange så dygtige som samtlige mirakelmagere og besværgere i hele hans kongerige. **21** Og Daniel blev der til kong Kyros’ første regeringsår.
+
+[– tilbage –](#indhold)
+
+<a id="dan2"></a>
 
 ### Dan 2
 
@@ -10651,6 +11345,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 
 **46** Da kastede Nebukadnesar sig til jorden og hyldede Daniel; han befalede, at man skulle bringe ham offergave og røgelse. **47** Kongen sagde til Daniel: »Jeres Gud er i sandhed guders Gud, kongers Herre og den, der åbenbarer hemmeligheder, siden du har været i stand til at åbenbare denne hemmelighed.« **48** Derpå ophøjede kongen Daniel, gav ham mange store gaver og gjorde ham til hersker over hele provinsen Babylon og overhoved over alle Babylons vismænd. **49** Men da Daniel bad om det, satte kongen Shadrak, Meshak og Abed-Nego til at styre provinsen Babylon, mens Daniel blev ved kongens hof.
 
+[– tilbage –](#indhold)
+
+<a id="dan3"></a>
+
 ### Dan 3
 
 #### De tre venner i ovnen med flammende ild
@@ -10675,6 +11373,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 > hvor vældige er ikke hans undere!
 > Hans kongerige er et evigt rige,
 > hans herredømme varer i slægt efter slægt.
+
+[– tilbage –](#indhold)
+
+<a id="dan4"></a>
 
 ### Dan 4
 
@@ -10728,6 +11430,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 
 **33** I samme øjeblik fik jeg min forstand igen. Og al min herlighed og pragt vendte tilbage og kastede glans over mit kongedømme. Mine ministre og stormænd søgte mig igen, jeg blev genindsat i mit kongedømme, og jeg fik endnu større magt. **34** Jeg, Nebukadnesar, lovsynger, ophøjer og ærer nu himlens konge. Alle hans handlinger er rigtige, og hans veje er retfærdige. Den, der vandrer i hovmod, kan han ydmyge.
 
+[– tilbage –](#indhold)
+
+<a id="dan5"></a>
+
 ### Dan 5
 
 #### Skriften på væggen
@@ -10743,6 +11449,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 **29** Da befalede Belshassar, at Daniel skulle klædes i purpur og have en guldkæde om halsen. Og det blev bekendtgjort, at han skulle være den tredjemægtigste i riget.
 
 **30** Samme nat blev kaldæerkongen Belshassar dræbt.
+
+[– tilbage –](#indhold)
+
+<a id="dan6"></a>
 
 ### Dan 6
 
@@ -10771,6 +11481,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 > ud af løvernes kløer!«
 
 **29** Det gik Daniel godt, både mens Dareios og mens perseren Kyros regerede.
+
+[– tilbage –](#indhold)
+
+<a id="dan7"></a>
 
 ### Dan 7
 
@@ -10812,6 +11526,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 
 **28** Her ender beretningen. Mine tanker slog mig, Daniel, med stor rædsel, og mit ansigt skiftede farve. Men jeg gemte ordene i mit hjerte.
 
+[– tilbage –](#indhold)
+
+<a id="dan8"></a>
+
 ### Dan 8
 
 #### Synet om vædderen og gedebukken
@@ -10842,6 +11560,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 
 **27** Jeg, Daniel, blev ramt af sygdom i nogen tid; men jeg stod op og gjorde igen tjeneste for kongen. Jeg var grebet af undren over synet, som jeg ikke forstod.
 
+[– tilbage –](#indhold)
+
+<a id="dan9"></a>
+
 ### Dan 9
 
 #### Daniels bøn for Jerusalem
@@ -10863,6 +11585,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 
 **25** Du skal vide og forstå: Fra den tid ordet om at genopbygge Jerusalem udgik, og indtil der kommer en salvet fyrste, er der syv uger. I 62 uger skal det stå genopbygget med torve og gader. Men det er trængselstider! **26** Når de 62 uger er gået, bliver en salvet fjernet uden dom, og byen og helligdommen ødelægges af en fyrste, der kommer med sin hær. Han får sit endeligt i en stormflod. Det er besluttet, at ødelæggelserne skal vare, indtil krigen er forbi. **27** Han vil slutte en stærk pagt med de mange i én uge. Men midt i ugen vil han bringe slagtoffer og afgrødeoffer til ophør. Ødelæggeren kommer på vederstyggelighedens vinger, og det varer, indtil den ødelæggelse, der er besluttet, vælder frem mod ødelæggeren selv.«
 
+[– tilbage –](#indhold)
+
+<a id="dan10"></a>
+
 ### Dan 10
 
 #### Synet om verdensrigernes kampe og Israels frelse
@@ -10872,6 +11598,10 @@ Yderst mod nord, i retning mod Hetlon, Lebo-Hamat, Hasar-Enan, med Damaskus’ o
 **2** På den tid holdt jeg, Daniel, sorg i tre uger. **3** Jeg spiste ikke lækkert brød, der kom ikke kød og vin i min mund, og jeg salvede mig ikke, før de tre uger var gået. **4** På den fireogtyvende dag i den første måned, da jeg var ved bredden af den store flod, Tigris, **5** løftede jeg øjnene og så en mand iført en linneddragt, med et bælte af Ufaz-guld om lænden. **6** Hans legeme var som krysolit, hans ansigt strålede som lynet, hans øjne som flammende fakler, og hans arme og hans fødder var som blank kobber. Når han talte, lød det som en folkeskare. **7** Kun jeg, Daniel, så synet; mændene, der var sammen med mig, så det ikke, for en stor rædsel var faldet over dem, og de var flygtet og havde skjult sig. **8** Jeg blev alene tilbage, og da jeg så dette vældige syn, forlod al kraft mig; jeg blev ligbleg og havde ikke flere kræfter. **9** Så hørte jeg ham tale, mens jeg lå i dyb søvn med ansigtet mod jorden. **10** Da rørte en hånd ved mig, ruskede i mig og fik mig op på knæ og hænder. **11** Så sagde han til mig: »Daniel, du højtelskede mand, forstå de ord, jeg nu taler til dig, og rejs dig op; for nu er jeg udsendt til dig.« Og da han talte til mig, rejste jeg mig skælvende. **12** Han sagde: »Frygt ikke, Daniel, for fra den første dag du satte dig for at opnå indsigt og at ydmyge dig for din Gud, er dine ord blevet hørt, og jeg er kommet for dine ords skyld. **13** Fyrsten over perserriget har stået mig imod i enogtyve dage, men Mikael, en af de fornemste fyrster, kom mig til hjælp, da jeg var ladt tilbage dér hos Persiens konger. **14** Og nu er jeg kommet for at få dig til at forstå, hvad der skal ske med dit folk ved dagenes ende. For også dette syn gælder de dage.«
 
 **15** Da han sagde det til mig, bøjede jeg mit ansigt mod jorden og blev stum. **16** Men så var der en, der lignede et menneske, der rørte ved mine læber. Jeg åbnede munden og kunne tale igen, og jeg sagde til ham, der stod foran mig: »Herre, ved synet fik jeg krampe, og jeg havde ikke flere kræfter. **17** Hvordan kan jeg, din tjener, tale med dig, der er min herre, når der ikke er mere kraft i mig, og min livsånde forsvinder?« **18** Men han, der så ud som et menneske, rørte ved mig igen og gav mig styrke, **19** og han sagde: »Frygt ikke, du højtelskede mand! Fred være med dig! Vær stærk! Vær stærk!« Mens han talte til mig, fik jeg styrken tilbage, og jeg sagde: »Nu kan du tale, herre, for du har givet mig min styrke igen.« **20** Så sagde han: Ved du, hvorfor jeg er kommet til dig? Jeg tager nu kampen op med Persiens fyrste, og når det er forbi, kommer Grækenlands fyrste. **21** Men jeg skal fortælle dig, hvad der står i Sandhedens Bog – ikke en eneste vil hjælpe mig imod dem, undtagen Mikael, jeres fyrste.
+
+[– tilbage –](#indhold)
+
+<a id="dan11"></a>
 
 ### Dan 11
 
@@ -10887,6 +11617,10 @@ Se, endnu tre konger skal fremstå i Persien. Den fjerde samler sig større rigd
 **36** Kongen gør, hvad han finder for godt; han ophøjer sig og gør sig stor over for enhver gud. Og mod gudernes Gud udtaler han de forunderligste ting. Han har lykken med sig, indtil vreden er forbi; for hvad der er besluttet, vil ske. **37** Sine fædres guder giver han ikke agt på, ej heller kvindernes yndlingsgud eller nogen gud overhovedet; men han gør sig stor over for dem alle. **38** I stedet ærer han Fæstningernes Gud; en gud, hans fædre ikke kendte, ærer han med guld, sølv, ædelstene og kostbarheder. **39** En fremmed guds folk gør han til forsvarere for sine fæstninger, og dem, han anerkender, overøser han med æresbevisninger, giver dem herredømme over mange og tildeler dem jord som belønning.
 
 **40** I endetiden tørner Sydens konge sammen med ham. Men Nordens konge stormer løs på ham med vogne, ryttere og mange skibe. Han trænger ind i landene som en stormflod. **41** Så når han til det herlige land, og titusinder falder. Men Edom, Moab og de ypperste af ammonitterne undslipper hans magt. **42** Derimod slipper Egypten ikke, når han rækker sin hånd ud mod landene. **43** Han kommer til at råde over skattene af guld, sølv og alle slags kostbarheder i Egypten, og libyere og nubiere må følge ham. **44** Men rygter fra øst og nord forfærder ham, og i stor vrede drager han af sted for at udrydde og lægge band på mange. **45** Han opslår sine paladstelte mellem havet og det herlige, hellige bjerg. Men han går mod sin ende, og ingen kommer ham til hjælp.
+
+[– tilbage –](#indhold)
+
+<a id="dan12"></a>
 
 ### Dan 12
 
@@ -10911,9 +11645,13 @@ Se, endnu tre konger skal fremstå i Persien. Den fjerde samler sig større rigd
 
 **5** Jeg, Daniel, så to andre mænd stå ved floden, én på hver bred. **6** Den ene spurgte manden, der var iført en linneddragt, og som svævede over flodens vand: »Hvor længe varer det, før disse underfulde begivenheder får ende?« **7** Så hørte jeg manden, der var iført en linneddragt, og som svævede over flodens vand, sværge ved ham, som lever evigt, idet han løftede begge hænder mod himlen: »Én tid, to tider og en halv tid! Når det hellige folks magt ikke længere bliver knust, hører det alt sammen op.« **8** Jeg hørte det, men forstod det ikke, og jeg spurgte: »Herre, hvad skal dette ende med?« **9** Han svarede: »Gå bort, Daniel, ordene holdes skjult og er forseglet til endetiden. **10** Mange skal blive lutret, renset og prøvet. De ugudelige handler ugudeligt og forstår intet, men de indsigtsfulde forstår. **11** Fra den tid det daglige offer bliver afskaffet og Ødelæggelsens Vederstyggelighed opstillet, går der 1290 dage. **12** Lykkelig den, der holder ud og oplever 1335 dage. **13** Men du, Daniel, skal gå bort, indtil enden kommer. Læg dig til hvile, og stå op til din lod ved dagenes ende!«
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Hoseas’ Bog
+
+<a id="hos1"></a>
 
 ### Hos 1
 
@@ -10953,6 +11691,10 @@ Herren sagde til Hoseas:
 > eller ved heste og ryttere.
 
 **8** Så vænnede hun Ikke-Fundet-Barmhjertighed fra, og hun blev gravid og fødte en søn. **9** Herren sagde: »Kald ham Ikke-Mit-Folk, for I er ikke mit folk, og jeg vil ikke være med jer.«
+
+[– tilbage –](#indhold)
+
+<a id="hos2"></a>
 
 ### Hos 2
 
@@ -11070,6 +11812,10 @@ Herren sagde til Hoseas:
 > og sige til Ikke-Mit-Folk: »Du er mit folk,«
 > og han skal sige: »Du er min Gud.«
 
+[– tilbage –](#indhold)
+
+<a id="hos3"></a>
+
 ### Hos 3
 
 **1** Herren sagde til mig: »Gå igen hen og elsk en kvinde, som er en anden mands elskerinde, og som begår ægteskabsbrud. Sådan elsker Herren israelitterne, skønt de vender sig til andre guder og elsker rosinkager.«
@@ -11077,6 +11823,10 @@ Herren sagde til Hoseas:
 **2** Så købte jeg hende for femten sekel sølv og halvanden homer byg. **3** Og jeg sagde til hende: »I lang tid skal du bo hos mig; du må ikke bedrive hor, du må ikke tilhøre nogen mand, og jeg vil heller ikke gå ind til dig.«
 
 **4** For i lang tid skal israelitterne bo uden konge og uden stormand, uden offer og uden stenstøtte, uden efod og husgud. **5** Derefter skal israelitterne vende om og søge Herren, deres Gud, og David, deres konge. Skælvende kommer de til sidst til Herren og til hans gode gaver.
+
+[– tilbage –](#indhold)
+
+<a id="hos4"></a>
 
 ### Hos 4
 
@@ -11157,6 +11907,10 @@ Herren sagde til Hoseas:
 >  **19** Vinden skal snøre dem sammen i sine vinger,
 > og de skal få skam af deres altre.
 
+[– tilbage –](#indhold)
+
+<a id="hos5"></a>
+
 ### Hos 5
 
 >  **1** Hør dette, I præster,
@@ -11221,6 +11975,10 @@ Herren sagde til Hoseas:
 > og søger mit ansigt.
 > I deres nød vil de opsøge mig.
 
+[– tilbage –](#indhold)
+
+<a id="hos6"></a>
+
 ### Hos 6
 
 #### Folkets bod og Herrens svar
@@ -11265,6 +12023,10 @@ Herren sagde til Hoseas:
 **11** – Også for dig, Juda, er der fastsat en høst.
 
 > Når jeg vender mit folks skæbne,
+
+[– tilbage –](#indhold)
+
+<a id="hos7"></a>
 
 ### Hos 7
 
@@ -11334,6 +12096,10 @@ Herren sagde til Hoseas:
 > Sådan bliver de til spot
 > i Egypten.
 
+[– tilbage –](#indhold)
+
+<a id="hos8"></a>
+
 ### Hos 8
 
 #### Krig og bortførelse som straf for afgudsdyrkelse
@@ -11390,6 +12156,10 @@ Herren sagde til Hoseas:
 > Juda befæstede mange byer.
 > Derfor sender jeg ild mod deres byer,
 > den fortærer deres borge.
+
+[– tilbage –](#indhold)
+
+<a id="hos9"></a>
 
 ### Hos 9
 
@@ -11479,6 +12249,10 @@ Herren sagde til Hoseas:
 > for de adlød ham ikke.
 > De skal flakke om blandt folkene.
 
+[– tilbage –](#indhold)
+
+<a id="hos10"></a>
+
 ### Hos 10
 
 >  **1** Israel var en frodig vinstok,
@@ -11556,6 +12330,10 @@ Herren sagde til Hoseas:
 > ved morgengry
 > er det ude med Israels konge.
 
+[– tilbage –](#indhold)
+
+<a id="hos11"></a>
+
 ### Hos 11
 
 >  **1** Jeg fik Israel kær, da han var ung,
@@ -11604,6 +12382,10 @@ Herren sagde til Hoseas:
 > fra Assyrien som duer;
 > da vil jeg lade dem bo i deres egne huse,
 > siger Herren.
+
+[– tilbage –](#indhold)
+
+<a id="hos12"></a>
 
 ### Hos 12
 
@@ -11663,6 +12445,10 @@ Herren sagde til Hoseas:
 >  **15** Efraim har vakt bitter vrede.
 > Herren lader hans blodskyld ramme ham
 > og gengælder hans spot.
+
+[– tilbage –](#indhold)
+
+<a id="hos13"></a>
 
 ### Hos 13
 
@@ -11727,6 +12513,10 @@ Herren sagde til Hoseas:
 > Herren udplyndrer skatkamrene,
 > alle kostbarhederne.
 
+[– tilbage –](#indhold)
+
+<a id="hos14"></a>
+
 ### Hos 14
 
 >  **1** Samaria pådrog sig skyld,
@@ -11776,9 +12566,13 @@ Herren sagde til Hoseas:
 > de retfærdige vandrer ad dem,
 > men synderne snubler.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Joels Bog
+
+<a id="joel1"></a>
 
 ### Joel 1
 
@@ -11874,6 +12668,10 @@ Herren sagde til Hoseas:
 > tørrer ud,
 > og ilden fortærer
 > steppens græsgange.
+
+[– tilbage –](#indhold)
+
+<a id="joel2"></a>
 
 ### Joel 2
 
@@ -12017,6 +12815,10 @@ Herren sagde til Hoseas:
 > der er ingen anden.
 > Mit folk skal aldrig blive gjort til skamme.
 
+[– tilbage –](#indhold)
+
+<a id="joel3"></a>
+
 ### Joel 3
 
 #### Åndsudgydelsen
@@ -12040,6 +12842,10 @@ Herren sagde til Hoseas:
 > skal der være redning
 > – som Herren har sagt –
 > for de undslupne, som Herren kalder på.
+
+[– tilbage –](#indhold)
+
+<a id="joel4"></a>
 
 ### Joel 4
 
@@ -12116,9 +12922,13 @@ Herren har talt.
 
 > Herren bor på Zion.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Amos‘ Bog
+
+<a id="am1"></a>
 
 ### Am 1
 
@@ -12193,6 +13003,10 @@ Herren har talt.
 > sammen med sine stormænd,
 > siger Herren.
 
+[– tilbage –](#indhold)
+
+<a id="am2"></a>
+
 ### Am 2
 
 **1** Dette siger Herren:
@@ -12263,6 +13077,10 @@ Herren har talt.
 > må den dag flygte uden våben,
 > siger Herren.
 
+[– tilbage –](#indhold)
+
+<a id="am3"></a>
+
 ### Am 3
 
 #### Profeten må forkynde Herrens straf
@@ -12326,6 +13144,10 @@ Herren har talt.
 > elfenbenshusene går til grunde,
 > og de store huse forsvinder,
 > siger Herren.
+
+[– tilbage –](#indhold)
+
+<a id="am4"></a>
 
 ### Am 4
 
@@ -12405,6 +13227,10 @@ Herren har talt.
 > han, som gør morgenrøde til mørke,
 > og som går hen over jordens høje,
 > hans navn er Jahve, Hærskarers Gud.
+
+[– tilbage –](#indhold)
+
+<a id="am5"></a>
 
 ### Am 5
 
@@ -12511,6 +13337,10 @@ Herren har talt.
 > siger Herren.
 > Hans navn er Hærskarers Gud.
 
+[– tilbage –](#indhold)
+
+<a id="am6"></a>
+
 ### Am 6
 
 #### Dommen over den sorgløse overklasse
@@ -12558,6 +13388,10 @@ Herren har talt.
 
 **14** Nu rejser jeg et folk mod jer, Israels hus, siger Herren, Hærskarers Gud, og de skal trænge jer tilbage fra Lebo-Hamat til Araba-bækken.
 
+[– tilbage –](#indhold)
+
+<a id="am7"></a>
+
 ### Am 7
 
 #### Tre domssyner om Israel
@@ -12581,6 +13415,10 @@ Herren har talt.
 > din jord skal udstykkes med målesnor,
 > du selv skal dø på uren jord,
 > og Israel skal føres bort fra sin jord.«
+
+[– tilbage –](#indhold)
+
+<a id="am8"></a>
 
 ### Am 8
 
@@ -12634,6 +13472,10 @@ Herren har talt.
 > og som siger: »Så sandt din gud lever, Dan!«
 > og: »Så sandt din skytsgud lever, Be’ersheba!«
 > De skal falde og ikke rejse sig mere.
+
+[– tilbage –](#indhold)
+
+<a id="am9"></a>
 
 ### Am 9
 
@@ -12698,9 +13540,13 @@ Dog vil jeg ikke udslette Jakobs hus fuldstændigt, siger Herren. **9** For se, 
 > fra den jord, jeg har givet dem,
 > siger Herren din Gud.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Obadias‘ Bog
+
+<a id="obad1"></a>
 
 ### Obad 1
 
@@ -12792,9 +13638,13 @@ Dette siger Gud Herren om Edom:
 
 Kongemagten skal tilhøre Herren.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Jonas’ Bog
+
+<a id="jon1"></a>
 
 ### Jon 1
 
@@ -12803,6 +13653,10 @@ Kongemagten skal tilhøre Herren.
 **1** Herrens ord kom til Jonas, Amittajs søn: **2** »Rejs til den store by Nineve, og råb ud over den, at jeg har opdaget deres ondskab.« **3** Men Jonas ville flygte til Tarshish, bort fra Herren. Han tog ned til Jafo, hvor han fandt et skib, der skulle til Tarshish. Han betalte, hvad det kostede, og så gik han om bord for at sejle med dem til Tarshish, bort fra Herren.
 
 **4** Men Herren sendte en stærk storm over havet, og den blev til en orkan, så skibet var ved at blive slået til vrag. **5** Søfolkene var bange og råbte om hjælp til hver sin gud. De kastede lasten over bord for at lette skibet. Jonas havde lagt sig nederst i skibet og var faldet i en dyb søvn. **6** Kaptajnen kom ned til ham og sagde: »Hvorfor ligger du her og sover? Stå op og råb til din Gud! Så vil han måske huske på os, så vi ikke omkommer.« **7** Folkene sagde til hinanden: »Lad os kaste lod og finde ud af, hvem der er skyld i, at denne ulykke har ramt os.« De kastede lod, og da loddet faldt på Jonas, **8** sagde de til ham: »Fortæl os dog, hvem der er skyld i, at denne ulykke har ramt os. Hvad laver du her, og hvor kommer du fra? Hvilket land og folk hører du til?« **9** Han svarede: »Jeg er hebræer, og jeg frygter Herren, himlens Gud, som har skabt havet og det tørre land.« **10** Da blev mændene grebet af stor frygt og sagde til ham: »Hvad er det, du har gjort?« De vidste, at han var på flugt fra Herren, for det havde han fortalt dem. **11** »Hvad skal vi gøre ved dig, så vi kan få havet til at falde til ro?« spurgte de, for havet blev mere og mere oprørt. **12** Han svarede: »Tag mig og kast mig i havet, så får I det til at falde til ro. Jeg ved godt, at det er min skyld, at denne orkan er kommet over jer.« **13** Mændene prøvede nu at ro ind til land, men de kunne ikke, for havet blev mere og mere oprørt. **14** Så råbte de til Herren: »Ak, Herre, lad os ikke omkomme for denne mands død! Bring ikke uskyldigt blod over os! Du, Herre, har handlet efter din vilje.« **15** Så tog de Jonas og kastede ham i havet, og havet holdt op med at rase. **16** Da blev mændene grebet af stor frygt for Herren. De bragte slagtofre og aflagde løfter til Herren.
+
+[– tilbage –](#indhold)
+
+<a id="jon2"></a>
 
 ### Jon 2
 
@@ -12844,11 +13698,19 @@ Kongemagten skal tilhøre Herren.
 
 **11** Så sagde Herren til fisken, at den skulle kaste Jonas op på landjorden.
 
+[– tilbage –](#indhold)
+
+<a id="jon3"></a>
+
 ### Jon 3
 
 #### Nineves omvendelse og redning
 
 **1** Derefter kom Herrens ord for anden gang til Jonas: **2** »Rejs til den store by Nineve, og råb det, jeg befaler dig, ud over den.« **3** Jonas rejste så til Nineve, som Herren havde befalet. Nineve var en stor by for Gud, tre dagsrejser stor. **4** Da Jonas var kommet en dagsrejse ind i byen, råbte han: »Om fyrre dage bliver Nineve ødelagt!« **5** Mændene i Nineve troede Gud på hans ord; de udråbte en faste, og både store og små klædte sig i sæk. **6** Da sagen kom Nineves konge for øre, rejste han sig fra sin trone, tog sin kappe af, klædte sig i sæk og satte sig i støvet. **7** Derpå lod han udråbe i Nineve: »Befaling fra kongen og hans stormænd: Hverken mennesker eller dyr, køer og får, må spise noget; de må ikke græsse, og de må ikke drikke vand. **8** Både mennesker og dyr skal klæde sig i sæk og råbe til Gud af al magt. De skal vende om fra deres onde vej og holde op med at øve vold. **9** Måske vil Gud så fortryde og vende om fra sin glødende vrede, så vi ikke går til grunde.« **10** Da Gud så, at de vendte om fra deres onde vej, fortrød han og bragte ikke den ulykke over dem, som han havde truet dem med.
+
+[– tilbage –](#indhold)
+
+<a id="jon4"></a>
 
 ### Jon 4
 
@@ -12858,9 +13720,13 @@ Kongemagten skal tilhøre Herren.
 
 **5** Så gik Jonas ud af byen og slog sig ned øst for den. Han lavede sig en hytte og satte sig dér i skyggen for at se, hvad der skete med byen. **6** Gud Herren befalede så en olieplante at skyde op over Jonas, så den kunne skygge for hans hoved og befri ham for hans mismod, og Jonas glædede sig meget over olieplanten. **7** Men da det blev lyst næste morgen, befalede Gud en orm at gnave i olieplanten, så den visnede. **8** Og da solen stod op, befalede Gud en gloende østenvind at komme, og solen stak Jonas i hovedet, så han var ved at besvime. Han bad om at måtte dø og sagde: »Jeg vil hellere dø end leve.« **9** Da sagde Gud til Jonas: »Har du ret til at være vred over olieplanten?« Han svarede: »Jeg har ret til at være dødeligt vred.« **10** Da sagde Herren: »Du har ondt af olieplanten, som du ikke har haft noget arbejde med at få til at gro, men som blev til i løbet af en nat og gik ud i løbet af en nat. **11** Skulle jeg så ikke have ondt af den store by Nineve, hvor der er mere end hundrede og tyve tusind mennesker, som ikke kan kende forskel på højre og venstre, foruden en mængde dyr?«
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Mikas Bog
+
+<a id="mika"></a>
 
 ### Mika 1
 
@@ -12934,6 +13800,10 @@ Kongemagten skal tilhøre Herren.
 > klip dig så skaldet som en grib,
 > for de føres bort fra dig.
 
+[– tilbage –](#indhold)
+
+<a id="mika2"></a>
+
 ### Mika 2
 
 #### Veråb over undertrykkerne
@@ -13003,6 +13873,10 @@ Kongemagten skal tilhøre Herren.
 > Deres konge går foran dem,
 > Herren går i spidsen for dem.
 
+[– tilbage –](#indhold)
+
+<a id="mika3"></a>
+
 ### Mika 3
 
 #### Dommen over folkets ledere
@@ -13063,6 +13937,10 @@ Kongemagten skal tilhøre Herren.
 > skal Zion pløjes som en mark,
 > Jerusalem skal blive til ruiner
 > og tempelbjerget til kratbevoksede høje.
+
+[– tilbage –](#indhold)
+
+<a id="mika4"></a>
 
 ### Mika 4
 
@@ -13150,6 +14028,10 @@ Kongemagten skal tilhøre Herren.
 > med stokken slår de
 > Israels hersker på kinden.
 
+[– tilbage –](#indhold)
+
+<a id="mika5"></a>
+
 ### Mika 5
 
 #### Fredsfyrsten fra Betlehem
@@ -13212,6 +14094,10 @@ Kongemagten skal tilhøre Herren.
 > og ødelægger dine byer.
 >  **14** I vrede og harme tager jeg hævn
 > over de folk, som ikke vil høre!
+
+[– tilbage –](#indhold)
+
+<a id="mika6"></a>
 
 ### Mika 6
 
@@ -13277,6 +14163,10 @@ Kongemagten skal tilhøre Herren.
 > Derfor vil jeg lægge dig øde,
 > så man pifter hånligt ad byens indbyggere.
 > Mit folks forhånelse skal I bære!
+
+[– tilbage –](#indhold)
+
+<a id="mika7"></a>
 
 ### Mika 7
 
@@ -13373,9 +14263,13 @@ Kongemagten skal tilhøre Herren.
 > sådan som du tilsvor vore fædre
 > i gamle dage.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Nahums Bog
+
+<a id="nah1"></a>
 
 ### Nah 1
 
@@ -13433,6 +14327,10 @@ Kongemagten skal tilhøre Herren.
 > udskårne og støbte gudebilleder.
 > Jeg bereder din grav,
 > for du er forbandet!
+
+[– tilbage –](#indhold)
+
+<a id="nah2"></a>
 
 ### Nah 2
 
@@ -13500,6 +14398,10 @@ Kongemagten skal tilhøre Herren.
 > og dine ungløver skal sværdet fortære.
 > Jeg udrydder dit bytte i landet,
 > og dine hunløvers brøl høres ikke mere.
+
+[– tilbage –](#indhold)
+
+<a id="nah3"></a>
 
 ### Nah 3
 
@@ -13603,9 +14505,13 @@ Kongemagten skal tilhøre Herren.
 > for hvem er ikke gang på gang
 > blevet ramt af din ondskab?
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Habakkuks Bog
+
+<a id="hab1"></a>
 
 ### Hab 1
 
@@ -13675,6 +14581,10 @@ Kongemagten skal tilhøre Herren.
 > og fede spiser.
 >  **17** Derfor drager de stadig sværdet
 > og dræber folk uden skånsel.
+
+[– tilbage –](#indhold)
+
+<a id="hab2"></a>
 
 ### Hab 2
 
@@ -13758,6 +14668,10 @@ Kongemagten skal tilhøre Herren.
 >  **20** Men Herren er i sit hellige tempel.
 > Vær stille for ham, hele jorden!
 
+[– tilbage –](#indhold)
+
+<a id="hab3"></a>
+
 ### Hab 3
 
 #### Herrens åbenbaring til dom og frelse
@@ -13837,9 +14751,13 @@ Kongemagten skal tilhøre Herren.
 
 > For korlederen. Til strengespil.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Sefanias’ Bog
+
+<a id="sef1"></a>
 
 ### Sef 1
 
@@ -13925,6 +14843,10 @@ Kongemagten skal tilhøre Herren.
 > For han bringer tilintetgørelse og rædsel
 > over alle jordens beboere.
 
+[– tilbage –](#indhold)
+
+<a id="sef2"></a>
+
 ### Sef 2
 
 >  **1** Bøj din ryg, bøj dig,
@@ -14002,6 +14924,10 @@ Kongemagten skal tilhøre Herren.
 > tilholdssted for vilde dyr!
 > Enhver, der kommer forbi,
 > pifter hånligt og truer med hånden.
+
+[– tilbage –](#indhold)
+
+<a id="sef3"></a>
 
 ### Sef 3
 
@@ -14108,9 +15034,13 @@ Kongemagten skal tilhøre Herren.
 > når jeg vender jeres skæbne
 > for øjnene af jer, siger Herren.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Haggajs Bog
+
+<a id="hagg1"></a>
 
 ### Hagg 1
 
@@ -14152,6 +15082,10 @@ Kongemagten skal tilhøre Herren.
 > over alt, hvad hænder frembringer.
 
 **12** Zerubbabel, Shealtiels søn, og ypperstepræsten Josva, Josadaks søn, og alle, der var tilbage af folket, lyttede til Herren deres Gud og til profeten Haggajs ord, da Herren deres Gud havde sendt ham til dem, og folket blev grebet af frygt for Herren. **13** Men Herrens sendebud Haggaj, som var sendt af Herren til folket, sagde: »Jeg er med jer, siger Herren.« **14** Og Herren vakte ånden i Judas statholder Zerubbabel, Shealtiels søn, og i ypperstepræsten Josva, Josadaks søn, og i alle, der var tilbage af folket, og de begyndte arbejdet på deres Gud Hærskarers Herres hus **15** den fireogtyvende dag i den sjette måned.
+
+[– tilbage –](#indhold)
+
+<a id="hagg2"></a>
 
 ### Hagg 2
 
@@ -14239,9 +15173,13 @@ Fra i dag vil jeg velsigne.
 
 **23** På den dag, siger Hærskarers Herre, tager jeg dig, min tjener Zerubbabel, Shealtiels søn, siger Herren, og gør dig til en seglring, for dig har jeg udvalgt, siger Hærskarers Herre.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Zakarias’ Bog
+
+<a id="zak1"></a>
 
 ### Zak 1
 
@@ -14285,6 +15223,10 @@ Han sagde: **8** Jeg så i nat en mand sidde på en rød hest; han holdt blandt 
 > på ny trøster Herren Zion,
 > på ny udvælger han Jerusalem.
 
+[– tilbage –](#indhold)
+
+<a id="zak2"></a>
+
 ### Zak 2
 
 #### Synet om de fire horn og de fire smede
@@ -14326,6 +15268,10 @@ Han sagde: **8** Jeg så i nat en mand sidde på en rød hest; han holdt blandt 
 >  **17** Vær stille for Herren, alle mennesker!
 > For han bryder op fra sin hellige bolig.
 
+[– tilbage –](#indhold)
+
+<a id="zak3"></a>
+
 ### Zak 3
 
 #### Synet om Josvas iklædning til ypperstepræst
@@ -14349,6 +15295,10 @@ Han sagde: **8** Jeg så i nat en mand sidde på en rød hest; han holdt blandt 
 > siger Hærskarers Herre.
 
 Jeg fjerner dette lands skyld på én dag. **10** På den dag, siger Hærskarers Herre, skal I indbyde hinanden til at sidde under vinstokken og figentræet.
+
+[– tilbage –](#indhold)
+
+<a id="zak4"></a>
 
 ### Zak 4
 
@@ -14377,6 +15327,10 @@ Jeg fjerner dette lands skyld på én dag. **10** På den dag, siger Hærskarers
 
 »Disse syv er Herrens øjne, der spejder ud over hele jorden.« **11** Så spurgte jeg ham: »Hvad betyder de to oliventræer til højre og til venstre for lysestagen?« **12** Jeg spurgte ham igen: »Hvad betyder de to olivengrene, der er ved siden af de to guldrør, som tømmer olien ud fra dem?« **13** Han spurgte mig: »Ved du ikke, hvad det betyder?« Jeg svarede: »Nej, herre.« **14** Da svarede han: »Det er de to, der er salvet med olie. De står foran hele jordens Herre.«
 
+[– tilbage –](#indhold)
+
+<a id="zak5"></a>
+
 ### Zak 5
 
 #### Synet om den flyvende bogrulle
@@ -14393,6 +15347,10 @@ Jeg fjerner dette lands skyld på én dag. **10** På den dag, siger Hærskarers
 **5** Den engel, der talte med mig, trådte frem og sagde til mig: »Løft dine øjne og se, hvad der kommer der.« **6** Da jeg spurgte: »Hvad er det?« svarede han: »Det er kornmålet, der kommer,« og han fortsatte: »Det er hele landets synd.« **7** Og se, blylåget løftede sig, og der sad en kvinde i kornmålet. **8** Han sagde: »Hun er ondskaben,« og så kastede han hende ned i kornmålet igen og slog blylåget i.
 
 **9** Jeg løftede øjnene, og jeg så to kvinder komme frem; vinden tog i deres vinger – de havde vinger som storke – og de løftede kornmålet op mellem jord og himmel. **10** Jeg spurgte den engel, der talte med mig: »Hvor bringer de kornmålet hen?« **11** Han svarede: »De skal bygge hende et hus i landet Sinear, og når det er færdigt, anbringer de hende der, hvor hun skal stå.«
+
+[– tilbage –](#indhold)
+
+<a id="zak6"></a>
 
 ### Zak 6
 
@@ -14414,6 +15372,10 @@ Jeg fjerner dette lands skyld på én dag. **10** På den dag, siger Hærskarers
 
 Det skal ske, hvis I adlyder Herren jeres Gud.
 
+[– tilbage –](#indhold)
+
+<a id="zak7"></a>
+
 ### Zak 7
 
 #### Herren kræver barmhjertighed, ikke faste
@@ -14432,6 +15394,10 @@ Det skal ske, hvis I adlyder Herren jeres Gud.
 > mod hinanden!
 
 **11** Men de ville ikke lytte, i trods vendte de ryggen til og gjorde deres ører tunge, så de ikke kunne høre. **12** Deres hjerte gjorde de hårdt som diamant, så de ikke kunne høre den lov og de bud, som Hærskarers Herre ved sin ånd sendte gennem de tidligere profeter. Så kom der en stor vrede fra Hærskarers Herre. **13** »Ligesom de ikke hørte, da jeg kaldte, skal de kalde, uden at jeg hører,« sagde Hærskarers Herre. **14** »Jeg hvirvler dem bort blandt alle folkeslagene, som de ikke kender, og landet skal ligge øde efter dem, så ingen færdes i det.« De gjorde det dejlige land til en ødemark.
+
+[– tilbage –](#indhold)
+
+<a id="zak8"></a>
 
 ### Zak 8
 
@@ -14548,6 +15514,10 @@ Det skal ske, hvis I adlyder Herren jeres Gud.
 
 **23** Dette siger Hærskarers Herre: I de dage skal ti mænd fra alverdens folk gribe fat i en judæers kappeflig og sige: Vi vil følges med jer, for vi har hørt, at Gud er hos jer.
 
+[– tilbage –](#indhold)
+
+<a id="zak9"></a>
+
 ### Zak 9
 
 #### Davidsrigets genoprettelse
@@ -14623,6 +15593,10 @@ Det skal ske, hvis I adlyder Herren jeres Gud.
 > Kornet får de unge mænd
 > og vinen de unge piger til at trives.
 
+[– tilbage –](#indhold)
+
+<a id="zak10"></a>
+
 ### Zak 10
 
 >  **1** Bed Herren om regn
@@ -14679,6 +15653,10 @@ Det skal ske, hvis I adlyder Herren jeres Gud.
 > og de skal vandre i hans navn,
 > siger Herren.
 
+[– tilbage –](#indhold)
+
+<a id="zak11"></a>
+
 ### Zak 11
 
 >  **1** Luk dørene op, Libanon,
@@ -14708,6 +15686,10 @@ Det skal ske, hvis I adlyder Herren jeres Gud.
 > Hans arm skal visne
 > og hans højre øje blindes!
 
+[– tilbage –](#indhold)
+
+<a id="zak12"></a>
+
 ### Zak 12
 
 #### Jerusalems kommende herlighed
@@ -14723,6 +15705,10 @@ Dette siger Herren, som spændte himlen ud og grundlagde jorden, og som dannede 
 **8** På den dag beskytter Herren Jerusalems indbyggere, og de, der snubler, skal på den dag være som David, og Davids hus skal være som Gud, som Herrens engel foran dem.
 
 **9** På den dag agter jeg at udrydde alle de folkeslag, som rykker imod Jerusalem; **10** men over Davids hus og Jerusalems indbyggere vil jeg udgyde nådens og bønnens ånd, og de skal se hen til mig, ham de har gennemboret. De skal holde dødsklage over ham, ligesom man klager over sin eneste søn, og holde bitter sorg over ham, ligesom man sørger over sin førstefødte. **11** På den dag skal klagen i Jerusalem blive lige så stor som klagen over Hadad-Rimmon i Megiddos dal. **12** Landet skal klage, hver slægt for sig: Davidslægten for sig, og dens kvinder for sig; Natanslægten for sig, og dens kvinder for sig; **13** Levislægten for sig, og dens kvinder for sig; Shim’islægten for sig, og dens kvinder for sig; **14** alle de øvrige slægter, hver slægt for sig, og deres kvinder for sig.
+
+[– tilbage –](#indhold)
+
+<a id="zak13"></a>
 
 ### Zak 13
 
@@ -14747,6 +15733,10 @@ Dette siger Herren, som spændte himlen ud og grundlagde jorden, og som dannede 
 > og jeg vil svare dem.
 > Jeg siger: »De er mit folk,«
 > og de svarer: »Herren er min Gud.«
+
+[– tilbage –](#indhold)
+
+<a id="zak14"></a>
 
 ### Zak 14
 
@@ -14806,9 +15796,13 @@ Oliebjerget skal spaltes i to dele fra øst til vest, så der dannes en meget st
 
 På den dag skal der ikke længere komme kana’anæere i Hærskarers Herres tempel.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Malakias’ Bog
+
+<a id="mal1"></a>
 
 ### Mal 1
 
@@ -14867,6 +15861,10 @@ På den dag skal der ikke længere komme kana’anæere i Hærskarers Herres tem
 > og jeres offergave tager jeg ikke imod.
 
 **11** Fra øst til vest er mit navn stort blandt folkene. Overalt bliver der tændt offerild og bragt rene offergaver i mit navn, for mit navn er stort blandt folkene, siger Hærskarers Herre. **12** Men I vanhelliger det, når I siger: »Herrens bord er urent, og hans føde må man godt ringeagte.« **13** I siger: »Hvilket besvær!« og blæser på det, siger Hærskarers Herre. I kommer med stjålne dyr og med de halte og syge og bringer dem som offergave. Skulle jeg tage imod det fra jer? siger Herren. **14** Forbandet den bedrager, der har lovet Herren et handyr af sin hjord, men i stedet ofrer et lemlæstet dyr. For jeg er en stor konge, siger Hærskarers Herre, og mit navn frygtes blandt folkene.
+
+[– tilbage –](#indhold)
+
+<a id="mal2"></a>
 
 ### Mal 2
 
@@ -14936,6 +15934,10 @@ På den dag skal der ikke længere komme kana’anæere i Hærskarers Herres tem
 > er god i Herrens øjne;
 > dem holder han af,«
 > eller: »Hvor er dommens Gud?«
+
+[– tilbage –](#indhold)
+
+<a id="mal3"></a>
 
 ### Mal 3
 
@@ -15047,3 +16049,5 @@ På den dag skal der ikke længere komme kana’anæere i Hærskarers Herres tem
 > og sønners hjerte til deres fædre,
 > så jeg ikke skal komme
 > og slå landet med forbandelse.
+
+[– tilbage –](#indhold)
