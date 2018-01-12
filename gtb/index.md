@@ -13,22 +13,26 @@ lang: da
 
 ------------------------------------------------------------------------
 
-Jos: [1](#jos-1) [2](#jos-2) [3](#jos-3) [4](#jos-4) [5](#jos-5) [6](#jos-6) [7](#jos-7) [8](#jos-8) [9](#jos-9) [10](#jos-10) [11](#jos-11) [12](#jos-12) [13](#jos-13) [14](#jos-14) [15](#jos-15) [16](#jos-16) [17](#jos-17) [18](#jos-18) [19](#jos-19) [20](#jos-20) [21](#jos-21) [22](#jos-22) [23](#jos-23) [24](#jos-24)
-Dom: [1](#dom-1) [2](#dom-2) [3](#dom-3) [4](#dom-4) [5](#dom-5) [6](#dom-6) [7](#dom-7) [8](#dom-8) [9](#dom-9) [10](#dom-10) [11](#dom-11) [12](#dom-12) [13](#dom-13) [14](#dom-14) [15](#dom-15) [16](#dom-16) [17](#dom-17) [18](#dom-18) [19](#dom-19) [20](#dom-20) [21](#dom-21)
-Ruth: [1](#ruth-1) [2](#ruth-2) [3](#ruth-3) [4](#ruth-4)
-1 Sam: [1](#sam-1) [2](#sam-2) [3](#sam-3) [4](#sam-4) [5](#sam-5) [6](#sam-6) [7](#sam-7) [8](#sam-8) [9](#sam-9) [10](#sam-10) [11](#sam-11) [12](#sam-12) [13](#sam-13) [14](#sam-14) [15](#sam-15) [16](#sam-16) [17](#sam-17) [18](#sam-18) [19](#sam-19) [20](#sam-20) [21](#sam-21) [22](#sam-22) [23](#sam-23) [24](#sam-24) [25](#sam-25) [26](#sam-26) [27](#sam-27) [28](#sam-28) [29](#sam-29) [30](#sam-30) [31](#sam-31)
-2 Sam: [1](#sam-1-1) [2](#sam-2-1) [3](#sam-3-1) [4](#sam-4-1) [5](#sam-5-1) [6](#sam-6-1) [7](#sam-7-1) [8](#sam-8-1) [9](#sam-9-1) [10](#sam-10-1) [11](#sam-11-1) [12](#sam-12-1) [13](#sam-13-1) [14](#sam-14-1) [15](#sam-15-1) [16](#sam-16-1) [17](#sam-17-1) [18](#sam-18-1) [19](#sam-19-1) [20](#sam-20-1) [21](#sam-21-1) [22](#sam-22-1) [23](#sam-23-1) [24](#sam-24-1)
-1 Kong: [1](#kong-1) [2](#kong-2) [3](#kong-3) [4](#kong-4) [5](#kong-5) [6](#kong-6) [7](#kong-7) [8](#kong-8) [9](#kong-9) [10](#kong-10) [11](#kong-11) [12](#kong-12) [13](#kong-13) [14](#kong-14) [15](#kong-15) [16](#kong-16) [17](#kong-17) [18](#kong-18) [19](#kong-19) [20](#kong-20) [21](#kong-21) [22](#kong-22)
-2 Kong: [1](#kong-1-1) [2](#kong-2-1) [3](#kong-3-1) [4](#kong-4-1) [5](#kong-5-1) [6](#kong-6-1) [7](#kong-7-1) [8](#kong-8-1) [9](#kong-9-1) [10](#kong-10-1) [11](#kong-11-1) [12](#kong-12-1) [13](#kong-13-1) [14](#kong-14-1) [15](#kong-15-1) [16](#kong-16-1) [17](#kong-17-1) [18](#kong-18-1) [19](#kong-19-1) [20](#kong-20-1) [21](#kong-21-1) [22](#kong-22-1) [23](#kong-23) [24](#kong-24) [25](#kong-25)
-1 Krøn: [1](#krn-1) [2](#krn-2) [3](#krn-3) [4](#krn-4) [5](#krn-5) [6](#krn-6) [7](#krn-7) [8](#krn-8) [9](#krn-9) [10](#krn-10) [11](#krn-11) [12](#krn-12) [13](#krn-13) [14](#krn-14) [15](#krn-15) [16](#krn-16) [17](#krn-17) [18](#krn-18) [19](#krn-19) [20](#krn-20) [21](#krn-21) [22](#krn-22) [23](#krn-23) [24](#krn-24) [25](#krn-25) [26](#krn-26) [27](#krn-27) [28](#krn-28) [29](#krn-29)
-2 Krøn: [1](#krn-1-1) [2](#krn-2-1) [3](#krn-3-1) [4](#krn-4-1) [5](#krn-5-1) [6](#krn-6-1) [7](#krn-7-1) [8](#krn-8-1) [9](#krn-9-1) [10](#krn-10-1) [11](#krn-11-1) [12](#krn-12-1) [13](#krn-13-1) [14](#krn-14-1) [15](#krn-15-1) [16](#krn-16-1) [17](#krn-17-1) [18](#krn-18-1) [19](#krn-19-1) [20](#krn-20-1) [21](#krn-21-1) [22](#krn-22-1) [23](#krn-23-1) [24](#krn-24-1) [25](#krn-25-1) [26](#krn-26-1) [27](#krn-27-1) [28](#krn-28-1) [29](#krn-29-1) [30](#krn-30) [31](#krn-31) [32](#krn-32) [33](#krn-33) [34](#krn-34) [35](#krn-35) [36](#krn-36)
-Ezra: [1](#ezra-1) [2](#ezra-2) [3](#ezra-3) [4](#ezra-4) [5](#ezra-5) [6](#ezra-6) [7](#ezra-7) [8](#ezra-8) [9](#ezra-9) [10](#ezra-10)
-Neh: [1](#neh-1) [2](#neh-2) [3](#neh-3) [4](#neh-4) [5](#neh-5) [6](#neh-6) [7](#neh-7) [8](#neh-8) [9](#neh-9) [10](#neh-10) [11](#neh-11) [12](#neh-12) [13](#neh-13)
-Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7](#est-7) [8](#est-8) [9](#est-9) [10](#est-10)
+<a id="indhold"></a>
+
+Jos: [1](#jos1) [2](#jos2) [3](#jos3) [4](#jos4) [5](#jos5) [6](#jos6) [7](#jos7) [8](#jos8) [9](#jos9) [10](#jos10) [11](#jos11) [12](#jos12) [13](#jos13) [14](#jos14) [15](#jos15) [16](#jos16) [17](#jos17) [18](#jos18) [19](#jos19) [20](#jos20) [21](#jos21) [22](#jos22) [23](#jos23) [24](#jos24)
+Dom: [1](#dom1) [2](#dom2) [3](#dom3) [4](#dom4) [5](#dom5) [6](#dom6) [7](#dom7) [8](#dom8) [9](#dom9) [10](#dom10) [11](#dom11) [12](#dom12) [13](#dom13) [14](#dom14) [15](#dom15) [16](#dom16) [17](#dom17) [18](#dom18) [19](#dom19) [20](#dom20) [21](#dom21)
+Ruth: [1](#ruth1) [2](#ruth2) [3](#ruth3) [4](#ruth4)
+1 Sam: [1](#1sam1) [2](#1sam2) [3](#1sam3) [4](#1sam4) [5](#1sam5) [6](#1sam6) [7](#1sam7) [8](#1sam8) [9](#1sam9) [10](#1sam10) [11](#1sam11) [12](#1sam12) [13](#1sam13) [14](#1sam14) [15](#1sam15) [16](#1sam16) [17](#1sam17) [18](#1sam18) [19](#1sam19) [20](#1sam20) [21](#1sam21) [22](#1sam22) [23](#1sam23) [24](#1sam24) [25](#1sam25) [26](#1sam26) [27](#1sam27) [28](#1sam28) [29](#1sam29) [30](#1sam30) [31](#1sam31)
+2 Sam: [1](#2sam1) [2](#2sam2) [3](#2sam3) [4](#2sam4) [5](#2sam5) [6](#2sam6) [7](#2sam7) [8](#2sam8) [9](#2sam9) [10](#2sam10) [11](#2sam11) [12](#2sam12) [13](#2sam13) [14](#2sam14) [15](#2sam15) [16](#2sam16) [17](#2sam17) [18](#2sam18) [19](#2sam19) [20](#2sam20) [21](#2sam21) [22](#2sam22) [23](#2sam23) [24](#2sam24)
+1 Kong: [1](#1kong1) [2](#1kong2) [3](#1kong3) [4](#1kong4) [5](#1kong5) [6](#1kong6) [7](#1kong7) [8](#1kong8) [9](#1kong9) [10](#1kong10) [11](#1kong11) [12](#1kong12) [13](#1kong13) [14](#1kong14) [15](#1kong15) [16](#1kong16) [17](#1kong17) [18](#1kong18) [19](#1kong19) [20](#1kong20) [21](#1kong21) [22](#1kong22)
+2 Kong: [1](#2kong1) [2](#2kong2) [3](#2kong3) [4](#2kong4) [5](#2kong5) [6](#2kong6) [7](#2kong7) [8](#2kong8) [9](#2kong9) [10](#2kong10) [11](#2kong11) [12](#2kong12) [13](#2kong13) [14](#2kong14) [15](#2kong15) [16](#2kong16) [17](#2kong17) [18](#2kong18) [19](#2kong19) [20](#2kong20) [21](#2kong21) [22](#2kong22) [23](#2kong23) [24](#2kong24) [25](#2kong25)
+1 Krøn: [1](#1kroen1) [2](#1kroen2) [3](#1kroen3) [4](#1kroen4) [5](#1kroen5) [6](#1kroen6) [7](#1kroen7) [8](#1kroen8) [9](#1kroen9) [10](#1kroen10) [11](#1kroen11) [12](#1kroen12) [13](#1kroen13) [14](#1kroen14) [15](#1kroen15) [16](#1kroen16) [17](#1kroen17) [18](#1kroen18) [19](#1kroen19) [20](#1kroen20) [21](#1kroen21) [22](#1kroen22) [23](#1kroen23) [24](#1kroen24) [25](#1kroen25) [26](#1kroen26) [27](#1kroen27) [28](#1kroen28) [29](#1kroen29)
+2 Krøn: [1](#2kroen1) [2](#2kroen2) [3](#2kroen3) [4](#2kroen4) [5](#2kroen5) [6](#2kroen6) [7](#2kroen7) [8](#2kroen8) [9](#2kroen9) [10](#2kroen10) [11](#2kroen11) [12](#2kroen12) [13](#2kroen13) [14](#2kroen14) [15](#2kroen15) [16](#2kroen16) [17](#2kroen17) [18](#2kroen18) [19](#2kroen19) [20](#2kroen20) [21](#2kroen21) [22](#2kroen22) [23](#2kroen23) [24](#2kroen24) [25](#2kroen25) [26](#2kroen26) [27](#2kroen27) [28](#2kroen28) [29](#2kroen29) [30](#2kroen30) [31](#2kroen31) [32](#2kroen32) [33](#2kroen33) [34](#2kroen34) [35](#2kroen35) [36](#2kroen36)
+Ezra: [1](#ezra1) [2](#ezra2) [3](#ezra3) [4](#ezra4) [5](#ezra5) [6](#ezra6) [7](#ezra7) [8](#ezra8) [9](#ezra9) [10](#ezra10)
+Neh: [1](#neh1) [2](#neh2) [3](#neh3) [4](#neh4) [5](#neh5) [6](#neh6) [7](#neh7) [8](#neh8) [9](#neh9) [10](#neh10) [11](#neh11) [12](#neh12) [13](#neh13)
+Est: [1](#est1) [2](#est2) [3](#est3) [4](#est4) [5](#est5) [6](#est6) [7](#est7) [8](#est8) [9](#est9) [10](#est10)
 
 ------------------------------------------------------------------------
 
 ## Josvabogen
+
+<a id="jos1"></a>
 
 ### Jos 1
 
@@ -39,6 +43,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 **10** Josva gav folkets skrivere denne befaling: **11** »Gå igennem lejren, og sig til folket, at de skal sørge for proviant, fordi de om tre dage skal gå over Jordan for at erobre det land, Herren deres Gud vil give dem i eje.«
 
 **12** Til rubenitterne, gaditterne og halvdelen af Manasses stamme sagde Josva: **13** »Husk på den befaling, Herrens tjener Moses gav jer. Herren jeres Gud skaffer jer nu et sted at bo og giver jer dette land. **14** Jeres kvinder og børn og jeres kvæg skal blive i det land, Moses har givet jer øst for Jordan, mens alle I tapre krigere skal rykke i række og geled over i spidsen for jeres brødre og hjælpe dem, **15** indtil Herren har skaffet jeres brødre et sted at bo ligesom jer, og indtil også de har taget det land i besiddelse, som Herren jeres Gud vil give dem. Derefter kan I vende tilbage til det land, I har fået i eje, som Herrens tjener Moses gav jer øst for Jordan.« **16** De svarede Josva: »Alt, hvad du har befalet os, vil vi gøre, og hvor du end sender os, vil vi gå hen. **17** Ligesom vi adlød Moses i et og alt, vil vi adlyde dig. Gid Herren din Gud må være med dig, som han var med Moses. **18** Enhver, som trodser din befaling og ikke adlyder dine ord, hvad du end befaler ham, skal lide døden. Vær du blot modig og stærk!«
+
+[– tilbage –](#indhold)
+
+<a id="jos2"></a>
 
 ### Jos 2
 
@@ -52,6 +60,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 
 **22** De gik op i bjergene og blev der i tre dage, indtil forfølgerne var vendt hjem. Forfølgerne havde ledt efter dem hele vejen, men ikke fundet dem. **23** Derpå gik de to mænd igen ned fra bjergene og gik over Jordan; de kom til Josva, Nuns søn, og fortalte ham alt, hvad de havde oplevet. **24** De sagde til ham: »Herren har givet hele landet i vores hånd, og alle landets indbyggere skælver i angst for os.«
 
+[– tilbage –](#indhold)
+
+<a id="jos3"></a>
+
 ### Jos 3
 
 #### Overgangen over Jordan
@@ -63,6 +75,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 **7** Herren sagde til Josva: »Fra i dag vil jeg gøre dig stor i alle israelitternes øjne, så de forstår, at ligesom jeg var med Moses, vil jeg være med dig. **8** Du skal befale de præster, som bærer pagtens ark, at standse i vandkanten, når de kommer ned til Jordan.« **9** Så sagde Josva til israelitterne: »Kom herhen, og hør Herren jeres Guds ord!« **10** Han sagde: »Sådan skal I vide, at den levende Gud er iblandt jer, og at han vil drive kana’anæerne, hittitterne, hivvitterne, perizzitterne, girgashitterne, amoritterne og jebusitterne bort foran jer: **11** Pagtens ark, der tilhører hele jordens Herre, skal gå foran jer ud i Jordan. **12** Vælg nu tolv mænd fra Israels stammer, én fra hver stamme. **13** Når præsterne, som bærer arken, der tilhører Herren, hele jordens Herre, sætter foden i Jordans vand, vil vandet i Jordan løbe væk, og det vand, som kommer oppefra, vil stå som en vold.«
 
 **14** Så brød folket op fra deres telte for at gå over Jordan; og præsterne, der bar pagtens ark, gik i spidsen for folket. **15** I hele høsttiden går Jordan over sine bredder; men da præsterne, der bar arken, kom ned til Jordan og satte foden i vandkanten, **16** standsede vandet, som kom oppefra; det rejste sig som en vold langt oppe, ved byen Adam, som ligger i nærheden af Saretan. Og det, der løb ned mod Araba-havet, Salthavet, forsvandt helt. Folket gik over floden ud for Jeriko. **17** Præsterne, der bar Herrens pagts ark, blev stående på den tørre bund midt ude i Jordan, mens alle israelitterne gik tørskoet over, indtil hele folket var kommet over Jordan.
+
+[– tilbage –](#indhold)
+
+<a id="jos4"></a>
 
 ### Jos 4
 
@@ -77,6 +93,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 **15** Herren sagde til Josva: **16** »Sig til præsterne, som bærer Vidnesbyrdets ark, at de skal gå op fra Jordan.« **17** Og Josva befalede præsterne at gå op fra Jordan. **18** Så snart præsterne, som bar Herrens pagts ark, var kommet op fra Jordan og havde sat foden på det tørre land, vendte vandet i Jordan tilbage, og floden gik over sine bredder som før.
 
 **19** Folket kom op fra Jordan den tiende dag i den første måned. De slog lejr i Gilgal i den østlige udkant af Jerikos område. **20** De tolv sten, som de havde taget fra Jordan, rejste Josva i Gilgal, **21** og han sagde til israelitterne: »Når jeres sønner i fremtiden spørger deres fædre: Hvad er det for sten? **22** skal I fortælle dem: Her gik Israel tørskoet over Jordan, **23** fordi Herren jeres Gud udtørrede Jordanfloden foran jer, indtil I var kommet over, ligesom Herren jeres Gud gjorde med Sivhavet, som han udtørrede foran os, indtil vi var kommet over. **24** Det skete, for at alle jordens folk skal vide, at Herrens hånd er stærk, og for at de altid skal frygte Herren jeres Gud.«
+
+[– tilbage –](#indhold)
+
+<a id="jos5"></a>
 
 ### Jos 5
 
@@ -95,6 +115,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 #### Herrens hærfører
 
 **13** Engang mens Josva opholdt sig ved Jeriko, fik han øje på en mand, der stod foran ham med draget sværd i hånden. Josva gik hen til ham og sagde: »Hører du til os eller til vores fjender?« **14** Han svarede: »Nej, jeg er fører for Herrens hær. Nu er jeg kommet.« Da kastede Josva sig til jorden og sagde til ham: »Hvad har min herre at sige til sin tjener?« **15** Herrens hærfører svarede: »Tag dine sandaler af, for det sted, du står på, er helligt.« Det gjorde Josva.
+
+[– tilbage –](#indhold)
+
+<a id="jos6"></a>
 
 ### Jos 6
 
@@ -116,6 +140,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 
 **27** Herren var med Josva, og rygtet om ham nåede ud over hele landet.
 
+[– tilbage –](#indhold)
+
+<a id="jos7"></a>
+
 ### Jos 7
 
 #### Akans tyveri og dets følger
@@ -129,6 +157,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 **10** Herren sagde til Josva: »Rejs dig op! Hvorfor kaster du dig til jorden? **11** Israelitterne har syndet og brudt den pagt, jeg pålagde dem. De har taget noget af det, der er lagt band på; de har stjålet og skjult det og lagt det blandt deres egne ting. **12** Israelitterne kan ikke holde stand over for deres fjender, de bliver slået på flugt af dem, fordi de er kommet under band. Jeg vil ikke længere være med jer, hvis ikke I fjerner og tilintetgør det, der er lagt band på. **13** Rejs dig op! Du skal hellige folket og sige: I skal hellige jer med henblik på i morgen, for dette siger Herren, Israels Gud: Der er noget hos dig af det, der er lagt band på, Israel. Du kan ikke holde stand over for dine fjender, før I har fjernet det, der er lagt band på. **14** I morgen tidlig skal I træde frem stamme for stamme. Den stamme, Herren lader loddet falde på, skal træde frem slægt for slægt. Den slægt, Herren lader loddet falde på, skal træde frem familie for familie, og den familie, Herren lader loddet falde på, skal træde frem mand for mand. **15** Den, som loddet falder på, fordi han har det, der er lagt band på, skal brændes tillige med alt, hvad der tilhører ham, for han har brudt Herrens pagt og begået en nedrighed i Israel.«
 
 **16** Næste morgen lod Josva Israel træde frem stamme for stamme, og loddet faldt på Judas stamme. **17** Så lod han Judas slægter træde frem, og loddet faldt på zeraitternes slægt. Han lod zeraitternes slægt træde frem familie for familie, og loddet faldt på Zabdi. **18** Og han lod hans familie træde frem mand for mand, og loddet faldt på Akan, søn af Karmi, søn af Zabdi, søn af Zera fra Judas stamme. **19** Josva sagde til Akan: »Min søn, giv Herren, Israels Gud, ære, og aflæg bekendelse for ham! Fortæl mig, hvad du har gjort; skjul ikke noget for mig!« **20** Akan svarede: »Det er rigtigt, at det er mig, der har syndet mod Herren, Israels Gud. Jeg gjorde sådan: **21** Mellem byttet så jeg en smuk kappe fra Sinear, to hundrede sekel sølv og en guldbarre, der vejer halvtreds sekel. Jeg begærede det og tog det. Nu ligger det i mit telt, gemt i jorden, med sølvet nederst.« **22** Da sendte Josva nogle mænd af sted. De løb hen til teltet og fandt det gemt i hans telt, med sølvet nederst. **23** De tog det ud fra teltet og bragte det til Josva og alle israelitterne og lagde det frem foran Herren. **24** Josva og hele Israel tog Akan, Zeras søn, og sølvet, kappen og guldbarren, hans sønner og døtre, okser, æsler og får, hans telt og alt, hvad der tilhørte ham, og de førte dem op i Akors dal. **25** Josva sagde: »Hvorfor har du styrtet os i ulykke? I dag vil Herren styrte dig i ulykke.« Derpå stenede hele Israel ham. De brændte dem og stenede dem. **26** Så kastede de en stor stendynge op over ham; den ligger der den dag i dag. Da vendte Herren om fra sin glødende vrede. Derfor hedder dette sted den dag i dag Akors dal.
+
+[– tilbage –](#indhold)
+
+<a id="jos8"></a>
 
 ### Jos 8
 
@@ -148,6 +180,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 
 **30** På den tid byggede Josva et alter for Herren, Israels Gud, på Ebals bjerg, **31** sådan som Herrens tjener Moses havde befalet israelitterne, og sådan som det er foreskrevet i Moses’ lovbog, et alter af utilhugne sten, som ikke var bearbejdet med jern. Dér bragte de brændofre og måltidsofre til Herren. **32** Og på stenene skrev han i israelitternes påsyn en afskrift af den lov, Moses havde skrevet. **33** Hele Israel, såvel de fremmede som landets egne, folkets ældste, dets skrivere og dommere stod på begge sider af arken lige over for levitpræsterne, som bar Herrens pagts ark, den ene halvdel vendt mod Garizims bjerg og den anden halvdel vendt mod Ebals bjerg, sådan som Herrens tjener Moses i sin tid havde befalet at velsigne folket Israel. **34** Derefter oplæste Josva alle lovens ord, velsignelsen og forbandelsen, nøjagtigt som det var foreskrevet i lovbogen. **35** Intet af det, Moses havde givet befaling om, undlod Josva at læse op for hele Israels forsamling, for kvinderne og børnene og for de fremmede, som var fulgt med.
 
+[– tilbage –](#indhold)
+
+<a id="jos9"></a>
+
 ### Jos 9
 
 #### Pagten med gibeonitterne
@@ -159,6 +195,10 @@ Est: [1](#est-1) [2](#est-2) [3](#est-3) [4](#est-4) [5](#est-5) [6](#est-6) [7]
 **16** Tre dage efter at israelitterne havde sluttet pagt med dem, hørte de, at gibeonitterne var naboer til dem og boede lige i nærheden. **17** Så brød israelitterne op og kom to dage efter til deres byer; det var Gibeon, Kefira, Be’erot og Kirjat-Jearim. **18** Men israelitterne slog dem ikke ihjel, fordi menighedens overhoveder havde aflagt ed ved Herren, Israels Gud. Da gav hele menigheden ondt af sig mod overhovederne. **19** Men de sagde til menigheden: »Vi har aflagt ed ved Herren, Israels Gud. Nu kan vi ikke røre dem. **20** Sådan vil vi gøre med dem: Vi vil lade dem leve, så vi ikke rammes af vrede på grund af den ed, vi aflagde til dem. **21** De skal få lov at leve,« sagde de, »men de skal være brændehuggere og vandbærere for hele menigheden.« Og det blev, som overhovederne havde sagt.
 
 **22** Josva kaldte mændene fra Gibeon til sig og sagde til dem: »Hvorfor narrede I os og sagde, at I boede meget langt borte, når I bor lige i nærheden af os? **23** Nu skal I være forbandede! Ingen af jer skal slippe for at blive træl; I skal være brændehuggere og vandbærere ved min Guds hus.« **24** De svarede Josva: »Dine trælle havde fået at vide, at Herren din Gud havde indskærpet for sin tjener Moses, at han ville give jer hele landet og udrydde alle landets indbyggere foran jer. Derfor nærede vi stor frygt for vores liv og bar os sådan ad. **25** Men nu er vi i din magt; gør med os, hvad du finder godt og rigtigt!« **26** Og Josva gjorde sådan med dem: Han reddede dem fra israelitterne, så de ikke dræbte dem; **27** men samtidig gjorde han dem til brændehuggere og vandbærere for menigheden og for Herrens alter på det sted, han ville udvælge, og det er de den dag i dag.
+
+[– tilbage –](#indhold)
+
+<a id="jos10"></a>
 
 ### Jos 10
 
@@ -197,6 +237,10 @@ Solen blev stående midt på himlen, og den tøvede næsten en hel dag med at g�
 
 **40** Således besejrede Josva hele landet: Bjerglandet, Sydlandet, Lavlandet og Skråningerne og alle kongerne dér. Der var ingen, der overlevede; hver levende sjæl lagde han band på, sådan som Herren, Israels Gud, havde befalet. **41** Josva besejrede dem fra Kadesh-Barnea til Gaza, i hele landet Goshen og helt til Gibeon. **42** Alle disse konger og deres lande undertvang Josva på én gang, for Herren, Israels Gud, førte krig for Israel. **43** Så vendte Josva sammen med hele Israel tilbage til lejren i Gilgal.
 
+[– tilbage –](#indhold)
+
+<a id="jos11"></a>
+
 ### Jos 11
 
 #### Erobringen af det nordlige Kana’an
@@ -215,11 +259,19 @@ Solen blev stående midt på himlen, og den tøvede næsten en hel dag med at g�
 
 **23** Således erobrede Josva hele landet, ganske som Herren havde sagt til Moses, og Josva gav Israel det i eje; hver stamme fik sin del. Derefter var landet fri for krig.
 
+[– tilbage –](#indhold)
+
+<a id="jos12"></a>
+
 ### Jos 12
 
 **1** Dette er de konger i landet, som israelitterne besejrede, og hvis land de erobrede øst for Jordan, fra Arnonfloden til Hermonbjerget og hele den østlige del af Araba-lavningen: **2** amoritterkongen Sihon, som regerede i Heshbon og herskede over området fra Aro’er, der ligger på kanten af Arnondalen – fra midt i dalen – og over halvdelen af Gilead op til Jabbokfloden, som er grænsen til ammonitterne, **3** og over Araba-lavningen op til østsiden af Kinneretsøen og ned til østsiden af Araba-havet, Salthavet, i retning af Bet-ha-Jeshimot og sydpå til foden af Pisgas skråninger; **4** endvidere Bashans konge Og, en af dem, der var tilbage af refaitterne; han regerede i Ashtarot og Edre’i **5** og herskede over Hermons bjergland, Salka og hele Bashan lige til grænsen til geshuritterne og ma’akatitterne og over halvdelen af Gilead til grænsen til kong Sihon i Heshbon. **6** Herrens tjener Moses og israelitterne havde besejret dem, og Herrens tjener Moses havde givet rubenitterne, gaditterne og halvdelen af Manasses stamme landet i eje.
 
 **7** Dette er de konger i landet, som Josva og israelitterne besejrede vest for Jordan, fra Ba’al-Gad i Libanondalen til Det Nøgne Bjerg, som rejser sig mod Se’ir, og hvis land Josva gav Israels stammer i eje – hver stamme fik sin del – **8** i Bjerglandet, i Lavlandet, i Araba-lavningen, på Skråningerne, i Ørkenen og i Sydlandet, hittitterne, amoritterne, kana’anæerne, perizzitterne, hivvitterne og jebusitterne: **9** kongen i Jeriko én, kongen i Aj, som ligger i nærheden af Betel, én, **10** kongen i Jerusalem én, kongen i Hebron én, **11** kongen i Jarmut én, kongen i Lakish én, **12** kongen i Eglon én, kongen i Gezer én, **13** kongen i Debir én, kongen i Geder én, **14** kongen i Horma én, kongen i Arad én, **15** kongen i Libna én, kongen i Adullam én, **16** kongen i Makkeda én, kongen i Betel én, **17** kongen i Tappua én, kongen i Hefer én, **18** kongen i Afek én, kongen over Saron én, **19** kongen i Madon én, kongen i Hasor én, **20** kongen i Shimron-Meron én, kongen i Akshaf én, **21** kongen i Ta’anak én, kongen i Megiddo én, **22** kongen i Kedesh én, kongen i Jokneam ved Karmel én, **23** kongen i Dor ved Dors højdedrag én, kongen i Gojim i Galil én **24** og kongen i Tirsa én, i alt enogtredive konger.
+
+[– tilbage –](#indhold)
+
+<a id="jos13"></a>
 
 ### Jos 13
 
@@ -241,6 +293,10 @@ Halvdelen af Manasses stamme **8** såvel som rubenitterne og gaditterne havde n
 
 **33** Men Levis stamme gav Moses ingen arvelod. Herren, Israels Gud, er deres lod, sådan som han har lovet dem.
 
+[– tilbage –](#indhold)
+
+<a id="jos14"></a>
+
 ### Jos 14
 
 #### Judas område
@@ -252,6 +308,10 @@ Halvdelen af Manasses stamme **8** såvel som rubenitterne og gaditterne havde n
 **13** Så velsignede Josva Kaleb, Jefunnes søn, og gav ham Hebron i eje. **14** Derfor er Hebron den dag i dag i kenizzitten Kalebs, Jefunnes søns, eje, fordi han fuldt og helt var med Herren, Israels Gud. **15** Tidligere hed Hebron Kirjat-Arba; Arba var den største mand blandt anakitterne.
 
 Derefter var landet fri for krig.
+
+[– tilbage –](#indhold)
+
+<a id="jos15"></a>
 
 ### Jos 15
 
@@ -271,6 +331,10 @@ Derefter var landet fri for krig.
 
 **63** Men jebusitterne, som boede i Jerusalem, kunne judæerne ikke fordrive, og den dag i dag bor jebusitterne sammen med judæerne i Jerusalem.
 
+[– tilbage –](#indhold)
+
+<a id="jos16"></a>
+
 ### Jos 16
 
 #### Josefsønnernes område
@@ -280,6 +344,10 @@ Derefter var landet fri for krig.
 **4** Josefs sønner Manasse og Efraim fik arvelodder. **5** Efraimitternes område, slægt for slægt: Grænsen for deres arvelod mod øst går fra Atarot-Addar til Øvre Bet-Horon **6** og derfra ud til havet. Mod nord er grænsen Mikmetat. Så drejer den mod øst til Ta’anat-Shilo og går videre øst om Janoha. **7** Fra Janoha går den ned til Atarot og Na’ara, lige forbi Jeriko og fortsætter ud til Jordan. **8** Fra Tappua går grænsen mod vest til Kana-bækken og ender ude ved havet. Det var efraimitternes stammes arvelod, slægt for slægt. **9** Dertil kommer alle de byer med tilhørende landsbyer, inden for manassitternes arvelod, som blev udskilt til efraimitterne.
 
 **10** Men de fik ikke fordrevet kana’anæerne, som boede i Gezer, og den dag i dag bor kana’anæerne i Efraim; de er blevet hoveriarbejdere.
+
+[– tilbage –](#indhold)
+
+<a id="jos17"></a>
 
 ### Jos 17
 
@@ -291,6 +359,10 @@ Derefter var landet fri for krig.
 
 **14** Josefsønnerne sagde til Josva: »Hvorfor har du kun givet os én arvelod og én del i eje, skønt vi er et talrigt folk, eftersom Herren hidtil har velsignet os?« **15** Josva sagde til dem: »Når I er så talrigt et folk, kan I drage op i skovlandet og rydde land der, i perizzitternes og refaitternes land, siden Efraims bjergland er for trangt for jer.« **16** Josefsønnerne sagde: »Bjerglandet kan ikke rumme os, og alle kana’anæerne, der bor i slettelandet, har jernvogne, både de, der bor i Bet-Shan med tilhørende småbyer, og de, der bor på Jizre’elsletten.« **17** Så sagde Josva til Josefs hus, Efraim og Manasse: »I er et talrigt folk, og I har stor styrke. I skal ikke nøjes med én del, **18** men I skal få det bjergland, der er skovbevokset, og det kan I rydde; det skal I få med dets udløbere. Men kana’anæerne skal I fordrive, selv om de har jernvogne og er stærke.«
 
+[– tilbage –](#indhold)
+
+<a id="jos18"></a>
+
 ### Jos 18
 
 #### Lodkastningen i Shilo om resten af landet
@@ -300,6 +372,10 @@ Derefter var landet fri for krig.
 **11** Loddet faldt på benjaminitternes stamme, slægt for slægt. Det område, der tilfaldt dem ved lodkastningen, lå mellem judæerne og Josefsønnerne. **12** Deres nordgrænse går fra Jordan, op til bjergryggen nord for Jeriko, mod vest op over bjerglandet og ender i ørkenen ved Bet-Aven. **13** Derfra går den videre mod syd til Luz, det samme som Betel, i retning af bjergryggen ved Luz, og ned til Atarot-Addar på bjerget syd for Nedre Bet-Horon. **14** Så går den i en bue, drejer og løber som vestgrænse mod syd fra bjerget, som ligger lige syd for Bet-Horon, og ender ved Kirjat-Ba’al, det samme som Kirjat-Jearim, den judæiske by. Det var vestgrænsen. **15** Sydgrænsen går fra udkanten af Kirjat-Jearim og fortsætter til Neftoakilden. **16** Så går den ned til kanten af det bjerg, der ligger over for Hinnoms søns dal nord for Refaim-dalen, ned gennem Hinnom-dalen på sydsiden af jebusitternes bjergryg, ned til Rogel-kilden. **17** Derpå går den i en bue mod nord, fortsætter til En-Shemesh, videre til Gelilot over for Adummim-passet, ned til Rubens søn Bohans sten, **18** videre til bjergryggen nord for Bet-ha-Araba, ned i Araba-lavningen. **19** Så går den videre til bjergryggen nord for Bet-Hogla og ender ved Salthavets nordlige bugt ved Jordans udløb. Det var sydgrænsen. **20** Mod øst er Jordan grænsen. Det var benjaminitternes arvelod med dens grænser hele vejen rundt, slægt for slægt.
 
 **21** De byer, som tilfaldt benjaminitternes stamme, slægt for slægt: Jeriko, Bet-Hogla, Emek-Kesis, **22** Bet-ha-Araba, Semarajim, Betel, **23** Avvim, Para, Ofra, **24** Kefar-ha-Ammoni, Ofni og Geba, i alt tolv byer med tilhørende landsbyer, **25** Gibeon, Rama, Be’erot, **26** Mispe, Kefira, Mosa, **27** Rekem, Jirpe’el, Tar’ala, **28** Sela, Elef, Jebus, det samme som Jerusalem, Gibea og Kirjat-Jearim, i alt fjorten byer med tilhørende landsbyer. Det var benjaminitternes arvelod, slægt for slægt.
+
+[– tilbage –](#indhold)
+
+<a id="jos19"></a>
 
 ### Jos 19
 
@@ -319,6 +395,10 @@ Derefter var landet fri for krig.
 
 **51** Det var de arvelodder, præsten Eleazar og Josva, Nuns søn, og overhovederne for de israelitiske stammers fædrenehuse fordelte ved lodkastning; det skete i Shilo for Herrens ansigt ved indgangen til Åbenbaringsteltet. Dermed var de færdige med at fordele landet.
 
+[– tilbage –](#indhold)
+
+<a id="jos20"></a>
+
 ### Jos 20
 
 #### Tilflugtsbyerne
@@ -326,6 +406,10 @@ Derefter var landet fri for krig.
 **1** Herren talte til Josva og sagde: **2** »Sig til israelitterne, at de skal udpege de tilflugtsbyer, som jeg talte til jer om ved Moses, **3** så en drabsmand, der uforsætligt og uforvarende slår nogen ihjel, kan flygte dertil; de skal være tilflugtssteder for jer mod blodhævneren. **4** Når drabsmanden søger tilflugt i en af disse byer og stiller sig ved indgangen til byporten, skal han forelægge sin sag for de ældste i den by. De skal give ham adgang til byen og give ham et sted, hvor han kan bo hos dem. **5** Når blodhævneren forfølger ham, må de ikke udlevere drabsmanden til ham; det var jo uforvarende, han slog sin næste ihjel, han havde ikke tidligere næret fjendskab mod ham. **6** Han kan så blive boende i den by, indtil han stilles for menighedens domstol, eller indtil den ypperstepræst dør, som er der til den tid. Da kan drabsmanden vende tilbage til sin by og sit hus, den by, han er flygtet fra.«
 
 **7** Så helligede de Kedesh i Galilæa i Naftalis bjergland, Sikem i Efraims bjergland og Kirjat-Arba, det samme som Hebron, i Judas bjergland. **8** Og øst for Jordan udpegede de Beser i ørkenen på Højsletten af Rubens stamme, Ramot i Gilead af Gads stamme og Golan i Bashan af Manasses stamme. **9** Det var de byer, der blev truffet aftale om for alle israelitterne og for de fremmede, der boede blandt dem; enhver, der uforsætligt havde slået nogen ihjel, kunne flygte dertil og undgå at blive dræbt af blodhævneren, før han havde været stillet for menighedens domstol.
+
+[– tilbage –](#indhold)
+
+<a id="jos21"></a>
 
 ### Jos 21
 
@@ -357,6 +441,10 @@ Derefter var landet fri for krig.
 
 **43** Således gav Herren Israel hele det land, han havde lovet at give deres fædre; de tog det i besiddelse og bosatte sig dér. **44** Herren skaffede dem fred til alle sider, ganske som han havde tilsvoret deres fædre, og ingen af deres fjender kunne holde stand mod dem. Alle fjenderne gav Herren i deres hånd. **45** Ikke ét af alle de gode ord, Herren talte til Israels hus, faldt til jorden; alt gik i opfyldelse.
 
+[– tilbage –](#indhold)
+
+<a id="jos22"></a>
+
 ### Jos 22
 
 #### Alteret ved Jordan
@@ -371,6 +459,10 @@ Derefter var landet fri for krig.
 
 **30** Præsten Pinehas og menighedens overhoveder og overhovederne for Israels stammer, som var med ham, hørte, hvad rubenitterne, gaditterne og manassitterne sagde, og de var tilfredse. **31** Og Pinehas, præsten Eleazars søn, sagde til rubenitterne, gaditterne og manassitterne: »Nu ved vi, at Herren er blandt os. I har altså ikke vist Herren denne troløshed, og derved har I reddet israelitterne fra Herrens hånd.« **32** Så forlod Pinehas, præsten Eleazars søn, og høvdingene rubenitterne og gaditterne i Gilead, vendte hjem til israelitterne i Kana’an og aflagde beretning for dem. **33** Det var israelitterne tilfredse med; de priste Gud og tænkte ikke mere på at drage i krig mod rubenitterne og gaditterne og ødelægge det land, hvor de boede. **34** Rubenitterne og gaditterne kaldte alteret Vidne, for de sagde: »Det er vidne mellem os om, at Herren er Gud.«
 
+[– tilbage –](#indhold)
+
+<a id="jos23"></a>
+
 ### Jos 23
 
 #### Josvas afskedstale
@@ -378,6 +470,10 @@ Derefter var landet fri for krig.
 **1** Lang tid efter, da Herren havde skaffet Israel fred for dets fjender på alle sider, og Josva var blevet gammel, højt oppe i årene, **2** kaldte Josva hele Israel, de ældste, overhovederne, dommerne og skriverne til sig og sagde til dem: »Jeg er blevet gammel, højt oppe i årene. **3** I har selv set alt, hvad Herren jeres Gud har gjort ved alle disse folk foran jer; Herren jeres Gud førte selv krigen for jer. **4** Se, de folk, der var tilbage, har jeg tildelt jer som ejendom, stamme for stamme, tillige med alle de folk, jeg har udryddet, fra Jordan til Det Store Hav i vest. **5** Herren jeres Gud vil selv jage dem væk og drive dem bort foran jer, så I kan tage deres land i besiddelse, sådan som Herren jeres Gud har lovet jer. **6** Hold ud, og gør omhyggeligt alt, hvad der står i Moses’ lovbog, uden at vige fra den til højre eller til venstre. **7** I må ikke indlade jer med de folk, som er tilbage hos jer; I må ikke påkalde deres guders navne eller sværge ved dem, I må ikke dyrke og tilbede dem. **8** I skal holde fast ved Herren jeres Gud, sådan som I hidtil har gjort. **9** Derfor drev Herren store og mægtige folk bort foran jer, og ingen har hidtil kunnet holde stand mod jer. **10** Hver eneste af jer kunne jage tusind på flugt, for Herren jeres Gud førte selv krigen for jer, sådan som han havde lovet jer.
 
 **11** Tag jer godt i agt, og elsk Herren jeres Gud! **12** For hvis I vender jer bort og holder jer til de folk, som er tilbage hos jer, og bringer jer i familie med dem og indlader jer med dem og de med jer, **13** da skal I vide, at Herren jeres Gud ikke længere vil drive disse folk bort foran jer. De vil blive en fælde og en snare for jer, en pisk over ryggen og en torn i øjet på jer, indtil I er udryddet fra denne gode jord, som Herren jeres Gud gav jer. **14** Jeg går nu al kødets gang. Med hele jeres hjerte og med hele jeres sjæl ved I, at ikke ét af alle de gode ord, Herren jeres Gud talte til jer, er faldet til jorden. Alt er gået i opfyldelse for jer; ikke ét ord er faldet til jorden. **15** Men ligesom alt det gode, Herren jeres Gud talte til jer, er gået i opfyldelse for jer, vil Herren også lade alt det onde gå i opfyldelse, indtil han har udryddet jer fra denne gode jord, som han gav jer. **16** Bryder I den pagt, Herren jeres Gud pålagde jer, og går hen og dyrker og tilbeder andre guder, da vil Herrens vrede flamme op mod jer, og I vil meget snart blive udryddet fra det herlige land, han gav jer.«
+
+[– tilbage –](#indhold)
+
+<a id="jos24"></a>
 
 ### Jos 24
 
@@ -403,9 +499,13 @@ Derefter var landet fri for krig.
 
 **33** Arons søn Eleazar døde, og de begravede ham i Gibea, den by, hans søn Pinehas havde fået i Efraims bjergland.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Dommerbogen
+
+<a id="dom1"></a>
 
 ### Dom 1
 
@@ -445,6 +545,10 @@ Derefter var landet fri for krig.
 
 **36** Edomitternes område strakte sig fra Akrabbim-passet, fra Sela og opefter.
 
+[– tilbage –](#indhold)
+
+<a id="dom2"></a>
+
 ### Dom 2
 
 #### Englens straffetale i Bokim
@@ -460,6 +564,10 @@ Derefter var landet fri for krig.
 **16** Så lod Herren dommere fremstå, som frelste dem fra de folk, der udplyndrede dem. **17** Men heller ikke dommerne adlød de; de horede med andre guder og tilbad dem. De veg hurtigt fra den vej, deres fædre havde vandret ad; fædrene havde adlydt Herrens befalinger, men de gjorde det ikke. **18** Hver gang Herren lod en dommer fremstå blandt dem, var Herren med ham og frelste dem fra deres fjender, så længe dommeren levede. For Herren fik medlidenhed med dem, når de jamrede over, at de blev undertrykt og pint. **19** Men så snart dommeren døde, faldt de tilbage og handlede værre end deres fædre; de fulgte andre guder og dyrkede og tilbad dem. De holdt ikke op med deres onde gerninger og med deres trodsige adfærd.
 
 **20** Da flammede Herrens vrede op mod Israel, og han sagde: »Dette folk har overtrådt den pagt, jeg pålagde deres fædre, og de har ikke adlydt mig; **21** så vil jeg heller ikke længere fordrive et eneste af de folk, som Josva lod tilbage, da han døde; **22** for med dem kan jeg sætte Israel på prøve og se, om de følger Herrens vej, sådan som deres fædre gjorde, eller de ikke gør det.« **23** Så lod Herren disse folk blive boende; han fordrev dem ikke med det samme og gav dem ikke i Josvas hånd.
+
+[– tilbage –](#indhold)
+
+<a id="dom3"></a>
 
 ### Dom 3
 
@@ -483,6 +591,10 @@ Engang sendte israelitterne ham til Moabs konge Eglon med tribut. **16** Ehud la
 
 **31** Efter ham kom Shamgar, Anats søn, og han slog seks hundrede filistre ihjel med en oksedriverstav. Også han frelste Israel.
 
+[– tilbage –](#indhold)
+
+<a id="dom4"></a>
+
 ### Dom 4
 
 #### Debora og Barak
@@ -500,6 +612,10 @@ Engang sendte israelitterne ham til Moabs konge Eglon med tribut. **16** Ehud la
 **17** I mellemtiden var Sisera flygtet til fods til Jaels telt; Jael var kenitten Hebers kone. Der rådede nemlig fred mellem Hasors konge Jabin og kenitten Hebers hus. **18** Jael gik Sisera i møde og sagde til ham: »Kom med hjem, herre, kom med mig hjem. Vær ikke bange!« Så gik han med hende ind i teltet, og hun lagde et tæppe over ham. **19** Han sagde til hende: »Giv mig lidt vand, jeg er så tørstig.« Hun åbnede lædersækken med mælk og gav ham noget at drikke; så lagde hun tæppet over ham igen. **20** Han sagde til hende: »Stil dig i teltåbningen. Hvis der kommer nogen og spørger, om der er nogen herinde, skal du svare nej.« **21** Men Jael, Hebers kone, tog en teltpløk, og med en hammer i hånden listede hun ind til ham og drev pløkken gennem tindingen på ham, så den gik ned i jorden; for han var faldet i dyb søvn, træt som han var. Sådan døde han. **22** I det samme kom Barak, som forfulgte Sisera, forbi. Jael gik ham i møde og sagde til ham: »Kom, så skal jeg vise dig den mand, du søger.« Han gik med hende ind, og dér lå Sisera død med pløkken gennem tindingen.
 
 **23** Sådan lod Gud den dag kana’anæerkongen Jabin bukke under for israelitterne. **24** Deres hånd lå stadig tungere på kana’anæerkongen Jabin, og til sidst fik de gjort det af med ham.
+
+[– tilbage –](#indhold)
+
+<a id="dom5"></a>
 
 ### Dom 5
 
@@ -629,6 +745,10 @@ Engang sendte israelitterne ham til Moabs konge Eglon med tribut. **16** Ehud la
 
 Derefter havde landet ro i fyrre år.
 
+[– tilbage –](#indhold)
+
+<a id="dom6"></a>
+
 ### Dom 6
 
 #### Gideons kaldelse til dommer
@@ -649,6 +769,10 @@ Derefter havde landet ro i fyrre år.
 
 **36** Gideon sagde til Gud: »Vil du frelse Israel ved mig, sådan som du har lovet? **37** Nu lægger jeg noget uld på tærskepladsen, og hvis der falder dug på ulden alene, mens der er tørt på jorden, så ved jeg, at du vil frelse Israel ved mig, sådan som du har lovet.« **38** Og sådan gik det. Da han næste morgen vred ulden, pressede han så meget dug af den, at der blev en skålfuld vand. **39** Gideon sagde til Gud: »Du må ikke blive vred på mig, når jeg taler denne ene gang endnu. Lad mig bare én gang til prøve med ulden. Lad ulden alene være tør, mens der falder dug på jorden.« **40** Og sådan gjorde Gud den nat. Kun ulden var tør, mens der var dug på jorden.
 
+[– tilbage –](#indhold)
+
+<a id="dom7"></a>
+
 ### Dom 7
 
 #### Gideons sejr over midjanitterne
@@ -666,6 +790,10 @@ Midjanitternes lejr lå nede på sletten.
 **19** Ved begyndelsen af den midterste nattevagt kom Gideon og de hundrede mand, som var sammen med ham, til udkanten af lejren, netop som vagten var sat. Da stødte de i hornene og knuste krukkerne, de havde i hænderne. **20** Alle tre afdelinger stødte i hornene og slog krukkerne i stykker. I venstre hånd holdt de faklerne og i højre hånd hornene, som de stødte i. Og de råbte: »Sværdet for Herren og for Gideon!« **21** De blev stående på hver sin plads rundt om lejren, og alle i lejren gav sig til at løbe og flygtede skrigende bort. **22** Da de tre hundrede stødte i hornene, lod Herren alle i lejren rette sværdet mod hinanden, og de flygtede til Bet-ha-Shitta i retning af Serera, til bredden ved Abel-Mehola over for Tabbat.
 
 **23** Så blev israelitterne fra Naftali, Asher og hele Manasse kaldt sammen, og de satte efter midjanitterne. **24** Og Gideon sendte bud ud i hele Efraims bjergland: »Drag ned mod midjanitterne, og afskær dem fra floden helt til Bet-Bara ved Jordan!« Alle efraimitterne blev kaldt sammen, og de afskar adgangen til floden helt til Bet-Bara ved Jordan. **25** De tog midjanitternes to høvdinge Oreb og Ze’eb til fange. Oreb dræbte de på Orebs klippe, og Ze’eb dræbte de i Ze’ebs perse, og så satte de efter midjanitterne. Hovederne af Oreb og Ze’eb bragte de til Gideon på den anden side af Jordan.
+
+[– tilbage –](#indhold)
+
+<a id="dom8"></a>
 
 ### Dom 8
 
@@ -692,6 +820,10 @@ Midjanitternes lejr lå nede på sletten.
 #### Abimeleks kongedømme i Sikem
 
 **33** Da Gideon var død, gav israelitterne sig igen til at hore med Ba’alerne; de gjorde Ba’al-Berit til deres gud. **34** De huskede ikke Herren deres Gud, som havde reddet dem fra deres fjender på alle sider. **35** De var ikke trofaste mod Jerubba’als, Gideons, hus og gengældte ham ikke alt det gode, han havde gjort mod Israel.
+
+[– tilbage –](#indhold)
+
+<a id="dom9"></a>
 
 ### Dom 9
 
@@ -748,6 +880,10 @@ Midjanitternes lejr lå nede på sletten.
 
 **56** Den ondskab, Abimelek havde øvet mod sin far ved at dræbe sine halvfjerds brødre, **57** og al sikemitternes ondskab lod Gud på den måde ramme dem selv. Således kom Jerubba’als søn Jotams forbandelse over dem.
 
+[– tilbage –](#indhold)
+
+<a id="dom10"></a>
+
 ### Dom 10
 
 #### Tola og Jair
@@ -763,6 +899,10 @@ Midjanitternes lejr lå nede på sletten.
 **10** Da råbte israelitterne til Herren og sagde: »Vi har syndet mod dig, for vi har svigtet vor Gud og dyrket Ba’alerne.« **11** Men Herren sagde til israelitterne: »Blev I ikke undertrykt af egypterne, amoritterne, ammonitterne, filistrene, **12** sidonierne, amalekitterne og midjanitterne? I råbte til mig, og jeg frelste jer fra dem. **13** Men I svigtede mig og dyrkede andre guder. Derfor vil jeg ikke frelse jer mere. **14** Gå hen og råb til de guder, I har valgt! De kan frelse jer, nu I er i nød.« **15** Da sagde israelitterne til Herren: »Vi har syndet. Gør med os, hvad du vil, blot du redder os nu.« **16** Så fjernede de de fremmede guder og dyrkede Herren. Da kunne han ikke længere bære, at Israel led nød.
 
 **17** Ammonitterne blev kaldt sammen og slog lejr i Gilead, og israelitterne samledes og slog lejr i Mispa. **18** Folket, Gileads høvdinge, sagde til hinanden: »Hvor er den mand, som vil åbne kampen mod ammonitterne? Han skal være overhoved for alle indbyggerne i Gilead.«
+
+[– tilbage –](#indhold)
+
+<a id="dom11"></a>
 
 ### Dom 11
 
@@ -782,6 +922,10 @@ Midjanitternes lejr lå nede på sletten.
 
 Det blev skik i Israel, **40** at israelitiske kvinder fire dage hvert år går ud og synger klagesange over gileaditten Jeftas datter.
 
+[– tilbage –](#indhold)
+
+<a id="dom12"></a>
+
 ### Dom 12
 
 **1** Efraimitterne blev kaldt sammen og gik over Jordan til Safon. De sagde til Jefta: »Hvorfor gik du i krig mod ammonitterne uden at opfordre os til at gå med? Vi brænder huset af over hovedet på dig!« **2** Jefta sagde til dem: »Jeg og mine folk lå i hård strid med ammonitterne. Jeg bad jer om hjælp, men I kom mig ikke til hjælp mod dem. **3** Da jeg så, at I ikke ville hjælpe mig, satte jeg livet på spil og drog ud mod ammonitterne; og Herren gav dem i min hånd. Hvorfor går I nu til angreb på mig?«
@@ -798,6 +942,10 @@ Det blev skik i Israel, **40** at israelitiske kvinder fire dage hvert år går 
 
 **13** Efter ham var Abdon, Hillels søn fra Pir’aton, dommer i Israel. **14** Han havde fyrre sønner og tredive sønnesønner; de red på halvfjerds æsler. Han var dommer i Israel i otte år. **15** Abdon, Hillels søn fra Pir’aton, døde og blev begravet i Pir’aton i Efraim på amalekitterbjerget.
 
+[– tilbage –](#indhold)
+
+<a id="dom13"></a>
+
 ### Dom 13
 
 #### Samsons fødsel
@@ -811,6 +959,10 @@ Det blev skik i Israel, **40** at israelitiske kvinder fire dage hvert år går 
 **19** Så tog Manoa gedekiddet og afgrødeofferet og ofrede det på klippen til Herren, som handler underfuldt. Mens Manoa og hans kone så på det, **20** slog flammen op fra alteret. Herrens engel steg op til himlen i flammen, mens Manoa og hans kone så på det, og de kastede sig til jorden; **21** Herrens engel viste sig ikke mere for Manoa og hans kone. Da forstod Manoa, at det var Herrens engel, **22** og han sagde til sin kone: »Nu skal vi dø, for vi har set Gud!« **23** Men hans kone sagde til ham: »Hvis Herren havde besluttet, at vi skulle dø, ville han ikke have taget imod vores brændoffer og afgrødeoffer eller ladet os se og høre alt dette.«
 
 **24** Kvinden fødte en søn, og hun kaldte ham Samson. Drengen voksede op, og Herren velsignede ham. **25** Og Herrens ånd begyndte at virke i ham i Dans lejr mellem Sor’a og Eshtaol.
+
+[– tilbage –](#indhold)
+
+<a id="dom14"></a>
 
 ### Dom 14
 
@@ -839,6 +991,10 @@ Han svarede:
 
 **19** Da greb Herrens ånd ham, og han gik ned til Ashkalon og slog tredive mænd ihjel. Han tog deres tøj og gav klæderne til dem, der havde løst gåden. I vrede gik han op til sin fars hus. **20** Men Samsons kone blev givet til den brudesvend, der havde været hans brudefører.
 
+[– tilbage –](#indhold)
+
+<a id="dom15"></a>
+
 ### Dom 15
 
 #### Samson hævner sig på filistrene
@@ -859,6 +1015,10 @@ Han svarede:
 **18** Han var blevet meget tørstig, og han råbte til Herren: »Du har ladet din tjener vinde denne store sejr; skal jeg så dø af tørst og falde i hænderne på de uomskårne?« **19** Da kløvede Gud den hulning, der er i Lehi, så der strømmede vand ud derfra. Han drak og kom til kræfter igen. Derfor kaldte man den En-ha-Kore. Den findes i Lehi den dag i dag.
 
 **20** Samson var dommer i Israel i filistrenes dage i tyve år.
+
+[– tilbage –](#indhold)
+
+<a id="dom16"></a>
 
 ### Dom 16
 
@@ -892,6 +1052,10 @@ Han svarede:
 
 **31** Hans brødre og hele hans fars slægt gik ned og hentede ham. De bar ham hjem og begravede ham i hans far Manoas grav mellem Sor’a og Eshtaol. Han havde været dommer i Israel i tyve år.
 
+[– tilbage –](#indhold)
+
+<a id="dom17"></a>
+
 ### Dom 17
 
 #### Mikas helligdom
@@ -901,6 +1065,10 @@ Han svarede:
 **6** På den tid var der ingen konge i Israel. Enhver gjorde, hvad han fandt for godt.
 
 **7** I Betlehem i Juda var der en ung mand af Judas slægt; han var levit og havde slået sig ned dér. **8** Denne mand forlod byen Betlehem i Juda for at slå sig ned, hvor han kunne komme til det. På sin vandring kom han til Mikas hus i Efraims bjergland. **9** Mika spurgte ham, hvor han kom fra, og han svarede: »Jeg er en levit fra Betlehem i Juda; jeg er på vandring for at slå mig ned, hvor jeg kan komme til det.« **10** Mika sagde til ham: »Bliv hos mig, og vær fader og præst hos mig. Jeg vil give dig ti sekel sølv om året og holde dig med klæder og kost.« **11** Levitten tog imod tilbudet og blev boende hos manden, der behandlede den unge mand som en søn. **12** Mika indsatte levitten som sin præst, og den unge mand blev boende i Mikas hus. **13** Og Mika sagde: »Nu ved jeg, at Herren vil vise mig godhed, for jeg har fået en levit til præst.«
+
+[– tilbage –](#indhold)
+
+<a id="dom18"></a>
 
 ### Dom 18
 
@@ -916,6 +1084,10 @@ På den tid søgte danitternes stamme sig en arvelod, hvor de kunne bo. For hidt
 
 **27** Efter at danitterne havde taget det, Mika havde lavet, og hans præst, drog de mod Lajish, mod et folk, der levede roligt og trygt. De huggede indbyggerne ned med sværd og brændte byen ned, **28** uden at nogen kunne redde den, for den lå langt fra Sidon og havde intet med aramæerne at gøre. Den lå i dalen ved Bet-Rehob. De byggede byen op og bosatte sig der. **29** De gav byen navnet Dan efter deres stamfader Dan, som var søn af Israel. Tidligere hed den Lajish. **30** Derpå stillede danitterne gudebilledet op. Jonatan, Gershoms søn, Moses’ sønnesøn, og hans efterkommere var præster for danitternes stamme lige til den dag, befolkningen blev ført i eksil. **31** Det gudebillede, Mika havde lavet, stillede de op, og det stod der al den tid, Guds hus var i Shilo.
 
+[– tilbage –](#indhold)
+
+<a id="dom19"></a>
+
 ### Dom 19
 
 #### Benjaminitternes skændselsdåd
@@ -927,6 +1099,10 @@ På den tid søgte danitternes stamme sig en arvelod, hvor de kunne bo. For hidt
 **22** Mens de sad og havde det rart, blev huset omringet af mændene i byen, og det var ondsindede mennesker. De hamrede på døren og råbte til den gamle mand, der ejede huset: »Kom ud med den mand, der er kommet til dit hus. Vi vil ligge med ham!« **23** Men manden, der ejede huset, gik ud til dem og sagde: »Nej, brødre, I må ikke handle ondt! Så nedrigt må I ikke bære jer ad, nu da denne mand er kommet til mit hus. **24** Her er min datter; hun er jomfru. Hende vil jeg føre ud til jer, så I kan voldtage hende og gøre med hende, hvad I har lyst til. Men denne mand må I ikke gøre noget så nedrigt imod.« **25** Men mændene ville ikke høre på ham. Så tog manden sin medhustru og førte hende ud på gaden til dem. Og de lå med hende og mishandlede hende hele natten, lige til det blev morgen; de slap hende først, da det var ved at blive lyst. **26** Ved daggry kom kvinden og faldt sammen foran døren til mandens hus, hvor hendes herre var, og dér lå hun, lige til det var helt lyst. **27** Om morgenen stod hendes herre op, og da han åbnede døren og gik ud for at drage videre, fandt han sin medhustru liggende foran døren med hænderne på tærskelen. **28** Han sagde til hende: »Rejs dig op, så vi kan komme af sted!« Men der kom intet svar. Så løftede han hende op på æslet og begav sig hjemad.
 
 **29** Da han var kommet hjem, greb han en kniv, tog sin medhustru og skar hende i tolv stykker, led for led, og sendte stykkerne af hende ud i hele Israel. **30** Og alle, der så det, sagde: »Lige siden israelitterne drog op fra Egypten, er sådan noget aldrig sket; vi har aldrig oplevet noget lignende. Tænk nu over det! Sig, hvad I råder til!«
+
+[– tilbage –](#indhold)
+
+<a id="dom20"></a>
 
 ### Dom 20
 
@@ -946,6 +1122,10 @@ Israelitterne trak sig tilbage for benjaminitterne, for de stolede på det bagho
 
 **48** Israelitterne vendte tilbage til benjaminitterne, og i hver eneste by huggede de mænd og dyr, alt, hvad de traf på, ned med sværd; og alle de byer, de kom til, stak de ild på.
 
+[– tilbage –](#indhold)
+
+<a id="dom21"></a>
+
 ### Dom 21
 
 **1** I Mispa havde israelitterne svoret, at ingen af dem ville give en benjaminit sin datter til kone. **2** Da nu folket var kommet til Betel, satte de sig dér for Guds ansigt og gav sig til at græde højt lige til aften. **3** De sagde: »Herre, Israels Gud! Hvorfor er dette sket i Israel? Vi må i dag savne en af Israels stammer!« **4** Næste morgen byggede folket et alter dér, og de bragte brændofre og måltidsofre.
@@ -956,9 +1136,13 @@ Israelitterne trak sig tilbage for benjaminitterne, for de stolede på det bagho
 
 **25** På den tid var der ingen konge i Israel. Enhver gjorde, hvad han fandt for godt.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Ruths Bog
+
+<a id="ruth1"></a>
 
 ### Ruth 1
 
@@ -972,6 +1156,10 @@ Men da de kom ind i Betlehem, blev der røre i hele byen, og kvinderne sagde: »
 
 **22** Sådan kom No’omi hjem sammen med sin moabitiske svigerdatter Ruth, dengang hun vendte tilbage fra Moabs land. De kom til Betlehem i begyndelsen af byghøsten.
 
+[– tilbage –](#indhold)
+
+<a id="ruth2"></a>
+
 ### Ruth 2
 
 #### Ruth møder Boaz
@@ -981,6 +1169,10 @@ Men da de kom ind i Betlehem, blev der røre i hele byen, og kvinderne sagde: »
 **3** Så gik hun ud på en mark og samlede aks efter høstfolkene. Nu traf det sig, at den mark tilhørte Boaz, der var af Elimeleks slægt. **4** Boaz, der netop var kommet fra Betlehem, sagde til høstfolkene: »Herren være med jer!« og de svarede: »Herren velsigne dig!« **5** Så spurgte Boaz den karl, som havde opsyn med høstfolkene: »Hvor hører den pige hjemme?« **6** Karlen, som havde opsyn med høstfolkene, svarede: »Det er den moabitiske pige, der kom tilbage fra Moabs land sammen med No’omi. **7** Hun spurgte, om hun måtte samle aks mellem negene efter høstfolkene. Hun gik i gang og er blevet ved fra i morges lige til nu; hun var kun hjemme et kort stykke tid.« **8** Så sagde Boaz til Ruth: »Hør her, min pige, du skal ikke gå hen og samle på nogen anden mark; gå ikke herfra, men hold dig til mine piger. **9** Hold øje med, hvor på marken de høster, og følg efter dem. Jeg skal nok give karlene besked om, at de skal lade dig være i fred. Og når du bliver tørstig, kan du bare gå hen til karrene og drikke det, karlene øser op.« **10** Da kastede hun sig til jorden og sagde til ham: »Hvordan har jeg dog vundet din velvilje, så du kendes ved mig, skønt jeg er fremmed?« **11** Boaz svarede hende: »Jeg har hørt om alt det, du har gjort for din svigermor efter din mands død, at du forlod din far og mor og dit fædreland og rejste til et folk, du ikke kendte i forvejen. **12** Måtte Herren gengælde dig, hvad du har gjort! Måtte du få den fulde løn af Herren, Israels Gud, nu da du har søgt ly under hans vinger!« **13** Så sagde hun: »Måtte jeg bevare din velvilje, herre! Du har trøstet mig og talt venligt til din trælkvinde, skønt jeg ikke engang er som en af dine trælkvinder.« **14** Ved spisetid sagde Boaz til hende: »Kom herhen og få et stykke brød, og dyp det i vineddiken.« Så satte hun sig hos høstfolkene, og han rakte hende noget ristet korn. Hun spiste sig mæt og kunne endda levne. **15** Da hun rejste sig for at samle aks, gav Boaz sine karle den besked: »Hun må også samle aks mellem negene; I må ikke forulempe hende! **16** I kan også trække aks ud af knipperne til hende og lade dem ligge, så hun kan samle dem; lad være med at true ad hende!« **17** Så samlede hun aks på marken, til det blev aften, og da hun havde tærsket det, hun havde samlet, var der omtrent en efa byg.
 
 **18** Hun bar det ind til byen, og hendes svigermor så, hvad hun havde samlet. Derpå tog hun det frem, hun havde levnet, da hun havde spist sig mæt, og gav det til No’omi. **19** Svigermoderen spurgte hende: »Hvor har du samlet aks i dag, hvor har du arbejdet? Velsignet være han, som ville kendes ved dig!« Så fortalte hun sin svigermor, hvem hun havde arbejdet hos: »Den mand, jeg har arbejdet hos i dag, hedder Boaz.« **20** Da sagde No’omi til sin svigerdatter: »Herren velsigne ham, Herren som ikke svigter sin troskab mod de levende og de døde!« Og No’omi sagde til hende: »Den mand er i slægt med os, han er en af vores løsere.« **21** Moabitten Ruth sagde: »Han sagde oven i købet til mig: Du skal holde dig til mine karle, til de er helt færdige med at høste for mig.« **22** Og No’omi sagde til sin svigerdatter Ruth: »Det er godt, min datter. Når du går sammen med hans piger, bliver du ikke forulempet på en anden mark.« **23** Så holdt hun sig til Boaz’ piger og samlede aks, til byghøsten og hvedehøsten var ovre; og hun blev boende hos sin svigermor.
+
+[– tilbage –](#indhold)
+
+<a id="ruth3"></a>
 
 ### Ruth 3
 
@@ -993,6 +1185,10 @@ Men da de kom ind i Betlehem, blev der røre i hele byen, og kvinderne sagde: »
 **14** Så blev hun liggende ved hans fødder, til det blev morgen; men hun stod op, før man var i stand til at skelne det ene menneske fra det andet, for han sagde, at det ikke måtte blive kendt, at hun var kommet hen på tærskepladsen. **15** Så sagde han: »Tag det slag, du har over dig, og hold det frem.« Det gjorde hun, og han øste seks mål byg op i det og gav hende det på ryggen. Så gik han ind til byen.
 
 **16** Hun gik hjem til sin svigermor, som spurgte: »Er det dig, min datter?« Ruth fortalte hende så alt, hvad manden havde gjort for hende; **17** hun sagde: »Disse seks mål byg gav han mig, for han sagde: Du skal ikke komme tomhændet til din svigermor.« **18** Så sagde No’omi: »Bliv nu her, min datter, til du kender sagens udfald; for den mand under sig ingen ro, han skal nok få den sag afgjort i dag.«
+
+[– tilbage –](#indhold)
+
+<a id="ruth4"></a>
 
 ### Ruth 4
 
@@ -1010,9 +1206,13 @@ Men da de kom ind i Betlehem, blev der røre i hele byen, og kvinderne sagde: »
 
 **18** Dette er Peres’ slægt: Peres fik sønnen Hesron, **19** Hesron fik Ram, Ram fik Amminadab, **20** Amminadab fik Nakshon, Nakshon fik Salma, **21** Salma fik Boaz, Boaz fik Obed, **22** Obed fik Isaj, og Isaj fik David.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Første Samuelsbog
+
+<a id="1sam1"></a>
 
 ### 1 Sam 1
 
@@ -1023,6 +1223,10 @@ Men da de kom ind i Betlehem, blev der røre i hele byen, og kvinderne sagde: »
 #### Samuel overgives til templet i Shilo
 
 **21** Da Elkana med hele sin husstand drog op for at bringe det årlige slagtoffer og sit løfteoffer til Herren, **22** gik Hanna ikke med, for hun sagde til sin mand: »Når drengen er vænnet fra, vil jeg bringe ham derhen. Så kan vi se Herrens ansigt, og han skal blive der altid.« **23** Hendes mand Elkana sagde til hende: »Gør, som du synes; bliv her, indtil du har vænnet ham fra. Måtte Herren holde sit løfte!« Så blev hun hjemme og ammede sin søn, til han var vænnet fra. **24** Da hun havde vænnet ham fra, tog hun ham med op til Herrens tempel i Shilo tillige med en treårig tyr, en efa mel og en krukke vin; drengen var endnu lille. **25** De slagtede tyren og førte drengen hen til Eli, **26** og Hanna sagde: »Hør mig, herre! Så sandt du lever, herre: Jeg er den kvinde, der stod her hos dig og bad til Herren. **27** Jeg bad om denne dreng, og Herren gav mig, hvad jeg bad ham om. **28** Nu overgiver jeg ham til Herren; hele sit liv skal han tilhøre Herren.« Og de tilbad Herren der.
+
+[– tilbage –](#indhold)
+
+<a id="1sam2"></a>
 
 ### 1 Sam 2
 
@@ -1082,6 +1286,10 @@ Men da de kom ind i Betlehem, blev der røre i hele byen, og kvinderne sagde: »
 
 **27** Da kom en gudsmand til Eli og sagde til ham: »Dette siger Herren: Jeg åbenbarede mig for dit fædrenehus, dengang de i Egypten tjente Faraos hus. **28** Af alle Israels stammer udvalgte jeg dem til at være præster for mig, til at stige op på mit alter, bringe røgelsesoffer og bære efod for mit ansigt, og jeg tildelte dit fædrenehus alle israelitternes ofre. **29** Hvorfor viser I da ringeagt for de slagtofre og afgrødeofre, som jeg har påbudt i min bolig, og hvorfor ærer du dine sønner mere end mig, så I mæsker jer med det bedste af alle de offergaver, som mit folk Israel bringer? **30** Derfor siger Herren, Israels Gud: Nok har jeg sagt, at dit hus og dit fædrenehus altid skal have deres gang for mit ansigt; men nu siger Herren: Det skal ikke ske! Kun dem, der ærer mig, vil jeg ære, men de, der ringeagter mig, skal blive til skamme. **31** Den tid skal komme, da jeg hugger armen af dig og dit fædrenehus, så ingen i dit hus bliver gammel. **32** Og du skal se med misundelse på alt det gode, jeg gør mod Israel. Men i dit hus skal ingen nogen sinde blive gammel. **33** Kun en enkelt af din slægt vil jeg undlade at udrydde fra mit alter; jeg slukker lyset i dine øjne og tager livskraften fra dig. Alle andre i din slægt skal dø i deres bedste alder. **34** Og det, der rammer dine to sønner Hofni og Pinehas, skal være dig et tegn: De skal begge dø på samme dag. **35** Men jeg vil lade en trofast præst fremstå, som skal handle efter mit ønske og min vilje. Til ham vil jeg bygge et hus, der står fast, og han skal altid have sin gang for min salvedes ansigt. **36** Da skal alle, der er tilbage i dit hus, komme og kaste sig ned for ham for at få en skilling eller et stykke brød, og de skal sige: Lad mig dog få plads i et af præsteskaberne, så jeg kan få lidt at spise.«
 
+[– tilbage –](#indhold)
+
+<a id="1sam3"></a>
+
 ### 1 Sam 3
 
 #### Samuel kaldes til profet
@@ -1095,6 +1303,10 @@ Men da de kom ind i Betlehem, blev der røre i hele byen, og kvinderne sagde: »
 **15** Samuel blev liggende, til det blev morgen. Så åbnede han dørene til Herrens tempel; men han turde ikke fortælle Eli om synet. **16** Da kaldte Eli på Samuel: »Samuel, min søn!« Han svarede ja. **17** Eli spurgte: »Hvad sagde han til dig? Skjul det ikke for mig! Gud ramme dig igen og igen, hvis du skjuler noget som helst af det, han har sagt til dig.« **18** Så fortalte Samuel ham det hele og skjulte ingenting for ham; og Eli sagde: »Han er Herren, han gør, hvad han vil.«
 
 **19** Samuel voksede op, og Herren var med ham og lod ikke et eneste af sine ord falde til jorden. **20** Og hele Israel fra Dan til Be’ersheba forstod, at det var betroet Samuel at være profet for Herren. **21** Herren blev ved med at vise sig i Shilo, for dér åbenbarede Herren sig for Samuel gennem sit ord.
+
+[– tilbage –](#indhold)
+
+<a id="1sam4"></a>
 
 ### 1 Sam 4
 
@@ -1110,6 +1322,10 @@ Israel rykkede ud til kamp mod filistrene. De slog lejr ved Eben-ha-Ezer, mens f
 
 **19** Hans svigerdatter, Pinehas’ kone, var gravid og skulle snart føde. Da hun hørte, at Guds ark var taget som bytte, og at hendes svigerfar og hendes mand var døde, kom veerne over hende, og hun satte sig på hug og fødte. **20** Da hun var lige ved at dø, sagde de kvinder, der stod hos hende: »Du skal ikke være bange, du har født en søn.« Men hun svarede ikke og ænsede intet. **21** Hun kaldte drengen Ikabod og sagde: »Herligheden er forsvundet fra Israel.« Med det mente hun, at Guds ark var taget som bytte, og at hendes svigerfar og hendes mand var døde. **22** Og hun sagde: »Herligheden er forsvundet fra Israel, for Guds ark er taget som bytte.«
 
+[– tilbage –](#indhold)
+
+<a id="1sam5"></a>
+
 ### 1 Sam 5
 
 #### Pagtens ark hos filistrene
@@ -1117,6 +1333,10 @@ Israel rykkede ud til kamp mod filistrene. De slog lejr ved Eben-ha-Ezer, mens f
 **1** Da filistrene havde taget Guds ark og bragt den fra Eben-ha-Ezer til Ashdod, **2** førte de den ind i Dagons tempel og stillede den ved siden af Dagon. **3** Næste morgen opdagede ashdoditterne, at Dagon var faldet næsegrus til jorden foran Herrens ark. De tog Dagon og stillede ham tilbage på hans plads. **4** Næste morgen så de, at Dagon igen var faldet næsegrus til jorden foran Herrens ark. Dagons hoved og hænder var slået af mod tærskelen; kun kroppen var tilbage af ham. **5** Det er grunden til, at Dagons præster, og hvem der ellers går ind i Dagons tempel i Ashdod, den dag i dag undlader at træde på tærskelen.
 
 **6** Herrens hånd lå tungt på ashdoditterne, og han slog dem med rædsel. Han ramte dem med bylder, både i selve Ashdod og i dens opland. **7** Da mændene i Ashdod så, hvad der skete, sagde de: »Israels Guds ark kan ikke blive hos os, for han har lagt sin hårde hånd på os og på vores gud Dagon.« **8** Derfor sendte de bud og samlede alle filisterfyrsterne og spurgte: »Hvad skal vi gøre med Israels Guds ark?« De svarede: »Israels Guds ark skal flyttes til Gat.« Så flyttede de den. **9** Men da de havde flyttet den derhen, skabte Herrens hånd stor rædsel i byen. Han ramte byens mænd fra den mindste til den største, så der brød bylder ud på dem. **10** Så sendte de Guds ark til Ekron, og da den var kommet dertil, råbte ekronitterne: »De har flyttet Israels Guds ark herhen for at slå os og hele folket ihjel!« **11** De sendte bud og samlede alle filisterfyrsterne og sagde: »Send Israels Guds ark hjem, så den ikke slår os og hele folket ihjel!« Hele byen var dødsensangst, for Guds hånd lå meget tungt på den. **12** De mænd, som ikke døde, blev ramt af bylder, og byens klageråb nåede op til himlen.
+
+[– tilbage –](#indhold)
+
+<a id="1sam6"></a>
 
 ### 1 Sam 6
 
@@ -1131,6 +1351,10 @@ Israel rykkede ud til kamp mod filistrene. De slog lejr ved Eben-ha-Ezer, mens f
 **17** Dette er de guldbylder, filistrene gav Herren i sonegave: én for Ashdod, én for Gaza, én for Ashkalon, én for Gat og én for Ekron. **18** Guldmusene svarede til tallet på alle de byer, der hørte ind under de fem filisterfyrster, både de befæstede byer og landsbyerne. Den store sten, hvor de satte Herrens ark, og som lå på den mark, der tilhørte Josva fra Bet-Shemesh, er den dag i dag vidne om dette.
 
 **19** Men Herren slog nogle af mændene i Bet-Shemesh ihjel, fordi de havde kigget på Herrens ark; han slog halvfjerds af dem ihjel, og folk i Bet-Shemesh sørgede over, at Herren havde slået så mange af dem ihjel. **20** De sagde: »Hvem kan bestå for Herrens, den hellige Guds, ansigt? Hvor vil han tage hen, når han drager herfra?« **21** Så sendte de bud til indbyggerne i Kirjat-Jearim: »Filistrene har sendt Herrens ark tilbage. Kom og hent den op til jer!«
+
+[– tilbage –](#indhold)
+
+<a id="1sam7"></a>
 
 ### 1 Sam 7
 
@@ -1148,6 +1372,10 @@ Samuel dømte israelitterne i Mispa.
 
 **15** Samuel var dommer i Israel, så længe han levede. **16** Hvert år drog han rundt til Betel, Gilgal og Mispa og dømte Israel alle disse steder. **17** Så vendte han tilbage til Rama, for dér boede han, og dér dømte han Israel. Dér byggede han et alter for Herren.
 
+[– tilbage –](#indhold)
+
+<a id="1sam8"></a>
+
 ### 1 Sam 8
 
 #### Israelitternes krav om kongedømme
@@ -1157,6 +1385,10 @@ Samuel dømte israelitterne i Mispa.
 **10** Samuel fortalte folket, som krævede en konge af ham, alt hvad Herren havde sagt; **11** han sagde: »Den konge, der skal regere over jer, har disse rettigheder: Jeres sønner vil han sætte til at gøre tjeneste ved sine vogne og heste og løbe foran sin vogn **12** eller sætte dem til førere for afdelinger på tusind og på halvtreds mand eller til at pløje sin jord og høste sin afgrøde eller til at lave sine krigsvåben og udstyret til sine vogne. **13** Jeres døtre vil han tage til at blande salve, lave mad og bage. **14** De bedste af jeres marker og vingårde og olivenlunde vil han tage fra jer og give til sine folk. **15** Jeres kornmarker og vingårde vil han tage tiende af og give den til sine hofmænd og sine folk. **16** Jeres trælle og trælkvinder, de bedste af jeres okser og jeres æsler vil han tage og bruge til sit arbejde. **17** Jeres småkvæg vil han tage tiende af, og I bliver trælle for ham. **18** Til den tid skal I komme til at råbe til Herren på grund af jeres konge, som I selv har valgt; men da vil Herren ikke svare jer.«
 
 **19** Men folket ville ikke høre på Samuel. »Nej,« sagde de, »vi vil have en konge over os, **20** så vi kan få det ligesom alle de andre folk. Vores konge skal herske over os og rykke ud i spidsen for os og føre vore krige.« **21** Da Samuel havde hørt alt, hvad folket havde at sige, fortalte han Herren det, **22** og Herren svarede: »Føj dem, og lad dem få en konge.« Da sagde Samuel til Israels mænd: »Gå hjem, hver til sin by.«
+
+[– tilbage –](#indhold)
+
+<a id="1sam9"></a>
 
 ### 1 Sam 9
 
@@ -1174,6 +1406,10 @@ Samuel dømte israelitterne i Mispa.
 
 Da det blev lyst, råbte Samuel op til Saul på taget: »Stå op, jeg vil følge dig på vej.« Så stod Saul op, og han og Samuel gik ud sammen. **27** Da de kom til udkanten af byen, sagde Samuel til Saul: »Giv karlen besked om at gå i forvejen, og bliv her selv et øjeblik, så vil jeg kundgøre dig, hvad Gud har sagt.«
 
+[– tilbage –](#indhold)
+
+<a id="1sam10"></a>
+
 ### 1 Sam 10
 
 **1** Da tog Samuel oliekrukken og hældte olien ud over hans hoved, kyssede ham og sagde: »Nu salver Herren dig til fyrste over sin ejendom. **2** Når du i dag forlader mig, vil du møde to mænd ved Rakels grav i Selsa i Benjamins land; de vil fortælle dig, at æslerne, som du gik ud at lede efter, er fundet, og at din far ikke længere tænker på æslerne, men er bekymret for jer og siger: Hvad kan jeg gøre for min søn? **3** Når du går videre derfra og kommer til Tabor-egen, vil du møde tre mænd, der er på vej op til Gud i Betel. Den ene bærer tre kid, den anden tre brød og den tredje en krukke vin. **4** De vil hilse på dig og give dig to brød, som du skal tage imod. **5** Derefter kommer du til Guds Gibea, hvor filistrenes guvernør bor. Når du går ind i byen, vil du støde på en flok profeter, der er på vej ned fra offerhøjen; i spidsen for dem går folk, der spiller på harpe, pauke, fløjte og citer, og selv er de i profetisk henrykkelse. **6** Herrens ånd vil gribe dig, så du kommer i profetisk henrykkelse sammen med dem og bliver forvandlet til et andet menneske. **7** Når du ser disse tegn indtræffe, kan du udrette, hvad du vil, for Gud er med dig. **8** Gå i forvejen ned til Gilgal; så kommer jeg ned til dig for at bringe brændofre og måltidsofre. Vent syv dage, til jeg kommer og fortæller dig, hvad du skal gøre.«
@@ -1188,6 +1424,10 @@ Da det blev lyst, råbte Samuel op til Saul på taget: »Stå op, jeg vil følge
 
 **25** Samuel kundgjorde kongeloven for folket og skrev den ned i en bog, som han lagde for Herrens ansigt. Derpå sendte han dem alle sammen hjem hver til sit. **26** Saul gik også hjem til Gibea fulgt af nogle krigere, hvis hjerte Gud havde rørt. **27** Men nogle ondsindede mennesker sagde: »Hvordan skal han kunne frelse os?« De foragtede ham og bragte ikke nogen hyldestgave til ham; men han lod som ingenting.
 
+[– tilbage –](#indhold)
+
+<a id="1sam11"></a>
+
 ### 1 Sam 11
 
 #### Sejren over ammonitterne
@@ -1195,6 +1435,10 @@ Da det blev lyst, råbte Samuel op til Saul på taget: »Stå op, jeg vil følge
 **1** Ammonitten Nahash drog ud og belejrede Jabesh i Gilead. Mændene i Jabesh sagde til ham: »Slut pagt med os, så vil vi underkaste os.« **2** Ammonitten Nahash svarede: »Jeg vil slutte pagt med jer på den betingelse, at jeg må stikke højre øje ud på jer alle sammen og på den måde bringe forhånelse over hele Israel.« **3** De ældste i Jabesh sagde til ham: »Giv os en frist på syv dage, så vi kan sende bud ud over hele Israel. Hvis der ikke er nogen, der kan frelse os, vil vi overgive os.« **4** Da sendebudene kom til Sauls Gibea og forelagde sagen for indbyggerne, brast alle i gråd. **5** I det samme kom Saul hjem fra marken med sine okser, og han spurgte: »Hvad er der i vejen med dem, siden de græder?« De fortalte ham, hvad mændene fra Jabesh havde sagt, **6** og da han hørte det, greb Guds ånd ham, og vreden flammede op i ham. **7** Han tog et spand okser, skar dem i stykker og sendte stykkerne med sendebudene ud i hele Israel med den besked: »Hvis der er nogen, der ikke vil rykke ud sammen med Saul og Samuel, skal der ske det samme med hans okser.« Da blev folket grebet af rædsel for Herren, og de rykkede ud alle som én. **8** Han mønstrede dem i Bezek; der var tre hundrede tusind israelitter og tredive tusind judæere. **9** Så sagde han til sendebudene, der var kommet: »I kan sige til mændene i Jabesh i Gilead, at i morgen ved middagstid bliver de frelst.« Da sendebudene kom og fortalte det til mændene i Jabesh, blev de glade **10** og sagde til ammonitterne: »I morgen vil vi overgive os, og så kan I gøre med os, hvad I vil.« **11** Næste dag delte Saul hæren i tre afdelinger. I morgenvagten trængte de ind i lejren og huggede ammonitterne ned indtil middagstid. De overlevende blev spredt, så der ikke var to tilbage på samme sted.
 
 **12** Folket sagde til Samuel: »Hvem var det, der sagde: ›Skal Saul være konge over os?‹ Kom med de mænd, så vi kan dræbe dem.« **13** Men Saul sagde: »I dag skal ingen lide døden, for i dag har Herren givet Israel sejr.« **14** Samuel sagde til folket: »Kom, lad os gå til Gilgal og dér stadfæste kongedømmet.« **15** Så gik hele folket til Gilgal, og dér, for Herrens ansigt i Gilgal, gjorde de Saul til konge. De bragte måltidsofre dér for Herrens ansigt, og Saul og alle Israels mænd var meget glade.
+
+[– tilbage –](#indhold)
+
+<a id="1sam12"></a>
 
 ### 1 Sam 12
 
@@ -1205,6 +1449,10 @@ Da det blev lyst, råbte Samuel op til Saul på taget: »Stå op, jeg vil følge
 **6** Da sagde Samuel til folket: »Det er Herren, der sendte Moses og Aron og førte jeres fædre op fra Egypten. **7** Træd nu frem, så jeg her for Herrens ansigt kan gå i rette med jer ved at fortælle om de retfærdige gerninger, Herren har øvet mod jer og jeres fædre. **8** Da Jakob var kommet til Egypten, råbte jeres fædre til Herren, og han sendte Moses og Aron. De førte jeres fædre ud af Egypten og lod dem bo på dette sted. **9** Men de glemte Herren deres Gud, og han gav dem i hænderne på Hasors hærfører Sisera, på filistrene og på Moabs konge, som gik til angreb på dem. **10** Da råbte de til Herren: ›Vi har syndet, for vi har svigtet Herren og dyrket Ba’alerne og Astarterne. Red os nu fra vores fjender, så vil vi dyrke dig.‹ **11** Herren sendte Jerubba’al, Bedan, Jefta og Samuel og reddede jer fra jeres fjender på alle sider, så I kunne bo i tryghed. **12** Men da I så, at ammonitterkongen Nahash gik til angreb på jer, sagde I til mig: Nej, en konge skal regere over os! Og det gjorde I, skønt Herren jeres Gud er jeres konge. **13** Her har I den konge, som I har valgt og krævet. Nu har Herren givet jer en konge! **14** Hvis I frygter Herren og tjener ham, hvis I adlyder ham og ikke trodser hans befaling, og hvis både I og den konge, der regerer over jer, følger Herren jeres Gud, er det godt. **15** Men hvis I ikke adlyder Herren, men trodser hans befaling, så skal Herrens hånd ramme jer og jeres konge. **16** Træd nu frem, og se det store under, Herren vil gøre for øjnene af jer! **17** Nu er det tiden for hvedehøsten. Jeg vil råbe til Herren, at han skal sende torden og regn; så skal I indse, at I har gjort, hvad der er meget ondt i Herrens øjne, ved at kræve en konge.«
 
 **18** Så råbte Samuel til Herren, og samme dag sendte Herren torden og regn. Da blev hele folket grebet af stor frygt for Herren og for Samuel, **19** og de sagde til Samuel: »Gå i forbøn for os, dine tjenere, hos Herren din Gud, så vi ikke dør; for til alle vore synder har vi føjet det onde at kræve en konge.« **20** Samuel sagde til folket: »Frygt ikke, selv om I har gjort dette onde. Nu må I ikke vige fra Herren, men I skal tjene ham af hele jeres hjerte. **21** Vig ikke fra ham, så I følger de tomme afguder, som intet gavner eller hjælper, fordi de er tomhed. **22** For sit store navns skyld vil Herren ikke forkaste sit folk, for han besluttede at gøre jer til sit folk. **23** Jeg vil da heller aldrig begå den synd mod Herren at holde op med at gå i forbøn for jer. Jeg vil vise jer den gode og rette vej. **24** Frygt Herren og tjen ham i trofasthed af hele jeres hjerte! Se, hvor store ting han har gjort imod jer. **25** Men hvis I handler ondt, skal både I og jeres konge miste livet.«
+
+[– tilbage –](#indhold)
+
+<a id="1sam13"></a>
 
 ### 1 Sam 13
 
@@ -1221,6 +1469,10 @@ Saul mønstrede de folk, der var hos ham; der var omtrent seks hundrede mand. **
 **19** I hele Israel fandtes der ingen smede, for filistrene tænkte, at hebræerne ellers ville lave sværd eller spyd. **20** Israelitterne måtte derfor ned til filistrene, når de skulle have smedet deres plovjern, hakker, økser og segl. **21** Prisen var en pim for plovjern og hakker, og en tredjedel sekel for forke og økser og for at få indsat pigge. **22** Den dag, slaget stod, var der derfor ingen af Sauls og Jonatans folk, der havde sværd eller spyd; men det havde Saul og hans søn Jonatan.
 
 **23** Filistrenes forpost rykkede frem til passet ved Mikmas.
+
+[– tilbage –](#indhold)
+
+<a id="1sam14"></a>
 
 ### 1 Sam 14
 
@@ -1248,6 +1500,10 @@ Kampen bredte sig forbi Bet-Aven, **24** og israelitterne var hårdt trængt den
 
 **52** Krigen med filistrene var hård, så længe Saul levede. Hver gang Saul så en heltemodig og tapper mand, tog han ham i sin tjeneste.
 
+[– tilbage –](#indhold)
+
+<a id="1sam15"></a>
+
 ### 1 Sam 15
 
 #### Krigen mod amalekitterne og Samuels brud med Saul
@@ -1273,6 +1529,10 @@ Kampen bredte sig forbi Bet-Aven, **24** og israelitterne var hårdt trængt den
 
 **35** Til sin dødsdag så Samuel ikke Saul mere, for han var grebet af sorg over Saul. Herren havde fortrudt, at han havde gjort Saul til konge over Israel.
 
+[– tilbage –](#indhold)
+
+<a id="1sam16"></a>
+
 ### 1 Sam 16
 
 #### David salves til konge
@@ -1288,6 +1548,10 @@ Så brød Samuel op og gik til Rama.
 **14** Herrens ånd forlod Saul, og en ond ånd fra Herren overvældede ham. **15** Sauls folk sagde til ham: »Det er en ond ånd fra Gud, der overvælder dig. **16** Sig til, herre! Dine tjenere er rede til at finde en, som kan spille på citer. Lad ham spille, når den onde ånd fra Gud kommer over dig, så får du det godt.« **17** Saul svarede dem: »Så find en, der er dygtig til at spille, og før ham til mig.« **18** En af de unge mænd sagde: »Jeg har set en søn af betlehemitten Isaj; han kan spille. Han er en dygtig mand og en god kriger; han taler forstandigt og ser godt ud, og Herren er med ham.« **19** Saul sendte da bud til Isaj: »Send din søn David, som er hos fårene, til mig!« **20** Isaj tog en homer brød, en lædersæk vin og et gedekid og sendte sin søn David til Saul med det. **21** Sådan kom David til Saul og kom i hans tjeneste. Saul kom til at holde meget af ham og gjorde ham til sin våbendrager, **22** og han sendte bud til Isaj: »Lad David blive i min tjeneste, for han har vundet min velvilje.«
 
 **23** Hver gang den onde ånd fra Gud kom over Saul, greb David sin citer og spillede. Så fandt Saul lindring og fik det godt, for den onde ånd forlod ham.
+
+[– tilbage –](#indhold)
+
+<a id="1sam17"></a>
 
 ### 1 Sam 17
 
@@ -1318,6 +1582,10 @@ Så brød Samuel op og gik til Rama.
 **51** Så løb David hen og stillede sig ved siden af filisteren, tog hans sværd, trak det ud af skeden og gav ham dødsstødet; derpå huggede han hovedet af ham. Da filistrene så, at deres helt var død, flygtede de. **52** Men Israels og Judas mænd udstødte øjeblikkelig kampråbet og forfulgte filistrene helt til Gat og til Ekrons byporte. Der lå dræbte filistre på vejen fra Sha’arajim til Gat og Ekron. **53** Da israelitterne var vendt tilbage fra forfølgelsen af filistrene, plyndrede de deres lejr. **54** Men David tog filisterens hoved og bragte det til Jerusalem, og hans våben lagde han i sit telt.
 
 **55** Dengang Saul så David gå ud imod filisteren, havde han sagt til hærføreren Abner: »Abner, hvem er denne unge mand søn af?« Og da Abner svarede: »Så sandt du lever, konge, jeg ved det ikke,« **56** havde kongen sagt: »Forhør dig om, hvem den unge mand er søn af.« **57** Da så David kom tilbage efter at have slået filisteren ihjel, tog Abner ham og førte ham frem for Saul; filisterens hoved havde han endnu i hånden. **58** Saul spurgte ham: »Hvem er du søn af, unge mand?« og David svarede: »Jeg er søn af din tjener Isaj fra Betlehem.«
+
+[– tilbage –](#indhold)
+
+<a id="1sam18"></a>
 
 ### 1 Sam 18
 
@@ -1350,6 +1618,10 @@ Så brød Samuel op og gik til Rama.
 
 **30** Filistrenes feltherrer rykkede ofte ud. Men hver gang de rykkede ud, gik det David bedre end nogen anden af Sauls folk, så der gik stort ry af ham.
 
+[– tilbage –](#indhold)
+
+<a id="1sam19"></a>
+
 ### 1 Sam 19
 
 #### Jonatans venskab med David
@@ -1364,6 +1636,10 @@ Så brød Samuel op og gik til Rama.
 
 **18** Da David var flygtet og havde bragt sig i sikkerhed, kom han til Samuel i Rama og fortalte ham alt, hvad Saul havde gjort mod ham. Så gik han og Samuel til Najot og tog ophold dér. **19** Da Saul fik at vide, at David var i Najot i Rama, **20** sendte han folk hen for at gribe ham. Men da de så forsamlingen af profeter i henrykkelse og Samuel i spidsen for dem, kom Guds ånd over Sauls folk, så også de kom i profetisk henrykkelse. **21** Det fik Saul at vide, og så sendte han andre folk; men også de kom i profetisk henrykkelse. For tredje gang sendte han folk; men også de kom i profetisk henrykkelse. **22** Så gik han selv til Rama. Da han var kommet til den store brønd ved Seku, spurgte han, hvor Samuel og David var. De svarede: »De er i Najot i Rama.« **23** Mens han var på vej derhen, til Najot i Rama, kom Guds ånd også over ham, så han kom i profetisk henrykkelse, mens han vandrede af sted til Najot i Rama. **24** Også han rev i profetisk henrykkelse klæderne af sig foran Samuel, og han faldt om og lå nøgen hele dagen og natten. Det er derfor, man siger: Er også Saul blandt profeterne?
 
+[– tilbage –](#indhold)
+
+<a id="1sam20"></a>
+
 ### 1 Sam 20
 
 **1** David flygtede nu fra Najot i Rama. Han kom til Jonatan og sagde: »Hvad har jeg gjort? Hvad er min forbrydelse og min synd mod din far, siden han stræber mig efter livet?« **2** Han svarede: »Der er ikke tale om, at du skal dø! Min far foretager sig ikke noget, uden at han lader mig det vide. Hvorfor skulle min far så skjule dette for mig? Der er ikke noget om det.« **3** Men David svor: »Din far ved godt, at jeg har vundet din velvilje, og han tænker: Jonatan skal ikke have det at vide, for at han ikke skal blive bedrøvet. Men så sandt Herren lever, og så sandt du lever: Der er kun et skridt mellem mig og døden!« **4** Jonatan spurgte David: »Hvad mener du selv, at jeg kan gøre for dig?« **5** David svarede Jonatan: »I morgen er det nymånedag, og så skal jeg sidde til bords med kongen. Kan du ikke give mig fri til at tage af sted, så jeg kan holde mig skjult ude i marken indtil i overmorgen aften? **6** Hvis din far så savner mig, skal du sige: David bad mig om lov til at skynde sig hjem til sin by Betlehem, for hele hans familie holder det årlige slagtoffer dér. **7** Hvis han siger: ›Godt!‹ så kan jeg være rolig, herre. Men hvis han farer op i vrede, må du være klar over, at han er besluttet på min ulykke. **8** Vær trofast mod mig, herre, for du har indgået en pagt med din tjener for Herrens ansigt. Men er der skyld hos mig, så slå mig ihjel! Til din far må du ikke føre mig.« **9** Jonatan svarede: »Ikke tale om! Får jeg at vide, at min far er besluttet på din ulykke, skal jeg nok fortælle dig det.« **10** »Hvem kan fortælle mig, om din far giver dig et uforsonligt svar?« spurgte David, **11** og Jonatan svarede: »Kom, lad os gå ud i marken.« Så gik de begge to ud i marken. **12** Derude sagde Jonatan til David: »Ved Herren, Israels Gud: I morgen eller overmorgen skal jeg have fundet ud af min fars hensigter, og så vil det vise sig, at David er uden for fare. Ellers vil jeg sende bud til dig og lade dig det vide. **13** Herren ramme Jonatan igen og igen, hvis ikke jeg lader dig vide, om min far har i sinde at bringe ulykke over dig. I så fald vil jeg sørge for, at du slipper væk, så du kan bringe dig i sikkerhed. Gid Herren så vil være med dig, som han har været med min far. **14** Og gid du vil vise mig en trofasthed som Herrens, hvis jeg da endnu er i live. Men skulle jeg dø, **15** gid du så aldrig vil holde op med at være trofast mod mit hus, heller ikke når Herren udrydder hver eneste af Davids fjender fra jorden.«
@@ -1375,6 +1651,10 @@ Det blev nymånedag, og kongen satte sig til bords. **25** Kongen sad på sin s�
 **35** Næste morgen gik Jonatan sammen med en lille dreng ud i marken som aftalt med David. **36** Han sagde til drengen: »Løb hen og find de pile, jeg skyder.« Da drengen var løbet, skød han en pil forbi ham, **37** og da drengen nåede derhen, hvor den pil, Jonatan havde skudt, skulle være, råbte Jonatan efter ham: »Pilen ligger lidt længere fremme.« **38** Og Jonatan råbte efter ham: »Skynd dig! Bliv ikke dér!« Så samlede Jonatans dreng pilen op og kom tilbage til sin herre. **39** Drengen vidste ingenting. Det var kun Jonatan og David, der kendte sammenhængen. **40** Jonatan gav så sine våben til drengen, der var med ham, og sagde til ham: »Gå ind til byen med dem.«
 
 **41** Da drengen var gået, rejste David sig bag ved stenen. Han kastede sig tre gange til jorden for Jonatan, og så kyssede de hinanden og græd sammen. **42** Jonatan sagde til David: »Gå med fred! Om det, vi har tilsvoret hinanden i Herrens navn, gælder det, at Herren i evighed er vidne mellem os to og mellem dine og mine efterkommere.«
+
+[– tilbage –](#indhold)
+
+<a id="1sam21"></a>
 
 ### 1 Sam 21
 
@@ -1395,6 +1675,10 @@ Det blev nymånedag, og kongen satte sig til bords. **25** Kongen sad på sin s�
 
 **13** Disse ord gjorde indtryk på David, og han blev meget bange for Akish, kongen i Gat. **14** Derfor spillede han vanvittig for øjnene af dem; han teede sig som afsindig mellem dem, hamrede på portfløjene og savlede ned i sit skæg. **15** Da sagde Akish til sine folk: »I kan da se, at manden er gal. Hvorfor kommer I med ham til mig? **16** Har jeg ikke gale mennesker nok, siden I kommer med ham der, så han lader sin galskab gå ud over mig? Skal jeg have sådan en i huset?«
 
+[– tilbage –](#indhold)
+
+<a id="1sam22"></a>
+
 ### 1 Sam 22
 
 #### Blodbadet på præsterne i Nob
@@ -1406,6 +1690,10 @@ Det blev nymånedag, og kongen satte sig til bords. **25** Kongen sad på sin s�
 **5** Men profeten Gad sagde til David: »Du skal ikke blive i klippeborgen, drag hjem til Judas land!« Så tog David af sted og kom til Ja’ar-Heret. **6** Det fik Saul at høre, for man havde lagt mærke til David og de mænd, der var hos ham. Og da Saul sad i Gibea under tamarisken på højen med sit spyd i hånden og med alle sine folk stående omkring sig, **7** sagde han til dem, der stod omkring ham: »Hør her, benjaminitter! Isajs søn vil nok give jer alle sammen marker og vingårde og gøre jer alle sammen til tusindførere og hundredførere, **8** siden I har sammensvoret jer mod mig! Der var ingen, der lod mig vide, at min søn sluttede pagt med Isajs søn. Der var ingen af jer, der tog sig det nær for min skyld og lod mig vide, at min søn havde tilskyndet min tjener til at lure på mig, som han gør i dag.«
 
 **9** Da sagde edomitten Do’eg, der stod blandt Sauls folk: »Jeg så, at Isajs søn kom til Akitubs søn Akimelek i Nob, **10** som rådspurgte Herren for ham og gav ham proviant; han gav ham også filisteren Goliats sværd.« **11** Da sendte kongen bud efter Akitubs søn, præsten Akimelek, og hele hans fars hus, præsterne i Nob, og de indfandt sig alle hos kongen. **12** Saul sagde: »Hør nu her, Akitubs søn!« Og han svarede: »Ja, herre.« **13** Saul sagde til ham: »Hvorfor har du og Isajs søn sammensvoret jer mod mig? Du gav ham jo brød og et sværd og rådspurgte Gud for ham, så han kunne give sig til at lure på mig, som han gør i dag.« **14** Akimelek svarede kongen: »Hvem af alle dine folk er så betroet som David? Han er kongens svigersøn, anfører for din livvagt, og han nyder stor anseelse i dit hus. **15** Det er langtfra første gang, jeg har rådspurgt Gud for ham. Min herre kongen må ikke rette anklage imod mig og imod min fars hus, for din tjener har intet som helst kendskab til dette.« **16** Men kongen sagde: »Akimelek, du skal dø, du og hele din fars hus!« **17** Og kongen sagde til livvagten, som stod omkring ham: »Træd frem! Dræb Herrens præster, for de holder også med David! De vidste, at han var på flugt, men lod mig det ikke vide.« Men kongens folk kunne ikke få sig selv til at lægge hånd på Herrens præster og hugge dem ned. **18** Da sagde kongen til Do’eg: »Træd frem! Hug Herrens præster ned!« Og edomitten Do’eg gav sig til at hugge Herrens præster ned; han dræbte den dag femogfirs mand, der bar linned efod. **19** I præstebyen Nob blev mænd og kvinder, børn og spæde, okser, æsler og får hugget ned med sværd. **20** Kun en af Akitubs søn Akimeleks sønner undslap; han hed Ebjatar. Han flygtede til David. **21** Da nu Ebjatar fortalte David, at Saul havde slået Herrens præster ihjel, **22** sagde David til ham: »Jeg vidste den dag, at når edomitten Do’eg var til stede, ville han ganske givet fortælle Saul det. Det er mig, der er årsag til, at alle i din fars hus døde. **23** Bliv hos mig! Vær ikke bange! Den, der stræber dig efter livet, stræber også mig efter livet. Hos mig er du i sikkerhed.«
+
+[– tilbage –](#indhold)
+
+<a id="1sam23"></a>
 
 ### 1 Sam 23
 
@@ -1423,6 +1711,10 @@ Mens David var i Horesh i Zifs ørken, **16** tog Sauls søn Jonatan af sted til
 
 David og hans mænd var i Maons ørken i Araba-lavningen syd for Jeshimon. **25** Saul og hans mænd drog ud for at lede efter ham; men det fik David at vide, og derfor trak han sig ned til klippen og tog ophold i Maons ørken. Det hørte Saul, og han forfulgte David ind i Maons ørken. **26** Saul gik på den ene side af bjerget, David og hans mænd på den anden, og David satte farten op for at slippe væk fra Saul. Men da Saul og hans mænd var ved at omringe og gribe David og hans mænd, **27** kom der bud til Saul: »Skynd dig at komme, for filistrene har gjort indfald i landet.« **28** Saul indstillede da forfølgelsen af David og gik mod filistrene. Derfor kalder man dette sted Sela-ha-Maklekot.
 
+[– tilbage –](#indhold)
+
+<a id="1sam24"></a>
+
 ### 1 Sam 24
 
 #### David skåner Saul
@@ -1434,6 +1726,10 @@ David og hans mænd var i Maons ørken i Araba-lavningen syd for Jeshimon. **25*
 Saul forlod hulen og drog videre. **9** Derefter gik David ud af hulen og råbte efter Saul: »Herre, konge!« Da Saul så sig tilbage, kastede David sig til jorden **10** og sagde til Saul: »Hvorfor hører du på de mennesker, der siger, at David vil dig noget ondt? **11** I dag har du selv set, at Gud havde givet dig i min hånd inde i hulen. Man sagde da også til mig, at jeg skulle dræbe dig; men jeg viste dig barmhjertighed og sagde: ›Jeg lægger ikke hånd på min herre, for han er Herrens salvede.‹ **12** Se, fader, se, her har jeg fligen af din kappe i min hånd. Når jeg har skåret din kappeflig af og ikke slået dig ihjel, må du kunne indse, at jeg ikke har haft noget ondt eller nogen forbrydelse i sinde, og at jeg ikke har forsyndet mig mod dig. Det er dig, der tragter mig efter livet. **13** Herren skal dømme os imellem! Ja, Herren vil hævne mig, men jeg løfter ikke hånden mod dig. **14** Et gammelt mundheld siger: ›Forbrydelse kommer fra forbrydere.‹ Jeg løfter ikke hånden mod dig. **15** Hvem er det, Israels konge er rykket ud efter? Hvem er det, du forfølger? En død hund, en loppe! **16** Men Herren skal være dommer og dømme os imellem. Han ser det, og så vil han føre min sag og skaffe mig ret over for dig.«
 
 **17** Da David havde sagt alt dette til Saul, svarede Saul: »Min søn David, er det virkelig dig, der taler?« Og han brast i gråd. **18** Så sagde han til David: »Retten er på din side, ikke på min, for du har handlet godt mod mig, mens jeg har handlet ondt mod dig. **19** Du har i dag vist, at du vil mig det godt, da du ikke dræbte mig, skønt Herren havde givet mig i din magt. **20** Når man møder sin fjende, lader man ham så gå i fred? Herren gengælde dig det gode, du har gjort mod mig i dag! **21** Nu ved jeg, at du skal være konge, og at kongedømmet over Israel skal bestå under din hånd. **22** Sværg nu ved Herren, at du ikke vil udrydde mine efterkommere, og at du ikke vil udslette mit navn fra min fars hus.« **23** Det tilsvor David Saul, og så vendte Saul hjem, mens David og hans mænd drog op til klippeborgen.
+
+[– tilbage –](#indhold)
+
+<a id="1sam25"></a>
 
 ### 1 Sam 25
 
@@ -1455,6 +1751,10 @@ David begav sig ned til Parans ørken.
 
 **43** David havde også giftet sig med Akinoam fra Jizre’el. De var begge to hans hustruer. **44** Men Saul havde givet sin datter Mikal, Davids kone, til Palti, en søn af Lajish fra Gallim.
 
+[– tilbage –](#indhold)
+
+<a id="1sam26"></a>
+
 ### 1 Sam 26
 
 #### David skåner Saul for anden gang
@@ -1471,6 +1771,10 @@ David begav sig ned til Parans ørken.
 
 Så gik David sin vej, og Saul vendte hjem.
 
+[– tilbage –](#indhold)
+
+<a id="1sam27"></a>
+
 ### 1 Sam 27
 
 #### David i filisterkongens tjeneste
@@ -1480,6 +1784,10 @@ Så gik David sin vej, og Saul vendte hjem.
 **5** David sagde til Akish: »Hvis jeg har fundet nåde for dine øjne, så lad mig få et sted i en af byerne ude i landet, så jeg kan tage ophold der. Hvorfor skal jeg bo hos dig i kongebyen, herre?« **6** Akish gav ham straks Siklag. Det er derfor, Siklag tilhører Judas konger den dag i dag. **7** Den tid, David opholdt sig i filistrenes land, var et år og fire måneder.
 
 **8** David og hans mænd gjorde indfald hos geshuritterne, girzitterne og amalekitterne. Det var den befolkning, der boede i det område, som strækker sig fra Telam helt til Shur og til Egypten. **9** Når David hærgede deres land, lod han hverken mænd eller kvinder i live. Men får og køer, æsler og kameler og klæder tog han, og så vendte han tilbage til Akish. **10** Når Akish spurgte: »Hvor har I gjort indfald i dag?« svarede David: »I Judas sydland,« eller: »I jerakme’elitternes sydland,« eller: »I kenitternes sydland.« **11** David lod hverken mænd eller kvinder i live for ikke at skulle føre dem med til Gat; for han tænkte: »De ville røbe os og sige: Sådan har David gjort.« Sådan bar han sig ad, lige så længe han opholdt sig i filistrenes land. **12** Akish troede på David, og han tænkte: »Han har lagt sig grundigt for had i sit folk Israel. Han bliver i min tjeneste resten af sit liv.«
+
+[– tilbage –](#indhold)
+
+<a id="1sam28"></a>
 
 ### 1 Sam 28
 
@@ -1497,6 +1805,10 @@ Så gik David sin vej, og Saul vendte hjem.
 
 **20** Saul blev så bange over Samuels ord, at han i samme øjeblik faldt om på gulvet, så lang han var. Han havde heller ikke flere kræfter, for han havde ikke spist noget det sidste døgn. **21** Da kvinden kom hen til Saul og så, hvor forfærdet han var, sagde hun til ham: »Herre, jeg har adlydt dig og sat livet på spil, da jeg rettede mig efter, hvad du sagde til mig. **22** Nu skal du til gengæld adlyde din trælkvinde og lade mig sætte lidt mad frem, så du kan komme til kræfter, før du tager af sted.« **23** Da han vægrede sig og sagde, at han ikke ville have noget at spise, nødte både hans folk og kvinden ham, og han føjede dem. Han rejste sig fra jorden og satte sig på sengen. **24** Kvinden havde en fedekalv i huset, den skyndte hun sig at slagte. Så æltede hun noget mel og bagte usyrede brød. **25** Da hun havde sat det frem for Saul og hans folk, spiste de. Samme nat brød de op og drog af sted.
 
+[– tilbage –](#indhold)
+
+<a id="1sam29"></a>
+
 ### 1 Sam 29
 
 #### Davids krig mod amalekitterne
@@ -1510,11 +1822,19 @@ Så gik David sin vej, og Saul vendte hjem.
 
 **9** Akish svarede David: »Det står fast, at du i mine øjne er lige så meget værd som en Guds engel, men filistrenes feltherrer har sagt: ›Han må ikke drage i felten med os.‹ **10** Gør dig nu klar i morgen tidlig sammen med din herres mænd, der har fulgt dig. Gør jer klar og drag af sted i morgen tidlig, så snart det bliver lyst.« **11** Tidligt næste morgen tog David og hans mænd af sted og vendte tilbage til filistrenes land, mens filistrene drog op til Jizre’el.
 
+[– tilbage –](#indhold)
+
+<a id="1sam30"></a>
+
 ### 1 Sam 30
 
 **1** To dage efter kom David og hans mænd til Siklag. I mellemtiden havde amalekitterne gjort indfald i Sydlandet og i Siklag. De havde indtaget Siklag og brændt den ned. **2** Kvinderne og hvem der ellers var der, fra den mindste til den største, havde de taget til fange uden at dræbe nogen; de havde ført dem med sig og var draget bort. **3** Da David og hans mænd kom til byen, fandt de den nedbrændt og deres koner og sønner og døtre taget til fange. **4** Da brast David og hans folk i gråd, og de græd, til de ikke kunne græde mere. **5** Davids to hustruer, Akinoam fra Jizre’el og Abigajil, der havde været gift med Nabal fra Karmel, var også taget til fange. **6** David var nu hårdt trængt; folkene truede med at stene ham, for de var alle sammen forbitrede over tabet af deres sønner og døtre. Men David hentede nyt mod hos Herren sin Gud. **7** Han sagde til præsten Ebjatar, Akimeleks søn: »Tag efoden frem!« Da Ebjatar havde taget efoden frem til ham, **8** spurgte David Herren: »Hvis jeg sætter efter denne røverbande, kan jeg så indhente den?« Han svarede: »Sæt efter den, for du skal indhente den, og du skal befri dem, der er taget til fange.« **9** Så drog David af sted sammen med de seks hundrede mand, som fulgte ham, og de kom til Besor-bækken, hvor de, der skulle blive tilbage, gjorde holdt. **10** David optog forfølgelsen med fire hundrede mand, mens to hundrede, som var for udmattede til at gå over Besor-bækken, gjorde holdt. **11** Ude på steppen fandt de en egypter. Ham tog de med hen til David og gav ham brød at spise og vand at drikke; **12** de gav ham også en figenkage og to rosinkager, og da han havde spist, kom han til kræfter. Han havde nemlig hverken fået vådt eller tørt i tre døgn. **13** David spurgte ham: »Hvem er din herre, og hvor er du fra?« »Jeg er egypter,« svarede han, »i tjeneste hos en amalekit; men min herre efterlod mig her for to dage siden, fordi jeg blev syg. **14** Vi havde gjort indfald i det kretiske sydland, i Judas område og i Kalebs sydland, og Siklag havde vi brændt ned.« **15** David spurgte: »Kan du vise mig vej til den røverbande?« Han svarede: »Sværg ved Gud, at du ikke vil dræbe mig eller udlevere mig til min herre, så vil jeg vise dig vej til røverbanden.« **16** Så viste han ham dertil, og de fandt dem spredt ud over hele egnen i færd med at spise og drikke og feste på hele det store bytte, de havde taget fra filistrenes land og fra Judas land. **17** Den næste dag huggede David dem så ned, fra daggry til aften. Ingen af dem undslap undtagen fire hundrede unge mænd, som sprang op på deres kameler og tog flugten. **18** David befriede alle dem, amalekitterne havde taget; også sine to hustruer befriede han. **19** Intet manglede, hverken stort eller småt, sønner eller døtre, bytte eller overhovedet noget af det, de havde taget. Alt bragte David tilbage. **20** David tog også alle deres får og okser. Dem drev de foran deres eget kvæg og sagde: »Det er Davids bytte.« **21** Da David kom tilbage til de to hundrede mand, som havde været for udmattede til at følge ham, og som han havde efterladt ved Besor-bækken, gik de David og hans folk i møde, og da David kom derhen sammen med sine folk, hilste han på dem. **22** Men alle de onde og slette blandt de mænd, der havde fulgt David, sagde: »Når de ikke har fulgt os, vil vi heller ikke give dem del i det bytte, vi har reddet os; de kan hver især tage deres kone og børn med sig og gå.« **23** Men David sagde: »Brødre, sådan må I ikke gøre med det, Herren har givet os. Han har bevaret os, og røverbanden, der overfaldt os, har han givet i vores hånd. **24** Og hvem vil holde med jer i det? Nej, den, der blev ved trosset, skal have det samme som den, der drog i kamp. De skal dele lige med hinanden.« **25** Sådan har det været lige siden den dag. Han gjorde det til lov og ret i Israel, og det er det den dag i dag.
 
 **26** Da David var kommet hjem til Siklag, sendte han noget af byttet til de ældste i Juda, som var hans venner, med den besked: »Her har I en gave; den stammer fra det bytte, jeg tog fra Herrens fjender.« **27** Det var til dem i Betel, i Ramot i Sydlandet, i Jattir, **28** i Aro’er, i Sifmot, i Eshtemoa, **29** i Rakal, i jerakme’elitternes byer, i kenitternes byer, **30** i Horma, i Bor-Ashan, i Atak, **31** i Hebron og i øvrigt alle de steder, hvor David og hans mænd havde haft deres gang.
+
+[– tilbage –](#indhold)
+
+<a id="1sam31"></a>
 
 ### 1 Sam 31
 
@@ -1526,9 +1846,13 @@ Så gik David sin vej, og Saul vendte hjem.
 
 **8** Da filistrene dagen efter kom for at plyndre de faldne, fandt de ligene af Saul og hans tre sønner på Gilboas bjerg. **9** De huggede hovedet af ham og plyndrede ham for hans våben; så sendte de bud rundt i filistrenes land for at bringe sejrsbudskabet til deres gudebilleder og til folket. **10** Hans våben anbragte de i Astartes tempel, og hans lig naglede de til Bet-Shans mur. **11** Men da indbyggerne i Jabesh i Gilead hørte, hvad filistrene havde gjort med Saul, **12** tog alle våbenføre mænd af sted og vandrede hele natten; de tog ligene af Saul og hans sønner ned fra Bet-Shans mur, og da de var kommet hjem til Jabesh, brændte de dem dér. **13** Så tog de benene og begravede dem under tamarisken i Jabesh. Derefter fastede de i syv dage.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Anden Samuelsbog
+
+<a id="2sam1"></a>
 
 ### 2 Sam 1
 
@@ -1568,6 +1892,10 @@ Så gik David sin vej, og Saul vendte hjem.
 >  **27** Ak, heltene er faldet,
 > krigsvåbnene er tilintetgjort!
 
+[– tilbage –](#indhold)
+
+<a id="2sam2"></a>
+
 ### 2 Sam 2
 
 #### David bliver konge i Juda
@@ -1585,6 +1913,10 @@ Da David fik at vide, at mændene i Jabesh i Gilead havde begravet Saul, **5** s
 **17** Kampen blev meget hård den dag, og Abner og israelitterne blev slået af Davids folk. **18** Serujas tre sønner var med, Joab, Abishaj og Asael, og Asael var rapfodet som en af steppens gazeller. **19** Han satte efter Abner og drejede hverken af til højre eller til venstre, men holdt sig lige i hælene på ham. **20** Da vendte Abner sig om og spurgte: »Er det dig, Asael?« Og han svarede ja. **21** Abner råbte: »Drej af enten til højre eller til venstre og grib en af de unge mænd og tag hans rustning.« Men Asael ville ikke opgive at forfølge ham. **22** Abner råbte endnu en gang til Asael: »Hold op med at forfølge mig! Hvorfor skal jeg slå dig til jorden? Hvordan skulle jeg så kunne se din bror Joab i øjnene?« **23** Men da han nægtede at standse, stødte Abner sin spydstage i maven på ham, så spyddet kom ud gennem ryggen, og han faldt om og var død på stedet. Alle, der kom til det sted, hvor Asael var faldet død om, standsede op; **24** men Joab og Abishaj satte efter Abner, og da solen gik ned, var de nået til Amma-højen øst for Gia på vejen til ørkenen ved Gibeon. **25** Dér samlede benjaminitterne sig i sluttet trop bag Abner og stillede sig på toppen af Amma-højen. **26** Abner råbte til Joab: »Skal sværdet blive ved at fortære? Kan du ikke indse, at dette ender i fortvivlelse? Hvor længe skal det vare, før du giver dine folk besked om at indstille forfølgelsen af deres brødre?« **27** Joab svarede: »Så sandt Gud lever: Hvis ikke du havde sagt det, ville mine folk ikke have indstillet forfølgelsen af deres brødre før i morgen!« **28** Så stødte Joab i hornet, og alle hans folk standsede; de forfulgte ikke længere Israel og fortsatte ikke kampen.
 
 **29** Abner og hans mænd gik hele natten gennem Araba-lavningen; de satte over Jordan og gik gennem hele Bitron og kom til Mahanajim. **30** Da Joab havde standset forfølgelsen af Abner, samlede han alle sine folk. Ud over Asael manglede der nitten af Davids mænd. **31** – Davids mænd havde slået tre hundrede og tres benjaminitter af Abners mænd ihjel. – **32** De tog Asael med sig og begravede ham i hans fars grav i Betlehem. Joab og hans mænd gik hele natten og nåede til Hebron, da det blev lyst.
+
+[– tilbage –](#indhold)
+
+<a id="2sam3"></a>
 
 ### 2 Sam 3
 
@@ -1619,6 +1951,10 @@ Da græd de alle endnu mere over ham.
 
 **35** Senere kom de alle hen for at få David til at spise, mens det endnu var dag, men David svor: »Gud ramme mig igen og igen, hvis jeg spiser brød eller noget som helst andet, før solen går ned!« **36** Det mærkede de sig alle, og de syntes godt om det. Alt hvad kongen gjorde, syntes alle godt om. **37** Den dag forstod de alle, også hele Israel, at kongen intet havde at gøre med drabet på Abner, Ners søn. **38** Og kongen sagde til sine mænd: »I forstår vel, at det er en høvding og stormand i Israel, der er faldet i dag. **39** Men jeg er endnu for svag, skønt jeg er salvet til konge, og disse mænd, Serujas sønner, er mig for stærke. Herren skal gengælde ugerningsmanden det onde, han har gjort.«
 
+[– tilbage –](#indhold)
+
+<a id="2sam4"></a>
+
 ### 2 Sam 4
 
 #### Mordet på Ishboshet
@@ -1628,6 +1964,10 @@ Da græd de alle endnu mere over ham.
 **4** Sauls søn Jonatan havde en søn, der var lam i fødderne. Han var fem år gammel, dengang meddelelsen om Sauls og Jonatans død kom fra Jizre’el. Hans plejemor havde taget ham med sig og var flygtet, men under sin hovedkulds flugt havde hun tabt ham, og sådan var han blevet lam. Han hed Mefiboshet.
 
 **5** Rekab og Ba’ana, der var sønner af Rimmon fra Be’erot, drog af sted og kom på den varmeste tid af dagen til Ishboshets hus, mens han lå og sov til middag. **6** Dørvogtersken havde siddet og renset hvede, men var faldet i søvn, så Rekab og hans bror Ba’ana slap forbi **7** og kom ind i huset, hvor Ishboshet lå på sin seng i sovekammeret. De slog ham ihjel og huggede hovedet af ham. Så tog de Ishboshets hoved, gik hele natten gennem Araba-lavningen **8** og bragte det til David i Hebron og sagde til ham: »Her er hovedet af Ishboshet, søn af din fjende Saul, som stræbte dig efter livet. Herren har i dag givet dig, herre konge, hævn over Saul og hans afkom.« **9** Men David svarede Rekab og hans bror Ba’ana, sønner af Rimmon fra Be’erot: »Så sandt Herren lever, som har udfriet mig fra al nød: **10** Den mand, der bragte mig bud om, at Saul var død, og som mente, at han kom med et glædesbudskab, ham lod jeg gribe og dræbe i Siklag. Det var de budpenge, jeg gav ham! **11** Hvad så nu, hvor forbrydere har slået en uskyldig mand ihjel hjemme i hans egen seng? Skulle jeg så ikke kræve hans blod af jeres hånd og udrydde jer af landet?« **12** På Davids befaling slog de unge mænd dem ihjel, huggede hænder og fødder af dem og hængte dem op ved dammen i Hebron. Men Ishboshets hoved tog de og begravede i Abners grav i Hebron.
+
+[– tilbage –](#indhold)
+
+<a id="2sam5"></a>
 
 ### 2 Sam 5
 
@@ -1649,6 +1989,10 @@ Da græd de alle endnu mere over ham.
 
 **17** Da filistrene hørte, at David var blevet salvet til konge over Israel, drog de alle op for at få fat på ham. Så snart David fik det at vide, drog han ned til klippeborgen. **18** Samtidig var filistrene kommet og havde spredt sig ud over Refaim-dalen. **19** David spurgte Herren: »Skal jeg drage op mod filistrene? Vil du give dem i min hånd?« Herren svarede: »Drag op, for jeg giver filistrene i din hånd.« **20** Så drog David til Ba’al-Perasim, og dér slog han dem. Og han sagde: »Herren er brudt igennem fjenderne foran mig, som vand bryder igennem.« Derfor kalder man dette sted Ba’al-Perasim. **21** Dér efterlod filistrene deres gudebilleder, og David og hans mænd tog dem med sig. **22** Men filistrene drog igen op og spredte sig ud over Refaim-dalen. **23** David spurgte Herren, og han svarede: »Drag ikke op mod dem, men gå bag om dem og angrib dem ud for baka-buskene. **24** Så snart du hører lyden af trin i baka-buskenes top, skal du storme frem, for da er Herren draget ud foran dig for at slå filistrenes hær.« **25** David gjorde, som Herren havde befalet ham; og han slog filistrene og forfulgte dem fra Geba helt til Gezer.
 
+[– tilbage –](#indhold)
+
+<a id="2sam6"></a>
+
 ### 2 Sam 6
 
 #### David fører arken til Jerusalem
@@ -1660,6 +2004,10 @@ Da græd de alle endnu mere over ham.
 **17** De førte nu Herrens ark ind og stillede den på dens plads i det telt, David havde rejst til den, og David bragte brændofre og måltidsofre for Herrens ansigt. **18** Da han var færdig med at bringe ofrene, velsignede han folket i Hærskarers Herres navn, **19** og han uddelte et brød, en daddelkage og en rosinkage til hver enkelt i hele israelitternes folkemængde, både mænd og kvinder. Derpå gik alle hver til sit.
 
 **20** Da David vendte hjem for at velsigne sit hus, kom Sauls datter Mikal ham i møde og sagde: »Hvor har Israels konge dog opført sig værdigt i dag, da han blottede sig for øjnene af sine undersåtters trælkvinder! Det gør kun ryggesløse mennesker!« **21** David svarede Mikal: »Det var for Herrens ansigt, jeg gjorde det; det var ham, der udvalgte mig frem for din far og hele hans hus og indsatte mig til fyrste over Herrens folk, over Israel; og for Herrens ansigt vil jeg danse **22** og nedværdige mig endnu mere end nu og synke endnu dybere i din agtelse; men hos de trælkvinder, du talte om, vil jeg vinde ære.« **23** Og Sauls datter Mikal fik til sin dødsdag ingen børn.
+
+[– tilbage –](#indhold)
+
+<a id="2sam7"></a>
 
 ### 2 Sam 7
 
@@ -1673,6 +2021,10 @@ Da græd de alle endnu mere over ham.
 
 **25** Gud Herre, hold til evig tid det løfte, du nu har givet din tjener og hans hus, og gør, som du har lovet! **26** Da skal dit navn blive stort til evig tid, så man siger: Hærskarers Herre er Gud over Israel. Og din tjener Davids hus skal være grundfæstet for dit ansigt. **27** Du, Hærskarers Herre, Israels Gud, har talt til din tjener og sagt: ›Jeg vil bygge dig et hus.‹ Derfor har din tjener dristet sig til at bede denne bøn til dig. **28** Gud Herre, du er jo Gud! Lad dine ord gå i opfyldelse, nu da du har givet din tjener denne forjættelse. **29** Så velsign nu også din tjeners hus og lad det bestå for dit ansigt i evighed. For det har du givet løfte om, Gud Herre; din tjeners hus får del i din velsignelse til evig tid.«
 
+[– tilbage –](#indhold)
+
+<a id="2sam8"></a>
+
 ### 2 Sam 8
 
 #### Davids sejre over nabofolkene
@@ -1685,6 +2037,10 @@ Da græd de alle endnu mere over ham.
 
 **15** David regerede over hele Israel og øvede ret og retfærdighed mod hele sit folk. **16** Joab, Serujas søn, var hærchef; Joshafat, Akiluds søn, var sekretær. **17** Sadok, Akitubs søn, og Akimelek, Ebjatars søn, var præster, og Seraja var statsskriver. **18** Benaja, Jojadas søn, stod i spidsen for kreterne og pleterne, og Davids sønner var præster.
 
+[– tilbage –](#indhold)
+
+<a id="2sam9"></a>
+
 ### 2 Sam 9
 
 #### David og Mefiboshet
@@ -1692,6 +2048,10 @@ Da græd de alle endnu mere over ham.
 **1** David sagde: »Er der nogen tilbage af Sauls hus, som jeg kan vise godhed for Jonatans skyld?« **2** Der havde i Sauls hus været en tjener, der hed Siba; han blev kaldt op til David, og kongen sagde til ham: »Er du Siba?« Han svarede: »Ja, herre.« **3** Kongen spurgte: »Er der slet ingen tilbage af Sauls hus, som jeg kan vise Guds godhed?« Siba svarede: »Der er endnu en søn af Jonatan i live. Han er lam i fødderne.« **4** Kongen spurgte: »Hvor er han?« Siba svarede: »Han bor hos Ammiels søn Makir i Lodebar.« **5** Kong David sendte så bud og lod ham hente hos Ammiels søn Makir i Lodebar. **6** Mefiboshet, Jonatans søn, Sauls sønnesøn, kom ind til David og kastede sig ned for ham. David sagde: »Mefiboshet,« og han svarede: »Ja, herre.« **7** David sagde til ham: »Du skal ikke være bange. For din far Jonatans skyld vil jeg vise dig godhed. Jeg vil give dig al den jord tilbage, der har tilhørt din farfar Saul, og selv skal du få en fast plads ved mit bord.« **8** Han kastede sig ned og sagde: »Hvad er jeg, herre, siden du tager hensyn til en død hund som mig?« **9** Så tilkaldte kongen Sauls tjener Siba og sagde til ham: »Alt det, der tilhørte Saul og hele hans hus, overdrager jeg til din herres sønnesøn. **10** Du skal sammen med dine sønner og dine folk dyrke jorden for ham og sørge for høsten, så din herres sønnesøn har noget at leve af; og Mefiboshet, din herres sønnesøn, skal have en fast plads ved mit bord.« Siba havde femten sønner og tyve tjenestefolk. **11** Siba sagde da til kongen: »Jeg skal gøre alt, hvad min herre kongen befaler mig.« Mefiboshet fik så en fast plads ved hans bord som en af kongesønnerne. **12** Mefiboshet havde en lille søn, der hed Mika.
 
 Alle, der hørte til Sibas husstand, var i tjeneste hos Mefiboshet, **13** men selv boede Mefiboshet i Jerusalem, da han havde fået en fast plads ved kongens bord. Han var lam i begge fødder.
+
+[– tilbage –](#indhold)
+
+<a id="2sam10"></a>
 
 ### 2 Sam 10
 
@@ -1702,6 +2062,10 @@ Alle, der hørte til Sibas husstand, var i tjeneste hos Mefiboshet, **13** men s
 **6** Da ammonitterne så, at de havde lagt sig for had hos David, sendte de bud og hvervede tyve tusind mand fodfolk hos aramæerne i Bet-Rehob og Soba, tusind mand hos kongen af Ma’aka og tolv tusind mand i Tob. **7** Da David hørte det, sendte han Joab af sted med hele styrken af elitetropper. **8** Ammonitterne rykkede ud og stillede op til kamp foran byporten, mens aramæerne fra Soba og Rehob og mændene fra Tob og Ma’aka stod for sig selv på den åbne mark. **9** Da Joab så, at han kunne blive angrebet både forfra og bagfra, udtog han nogle af israelitternes udvalgte mænd og gik i stilling over for aramæerne. **10** Resten af hæren stillede han under sin bror Abishajs kommando, og de gik i stilling over for ammonitterne. **11** Joab sagde: »Hvis aramæerne er stærkere end jeg, skal du komme mig til undsætning. Er ammonitterne derimod stærkere end du, kommer jeg dig til undsætning. **12** Fat mod! Vi vil kæmpe tappert for vort folk og for vor Guds byer. Så må Herren gøre, som han finder for godt!« **13** Så gik Joab og hans mænd til angreb på aramæerne, og de flygtede for ham. **14** Da ammonitterne så, at aramæerne havde taget flugten, flygtede de selv for Abishaj og trak sig ind i byen. Efter slaget mod ammonitterne vendte Joab tilbage til Jerusalem.
 
 **15** Da aramæerne så, at de var slået af israelitterne, samlede de deres styrker. **16** Hadad’ezer gav aramæerne på den anden side af Eufratfloden ordre til at rykke ud, og de kom til Helam under anførsel af Hadad’ezers hærfører Shobak. **17** Så snart David havde fået det at vide, samlede han alle israelitterne, satte over Jordan og kom til Helam. Så gik aramæerne i stilling over for ham og gik til angreb på ham. **18** Men aramæerne måtte flygte for israelitterne, og David dræbte syv hundrede vognheste og fyrre tusind ryttere. Også deres hærfører Shobak slog han ihjel. **19** Da alle Hadad’ezers vasalkonger så, at de var slået af israelitterne, sluttede de fred med Israel og underkastede sig, og aramæerne turde ikke længere yde ammonitterne hjælp.
+
+[– tilbage –](#indhold)
+
+<a id="2sam11"></a>
 
 ### 2 Sam 11
 
@@ -1719,6 +2083,10 @@ Alle, der hørte til Sibas husstand, var i tjeneste hos Mefiboshet, **13** men s
 
 Men det, David havde gjort, var ondt i Herrens øjne.
 
+[– tilbage –](#indhold)
+
+<a id="2sam12"></a>
+
 ### 2 Sam 12
 
 #### Straffen over David
@@ -1734,6 +2102,10 @@ Herren lod den dreng, Urias’ kone havde født David, blive ramt af sygdom. **1
 #### Ammonitterkrigens afslutning
 
 **26** Joab var gået til angreb på ammonitternes Rabba og havde indtaget kongebyen. **27** Han sendte bud til David: »Jeg har angrebet Rabba og indtaget vandbyen. **28** Kald nu resten af hæren sammen, så du kan belejre og indtage byen, for at det ikke skal blive mig, der indtager den og får mit navn udråbt over den.« **29** David samlede hele hæren og drog mod Rabba, angreb den og indtog den. **30** Fra Milkoms hoved fjernede han guldkronen, der vejede en talent, og en ædelsten. Den blev anbragt på Davids hoved. Fra byen tog han et vældigt bytte, **31** indbyggerne førte han med sig, og han satte dem til at arbejde med sav, jernhakke og jernøkse eller overførte dem til arbejdet ved teglstensformene. Således gik han til værks over for alle ammonitternes byer. Derefter vendte han tilbage til Jerusalem med hele hæren.
+
+[– tilbage –](#indhold)
+
+<a id="2sam13"></a>
 
 ### 2 Sam 13
 
@@ -1753,6 +2125,10 @@ Herren lod den dreng, Urias’ kone havde født David, blive ramt af sygdom. **1
 
 Den unge mand, der holdt udkig, fik øje på en masse mennesker, der kom langs bjerget ad Horonajim-vejen. **35** Jonadab sagde da til kongen: »Se, der kommer kongesønnerne! Det var det, jeg sagde, herre.« **36** Næppe havde han sagt det, før kongesønnerne kom. De græd højt, og også kongen og hans folk brast i gråd. **37** Absalom var imidlertid flygtet til Geshurs konge Talmaj, Ammihurs søn. David sørgede længe over sin søn. **38** Men Absalom, der var flygtet til Geshur, blev der i tre år. **39** Kongen var ved at gå til af længsel efter Absalom, da han var kommet over Amnons død.
 
+[– tilbage –](#indhold)
+
+<a id="2sam14"></a>
+
 ### 2 Sam 14
 
 #### Absalom og David forsones
@@ -1764,6 +2140,10 @@ Den unge mand, der holdt udkig, fik øje på en masse mennesker, der kom langs b
 **25** Ingen i hele Israel var så beundret for sin skønhed som Absalom; fra isse til fod var der ingen fejl ved ham. **26** Med mellemrum blev hans hår så langt, at han måtte lade det klippe; og når han gjorde det, kunne det veje to hundrede sekel efter kongelig vægt. **27** Absalom fik tre sønner og en datter, der hed Tamar. Hun var en smuk kvinde.
 
 **28** Da Absalom havde opholdt sig to år i Jerusalem uden at vise sig for kongen, **29** sendte han bud efter Joab for at få ham til at gå til kongen, men han ville ikke komme. En gang til sendte han bud, men han ville stadig ikke komme. **30** Absalom sagde da til sine folk: »Joab har jo en mark ved siden af min; den har han byg på. Gå hen og sæt ild til den.« Hans folk satte så ild til marken, **31** og Joab gik straks hjem til Absalom og sagde til ham: »Hvorfor har dine folk sat ild til min mark?« **32** Absalom svarede: »Jeg sendte bud til dig om at komme herhen. Jeg ville have, at du skulle gå til kongen og spørge ham, hvorfor jeg skulle komme tilbage fra Geshur. Jeg havde det bedre, mens jeg var der. Nu vil jeg have foretræde for kongen. Er jeg stadig skyldig, kan han slå mig ihjel.« **33** Joab gik så til kongen og fortalte ham det. Kongen lod Absalom kalde. Da han kom, kastede han sig til jorden for kongen, og kongen kyssede Absalom.
+
+[– tilbage –](#indhold)
+
+<a id="2sam15"></a>
 
 ### 2 Sam 15
 
@@ -1783,6 +2163,10 @@ Den unge mand, der holdt udkig, fik øje på en masse mennesker, der kom langs b
 
 **32** Da David nåede toppen, hvor man plejede at tilbede Gud, kom arkitten Hushaj ham i møde. Han havde flænget sin kjortel og havde strøet jord på hovedet. **33** David sagde da til ham: »Du bliver mig kun til besvær, hvis du går med. **34** Men du skal tage tilbage til byen og sige til Absalom: ›Jeg vil træde i din tjeneste, konge. Som jeg engang gjorde tjeneste for din far, vil jeg nu tjene dig.‹ På den måde kan du kuldkaste Akitofels råd. **35** Desuden har du præsterne Sadok og Ebjatar hos dig. Hvad du hører ved hoffet, skal du fortælle til præsterne Sadok og Ebjatar. **36** De har deres to sønner hos sig, Sadoks søn Akima’as og Ebjatars søn Jonatan. Dem skal I sende til mig med besked om alt, hvad I hører.« **37** Da Absalom rykkede ind i Jerusalem, kom også Davids Ven Hushaj til byen.
 
+[– tilbage –](#indhold)
+
+<a id="2sam16"></a>
+
 ### 2 Sam 16
 
 **1** Da David var kommet et stykke vej på den anden side af bjergtoppen, kom Mefiboshets tjener Siba ham i møde. Med sig havde han et par opsadlede æsler; de bar to hundrede brød, hundrede rosinkager, hundrede frugter og en krukke vin. **2** Kongen sagde til Siba: »Hvor skal du hen med det?« Siba svarede: »Æslerne skal kongens familie have at ride på; brødet og frugten er til folkene, og vinen er til dem, der bliver trætte ude i ørkenen.« **3** Kongen fortsatte: »Hvor er din herres søn?« Siba svarede: »Han blev i Jerusalem, for han sagde: Nu vil Israels hus give mig min farfars kongedømme tilbage.« **4** Kongen sagde da til Siba: »Alt, hvad Mefiboshet ejer, er hermed dit.« Siba sagde: »Jeg bøjer mig dybt, herre konge. Måtte jeg bevare din velvilje!«
@@ -1799,6 +2183,10 @@ Den unge mand, der holdt udkig, fik øje på en masse mennesker, der kom langs b
 
 **23** Et råd fra Akitofel havde dengang samme værdi som et svar fra Gud. Så meget betød Akitofels råd for både David og Absalom.
 
+[– tilbage –](#indhold)
+
+<a id="2sam17"></a>
+
 ### 2 Sam 17
 
 **1** Derpå sagde Akitofel til Absalom: »Lad mig udvælge tolv tusind mand, så jeg allerede i nat kan sætte efter David. **2** Jeg vil overfalde ham nu, hvor han er træt og modløs, og sætte skræk i ham, og hele hans hær vil tage flugten; jeg slår kun kongen ihjel, **3** og så kan jeg føre hele hæren tilbage til dig. Så omkommer den mand, du efterstræber, mens hele hæren er i behold.« **4** Det forslag syntes Absalom og alle de ældste i Israel godt om. **5** Absalom sagde dog: »Hent først arkitten Hushaj, så vi også kan høre, hvad han har at sige.« **6** Da Hushaj var kommet til stede, sagde Absalom til ham: »Sådan og sådan har Akitofel foreslået. Skal vi følge hans forslag eller ej? Sig, hvad du mener!« **7** Hushaj svarede Absalom: »Det råd, Akitofel denne gang er kommet med, er ikke godt.« **8** Han tilføjede: »Du kender din far og hans mænd og ved, at de er tapre og forbitrede som bjørne i det fri, når man har taget ungerne fra dem. Desuden er din far en kriger; han overnatter ikke hos mandskabet. **9** I øjeblikket holder han sig nok skjult i en grube eller et lignende sted. Hvis det begynder med, at nogle af vores folk falder, og det rygtes, så vil man sige, at Absaloms hær er slået. **10** Så vil selv den tapreste mand med et hjerte som en løve miste modet. Alle i Israel ved jo, at din far er en helt, og at han er omgivet af tapre mænd. **11** Mit råd er derfor: Lad alle israelitter fra Dan til Be’ersheba samles om dig; vi bliver så talrige som sandet ved havet. Du skal selv gå med i kampen. **12** Når vi så støder på ham et af de steder, hvor han befinder sig, falder vi over ham, som duggen falder på jorden, og der bliver intet som helst tilbage af ham og hans mænd. **13** Skulle han trække sig tilbage til en by, vil hele Israel lægge reb om den by og slæbe den ned i dalen, så der ikke bliver så meget som en sten tilbage, hvor den stod.« **14** Absalom og alle israelitterne sagde: »Arkitten Hushajs råd er bedre end Akitofels.«
@@ -1813,6 +2201,10 @@ Det var Herren, der havde befalet, at Akitofels gode råd skulle kuldkastes, for
 
 **24** Da Absalom og alle israelitterne med ham var kommet over Jordan, var David nået til Mahanajim. **25** Absalom havde gjort Amasa til hærchef i stedet for Joab. Amasa var søn af en ismaelit, der hed Jitra. Jitra var gift med Abigal, der var datter af Nahash og søster til Joabs mor Seruja. **26** Israelitterne og Absalom slog lejr i Gileads land. **27** Så snart David var kommet til Mahanajim, kom Shobi, søn af Nahash fra ammonitternes Rabba, og Makir, søn af Ammiel fra Lodebar, og gileaditten Barzillaj fra Rogelim. **28** De havde senge, skåle og lerkar med sig; desuden hvede, byg, mel, ristet korn, bønner, linser, **29** honning, tykmælk, småkvæg og komælksost som proviant til David og hans mænd. De tænkte nemlig: »Soldaterne må være sultne, udmattede og tørstige efter opholdet i ørkenen.«
 
+[– tilbage –](#indhold)
+
+<a id="2sam18"></a>
+
 ### 2 Sam 18
 
 **1** David mønstrede nu sine tropper og indsatte tusindførere og hundredførere over dem. **2** Derefter sendte han hæren af sted i tre afdelinger. Joab fik kommandoen over den ene, hans bror Abishaj, Serujas søn, fik kommandoen over den anden, og Ittaj fra Gat fik kommandoen over den tredje. Kongen sagde til hæren: »Jeg vil selv rykke ud sammen med jer.« **3** Men de svarede: »Det må du ikke! Bliver vi slået på flugt, er der ingen, der bekymrer sig om det; hvis halvdelen af os dør, er der ingen, der bekymrer sig om det. Men du er mere værd end ti tusind af os. Derfor er det bedst, du bliver i byen og kommer os til undsætning derfra.« **4** Kongen sagde da til dem: »Jeg gør, som I synes.« Så stillede kongen sig ved byporten, mens tropperne rykkede ud i enheder på hundrede mand og tusind mand. **5** Kongen befalede Joab, Abishaj og Ittaj: »I må ikke gå for voldsomt til værks mod den unge Absalom.« Hele hæren hørte kongen give alle befalingsmændene denne ordre om Absalom. **6** Så drog hæren i felten mod Israel, og slaget kom til at stå i Efraimskoven. **7** Dér blev israelitterne slået af Davids folk, og de led den dag et tab på tyve tusind mand. **8** Kampen bredte sig over hele egnen, og skoven fortærede den dag flere, end sværdet fortærede.
@@ -1824,6 +2216,10 @@ Det var Herren, der havde befalet, at Akitofels gode råd skulle kuldkastes, for
 **18** Endnu mens Absalom var i live, havde han rejst sig den stenstøtte, som står i Kongedalen; for han sagde: »Jeg har ingen søn til at bevare mindet om mig.« Han opkaldte stenstøtten efter sig, og den dag i dag kaldes den Absaloms Minde.
 
 **19** Sadoks søn Akima’as sagde: »Lad mig løbe over til kongen med det budskab, at Herren har skaffet ham ret over for hans fjender.« **20** Men Joab svarede: »I dag skal du ikke gå med bud. Du kan bringe bud en anden dag, men i dag skal du ikke gøre det. Kongens søn er jo død.« **21** Joab sagde så til en nubier: »Gå til kongen og fortæl ham, hvad du har set!« Nubieren kastede sig ned for Joab, og så løb han. **22** Men Sadoks søn Akima’as blev ved og sagde til Joab: »Lige meget, nu løber jeg efter nubieren.« Joab sagde: »Hvorfor vil du det, min søn? Det får du ingen budpenge for.« **23** Men Akima’as svarede: »Lige meget, jeg løber!« »Så løb da!« sagde Joab. Og Akima’as løb ad vejen til Jordandalen og nåede frem før nubieren. **24** David sad mellem de to porte, og udkigsposten gik op på taget af portbygningen og hen til muren. Da han så ud, fik han øje på en mand, der kom løbende alene. **25** Udkigsposten råbte ned til kongen og meldte det, og kongen sagde: »Kommer han alene, må han have et budskab med.« Men da manden var kommet nærmere, **26** fik udkigsposten øje på én til, der kom løbende. Han råbte til portvagten: »Der kommer en mand løbende. Han er alene.« Kongen sagde: »Han har nok også et budskab.« **27** Udkigsposten sagde: »Jeg kan se, at den første løber ligesom Sadoks søn Akima’as.« Kongen sagde: »Han er en god mand, han må komme med godt nyt.« **28** Akima’as råbte til kongen: »Vær hilset!« og kastede sig til jorden for ham. Derpå sagde han: »Lovet være Herren, din Gud, som har standset de mænd, der har løftet hånd imod min herre, kongen.« **29** Kongen spurgte da: »Er den unge Absalom i god behold?« Akima’as svarede: »Jeg så, at der var stor forvirring, da kongens tjener Joab sendte mig af sted, herre konge. Jeg ved ikke noget som helst.« **30** Da sagde kongen: »Til side, stil dig derhen!« Han trådte til side og blev stående. **31** I det samme kom nubieren, og han sagde: »Det meldes min herre kongen, at Herren i dag har skaffet dig ret over for alle dem, der har rejst sig imod dig.« **32** Kongen spurgte da: »Er den unge Absalom i god behold?« Nubieren svarede: »Måtte det gå alle de fjender, min herre kongen har, og alle, der har rejst sig imod dig, som det er gået den unge mand!«
+
+[– tilbage –](#indhold)
+
+<a id="2sam19"></a>
 
 ### 2 Sam 19
 
@@ -1840,6 +2236,10 @@ Imens var israelitterne flygtet hver til sit. **10** Overalt i Israels stammer k
 **32** Gileaditten Barzillaj var kommet ned fra Rogelim. Han nåede frem til Jordan sammen med kongen for dér at tage afsked med ham. **33** Barzillaj var en meget gammel mand, firs år. Det var ham, der havde sørget for kongen, så længe han havde opholdt sig i Mahanajim, for han var en meget velhavende mand. **34** Kongen sagde til Barzillaj: »Tag med mig over til Jerusalem; der vil jeg sørge for dig.« **35** Men Barzillaj svarede: »Skulle jeg i min høje alder følge med kongen op til Jerusalem? **36** Jeg er nu firs år, jeg kender ikke længere forskel på godt og ondt; jeg kan ikke smage, hvad jeg spiser og drikker, og jeg kan ikke længere høre sangere og sangerinder. Hvorfor skulle jeg være dig til besvær, herre konge? **37** Jeg vil blot gå over Jordan sammen med dig, herre konge. Hvorfor skulle kongen lønne mig så storslået? **38** Lad mig tage hjem, så jeg kan dø i min by og komme i min fars og mors grav. Men Kimham kan gå med, herre konge, og for ham kan du gøre, hvad du vil.« **39** Kongen sagde da: »Så følger Kimham med mig, og jeg vil gøre for ham, hvad du synes; alt, hvad du ønsker af mig, vil jeg gøre for dig.« **40** Hele hæren satte så over Jordan, også kongen. Han kyssede Barzillaj til afsked, og Barzillaj vendte hjem.
 
 **41** Kongen fortsatte sammen med Kimham til Gilgal. Det var hele den judæiske hær og halvdelen af den israelitiske, der havde ledsaget kongen over. **42** Men nu kom alle israelitterne til kongen og sagde: »Hvorfor har vore brødre, judæerne, fået lov til at bemægtige sig kongen og ledsage ham og hans familie over Jordan sammen med alle Davids mænd?« **43** Judæerne svarede israelitterne: »Kongen er os nærmest, så hvorfor er I vrede? Har vi måske udnyttet kongen eller skaffet os fordele?« **44** Israelitterne svarede: »Vi har ti gange så stor del i kongen, også i David, som I. Hvorfor tilsidesætter I os? Var det ikke os, der først talte om at hente kongen tilbage?« Men judæerne gav et endnu hårdere svar end israelitterne.
+
+[– tilbage –](#indhold)
+
+<a id="2sam20"></a>
 
 ### 2 Sam 20
 
@@ -1867,6 +2267,10 @@ Joab og hans bror Abishaj genoptog så forfølgelsen af Sheba, Bikris søn, **11
 
 **23** Joab var hærchef i Israel. Benaja, Jojadas søn, stod i spidsen for kreterne og pleterne. **24** Adoniram stod for hoveriet. Akiluds søn Joshafat var sekretær; **25** Sheja var statsskriver, Sadok og Ebjatar var præster. **26** Men også Ira af Jairs slægt var præst hos David.
 
+[– tilbage –](#indhold)
+
+<a id="2sam21"></a>
+
 ### 2 Sam 21
 
 #### Gibeonitternes hævn
@@ -1884,6 +2288,10 @@ Joab og hans bror Abishaj genoptog så forfølgelsen af Sheba, Bikris søn, **11
 **20** Der blev igen krig i Gat. Der var en kæmpestor mand; han havde seks fingre på hver hånd og seks tæer på hver fod, i alt fireogtyve. Han hørte også til Rafa-slægten. **21** Han hånede Israel, men Jonatan, der var søn af Davids bror Shim’a, slog ham ihjel.
 
 **22** Disse fire hørte til Rafa-slægten i Gat, og de faldt for Davids og hans folks hånd.
+
+[– tilbage –](#indhold)
+
+<a id="2sam22"></a>
 
 ### 2 Sam 22
 
@@ -2016,6 +2424,10 @@ Joab og hans bror Abishaj genoptog så forfølgelsen af Sheba, Bikris søn, **11
 > og viser troskab mod sin salvede,
 > mod David og hans slægt til evig tid.
 
+[– tilbage –](#indhold)
+
+<a id="2sam23"></a>
+
 ### 2 Sam 23
 
 #### Davids sidste ord
@@ -2061,6 +2473,10 @@ Joab og hans bror Abishaj genoptog så forfølgelsen af Sheba, Bikris søn, **11
 
 **24** Joabs bror Asael hørte til de tredive; Dodos søn Elkanan fra Betlehem; **25** Shamma fra Harod; Elika fra Harod; **26** Heles fra Pelet; Ikkeshs søn Ira fra Tekoa; **27** Abiezer fra Anatot; Mebunnaj fra Husha; **28** Salmon fra Akoa; Maharaj fra Netofa; **29** Ba’anas søn Heleb fra Netofa; Ribajs søn Ittaj fra Gibea i Benjamin; **30** Benaja fra Pir’aton; Hiddaj fra Nahale-Ga’ash; **31** Abi-Albon fra Arba; Azmavet fra Bahurim; **32** Eljakba fra Sha’albon; Jashen fra Gizon; **33** Shammas søn Jonatan fra Harar; Sharars søn Akiam fra Harar; **34** Akasbajs søn Elifelet fra Ma’aka; Akitofels søn Eliam fra Gilo; **35** Hesro fra Karmel; Pa’araj fra Arab; **36** Natans søn Jig’al fra Soba; Bani fra Gad; **37** Selek fra Ammon; Nakraj fra Be’erot; han var Serujas søn Joabs våbendrager; **38** Ira fra Jattir; Gareb fra Jattir; **39** hittitten Urias. Det var i alt syvogtredive.
 
+[– tilbage –](#indhold)
+
+<a id="2sam24"></a>
+
 ### 2 Sam 24
 
 #### Folketællingen og pesten
@@ -2071,9 +2487,13 @@ Joab og hans bror Abishaj genoptog så forfølgelsen af Sheba, Bikris søn, **11
 
 **18** Samme dag kom Gad til David og sagde til ham: »Gå op og rejs et alter for Herren på jebusitten Aravnas tærskeplads!« **19** David gik derop, sådan som Gad havde sagt på Herrens befaling. **20** Da Aravna så ned, fik han øje på kongen og hans folk, som kom hen imod ham, og han gik hen og kastede sig til jorden for kongen **21** og spurgte: »Hvorfor kommer du til din tjener, herre konge?« David svarede: »Jeg vil købe tærskepladsen af dig og bygge et alter for Herren, så folkets plage kan standse.« **22** Aravna sagde til David: »Du kan tage den, herre konge, og ofre, hvad du vil. Okserne her er til brændoffer, tærskeslæderne og oksernes åg er til brænde. **23** Aravna giver dig det hele, konge. Herren din Gud være dig nådig,« sagde Aravna til kongen. **24** Men kongen svarede: »Nej, jeg vil betale dig, hvad den koster. Til Herren min Gud vil jeg ikke bringe brændofre, som jeg ikke har betalt.« Så købte David tærskepladsen og okserne for halvtreds sekel sølv. **25** Dér byggede han et alter for Herren og bragte brændofre og måltidsofre. Da forbarmede Herren sig over landet, og Israels plage standsede.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Første Kongebog
+
+<a id="1kong1"></a>
 
 ### 1 Kong 1
 
@@ -2095,6 +2515,10 @@ Joab og hans bror Abishaj genoptog så forfølgelsen af Sheba, Bikris søn, **11
 
 **51** Salomo fik at vide, at Adonija i sin frygt for ham havde grebet fat i alterets horn og havde sagt: »Kong Salomo må først tilsværge mig, at han ikke vil lade sin tjener dø for sværdet.« **52** Salomo sagde: »Hvis han viser sig at være pålidelig, bliver der ikke krummet et hår på hans hoved, men gør han sig skyldig i noget, skal han dø!« **53** Så sendte kong Salomo bud om, at han skulle føres bort fra alteret. Adonija gik hen og kastede sig ned for kong Salomo, der sagde: »Gå hjem til dig selv!«
 
+[– tilbage –](#indhold)
+
+<a id="1kong2"></a>
+
 ### 1 Kong 2
 
 #### Davids død
@@ -2115,6 +2539,10 @@ Joab og hans bror Abishaj genoptog så forfølgelsen af Sheba, Bikris søn, **11
 
 Kongemagten var nu sikret i Salomos hånd.
 
+[– tilbage –](#indhold)
+
+<a id="1kong3"></a>
+
 ### 1 Kong 3
 
 #### Salomos drøm
@@ -2131,6 +2559,10 @@ Kongemagten var nu sikret i Salomos hånd.
 
 **28** Hele Israel hørte om den dom, kongen havde fældet, og de fik ærefrygt for kongen, for de forstod, at Guds visdom var i ham, så han dømte ret.
 
+[– tilbage –](#indhold)
+
+<a id="1kong4"></a>
+
 ### 1 Kong 4
 
 #### Salomos embedsmænd
@@ -2140,6 +2572,10 @@ Kongemagten var nu sikret i Salomos hånd.
 **7** Salomo havde tolv guvernører over hele Israel; de skulle sørge for forsyningerne til kongen og hans hof, hver af dem en måned om året. **8** Dette er deres navne: Hurs søn, i Efraims bjergland; **9** Dekers søn, i Makas, Sha’albim, Bet-Shemesh og Ajjalon indtil Bet-Hanan; **10** Heseds søn, i Arubbot; han havde Soko og hele Hefers land; **11** Abinadabs søn, i hele Dors højdedrag; han blev gift med Salomos datter Tafat; **12** Ba’ana, Akiluds søn, i Ta’anak og Megiddo til den anden side af Jokmeam, endvidere hele Bet-Shan neden for Jizre’el, fra Bet-Shan til Abel-Mehola, som ligger på højde med Saretan; **13** Gebers søn, i Ramot i Gilead; han havde de teltbyer i Gilead, som havde navn efter Manasses søn Jair; han havde også landskabet Argob, som ligger i Bashan, tres store byer med mure og med portslåer af bronze; **14** Akinadab, Iddos søn, i Mahanajim; **15** Akima’as, i Naftali; også han giftede sig med en datter af Salomo, Basemat; **16** Ba’ana, Hushajs søn, i Asher og i Ba’alot; **17** Joshafat, Paruas søn, i Issakar; **18** Shim’i, Elas søn, i Benjamin; **19** Geber, Uris søn, i Gileads land, det land som havde tilhørt amoritterkongen Sihon og Bashans konge Og; desuden en guvernør i Judas land.
 
 **20** Judæerne og israelitterne var så talrige som sandet ved havet. De spiste og drak og var glade.
+
+[– tilbage –](#indhold)
+
+<a id="1kong5"></a>
 
 ### 1 Kong 5
 
@@ -2161,6 +2597,10 @@ Kongemagten var nu sikret i Salomos hånd.
 
 **27** Kong Salomo udskrev hoveriarbejdere fra hele Israel; hoveriet omfattede tredive tusind mand. **28** Dem sendte han til Libanon, ti tusind på skift hver måned. En måned var de i Libanon og to måneder hjemme. Adoniram stod for hoveriet. **29** Salomo havde halvfjerds tusind bærere og firs tusind stenhuggere i bjerglandet **30** foruden Salomos tre tusind tre hundrede arbejdsledere, der førte tilsyn med arbejderne. **31** Kongen gav ordre til at bryde store, kostbare sten, kvadersten, til fundament for templet. **32** Salomos og Hirams bygmestre og folk fra Gebal huggede dem til, og de færdiggjorde tømmeret og stenene til tempelbyggeriet.
 
+[– tilbage –](#indhold)
+
+<a id="1kong6"></a>
+
 ### 1 Kong 6
 
 #### Salomos tempel
@@ -2180,6 +2620,10 @@ Kongemagten var nu sikret i Salomos hånd.
 **36** Han byggede den indre forgård med tre skifter kvadersten og ét skifte cedertræsbjælker.
 
 **37** I det fjerde år, i måneden ziv, blev grunden lagt til Herrens tempel, **38** og i det ellevte år, i måneden bul – det er den ottende måned – stod det færdigt i alle enkeltheder efter planerne. Han byggede det på syv år.
+
+[– tilbage –](#indhold)
+
+<a id="1kong7"></a>
 
 ### 1 Kong 7
 
@@ -2202,6 +2646,10 @@ Kongemagten var nu sikret i Salomos hånd.
 **48** Salomo lavede alle genstandene i Herrens tempel: guldalteret og guldbordet, som skuebrødene lå på, **49** lysestagerne, de fem til højre og de fem til venstre foran det inderste rum, i rent guld, blomsten, lamperne og tængerne af guld, **50** bægrene, knivene, stænkeskålene, skålene og fyrbækkenerne af rent guld, panelerne i dørene til inderrummet, det Allerhelligste, og i dørene til tempelhallen, af guld.
 
 **51** Da alt det arbejde, kong Salomo udførte til Herrens tempel, var færdigt, bragte Salomo sin far Davids helliggaver, sølvet, guldet og karrene og lagde dem i skatkamrene i Herrens tempel.
+
+[– tilbage –](#indhold)
+
+<a id="1kong8"></a>
 
 ### 1 Kong 8
 
@@ -2241,6 +2689,10 @@ Herre, Israels Gud, der er ingen Gud som du oppe i himlen eller nede på jorden,
 
 **65** Salomo og hele Israel med ham, en stor forsamling lige fra Lebo-Hamat til Egyptens bæk, fejrede den gang festen for Herren vor Guds ansigt i syv dage og syv dage, fjorten dage. **66** Den ottende dag lod han folket gå. De priste kongen og drog hjem, glade og ved godt mod på grund af alt det gode, som Herren havde gjort mod sin tjener David og sit folk Israel.
 
+[– tilbage –](#indhold)
+
+<a id="1kong9"></a>
+
 ### 1 Kong 9
 
 #### Davidsdynastiets skæbne
@@ -2261,6 +2713,10 @@ Herre, Israels Gud, der er ingen Gud som du oppe i himlen eller nede på jorden,
 
 **26** Kong Salomo byggede skibe i Esjongeber, der ligger ved Elat i Edom ved Sivhavets kyst. **27** Hiram sendte sine folk, søkyndige folk, på skibene sammen med Salomos folk. **28** De kom til Ofir og hentede guld, 420 talenter, og bragte det til kong Salomo.
 
+[– tilbage –](#indhold)
+
+<a id="1kong10"></a>
+
 ### 1 Kong 10
 
 #### Dronningen af Saba
@@ -2276,6 +2732,10 @@ Herre, Israels Gud, der er ingen Gud som du oppe i himlen eller nede på jorden,
 **14** Vægten af det guld, som på et år blev indført til Salomo, var 666 talenter. **15** Dertil kom told fra dem, der drev transithandel, og afgifter fra købmændene, alle Arabiens konger og rigets statholdere. **16** Kong Salomo lod fremstille to hundrede langskjolde af drevet guld, til hvert skjold medgik seks hundrede sekel; **17** tre hundrede rundskjolde af drevet guld, til hvert skjold medgik tre miner guld. Dem anbragte kongen i Libanonskovhuset. **18** Endvidere lod kongen fremstille en stor elfenbenstrone og beklædte den med gedigent guld. **19** Tronen havde seks trin, ryglænet var foroven rundet bagud, på begge sider af sædet var der armlæn, og ved hvert armlæn stod en løve. **20** På de seks trin stod der tolv løver, seks på hver side. Magen til fandtes ikke i noget kongerige. **21** Alle kong Salomos drikkekar var af guld, og alle genstande i Libanonskovhuset var af rent guld; sølv regnedes overhovedet ikke for noget på Salomos tid. **22** Kongen havde nemlig Tarshish-skibe i søen sammen med Hirams skibe; en gang hvert tredje år kom Tarshish-skibene lastet med guld, sølv, elfenben, aber og bavianer. **23** Ja, kong Salomo overgik alle jordens konger i rigdom og i visdom. **24** Fra hele verden søgte man til Salomo for at høre hans visdom, som Gud havde givet ham i hjertet. **25** Enhver bragte sin gave, genstande af sølv og af guld, klæder, våben, balsamstoffer, heste og muldyr. Det gentog sig år efter år.
 
 **26** Salomo samlede en styrke af vogne og ryttere; han havde fjorten hundrede vogne og tolv tusind ryttere, og han stationerede dem i vognbyer og i Jerusalem hos kongen selv. **27** Kongen gjorde sølv lige så almindeligt i Jerusalem som sten, og cedertræ lige så almindeligt som morbærfigentræ, der vokser i lavlandet. **28** Salomos heste blev indført fra Musri og Kue; kongens handelsfolk købte dem fra Kue. **29** En vogn udførtes fra Egypten for seks hundrede sekel sølv og en hest for hundrede og halvtreds, og handelsfolkene videresolgte dem til hittitternes og Arams konger.
+
+[– tilbage –](#indhold)
+
+<a id="1kong11"></a>
 
 ### 1 Kong 11
 
@@ -2302,6 +2762,10 @@ Herre, Israels Gud, der er ingen Gud som du oppe i himlen eller nede på jorden,
 #### Salomos død
 
 **41** Hvad der ellers er at fortælle om Salomo, alt hvad han gjorde, og hans visdom, står jo i Salomos Krønike. **42** Salomo regerede fyrre år i Jerusalem over hele Israel. **43** Salomo lagde sig til hvile hos sine fædre og blev begravet i sin far Davids by, og hans søn Rehabeam blev konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="1kong12"></a>
 
 ### 1 Kong 12
 
@@ -2336,6 +2800,10 @@ Så gik israelitterne hver til sit. **17** Men de israelitter, som boede i Judas
 
 **31** Han byggede offerhøjstempler, og af folket selv udpegede han præster, som ikke var levitter. **32** Jeroboam fejrede festen på den femtende dag i den ottende måned ligesom festen i Juda. Han steg op på det alter, han havde lavet i Betel, for at bringe slagtofre til de tyrekalve, han havde lavet. De offerhøjspræster, han havde udpeget, indsatte han i Betel. **33** Han steg op på det alter, han havde lavet i Betel, på den femtende dag i den ottende måned, en dag han selv havde fundet på; han fejrede festen for israelitterne, og han steg op på alteret for at tænde offerild.
 
+[– tilbage –](#indhold)
+
+<a id="1kong13"></a>
+
 ### 1 Kong 13
 
 #### Gudsmanden fra Juda og profeten fra Betel
@@ -2345,6 +2813,10 @@ Så gik israelitterne hver til sit. **17** Men de israelitter, som boede i Judas
 **11** Nu boede der en gammel profet i Betel, og hans sønner kom og fortalte ham alt det, gudsmanden havde gjort den dag i Betel, og de fortalte deres far de ord, han havde talt til kongen. **12** Deres far spurgte dem, hvilken vej han var gået, og hans sønner viste ham den vej, gudsmanden fra Juda var gået. **13** Så sagde han til sine sønner: »Sadl mit æsel!« Da de havde gjort det, satte han sig op på det **14** og red efter gudsmanden. Han fandt ham, siddende under et egetræ, og spurgte ham: »Er du den gudsmand, der kom fra Juda?« og da han svarede ja, **15** sagde han til ham: »Kom med mig hjem og spis!« **16** Men han svarede: »Jeg kan ikke vende om og gå med dig, og her på stedet kan jeg hverken spise eller drikke sammen med dig. **17** For Herrens befaling lød: Du må hverken spise eller drikke dér, og du må ikke vende tilbage ad den vej, du kom.« **18** Men han sagde til ham: »Også jeg er en profet ligesom du, og en engel sagde på Herrens befaling til mig: Få ham med tilbage til dit hus, så han kan spise og drikke.« Sådan løj han for ham! **19** Han vendte så tilbage sammen med ham og spiste og drak i hans hus. **20** Men mens de sad ved bordet, kom Herrens ord til profeten, som havde fået ham med tilbage, **21** og han råbte til gudsmanden fra Juda: »Dette siger Herren: Fordi du trodsede Herrens ord og ikke adlød den befaling, som Herren din Gud gav dig, **22** men vendte tilbage og nu sidder og spiser og drikker på det sted, hvor han sagde, du hverken måtte spise eller drikke, skal dit lig ikke komme i dine fædres grav.« **23** Da han havde spist og drukket, sadlede den gamle profet æslet til profeten, som han havde fået med tilbage. **24** Han drog så af sted, men på vejen mødte han en løve, som dræbte ham. Hans lig lå slængt hen på vejen; æslet og løven stod på hver sin side af liget. **25** Nogle forbipasserende mænd så liget ligge slængt hen på vejen og løven stå ved siden af liget. De kom til byen, hvor den gamle profet boede, og fortalte om det. **26** Da profeten, som havde fået ham med tilbage, hørte det, sagde han: »Det er den gudsmand, som trodsede Herrens befaling. Herren har givet ham i løvens vold, og den har revet ham ihjel efter det ord, Herren havde talt til ham.« **27** Så sagde han til sine sønner: »Sadl mit æsel!« Da de havde gjort det, **28** red han af sted og fandt liget slængt hen på vejen, og æslet og løven ved siden af liget. Løven havde ikke ædt liget og ikke revet æslet ihjel. **29** Profeten løftede gudsmandens lig op, lagde det på æslet og bragte det tilbage, og han kom til sin by for at holde ligklage og begrave ham. **30** Han lagde liget i sin egen grav, og de holdt ligklage over ham: »Ak og ve, min broder!« **31** Da han havde begravet ham, sagde han til sine sønner: »Når jeg dør, skal I begrave mig i den grav, hvor gudsmanden er begravet; ved hans ben skal I lægge mine ben. **32** For det ord, han på Herrens befaling råbte mod alteret i Betel og mod alle offerhøjstemplerne i Samarias byer, skal blive til virkelighed.«
 
 **33** Heller ikke efter denne begivenhed vendte Jeroboam om fra sin onde vej. Han fortsatte med at udpege offerhøjspræster af folket selv; alle, der ønskede det, indsatte han til offerhøjspræster. **34** Det blev til synd for Jeroboams hus, så det måtte tilintetgøres og udslettes fra jordens overflade.
+
+[– tilbage –](#indhold)
+
+<a id="1kong14"></a>
 
 ### 1 Kong 14
 
@@ -2369,6 +2841,10 @@ Så gik israelitterne hver til sit. **17** Men de israelitter, som boede i Judas
 **25** I kong Rehabeams femte regeringsår drog egypterkongen Shishak op mod Jerusalem. **26** Han tog skattene fra Herrens tempel og fra kongens palads, ja, han tog alt. Han tog alle guldskjoldene, som Salomo havde lavet, **27** og kong Rehabeam lavede bronzeskjolde til erstatning for dem. Dem gav han i forvaring hos befalingsmændene over livvagten, som vogtede indgangen til kongens palads. **28** Hver gang kongen gik ind i Herrens tempel, bar livvagten dem, og bagefter bragte de dem tilbage til livvagtens våbenkammer.
 
 **29** Hvad der ellers er at fortælle om Rehabeam, alt hvad han gjorde, står jo i Judas Kongers Krønike. **30** Der var hele tiden krig mellem Rehabeam og Jeroboam. **31** Rehabeam lagde sig til hvile hos sine fædre og blev begravet hos sine fædre i Davidsbyen. Hans mor hed Na’ama og var fra Ammon. Hans søn Abija blev konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="1kong15"></a>
 
 ### 1 Kong 15
 
@@ -2397,6 +2873,10 @@ Så gik israelitterne hver til sit. **17** Men de israelitter, som boede i Judas
 #### Basha af Israel
 
 **33** I Judas konge Asas tredje regeringsår blev Akijas søn Basha konge over hele Israel, og han regerede fireogtyve år i Tirsa. **34** Han gjorde, hvad der var ondt i Herrens øjne. Han fulgte i Jeroboams spor og vedblev med den synd, som Jeroboam havde forledt Israel til.
+
+[– tilbage –](#indhold)
+
+<a id="1kong16"></a>
 
 ### 1 Kong 16
 
@@ -2428,6 +2908,10 @@ Så gik israelitterne hver til sit. **17** Men de israelitter, som boede i Judas
 
 **34** På hans tid genopbyggede Hiel fra Betel Jeriko. Det kostede ham hans førstefødte søn Abiram at lægge grunden og hans yngste søn Segub at sætte porten i, efter det ord, som Herren havde talt ved Josva, Nuns søn.
 
+[– tilbage –](#indhold)
+
+<a id="1kong17"></a>
+
 ### 1 Kong 17
 
 #### Elias profeterer hungersnød
@@ -2443,6 +2927,10 @@ Så gik israelitterne hver til sit. **17** Men de israelitter, som boede i Judas
 **15** Så gik hun bort og gjorde, som Elias havde sagt. Og både han og hun og hendes familie fik føden i lang tid. **16** Krukken blev ikke tom for mel, og kanden kom ikke til at mangle olie, efter det ord, Herren havde talt ved Elias.
 
 **17** Senere skete der det, at sønnen af denne kvinde, husets ejer, blev syg; hans sygdom var så alvorlig, at der til sidst ikke var liv i ham. **18** Da sagde hun til Elias: »Hvad har jeg med dig at gøre, gudsmand? Du er kommet til mig for at gøre Gud opmærksom på min skyld og få min søn slået ihjel!« **19** »Overlad din søn til mig,« sagde Elias og tog ham ud af favnen på hende. Så bar han ham op i værelset ovenpå, hvor han boede, og lagde ham på sin seng. **20** Han råbte til Herren: »Herre min Gud! Vil du virkelig bringe ulykke over denne enke, som jeg har fundet husly hos, og slå hendes søn ihjel?« **21** Så kastede han sig tre gange over drengen og råbte til Herren: »Herre min Gud, lad livet vende tilbage i drengen!« **22** Herren hørte Elias’ bøn, og livet vendte tilbage i drengen, så han blev levende. **23** Elias tog drengen og bar ham ned fra værelset ovenpå, gav ham til hans mor og sagde: »Se her, din søn lever!« **24** Og kvinden sagde til Elias: »Nu ved jeg, at du er en gudsmand, og at Herrens ord er sandhed i din mund.«
+
+[– tilbage –](#indhold)
+
+<a id="1kong18"></a>
 
 ### 1 Kong 18
 
@@ -2464,6 +2952,10 @@ Men hungersnøden var hård i Samaria, **3** og Akab tilkaldte hofchefen Obadja.
 
 **39** Da hele folket så det, kastede de sig ned og sagde: »Det er Herren, der er Gud! Det er Herren, der er Gud!« **40** Elias sagde til dem: »Grib Ba’al-profeterne! Ingen må undslippe!« Så greb de dem, og Elias førte dem ned til Kishonbækken og slagtede dem dér. **41** Derpå sagde Elias til Akab: »Drag op, spis og drik, for jeg kan høre den susende lyd af regn,« **42** og Akab gik op for at spise og drikke. Imens var Elias gået op på toppen af Karmel. Dér krummede han sig sammen mod jorden med ansigtet nede mellem knæene **43** og sagde til sin tjener: »Gå op og se ud mod havet!« Han gik op og så ud og sagde: »Der er ikke noget at se.« Syv gange sagde Elias: »Gør det igen!« **44** Syvende gang sagde tjeneren: »Der er en lille sky, så stor som hånden på et menneske, på vej op af havet.« Elias sagde: »Gå så op og sig til Akab, at han skal spænde for og køre ned, for at ikke regnen skal standse ham.« **45** I mellemtiden var himlen blevet sort af skyer, og det blev et vældigt regnvejr. Akab steg til vogns og kørte til Jizre’el. **46** Men Herrens hånd greb Elias, så han bandt kjortlen op om lænderne og løb foran Akab lige til Jizre’el.
 
+[– tilbage –](#indhold)
+
+<a id="1kong19"></a>
+
 ### 1 Kong 19
 
 #### Åbenbaringen for Elias på Horebs bjerg
@@ -2475,6 +2967,10 @@ Da lød Herrens ord til ham: »Hvad vil du her, Elias?« **10** Han svarede: »J
 #### Elisa kaldes til profet
 
 **19** Så drog Elias bort derfra og traf Elisa, Shafats søn, som gik og pløjede med tolv spand okser foran sig; selv gik Elisa ved det tolvte. Elias gik hen til ham og kastede sin kappe over ham. **20** Han forlod okserne, løb efter Elias og sagde: »Lad mig kysse min far og mor farvel, så kommer jeg og følger dig.« Elias svarede ham: »Vend tilbage, for hvad er det ikke, jeg har gjort ved dig!« **21** Da vendte Elisa sig om, tog oksespandet og slagtede dem; han kogte kødet over ilden fra oksernes åg. Det gav han til folkene, og de spiste. Selv stod han op og fulgte Elias og kom i hans tjeneste.
+
+[– tilbage –](#indhold)
+
+<a id="1kong20"></a>
 
 ### 1 Kong 20
 
@@ -2492,6 +2988,10 @@ Da lød Herrens ord til ham: »Hvad vil du her, Elias?« **10** Han svarede: »J
 
 **35** En af profeterne sagde på Herrens befaling til sin ven: »Slå mig!« Men da manden vægrede sig ved at slå ham, **36** sagde han til ham: »Fordi du ikke adlød Herren, skal en løve dræbe dig, når du går fra mig.« Og da han forlod ham, mødte han en løve, som dræbte ham. **37** Så traf han en anden mand og sagde: »Slå mig!« Og manden slog ham og sårede ham. **38** Derpå gik profeten hen og stillede sig på den vej, hvor kongen skulle komme. Han havde gjort sig ukendelig med et bind for øjnene. **39** Da kongen kom forbi, råbte profeten til ham: »Din tjener gik med ud i kampen. Da kom der én hen til mig med en mand og sagde: Hold øje med denne mand. Bliver han meldt savnet, skal du bøde med dit liv for hans liv eller betale en talent sølv. **40** Da nu din tjener havde travlt med det ene og det andet, var manden pludselig væk.« Da sagde Israels konge til ham: »Du har selv fældet din dom.« **41** Da han hurtigt tog bindet fra øjnene, genkendte Israels konge ham som en af profeterne. **42** Men han sagde til kongen: »Dette siger Herren: Fordi du gav den mand friheden, som jeg havde lagt band på, skal du bøde med dit liv for hans liv og med dit folk for hans folk.« **43** Så drog Israels konge hjem, ærgerlig og vred, og han kom til Samaria.
 
+[– tilbage –](#indhold)
+
+<a id="1kong21"></a>
+
 ### 1 Kong 21
 
 #### Nabots vingård
@@ -2505,6 +3005,10 @@ Da lød Herrens ord til ham: »Hvad vil du her, Elias?« **10** Han svarede: »J
 **25** Aldrig har der været nogen, der som Akab solgte sig til at gøre, hvad der var ondt i Herrens øjne; det var hans hustru Jezabel, der forførte ham til det. **26** Og helt afskyeligt var det, at han fulgte møgguderne, ganske som de amoritter havde gjort, som Herren havde drevet bort foran israelitterne.
 
 **27** Da Akab hørte disse ord, flængede han sine klæder og tog sæk på kroppen og gav sig til at faste; han sov i sin sæk, og han gik nedtrykt omkring. **28** Da kom Herrens ord til tishbitten Elias: **29** »Har du set, hvor Akab har ydmyget sig for mig? Nu, da han har ydmyget sig for mig, vil jeg ikke bringe ulykken over hans hus i hans egen levetid, men først i hans søns.«
+
+[– tilbage –](#indhold)
+
+<a id="1kong22"></a>
 
 ### 1 Kong 22
 
@@ -2544,9 +3048,13 @@ Kongen blev begravet i Samaria. **38** Da man skyllede hans vogn ren ved Samaria
 
 **52** Akazja, Akabs søn, blev konge over Israel i Samaria i Judas konge Joshafats syttende regeringsår, og han regerede to år over Israel. **53** Han gjorde, hvad der var ondt i Herrens øjne, og han fulgte i sin fars og sin mors spor og i Nebats søn Jeroboams spor, han som havde forledt Israel til synd. **54** Han dyrkede Ba’al og tilbad ham og vakte derved Herrens, Israels Guds, vrede, ganske som hans far havde gjort.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Anden Kongebog
+
+<a id="2kong1"></a>
 
 ### 2 Kong 1
 
@@ -2566,6 +3074,10 @@ Kongen blev begravet i Samaria. **38** Da man skyllede hans vogn ren ved Samaria
 
 **18** Hvad der ellers er at fortælle om Akazja, hvad han gjorde, står jo i Israels Kongers Krønike.
 
+[– tilbage –](#indhold)
+
+<a id="2kong2"></a>
+
 ### 2 Kong 2
 
 #### Elias’ himmelfart
@@ -2584,6 +3096,10 @@ Kongen blev begravet i Samaria. **38** Da man skyllede hans vogn ren ved Samaria
 
 **25** Derfra gik han til Karmels bjerg, hvorfra han vendte tilbage til Samaria.
 
+[– tilbage –](#indhold)
+
+<a id="2kong3"></a>
+
 ### 2 Kong 3
 
 #### Joram af Israel
@@ -2597,6 +3113,10 @@ Kongen blev begravet i Samaria. **38** Da man skyllede hans vogn ren ved Samaria
 **9** Israels konge, Judas konge og Edoms konge drog så af sted, men da de havde tilbagelagt en strækning på syv dagsmarcher, var der ikke mere vand til hæren og til dyrene, de havde med. **10** Israels konge udbrød: »Ak, Herren har bestemt kaldt disse tre konger ud for at give dem i Moabs magt.« **11** Joshafat spurgte: »Er der ikke en af Herrens profeter her, hos hvem vi kan søge råd fra Herren?« En af Israels konges folk svarede: »Her er Elisa, Shafats søn; han var den, der hældte vand over Elias’ hænder.« **12** Joshafat sagde: »Hos ham er Herrens ord.« Israels konge og Joshafat og Edoms konge gik så ned til ham. **13** Men Elisa sagde til Israels konge: »Hvad har du og jeg med hinanden at gøre? Gå du til din fars og mors profeter!« Men Israels konge svarede ham: »Nej, det er Herren, der har kaldt disse tre konger ud for at give dem i Moabs magt.« **14** Elisa svarede: »Så sandt Hærskarers Herre lever, som jeg er i tjeneste hos: Havde det ikke været for Judas konge Joshafats skyld, ville jeg ikke have ænset dig eller værdiget dig et blik. **15** Men hent mig nu en, der kan spille!« Mens han spillede, greb Herrens hånd Elisa, **16** og han sagde: »Dette siger Herren: Grav denne dal fuld af grøfter, **17** for dette siger Herren: I får hverken vind eller regn at se, og dog skal denne dal fyldes med vand, så både I og jeres hær og dyr kan drikke. **18** Men det er ikke nok i Herrens øjne; derfor vil han også give Moab i jeres magt. **19** I skal indtage alle befæstede byer og alle prægtige byer, fælde alle nyttige træer og tilstoppe alle kilder, og alle gode marker skal I ødelægge med sten.«
 
 **20** Næste morgen ved morgenofferets tid strømmede der vand ned fra Edom, og landet fyldtes med vand. **21** I hele Moab havde man hørt, at kongerne var rykket ud for at angribe dem, og alle fra den våbenføre alder og opefter var blevet kaldt sammen og havde taget opstilling langs grænsen. **22** Tidligt om morgenen, da solen stod op over vandet, så moabitterne vandet foran sig rødt som blod, **23** og de råbte: »Det er blod! Kongerne er kommet i indbyrdes kamp og har slået hinanden ihjel. Nu ud efter byttet, Moab!« **24** Men da de kom til Israels lejr, gik israelitterne til modstand og slog moabitterne, som tog flugten, og de trængte ind i landet og erobrede Moab. **25** Byerne rev de ned, og alle gode marker dængede de til med sten – hver mand kastede sin sten – alle kilder tilstoppede de, og alle nyttige træer fældede de. Til sidst stod kun Kir-Hareset tilbage, og den blev omringet af slyngekastere, der gik til angreb på den. **26** Da Moabs konge så, at han ikke kunne slå angrebet tilbage, prøvede han med syv hundrede mand med dragne sværd at bryde igennem hen imod Edoms konge, men det mislykkedes. **27** Da tog han sin førstefødte søn, der skulle være konge efter ham, og bragte ham som brændoffer på muren. Der kom stor vrede over Israel, og de brød op og vendte tilbage til deres land.
+
+[– tilbage –](#indhold)
+
+<a id="2kong4"></a>
 
 ### 2 Kong 4
 
@@ -2624,6 +3144,10 @@ Kongen blev begravet i Samaria. **38** Da man skyllede hans vogn ren ved Samaria
 
 **42** Engang kom en mand fra Ba’al-Shalisha og bragte gudsmanden nogle brød af førstegrøden, tyve bygbrød og noget frisk korn i sin ransel. Han sagde: »Giv folkene det at spise!« **43** Hans tjener svarede: »Det er da ikke noget at sætte for hundrede mand!« Men han sagde: »Giv folkene det at spise, for dette siger Herren: De skal spise og få tilovers!« **44** Tjeneren satte det for dem, og de spiste og fik tilovers, som Herren havde sagt.
 
+[– tilbage –](#indhold)
+
+<a id="2kong5"></a>
+
 ### 2 Kong 5
 
 #### Elisa og Na’aman
@@ -2643,6 +3167,10 @@ Kongen blev begravet i Samaria. **38** Da man skyllede hans vogn ren ved Samaria
 Da Na’aman var kommet et stykke vej, **20** tænkte gudsmanden Elisas tjener Gehazi: »Min herre har ladet denne aramæer Na’aman slippe billigt ved ikke at tage imod det, han havde bragt med. Så sandt Herren lever: Jeg løber efter ham og får noget af ham!« **21** Så satte Gehazi efter Na’aman, og da Na’aman så en mand komme løbende efter sig, sprang han af vognen, gik ham i møde og spurgte: »Er der noget galt?« **22** »Nej,« svarede han, »men min herre har sendt mig med den besked: Jeg har lige fået besøg af to unge mænd fra Efraims bjergland, to af profeterne. Lad dem få en talent sølv og to sæt festklæder.« **23** Na’aman svarede: »Tag dog to talenter!« og han nødte ham. Så lagde han to talenter sølv i to punge og gav dem sammen med to sæt festklæder til to af sine tjenere, der gik foran Gehazi og bar det. **24** Da han var kommet til byhøjen, skilte han dem af med det og gemte det i huset, hvorefter han lod mændene gå.
 
 **25** Selv gik han hen og trådte frem for sin herre. Elisa spurgte ham: »Hvor har du været, Gehazi?« Han svarede: »Ingen steder, herre.« **26** Men Elisa sagde: »Var jeg ikke med i ånden, da en mand forlod sin vogn og gik dig i møde? Nu da du har fået sølv, vil du nok bruge det til at skaffe dig klæder, oliventræer, vingårde, får og okser, trælle og trælkvinder. **27** Men Na’amans spedalskhed skal klæbe ved dig og din slægt til evig tid!« Og Gehazi forlod ham, hvid som sne af spedalskhed.
+
+[– tilbage –](#indhold)
+
+<a id="2kong6"></a>
 
 ### 2 Kong 6
 
@@ -2666,6 +3194,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 
 **32** Elisa sad netop i sit hus, og de ældste sad hos ham, da kongen sendte en mand i forvejen. Men før budet nåede derhen, sagde Elisa til de ældste: »Er I klar over, at denne morder har sendt en mand for at hugge mit hoved af? Sørg for at lukke døren, når budet kommer, og stem døren imod ham. Jeg kan allerede høre hans herres fodtrin bag ham.« **33** Mens han talte med dem, kom kongen ned til ham, og han sagde: »Denne ulykke er kommet fra Herren. Hvorfor skal jeg længere vente på Herren?«
 
+[– tilbage –](#indhold)
+
+<a id="2kong7"></a>
+
 ### 2 Kong 7
 
 **1** Da sagde Elisa: »Hør Herrens ord! Dette siger Herren: I morgen skal en sea fint mel kun koste en sekel i Samarias port, og to sea byg kun en sekel.« **2** Kongens adjudant, som han støttede sig til, svarede gudsmanden: »Om så Herren satte vinduer på himlen, ville dette ikke ske!« Men Elisa sagde: »Det skal du få at se med dine egne øjne, men du kommer ikke til at nyde noget af det.«
@@ -2676,6 +3208,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 **13** Men en af hans folk svarede: »Lad os tage nogle stykker af de heste, som er tilbage i byen. Enten går det dem, som det går hele den israelitiske hær, der er tilbage i byen, eller det går dem som den israelitiske hær, som er omkommet. Lad os nu sende dem af sted og se, hvad der sker.« **14** Så tog de to vogne med heste, og kongen sendte dem efter den aramaiske hær med den besked: »Tag af sted og se efter!« **15** De fulgte efter dem lige til Jordan, og hele vejen var fuld af klæder og våben, som aramæerne havde kastet fra sig under deres hovedkulds flugt. Så vendte sendebudene tilbage og fortalte det til kongen. **16** Da strømmede folk ud og plyndrede den aramaiske lejr, og en sea fint mel kom til at koste en sekel og to sea byg en sekel, som Herren havde sagt.
 
 **17** Ved porten havde kongen posteret adjudanten, som han støttede sig til, og ham trampede folk ned i porten, så han døde, sådan som gudsmanden havde forudsagt, dengang kongen kom ned til ham. **18** Da gudsmanden sagde til kongen: »I morgen skal to sea byg kun koste en sekel, og en sea fint mel kun en sekel i Samarias port,« **19** havde adjudanten svaret gudsmanden: »Om så Herren satte vinduer på himlen, ville dette ikke ske,« og Elisa havde sagt: »Det skal du få at se med dine egne øjne, men du kommer ikke til at nyde noget af det.« **20** Og sådan gik det ham: Folk trampede ham ned i porten, så han døde.
+
+[– tilbage –](#indhold)
+
+<a id="2kong8"></a>
 
 ### 2 Kong 8
 
@@ -2701,6 +3237,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 
 **25** I Akabs søn kong Joram af Israels tolvte regeringsår blev Akazja konge; han var søn af Judas konge Joram. **26** Akazja var toogtyve år, da han blev konge, og han regerede ét år i Jerusalem. Hans mor hed Atalja og var efterkommer af Israels konge Omri. **27** Han fulgte i Akabs hus’ spor, og han gjorde, hvad der var ondt i Herrens øjne ligesom Akabs hus; for han var besvogret med Akabs hus. **28** Han fulgte Akabs søn Joram i krig mod aramæerkongen Hazael ved Ramot i Gilead, men aramæerne sårede Joram. **29** Så vendte kong Joram tilbage til Jizre’el for dér at komme sig af de sår, aramæerne havde tilføjet ham ved Rama, da han kæmpede mod aramæerkongen Hazael. Og Judas konge Akazja, Jorams søn, drog ned for at se til Akabs søn Joram i Jizre’el, fordi han var syg.
 
+[– tilbage –](#indhold)
+
+<a id="2kong9"></a>
+
 ### 2 Kong 9
 
 #### Jehu af Israel
@@ -2718,6 +3258,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 **27** Da Judas konge Akazja så det, flygtede han ad vejen til Bet-ha-Gan. Men Jehu forfulgte ham og råbte: »Også ham!« De ramte ham, mens han sad på vognen i Gur-passet nær Jibleam; men han fortsatte flugten til Megiddo, hvor han døde. **28** Hans folk kørte ham til Jerusalem og lagde ham i graven hos hans fædre i Davidsbyen. **29** Akazja var blevet konge over Juda i Jorams, Akabs søns, ellevte år.
 
 **30** Så kom Jehu til Jizre’el. Da Jezabel hørte det, sminkede hun sine øjne og smykkede sit hoved, og så kiggede hun ud ad vinduet, **31** og da Jehu kom gennem porten, råbte hun: »Kommer du i fredelig hensigt, Zimri, du, der har dræbt din herre?« **32** Han så op mod vinduet og sagde: »Hvem er med mig, hvem?« Og da et par hoffolk kiggede ned til ham, **33** råbte han: »Smid hende ned!« Så smed de hende ned, og hendes blod sprøjtede på muren og på hestene, som trampede på hende. **34** Derpå gik han ind og spiste og drak. Så sagde han: »Tag jer af denne forbandede kvinde og begrav hende; hun var jo dog en kongedatter.« **35** De gik ud for at begrave hende, men fandt kun hendes hjerneskal, fødder og hænder. **36** Da de kom tilbage og fortalte ham det, sagde han: »Det var det, Herren sagde ved sin tjener, tishbitten Elias: På Jizre’els jord skal hundene æde Jezabels krop. **37** Jezabels lig skal blive til gødning på marken på Jizre’els jord, så ingen kan sige: Dette er Jezabel!«
+
+[– tilbage –](#indhold)
+
+<a id="2kong10"></a>
 
 ### 2 Kong 10
 
@@ -2737,6 +3281,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 
 **34** Hvad der ellers er at fortælle om Jehu, alt hvad han gjorde, og alle hans heltegerninger, står jo i Israels Kongers Krønike. **35** Jehu lagde sig til hvile hos sine fædre. Man begravede ham i Samaria, og hans søn Joakaz blev konge efter ham. **36** Jehu regerede otteogtyve år i Samaria som konge over Israel.
 
+[– tilbage –](#indhold)
+
+<a id="2kong11"></a>
+
 ### 2 Kong 11
 
 #### Atalja af Juda
@@ -2748,6 +3296,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 **9** Hundredførerne gjorde, ganske som præsten Jojada befalede. De tog hver deres mænd, både dem, der afløste, og dem, der blev afløst på sabbatten, og de kom til præsten Jojada. **10** Præsten gav hundredførerne spyddene og skjoldene, som havde tilhørt kong David, og som var i Herrens tempel. **11** Da livvagten stod opstillet, hver med våben i hånd, fra templets sydside til dets nordside, foran alteret og templet, rundt om kongen, **12** førte han kongesønnen ud, satte diademet på ham og gav ham loven. Så udråbte de ham til konge og salvede ham, og de klappede i hænderne og råbte: »Kongen leve!« **13** Da Atalja hørte råbet fra livvagten og folkemængden, gik hun ind til folkemængden i Herrens tempel, **14** og der så hun kongen stå ved søjlen, som det var skik, mens sang og trompetfanfarer bølgede om ham, og alle storbønderne jublede og blæste i trompeter. Så flængede Atalja sine klæder og råbte: »Forræderi, forræderi!« **15** Men præsten Jojada gav befaling til hærens beskikkede hundredførere og sagde til dem: »Før hende ud mellem rækkerne! Dem, der vil følge hende, skal I dræbe med sværdet.« For præsten havde sagt: »Hun må ikke lide døden i Herrens tempel.« **16** Så greb de hende, og da hun ad vejen gennem Hesteporten var kommet til kongens palads, blev hun dræbt der.
 
 **17** Jojada sluttede nu pagten mellem Herren og kongen og folket om, at de skulle være Herrens folk, samt pagten mellem kongen og folket. **18** Derpå gik alle storbønderne til Ba’als tempel og rev det og dets altre ned og knuste dets billeder fuldstændigt, og de dræbte Ba’als præst Mattan foran altrene. Præsten satte vagt ved Herrens tempel, **19** og han tog hundredførerne, karerne og livvagten og alle storbønderne, og de førte kongen ned fra Herrens tempel og kom ad vejen gennem livvagtens port til kongens palads, hvor han satte sig på kongetronen; **20** alle storbønderne glædede sig, og byen forholdt sig i ro. Men Atalja dræbte man med sværd i kongens palads.
+
+[– tilbage –](#indhold)
+
+<a id="2kong12"></a>
 
 ### 2 Kong 12
 
@@ -2762,6 +3314,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 **18** På den tid gik aramæerkongen Hazael til angreb på Gat og indtog den. Da Hazael satte sig for at drage mod Jerusalem, **19** tog Judas konge Joash alle de helliggaver, som hans forfædre, Judas konger Joshafat, Joram og Akazja havde helliget, og sine egne helliggaver og alt det guld, der fandtes i skatkamrene i Herrens tempel og i kongens palads, og sendte det til aramæerkongen Hazael, der så drog bort fra Jerusalem.
 
 **20** Hvad der ellers er at fortælle om Joash, alt hvad han gjorde, står jo i Judas Kongers Krønike. **21** Men Joashs folk dannede en sammensværgelse og dræbte ham ved Bet-Millo, på vejen ned mod Silla. **22** Det var hans folk Jozakar, Shim’ats søn, og Jozabad, Shomers søn, der dræbte ham. Man begravede ham hos hans fædre i Davidsbyen, og hans søn Amasja blev konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="2kong13"></a>
 
 ### 2 Kong 13
 
@@ -2787,6 +3343,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 
 **24** Så døde aramæerkongen Hazael, og hans søn Ben-Hadad blev konge efter ham. **25** Joakaz’ søn Joash generobrede de byer fra Hazaels søn Ben-Hadad, som han havde erobret fra hans fader Joakaz i krig. Tre gange slog Joash ham og tog Israels byer tilbage.
 
+[– tilbage –](#indhold)
+
+<a id="2kong14"></a>
+
 ### 2 Kong 14
 
 #### Amasja af Juda
@@ -2808,6 +3368,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 **23** I Joashs søn kong Amasja af Judas femtende regeringsår blev Jeroboam konge; han var søn af Israels konge Joash, og han regerede enogfyrre år i Samaria. **24** Han gjorde, hvad der var ondt i Herrens øjne. Han veg ikke fra alle de synder, som Jeroboam, Nebats søn, havde forledt Israel til. **25** Det var ham, der tog Israels landområde fra Lebo-Hamat til Araba-havet tilbage efter det ord, Herren, Israels Gud, havde talt ved sin tjener, profeten Jonas, Amittajs søn, fra Gat-ha-Hefer. **26** For Herren havde set, at Israel var i en forfærdelig nød, og der var overhovedet ingen i Israel, der kunne hjælpe. **27** Men da Herren ikke havde sagt, at han ville udslette Israels navn under himlen, frelste han dem ved Jeroboam, Joashs søn.
 
 **28** Hvad der ellers er at fortælle om Jeroboam, alt hvad han gjorde, og hans heltegerninger, hvordan han førte krig og lagde Damaskus og Hamat ind under Israel igen, står jo i Israels Kongers Krønike. **29** Jeroboam lagde sig til hvile hos sine fædre, hos Israels konger, og hans søn Zekarja blev konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="2kong15"></a>
 
 ### 2 Kong 15
 
@@ -2863,6 +3427,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 
 **38** Jotam lagde sig til hvile hos sine fædre og blev begravet hos sine fædre i sin fader Davids by, og hans søn Akaz blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="2kong16"></a>
+
 ### 2 Kong 16
 
 #### Akaz af Juda
@@ -2877,6 +3445,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 
 **19** Hvad der ellers er at fortælle om Akaz, alt hvad han gjorde, står jo i Judas Kongers Krønike. **20** Akaz lagde sig til hvile hos sine fædre og blev begravet hos sine fædre i Davidsbyen, og hans søn Hizkija blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="2kong17"></a>
+
 ### 2 Kong 17
 
 #### Hosea af Israel og Israels undergang
@@ -2888,6 +3460,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 **7** Det skete, fordi israelitterne havde syndet mod Herren deres Gud, der havde ført dem op fra Egypten og befriet dem fra egypterkongen Faraos magt. De frygtede andre guder, **8** og de fulgte sæd og skik hos de folk, som Herren havde drevet bort foran israelitterne; sådan havde Israels konger gjort. **9** Israelitterne fandt på skændige ting imod Herren deres Gud. De byggede sig offerhøje i alle deres byer, lige fra vagttårn til befæstet by. **10** De rejste stenstøtter og Ashera-pæle på alle høje bakker og under alle grønne træer. **11** De tændte offerild dér på alle højene ligesom de folk, Herren havde ført bort foran dem, og de gjorde onde ting, så de krænkede Herren. **12** De dyrkede møgguderne, skønt Herren havde sagt til dem: »Det må I ikke gøre!« **13** Herren havde advaret Israel og Juda ved alle profeter og seere: »Vend om fra jeres onde veje, hold mine love og mine bud efter hele den lov, som jeg pålagde jeres fædre, og som jeg har sendt til jer ved mine tjenere, profeterne.« **14** Men de ville ikke høre. De gjorde nakken stiv som deres fædre, der ikke stolede på Herren deres Gud, **15** og de lod hånt om hans love og den pagt, som han havde sluttet med deres fædre, og om de formaninger, han havde givet dem. De fulgte de tomme guder og endte i tomhed, og de fulgte de folk rundt om dem, som Herren havde forbudt dem at efterligne. **16** De svigtede alle Herren deres Guds befalinger. De støbte sig gudebilleder, to tyrekalve, og de lavede en Ashera-pæl, de tilbad hele himlens hær, og de dyrkede Ba’al. **17** De lod deres sønner og døtre gå gennem ilden, drev spådomskunst, tog varsler og solgte sig selv til at gøre, hvad der var ondt i Herrens øjne, så de krænkede ham. **18** Derfor blev Herren meget vred på Israel og fjernede dem fra sine øjne. Kun Judas stamme blev tilbage. **19** Men heller ikke Juda holdt Herren deres Guds befalinger, men fulgte den sæd og skik, som Israel havde brugt. **20** Derfor forkastede Herren hele Israels slægt, ydmygede dem og overgav dem til folk, som udplyndrede dem, indtil han forstødte dem fra sit ansigt. **21** For da Israel havde revet sig løs fra Davids hus og havde gjort Jeroboam, Nebats søn, til konge, trak Jeroboam Israel bort fra Herren og forledte dem til stor synd. **22** Og israelitterne fulgte alle de synder, som Jeroboam havde begået; de veg ikke fra dem, **23** indtil Herren fjernede Israel fra sine øjne, sådan som han havde forudsagt ved alle sine tjenere, profeterne, så Israel blev ført i eksil bort fra sit land til Assyrien, hvor de er den dag i dag.
 
 **24** Senere bragte assyrerkongen folk fra Babylon, Kuta, Avva, Hamat og Sefarvajim og bosatte dem i Samarias byer i stedet for israelitterne. De tog Samaria i besiddelse og bosatte sig i dets byer. **25** I den første tid de boede der, frygtede de ikke Herren. Men så sendte Herren løver blandt dem, som dræbte nogle af dem. **26** Derfor sagde de til assyrerkongen: »De folk, du har flyttet væk og bosat i Samarias byer, ved ikke, hvordan landets Gud skal dyrkes. Nu har han sendt løver blandt dem, og de dræber dem. Det er, fordi de ikke ved, hvordan landets Gud skal dyrkes.« **27** Da befalede assyrerkongen: »Få en af de præster, som I førte bort derfra, til at rejse hen og bosætte sig der, så han kan lære dem, hvordan landets Gud skal dyrkes.« **28** En af de præster, de havde ført bort fra Samaria, kom og bosatte sig i Betel. Han lærte dem, hvordan de skulle frygte Herren. **29** De forskellige folk lavede hver sin gud, som de stillede op i de offerhøjstempler, samaritanerne havde opført, hvert folk i den by, hvor de boede. **30** Folkene fra Babylon lavede Sukkot-Benot, folkene fra Kuta lavede Nergal, og folkene fra Hamat lavede Ashima. **31** Avvijitterne lavede Nibhaz og Tartak, og sefarvitterne brændte deres børn for Adrammelek og Anammelek, Sefarvajims guder. **32** De frygtede Herren, men de gjorde nogle af deres egne til offerhøjspræster, der skulle forrette tjeneste for dem i offerhøjstemplerne. **33** Nok frygtede de Herren, men de dyrkede deres egne guder, på samme måde som de folk, hvorfra de var blevet flyttet væk. **34** Den dag i dag følger de de gamle skikke. De frygter ikke Herren, og de følger ikke de love og retsregler, den lov og befaling, som Herren gav Jakobs sønner; det var ham, han gav navnet Israel. **35** Herren havde sluttet en pagt med dem og havde befalet: »I må ikke frygte andre guder, ikke tilbede dem, ikke dyrke dem og ikke ofre til dem. **36** Nej, Herren, som med stor styrke og løftet arm førte jer op fra Egypten, ham skal I frygte, ham skal I tilbede, og ham skal I ofre til. **37** De love og retsregler, den lov og befaling, som han skrev ned til jer, skal I altid omhyggeligt følge. I må ikke frygte andre guder. **38** Og den pagt, jeg sluttede med jer, må I ikke glemme. I må ikke frygte andre guder. **39** Kun Herren jeres Gud må I frygte. Det er ham, der skal befri jer fra alle jeres fjender.« **40** Men de ville ikke høre; derimod fulgte de deres gamle skik. **41** Disse folk frygtede Herren, men de dyrkede deres gudebilleder, og deres børn og børnebørn gør den dag i dag sådan, som deres fædre gjorde.
+
+[– tilbage –](#indhold)
+
+<a id="2kong18"></a>
 
 ### 2 Kong 18
 
@@ -2906,6 +3482,10 @@ Aramæerne foretog ikke flere strejftogter ind i Israel.
 **26** Eljakim, Hilkijas søn, og Shebna og Joa svarede kommandanten: »Tal dog aramaisk til dine tjenere; det forstår vi godt. Lad være med at tale judæisk til os, når folkene på muren kan høre det.« **27** Men kommandanten sagde til dem: »Tror du, at det kun er til din herre og til dig, min herre har sendt mig for at sige dette? Nej, det er til de mænd, der sidder på muren, som snart skal æde deres eget skarn og drikke deres egen urin sammen med jer!« **28** Og så trådte kommandanten frem og råbte højt på judæisk: »Hør, hvad storkongen, Assyriens konge, har at sige! **29** Dette siger kongen: Lad ikke Hizkija forføre jer, han kan ikke redde jer fra mig. **30** Og lad ikke Hizkija få jer til at stole på Herren, når han siger: Herren skal nok redde os, og denne by skal ikke gives i Assyriens konges hænder. **31** I skal ikke lytte til Hizkija! For Assyriens konge siger: Slut fred med mig og overgiv jer til mig, så skal enhver af jer spise af sin egen vinstok og sit eget figentræ og drikke vand fra sin egen brønd, **32** indtil jeg kommer og tager jer med til et land, der ligner jeres eget, et land med korn og vin, et land med brød og vingårde, et land med olivenolie og honning. Så skal I leve og ikke dø. I skal ikke lytte til Hizkija, for han forfører jer, når han siger: ›Herren vil redde os.‹ **33** Kunne nogen af folkenes guder redde sit land fra Assyriens konge? **34** Hvor er Hamats og Arpads guder, hvor er Sefarvajims, Henas og Ivvas guder? Reddede de Samaria fra mig? **35** Hvem af alle landenes guder har reddet sit land fra mig? Skulle Herren da kunne redde Jerusalem fra mig?«
 
 **36** Men folket forholdt sig tavs og svarede ham ikke et ord, for kongens befaling lød på, at de ikke måtte svare ham. **37** Så gik hofchefen Eljakim, Hilkijas søn, sammen med statsskriveren Shebna og sekretæren Joa, Asafs søn, til Hizkija med flængede klæder og fortalte ham, hvad kommandanten havde sagt.
+
+[– tilbage –](#indhold)
+
+<a id="2kong19"></a>
 
 ### 2 Kong 19
 
@@ -2992,6 +3572,10 @@ Jerusalems frelse
 
 **35** Samme nat gik Herrens engel ud, og i assyrernes lejr dræbte han 185.000 mand; da det blev morgen, lå de alle døde. **36** Da brød assyrerkongen Sankerib op og vendte tilbage og blev i Nineve. **37** Men engang han bad i sin gud Nisroks tempel, huggede Adrammelek og Sareser ham ned med sværd. De slap bort til Ararats land, og hans søn Asarhaddon blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="2kong20"></a>
+
 ### 2 Kong 20
 
 #### Hizkijas sygdom og helbredelse
@@ -3016,6 +3600,10 @@ Jerusalems frelse
 
 **20** Hvad der ellers er at fortælle om Hizkija, alle hans heltegerninger, hvordan han anlagde dammen og vandledningen og ledte vandet ind i byen, står jo i Judas Kongers Krønike. **21** Hizkija lagde sig til hvile hos sine fædre, og hans søn Manasse blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="2kong21"></a>
+
 ### 2 Kong 21
 
 #### Manasse
@@ -3034,6 +3622,10 @@ Jerusalems frelse
 
 **25** Hvad der ellers er at fortælle om Amon, hvad han gjorde, står jo i Judas Kongers Krønike. **26** Man begravede ham i hans grav i Uzzas have, og hans søn Josija blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="2kong22"></a>
+
 ### 2 Kong 22
 
 #### Josija
@@ -3049,6 +3641,10 @@ Jerusalems frelse
 **11** Da kongen hørte, hvad der stod i lovbogen, flængede han sine klæder, **12** og han befalede præsten Hilkija, Ahikam, Shafans søn, Akbor, Mikas søn, statsskriveren Shafan og Kongens Tjener Asaja: **13** »Gå hen og rådspørg Herren for mig og for folket og for hele Juda om det, der står i denne bog, som er blevet fundet; for Herrens vrede, som er flammet op mod os, er stor, fordi vores fædre ikke adlød ordene i denne bog og handlede efter alt det, der står i den.«
 
 **14** Så gik præsten Hilkija, Ahikam, Akbor, Shafan og Asaja til profetinden Hulda, som var gift med Shallum, Tikvas søn, Harhas’ sønnesøn, der havde tilsyn med klædekammeret. Hun boede i Jerusalems nye bydel. De forelagde hende sagen, **15** og hun sagde til dem: »Dette siger Herren, Israels Gud: Sig til den mand, som har sendt jer til mig: **16** Dette siger Herren: Jeg bringer ulykke over dette sted og over dem, der bor her, alt det, der står i den bog, som Judas konge har læst, **17** fordi de svigtede mig og tændte offerild for andre guder, så de krænkede mig med deres hænders værk; derfor er min vrede flammet op mod dette sted, og den skal ikke slukkes. **18** Men til Judas konge, som sendte jer for at rådspørge Herren, skal I sige: Dette siger Herren, Israels Gud: Nu har du hørt ordene! **19** Men fordi dit hjerte var ængsteligt, så du ydmygede dig for Herrens ansigt, da du hørte mine trusler mod dette sted og mod dem, der bor her, om, at de skal blive til gru og forbandelse, og fordi du flængede dine klæder og græd for mit ansigt, så vil jeg bønhøre dig, siger Herren. **20** Derfor vil jeg lade dig samles med dine fædre; du skal lægges i graven med fred, og dine øjne skal ikke få al den ulykke at se, som jeg bringer over dette sted.« Dette svar bragte de kongen.
+
+[– tilbage –](#indhold)
+
+<a id="2kong23"></a>
 
 ### 2 Kong 23
 
@@ -3078,6 +3674,10 @@ Jerusalems frelse
 
 **36** Jojakim var femogtyve år, da han blev konge, og han regerede elleve år i Jerusalem. Hans mor hed Zebida og var datter af Pedaja fra Ruma. **37** Han gjorde, hvad der var ondt i Herrens øjne, ganske som sine fædre.
 
+[– tilbage –](#indhold)
+
+<a id="2kong24"></a>
+
 ### 2 Kong 24
 
 **1** På hans tid drog babylonerkongen Nebukadnesar op, og Jojakim blev hans vasal i tre år, men så slog han om og gjorde oprør. **2** Da sendte Herren kaldæiske, aramaiske, moabitiske og ammonitiske strejfskarer mod ham. Han sendte dem mod Juda for at tilintetgøre det efter det ord, Herren havde talt ved sine tjenere, profeterne. **3** Det var helt efter Herrens befaling, at det gik Juda sådan; han ville fjerne det fra sine øjne på grund af alle de synder, Manasse havde begået, **4** og især på grund af det uskyldige blod, som han havde udgydt. Han havde fyldt Jerusalem med uskyldigt blod, og det ville Herren ikke tilgive.
@@ -3098,6 +3698,10 @@ Jerusalems frelse
 
 **20** Det var på grund af Herrens vrede, det gik Jerusalem og Juda sådan. Til sidst forstødte han dem fra sit ansigt.
 
+[– tilbage –](#indhold)
+
+<a id="2kong25"></a>
+
 ### 2 Kong 25
 
 Sidkija gjorde oprør mod babylonerkongen. **1** I Sidkijas niende regeringsår, på den tiende dag i den tiende måned, gik babylonerkongen Nebukadnesar med hele sin hær mod Jerusalem og belejrede den. De byggede angrebsramper omkring den, **2** og byen var under belejring til kong Sidkijas ellevte regeringsår. **3** På den niende dag i den fjerde måned, da hungersnøden i byen var blevet stor, og der ikke var mad til indbyggerne, **4** blev byens mur gennembrudt; skønt kaldæerne havde omringet byen, lykkedes det om natten kongen og alle krigerne at flygte ud gennem porten mellem de to mure oven for kongens have, og de tog retning mod Araba-lavningen. **5** Men kaldæernes hær satte efter kongen og indhentede ham på Jerikosletten, da hele hans hær havde forladt ham og var blevet spredt. **6** De greb kongen og førte ham til Ribla, hvor babylonerkongen fældede dom over ham. **7** Han lod Sidkijas sønner halshugge for øjnene af ham og stak øjnene ud på Sidkija, lagde ham i lænker og førte ham til Babylon.
@@ -3116,9 +3720,13 @@ Sidkija gjorde oprør mod babylonerkongen. **1** I Sidkijas niende regeringsår,
 
 **27** I det syvogtredivte år efter at Judas konge Jojakin var blevet ført i eksil, på den syvogtyvende dag i den tolvte måned i det år, da Evil-Merodak blev babylonernes konge, benådede han Judas konge Jojakin og førte ham ud af fængslet. **28** Han behandlede ham godt og gav ham en plads højere oppe end de andre konger, som var hos ham i Babylon. **29** Jojakin aflagde sin fangedragt, og hele resten af sit liv spiste han ved babylonerkongens bord, **30** og han fik sit daglige underhold af kongen dag efter dag, så længe han levede.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Første Krønikebog
+
+<a id="1kroen1"></a>
 
 ### 1 Krøn 1
 
@@ -3142,6 +3750,10 @@ Sidkija gjorde oprør mod babylonerkongen. **1** I Sidkijas niende regeringsår,
 
 **43** Dette er de konger, som regerede i Edom, før israelitterne fik deres første konge: Bela, Beors søn. Hans by hed Dinhaba. **44** Da Bela døde, blev Jobab, Zeras søn fra Bosra, konge efter ham. **45** Da Jobab døde, blev Husham fra temanitternes land konge efter ham. **46** Da Husham døde, blev Hadad, Bedads søn, konge efter ham. Det var ham, der slog midjanitterne i Moabs land. Hans by hed Avit. **47** Da Hadad døde, blev Samla fra Masreka konge efter ham. **48** Da Samla døde, blev Saul fra Rehobot ved floden konge efter ham. **49** Da Saul døde, blev Ba’al-Hanan, Akbors søn, konge efter ham. **50** Da Ba’al-Hanan døde, blev Hadad konge efter ham. Hans by hed Pa’i, og hans hustru hed Mehetab’el og var datter af Matred, der var datter af Mezahab. **51** Da Hadad døde, fulgte der stammehøvdinge i Edom: Høvdingene Timna, Alja, Jetet, **52** Oholibama, Ela, Pinon, **53** Kenaz, Teman, Mibsar, **54** Magdiel og Iram. Det var Edoms stammehøvdinge.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen2"></a>
+
 ### 1 Krøn 2
 
 #### Judas slægt
@@ -3164,11 +3776,19 @@ Sidkija gjorde oprør mod babylonerkongen. **1** I Sidkijas niende regeringsår,
 
 Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** Salma, Betlehems far, og Haref, Bet-Gaders far. **52** Shobal, Kirjat-Jearims far, fik sønnerne: Reaja, halvdelen af manahatitterne. **53** Kirjat-Jearims slægter var: jitritterne, putitterne, shumatitterne og mishraitterne. Fra dem stammer sor’atitterne og eshtaolitterne. **54** Salmas sønner var: Betlehem, netofatitterne, Atarot-Bet-Joab og halvdelen af manahatitterne og sor’itterne. **55** De i Jabes bosatte skriftlærdes slægter var: tir’atitterne, shim’atitterne og sukatitterne, det samme som kinitterne, som stammede fra Hammat, Rekab-slægtens fader.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen3"></a>
+
 ### 1 Krøn 3
 
 **1** De sønner, David fik i Hebron, var: Amnon, den førstefødte, med Akinoam fra Jizre’el, Daniel, den næstældste, med Abigajil fra Karmel, **2** Absalom, den tredje, søn af Ma’aka, der var datter af Geshurs konge Talmaj, Adonija, den fjerde, søn af Haggit, **3** Shefatja, den femte, som han fik med Abital, Jitream, den sjette, som han fik med sin hustru Egla. **4** Seks sønner fik han i Hebron, hvor han regerede syv år og seks måneder. I Jerusalem regerede han treogtredive år. **5** De sønner, han fik i Jerusalem, var: Shim’a, Shobab, Natan og Salomo, i alt fire, som han fik med Batshua, Ammiels datter, **6** Jibkar, Elishama, Elifelet, **7** Noga, Nefeg, Jafia, **8** Elishama, Eljada og Elifelet, i alt ni. **9** Det var alle Davids sønner, foruden medhustruernes sønner. Tamar var deres søster.
 
 **10** Salomos søn var Rehabeam, hans søn Abija, hans søn Asa, hans søn Joshafat, **11** hans søn Joram, hans søn Akazja, hans søn Joash, **12** hans søn Amasja, hans søn Azarja, hans søn Jotam, **13** hans søn Akaz, hans søn Hizkija, hans søn Manasse, **14** hans søn Amon, hans søn Josija. **15** Josijas sønner var: Johanan, den førstefødte, Jojakim, den næstældste, Sidkija, den tredje, og Shallum, den fjerde. **16** Jojakims sønner var: hans søn Jekonja, hans søn Sidkija. **17** Den tilfangetagne Jekonjas sønner var: hans søn Shealtiel, **18** Malkiram, Pedaja, Shenassar, Jekamja, Hoshama og Nedabja. **19** Pedajas sønner var: Zerubbabel og Shim’i. Zerubbabels sønner var: Meshullam, Hananja, og Shelomit var deres søster; **20** Hashuba, Ohel, Berekja, Hasadja og Jushab-Hesed, i alt fem. **21** Hananjas sønner var: Pelatja, Jesaja, Refaja, Arnan, Obadja og Shekanja. **22** Shekanjas sønner var: Shemaja. Shemajas sønner var: Hattush, Jig’al, Baria, Nearja og Shafat, i alt seks. **23** Nearjas sønner var: Eljo’enaj, Hizkija og Azrikam, i alt tre. **24** Eljo’enajs sønner var: Hodavja, Eljashib, Pelaja, Akkub, Johanan, Delaja og Anani, i alt syv.
+
+[– tilbage –](#indhold)
+
+<a id="1kroen4"></a>
 
 ### 1 Krøn 4
 
@@ -3190,6 +3810,10 @@ Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** 
 
 **28** De boede i Be’ersheba, Molada, Hasar-Shual, **29** Bilha, Esem, Tolad, **30** Betuel, Horma, Siklag, **31** Bet-Markabot, Hasar-Susim, Bet-Bir’i og Sha’arajim; indtil David blev konge, var det deres byer **32** med tilhørende landsbyer; endvidere Etam, Ajin, Rimmon, Token og Ashan, i alt fem byer **33** med alle de tilhørende landsbyer, som lå rundt om disse byer helt til Ba’al. Det var de steder, hvor de boede; de havde deres eget slægtsregister. **34** Endvidere: Meshobab, Jamlek, Josha, Amasjas søn, **35** Joel, Jehu, søn af Joshibja, søn af Seraja, søn af Asiel, **36** Eljo’enaj, Ja’akoba, Jeshohaja, Asaja, Adiel, Jesimiel, Benaja **37** og Ziza, søn af Shif’i, søn af Allon, søn af Jedaja, søn af Shimri, søn af Shemaja. **38** De her nævnte var overhoveder i deres slægter, og deres fædrenehuse bredte sig meget. **39** Engang gik de i retning af Gedor øst for dalen for at søge græsgange til deres får. **40** De fandt frodige og gode græsgange, landet var vidtstrakt, og det var roligt og trygt, for de tidligere beboere nedstammede fra Kam. **41** Dengang Hizkija var konge i Juda, kom de, hvis navne er nedskrevet her, og angreb deres telte og boliger, som fandtes der, og lagde band på dem. De bosatte sig, hvor de havde boet, for der var græsgange til deres får; dér bor de den dag i dag. **42** Af disse simeonitter drog fem hundrede til Se’irs bjerge under ledelse af Pelatja, Nearja, Refaja og Uzziel, Jish’is sønner, **43** og dræbte den sidste rest af amalekitterne. De bosatte sig dér og bor der den dag i dag.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen5"></a>
+
 ### 1 Krøn 5
 
 #### Rubens slægt
@@ -3208,6 +3832,10 @@ Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** 
 
 **27** Levis sønner var: Gershon, Kehat og Merari. **28** Kehats sønner var: Amram, Jis’har, Hebron og Uzziel. **29** Amrams børn var: Aron, Moses og Mirjam. Arons sønner var: Nadab, Abihu, Eleazar og Itamar. **30** Eleazar fik Pinehas, Pinehas fik Abishua, **31** Abishua fik Bukki, Bukki fik Uzzi, **32** Uzzi fik Zerakja, Zerakja fik Merajot, **33** Merajot fik Amarja, Amarja fik Akitub, **34** Akitub fik Sadok, Sadok fik Akima’as, **35** Akima’as fik Azarja, Azarja fik Johanan, **36** Johanan fik Azarja; det var ham, som gjorde præstetjeneste i det tempel, Salomo byggede i Jerusalem; **37** Azarja fik Amarja, Amarja fik Akitub, **38** Akitub fik Sadok, Sadok fik Shallum, **39** Shallum fik Hilkija, Hilkija fik Azarja, **40** Azarja fik Seraja, Seraja fik Josadak. **41** Josadak måtte drage med, dengang Herren lod Nebukadnesar føre Juda og Jerusalem i eksil.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen6"></a>
+
 ### 1 Krøn 6
 
 **1** Levis sønner var: Gershom, Kehat og Merari. **2** Navnene på Gershoms sønner var: Libni og Shim’i. **3** Kehats sønner var: Amram, Jis’har, Hebron og Uzziel. **4** Meraris sønner var: Makli og Mushi. Det var levitternes slægter, efter deres fædre. **5** Efter Gershom: hans søn Libni, hans søn Jahat, hans søn Zimma, **6** hans søn Joa, hans søn Iddo, hans søn Zera og hans søn Jeateraj. **7** Kehats sønner var: hans søn Amminadab, hans søn Kora, hans søn Assir, **8** hans søn Elkana, hans søn Ebjasaf, hans søn Assir, **9** hans søn Tahat, hans søn Uriel, hans søn Uzzija og hans søn Saul. **10** Elkanas sønner var: Amasaj, Akimot, **11** hans søn Elkana, hans søn Sofaj, hans søn Nahat, **12** hans søn Eliab, hans søn Jeroham og hans søn Elkana. **13** Samuels sønner var: Joel, den førstefødte, og Abija, den næste. **14** Meraris sønner var: Makli, hans søn Libni, hans søn Shim’i, hans søn Uzza, **15** hans søn Shim’a, hans søn Haggija og hans søn Asaja.
@@ -3219,6 +3847,10 @@ Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** 
 **39** De steder i deres område, hvor de havde deres lejr, var: Arons sønner af kehatitternes slægt – for den første lodkastning gjaldt dem – **40** fik Hebron i Juda med omkringliggende græsmarker; **41** men byens jord og landsbyerne fik Kaleb, Jefunnes søn. **42** Arons sønner fik tilflugtsbyen Hebron, Libna med tilhørende græsmarker, Jattir, Eshtemoa med tilhørende græsmarker, **43** Hilen med tilhørende græsmarker, Debir med tilhørende græsmarker, **44** Ashan med tilhørende græsmarker og Bet-Shemesh med tilhørende græsmarker. **45** Af Benjamins stamme: Geba med tilhørende græsmarker, Alemet med tilhørende græsmarker og Anatot med tilhørende græsmarker, i alt tretten byer fordelt mellem deres slægter. **46** De øvrige kehatitter fik ved lodkastningen, slægt for slægt, ti byer af Efraims, Dans og halvdelen af Manasses stamme. **47** Gershomitterne fik, slægt for slægt, tretten byer af Issakars, Ashers, Naftalis og Manasses stamme i Bashan. **48** Meraritterne fik ved lodkastningen, slægt for slægt, tolv byer af Rubens, Gads og Zebulons stammer. **49** Israelitterne afgav disse byer med tilhørende græsmarker til levitterne. **50** Af judæernes, simeonitternes og benjaminitternes stammer blev de byer, som her er nævnt, afgivet ved lodkastningen. **51** Kehatitternes slægter fik ved lodkastningen nogle byer af Efraims stamme. **52** De fik tilflugtsbyen Sikem med tilhørende græsmarker i Efraims bjergland, Gezer med tilhørende græsmarker, **53** Jokmeam med tilhørende græsmarker, Bet-Horon med tilhørende græsmarker, **54** Ajjalon med tilhørende græsmarker og Gat-Rimmon med tilhørende græsmarker. **55** Af halvdelen af Manasses stamme: Aner med tilhørende græsmarker og Bil’am med tilhørende græsmarker til kehatitternes øvrige slægter. **56** Gershomitterne fik, slægt for slægt, af halvdelen af Manasses stamme: Golan i Bashan med tilhørende græsmarker og Ashtarot med tilhørende græsmarker. **57** Af Issakars stamme: Kedesh med tilhørende græsmarker, Daberat med tilhørende græsmarker, **58** Ramot med tilhørende græsmarker og Anem med tilhørende græsmarker. **59** Af Ashers stamme: Mashal med tilhørende græsmarker, Abdon med tilhørende græsmarker, **60** Hukok med tilhørende græsmarker og Rehob med tilhørende græsmarker. **61** Af Naftalis stamme: Kedesh i Galilæa med tilhørende græsmarker, Hammon med tilhørende græsmarker og Kirjatajim med tilhørende græsmarker.
 
 **62** De øvrige meraritter fik af Zebulons stamme: Rimmon med tilhørende græsmarker og Tabor med tilhørende græsmarker. **63** Øst for Jordan, over for Jeriko, fik de af Rubens stamme: Beser i ørkenen med tilhørende græsmarker, Jasa med tilhørende græsmarker, **64** Kedemot med tilhørende græsmarker og Mefa’at med tilhørende græsmarker. **65** Af Gads stamme: Ramot i Gilead med tilhørende græsmarker, Mahanajim med tilhørende græsmarker, **66** Heshbon med tilhørende græsmarker og Jazer med tilhørende græsmarker.
+
+[– tilbage –](#indhold)
+
+<a id="1kroen7"></a>
 
 ### 1 Krøn 7
 
@@ -3246,6 +3878,10 @@ Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** 
 
 **30** Ashers sønner var: Jimna, Jishva, Jishvi og Beria, og Sera var deres søster. **31** Berias sønner var: Heber og Malkiel; han blev far til Birzavit. **32** Heber fik Jaflet, Shomer, Hotam og deres søster Shua. **33** Jaflets sønner var: Pasak, Bimhal og Ashvat. Det var Jaflets sønner. **34** Shemers sønner var: Aki, Roga, Jehubba og Aram. **35** Hans bror Helems sønner var: Sofa, Jimna, Shelesh og Amal. **36** Sofas sønner var: Sua, Harnefer, Shual, Beri, Jimra, **37** Beser, Hod, Shamma, Shilsha, Jitran og Be’era. **38** Jeters sønner var: Jefunne, Pispa og Ara. **39** Ullas sønner var: Ara, Hanniel og Risja. **40** Alle disse var Ashers sønner; de var overhoveder for fædrenehusene, udvalgte, erfarne krigere, overhoveder blandt høvdingene. Tallet på dem, der var registreret som krigere, var 26.000 mand.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen8"></a>
+
 ### 1 Krøn 8
 
 #### Benjamins slægt
@@ -3253,6 +3889,10 @@ Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** 
 **1** Benjamin fik Bela, sin førstefødte, Ashbel, den næstældste, Akra, den tredje, **2** Noha, den fjerde, og Rafa, den femte. **3** Bela havde sønnerne: Addar, Gera, Abihud, **4** Abishua, Na’aman, Akoa, **5** Gera, Shefufan og Huram. **6** Ehuds sønner, som var overhoveder for fædrenehusene blandt indbyggerne i Geba, men blev ført i eksil til Manahat, **7** og det var Na’aman, Akija og Gera, der førte dem bort: Ehud fik Uzza og Akihud. **8** Shaharajim fik sønner i Moabs land, efter at han havde sendt sine koner Hushim og Ba’ara bort: **9** Med sin kone Hodesh fik han Jobab, Sibja, Mesha, Malkam, **10** Je’us, Sakeja og Mirma. Det var hans sønner, overhoveder for fædrenehusene. **11** Med Hushim fik han Abitub og Elpa’al. **12** Elpa’als sønner var: Eber, Misham og Shemed, som byggede Ono og Lod med tilhørende småbyer. **13** Beria og Shema var overhoveder for fædrenehusene blandt indbyggerne i Ajjalon. Det var dem, der slog indbyggerne i Gat på flugt. **14** Akjo, Shashak, Jeremot, **15** Zebadja, Arad, Eder, **16** Mikael, Jishpa og Joha var Berias sønner. **17** Zebadja, Meshullam, Hizki, Heber, **18** Jishmeraj, Jizlia og Jobab var Elpa’als sønner. **19** Jakim, Zikri, Zabdi, **20** Elienaj, Silletaj, Eliel, **21** Adaja, Beraja og Shimrat var Shim’is sønner. **22** Jishpan, Eber, Eliel, **23** Abdon, Zikri, Hanan, **24** Hananja, Elam, Antotija, **25** Jifdeja og Penuel var Shashaks sønner. **26** Shamsheraj, Shekarja, Atalja, **27** Ja’areshja, Elija og Zikri var Jerohams sønner. **28** De var overhoveder for fædrenehuse, overhoveder ifølge deres slægtsbøger. De boede i Jerusalem.
 
 **29** I Gibeon boede Gibeons far; hans kone hed Ma’aka. **30** Hans førstefødte søn var Abdon, dernæst Sur, Kish, Ba’al, Nadab, **31** Gedor, Akjo og Zeker. **32** Miklot fik Shim’a. Også de boede sammen med deres brødre i Jerusalem, over for deres brødre. **33** Ner fik Kish, Kish fik Saul, Saul fik Jonatan, Malkishua, Abinadab og Eshba’al. **34** Jonatans søn var Meribba’al. Meribba’al fik Mika. **35** Mikas sønner var: Piton, Melek, Tarea og Akaz. **36** Akaz fik Joadda, Joadda fik Alemet, Azmavet og Zimri, Zimri fik Mosa, **37** Mosa fik Bin’a, hans søn var Rafa, hans søn El’asa, hans søn Asel. **38** Asel havde seks sønner; de hed: Azrikam, Bokeru, Ismael, Shearja, Obadja og Hanan. Alle disse var Asels sønner. **39** Hans bror Esheks sønner var: Ulam, hans førstefødte, Je’ush, den næstældste, og Elifelet, den tredje. **40** Ulams sønner var erfarne krigere og bueskytter; de havde mange sønner og sønnesønner, i alt 150. Alle disse var Benjamins sønner.
+
+[– tilbage –](#indhold)
+
+<a id="1kroen9"></a>
 
 ### 1 Krøn 9
 
@@ -3274,6 +3914,10 @@ Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** 
 
 **35** I Gibeon boede Gibeons far Je’uel; hans kone hed Ma’aka. **36** Hans førstefødte søn var Abdon, dernæst Sur, Kish, Ba’al, Ner, Nadab, **37** Gedor, Akjo, Zekarja og Miklot. **38** Miklot fik Shim’am. Også de boede sammen med deres brødre i Jerusalem, over for deres brødre. **39** Ner fik sønnen Kish, Kish fik Saul, Saul fik Jonatan, Malkishua, Abinadab og Eshba’al. **40** Jonatans søn var Meribba’al. Meribba’al fik Mika. **41** Mikas sønner var: Piton, Melek og Takrea. **42** Akaz fik Jara, Jara fik Alemet, Azmavet og Zimri, Zimri fik Mosa, **43** Mosa fik Bin’a, hans søn var Refaja, hans søn El’asa, hans søn Asel. **44** Asel havde seks sønner; de hed: Azrikam, Bokeru, Ismael, Shearja, Obadja og Hanan. Det var Asels sønner.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen10"></a>
+
 ### 1 Krøn 10
 
 #### Sauls nederlag og død
@@ -3285,6 +3929,10 @@ Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** 
 **8** Da filistrene dagen efter kom for at plyndre de faldne, fandt de ligene af Saul og hans sønner på Gilboas bjerg. **9** De plyndrede ham og tog hans hoved og hans våben; så sendte de bud rundt i filistrenes land for at bringe sejrsbudskabet til deres gudebilleder og til folket. **10** Hans våben anbragte de i deres guds tempel, og hans hjerneskal naglede de til Dagons tempel. **11** Men da alle i Jabesh i Gilead hørte alt, hvad filistrene havde gjort med Saul, **12** tog alle våbenføre mænd af sted; de tog ligene af Saul og hans sønner og bragte dem til Jabesh og begravede deres knogler under egen i Jabesh. Derefter fastede de i syv dage.
 
 **13** Således døde Saul, fordi han havde vist troløshed mod Herren og ikke havde fulgt Herrens befaling, men endda havde spurgt en dødemaner til råds **14** og ikke spurgt Herren til råds. Derfor lod han ham dø og overdrog kongedømmet til David, Isajs søn.
+
+[– tilbage –](#indhold)
+
+<a id="1kroen11"></a>
 
 ### 1 Krøn 11
 
@@ -3308,6 +3956,10 @@ Efratas førstefødte søn Hurs sønner var: Shobal, Kirjat-Jearims far, **51** 
 
 **26** De erfarne krigere var: Joabs bror Asael; Dodos søn Elkanan fra Betlehem; **27** Shammot fra Harod; Heles fra Pelet; **28** Ikkeshs søn Ira fra Tekoa; Abiezer fra Anatot; **29** Sibbekaj fra Husha; Ilaj fra Akoa; **30** Maharaj fra Netofa; Ba’anas søn Heled fra Netofa; **31** Ribajs søn Ittaj fra Gibea i Benjamin; Benaja fra Pir’aton; **32** Huraj fra Nahale-Ga’ash; Abiel fra Arba; **33** Azmavet fra Bahurim; Eljakba fra Sha’albon; **34** Jashen fra Gizon; Shages søn Jonatan fra Harar; **35** Sakars søn Akiam fra Harar; Urs søn Elifal; **36** Hefer fra Mekera; Akija fra Gilo; **37** Hesro fra Karmel; Ezbajs søn Na’araj; **38** Natans bror Joel; hagrittens søn Mibkar; **39** Selek fra Ammon; Nakraj fra Be’erot; han var Serujas søn Joabs våbendrager; **40** Ira fra Jattir; Gareb fra Jattir; **41** hittitten Urias; Aklajs søn Zabad; **42** rubenitten Shizas søn Adina, rubenitternes overhoved over de tredive; **43** Ma’akas søn Hanan; Joshafat fra Meten; **44** Uzzija fra Ashtarot; Shama og Je’uel, sønner af Hotam fra Aro’er; **45** Shimris søn Jedi’ael; hans bror Joha fra Tis; **46** Eliel fra Mahanajim; Elna’ams sønner Jeribaj og Joshavja; Jitma fra Moab; **47** Eliel, Obed og Ja’asiel fra Soba.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen12"></a>
+
 ### 1 Krøn 12
 
 #### Davids tilhængere
@@ -3330,6 +3982,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **24** Tallet på overhovederne for de våbenføre mænd, som kom til David i Hebron for på Herrens befaling at overdrage ham Sauls kongedømme, var: **25** af judæere, som bar langskjolde og lanser, 6.800 våbenføre mænd; **26** af simeonitterne 7.100 erfarne krigere; **27** af levitterne 4.600, **28** desuden Jojada, fyrsten for Arons slægt, fulgt af 3.700, **29** og Sadok, en ung, erfaren kriger, tillige med hans fædrenehus, 22 høvdinge; **30** af benjaminitterne, Sauls brødre, 3.000, men størstedelen af dem holdt endnu fast ved Sauls hus; **31** af efraimitterne 20.800 erfarne krigere, navnkundige mænd i deres fædrenehuse; **32** af halvdelen af Manasses stamme 18.000 mænd, der var udpeget til at gå hen og gøre David til konge; **33** af issakaritterne, som var kyndige i at tyde tiderne, så de vidste, hvad Israel havde at gøre, 200 overhoveder og alle deres brødre, som adlød dem; **34** af Zebulon: 50.000 våbenføre mænd, rustet til kamp med alle slags våben, fast besluttet på at hjælpe; **35** af Naftali 1.000 høvdinge, fulgt af 37.000 mænd med langskjolde og spyd; **36** af danitterne 28.600 mænd, rustet til kamp; **37** af Asher 40.000 våbenføre mænd, rustet til kamp; **38** af dem, der boede på den anden side af Jordan, rubenitterne, gaditterne og halvdelen af Manasses stamme, 120.000 mænd med alle slags våben. **39** Alle disse krigere kom i slagorden og i fuld enighed til Hebron for at gøre David til konge over hele Israel; og også alle de øvrige israelitter var enige om at gøre David til konge. **40** De blev hos David i tre dage, og de spiste og drak, for deres brødre forsynede dem med proviant. **41** Også de, der boede i nærheden af dem helt til Issakar, Zebulon og Naftali, bragte fødevarer på æsler, kameler, muldyr og okser: mel, figenkager, rosinkager, vin og olie, og de bragte køer og får i mængde; for der var glæde i Israel.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen13"></a>
+
 ### 1 Krøn 13
 
 #### David fører arken til Obed-Edoms hus
@@ -3339,6 +3995,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **5** Derpå kaldte David hele Israel sammen fra Shihor i Egypten til Lebo-Hamat for at bringe Guds ark fra Kirjat-Jearim. **6** Han og hele Israel drog op til Ba’ala, til Kirjat-Jearim i Juda, for at hente arken, som tilhører Gud Herren, der troner på keruberne, og som bærer hans navn. **7** De førte Guds ark fra Abinadabs hus på en ny vogn. Uzza og Akjo kørte vognen, **8** mens David og hele Israel dansede af alle kræfter for Guds ansigt til sang og til spil af citere, harper, pauker, cymbler og trompeter. **9** Men da de kom til Kidons tærskeplads, rakte Uzza hånden ud for at gribe fat i arken, fordi okserne snublede. **10** Da flammede Herrens vrede op mod Uzza, og Gud slog ham ihjel, fordi han havde rakt hånden ud efter arken, og han døde dér for Guds ansigt. **11** Men David blev vred, fordi Herren var brudt løs imod Uzza; derfor kaldte han stedet for Peres-Uzza; det hedder det den dag i dag.
 
 **12** Ved den lejlighed blev David grebet af frygt for Gud og sagde: »Hvordan kan jeg få Guds ark hjem til mig?« **13** Og han flyttede ikke arken hjem til sig i Davidsbyen, men satte den hen i gatitten Obed-Edoms hus. **14** Og Guds ark stod i Obed-Edoms hus i tre måneder, og Herren velsignede Obed-Edoms hus og alt, hvad han ejede.
+
+[– tilbage –](#indhold)
+
+<a id="1kroen14"></a>
 
 ### 1 Krøn 14
 
@@ -3352,6 +4012,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **8** Da filistrene hørte, at David var blevet salvet til konge over hele Israel, drog de alle op for at få fat på ham. Så snart David fik det at vide, gik han dem i møde. **9** Samtidig var filistrene kommet og havde gjort indfald i Refaim-dalen. **10** David spurgte Gud: »Skal jeg drage op mod filistrene? Vil du give dem i min hånd?« Herren svarede: »Drag op! Jeg vil give dem i din hånd.« **11** Så drog de op til Ba’al-Perasim, og dér slog David dem. Og han sagde: »Ved min hånd er Gud brudt igennem mine fjender, som vand bryder igennem.« Derfor kalder man dette sted Ba’al-Perasim. **12** Dér efterlod filistrene deres guder, og David gav besked om, at de skulle brændes. **13** Men filistrene kom igen og gjorde indfald i dalen. **14** David spurgte igen Gud, og han svarede: »Drag ikke op efter dem, men gå bag om dem, og angrib dem ud for baka-buskene. **15** Så snart du hører lyden af trin i baka-buskenes top, skal du rykke ud til kamp, for Gud er draget ud foran dig for at slå filistrenes hær.« **16** David gjorde, som Gud havde befalet ham; og de slog filistrenes hær og forfulgte den fra Gibeon helt til Gezer. **17** Davids ry nåede ud i alle lande, og Herren lagde rædsel for ham over alle folkene.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen15"></a>
+
 ### 1 Krøn 15
 
 #### David fører arken til Jerusalem
@@ -3363,6 +4027,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **16** David gav de ledende levitter besked om at lade deres brødre sangerne stille sig op med deres musikinstrumenter, harper, citere og cymbler; de skulle lade høje glædestoner lyde. **17** Så opstillede levitterne Heman, Joels søn, og af hans brødre Asaf, Berekjas søn, og af deres brødre meraritterne Etan, Kushajas søn, **18** og ved siden af dem deres brødre af anden rang: Zekarja, Ja’aziel, Shemiramot, Jehiel, Unni, Eliab, Benaja, Ma’aseja, Mattitja, Elifelehu, Mikneja og portvagterne Obed-Edom og Je’iel. **19** Sangerne Heman, Asaf og Etan skulle spille på bronzecymbler, **20** Zekarja, Aziel, Shemiramot, Jehiel, Unni, Eliab, Ma’aseja og Benaja på harper al-alamot, **21** Mattitja, Elifelehu, Mikneja, Obed-Edom, Je’iel og Azazja på citere al-ha-sheminit; de skulle være korledere. **22** Kenanja, lederen for de levitter, der skulle bære, skulle have opsyn med dem, der bar, for han var en kyndig mand. **23** Berekja og Elkana skulle være portvagter ved arken. **24** Præsterne Shebanja, Joshafat, Netan’el, Amasaj, Zekarja, Benaja og Eliezer skulle blæse i trompeter foran Guds ark, og Obed-Edom og Jehija skulle være portvagter ved arken.
 
 **25** David og Israels ældste og tusindførerne gik hen for at føre Herrens pagts ark op fra Obed-Edoms hus under festglæde, **26** og da Gud hjalp levitterne, som bar Herrens pagts ark, ofrede de syv tyre og syv væddere. **27** David var klædt i en byssus-kappe; det samme var alle levitterne, som bar arken, og sangerne og Kenanja, lederen for sangerne, der skulle bære. Og David havde en linned efod på. **28** Således førte hele Israel Herrens pagts ark op under jubelråb og hornklang, til trompeters og cymblers klang, til harpespil og citerspil. **29** Men da Herrens pagts ark kom til Davidsbyen, stod Sauls datter Mikal og kiggede ud ad vinduet; og da hun så kong David springe og danse, følte hun foragt for ham.
+
+[– tilbage –](#indhold)
+
+<a id="1kroen16"></a>
 
 ### 1 Krøn 16
 
@@ -3447,6 +4115,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **43** Derpå gik alle hver til sit, og David gik hjem for at velsigne sit hus.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen17"></a>
+
 ### 1 Krøn 17
 
 #### Natans forjættelse til David
@@ -3458,6 +4130,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **16** Da gik kong David ind og satte sig for Herrens ansigt og sagde: »Hvem er jeg, Gud Herre, og hvad er mit hus, siden du har ladet mig nå så vidt? **17** Du syntes endda ikke, det var nok, Gud, så du har givet din tjeners hus løfter langt ud i fremtiden. Du har set mig som et menneske af stor betydning, Gud Herre. **18** Hvad mere har David at sige dig om den ære, du har vist din tjener? Du kender jo din tjener. **19** Herre, for din tjeners skyld og efter dit eget ønske har du nu gjort noget så stort som at kundgøre din tjener alle disse store ting. **20** Herre, der er ingen som du, ja, der er ingen Gud uden dig, efter alt hvad vi har hørt med egne ører. **21** Hvem er som dit folk Israel, det eneste folkeslag på jorden, som Gud kom og udfriede og gjorde til sit folk for at skabe dig et navn ved store og frygtindgydende gerninger? Sådan gjorde du, da du drev de andre folkeslag bort foran dit folk, som du havde udfriet fra Egypten. **22** Du har gjort dit folk Israel til dit eget folk til evig tid, og du, Herre, er blevet deres Gud.
 
 **23** Herre, lad til evig tid det løfte stå fast, du nu har givet din tjener og hans hus, og gør, som du har lovet. **24** Lad det stå fast! Da skal dit navn blive stort til evig tid, så man siger: Hærskarers Herre er Israels Gud. Og din tjener Davids hus er grundfæstet for dit ansigt. **25** Du, min Gud, har talt til din tjener og sagt, at du vil bygge ham et hus. Derfor har din tjener dristet sig til at bede for dit ansigt. **26** Herre, du er jo Gud! Du har givet din tjener denne forjættelse, **27** så velsign nu også din tjeners hus, og lad det bestå for dit ansigt i evighed. For du, Herre, har velsignet det, og det er velsignet til evig tid.«
+
+[– tilbage –](#indhold)
+
+<a id="1kroen18"></a>
 
 ### 1 Krøn 18
 
@@ -3473,6 +4149,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **14** David regerede over hele Israel og øvede ret og retfærdighed mod hele sit folk. **15** Joab, Serujas søn, var hærchef; Joshafat, Akiluds søn, var sekretær. **16** Sadok, Akitubs søn, og Abimelek, Ebjatars søn, var præster, og Shavsha var statsskriver. **17** Benaja, Jojadas søn, stod i spidsen for kreterne og pleterne, og Davids sønner var kongens førstemænd.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen19"></a>
+
 ### 1 Krøn 19
 
 #### Krigen mod ammonitterne og aramæerne
@@ -3484,6 +4164,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **8** Da David hørte det, sendte han Joab af sted med hele styrken af elitetropper. **9** Ammonitterne rykkede ud og stillede op til kamp foran byporten, mens kongerne, der var kommet, stod for sig selv på den åbne mark. **10** Da Joab så, at han kunne blive angrebet både forfra og bagfra, udtog han nogle af israelitternes udvalgte mænd og gik i stilling over for aramæerne. **11** Resten af hæren stillede han under sin bror Abishajs kommando, og de gik i stilling over for ammonitterne. **12** Joab sagde: »Hvis aramæerne er stærkere end jeg, skal du komme mig til undsætning. Er ammonitterne derimod stærkere end du, kommer jeg dig til undsætning. **13** Fat mod! Vi vil kæmpe tappert for vort folk og for vor Guds byer. Så må Herren gøre, som han finder for godt!« **14** Så gik Joab og hans mænd til angreb på aramæerne, og de flygtede for ham. **15** Da ammonitterne så, at aramæerne havde taget flugten, flygtede de selv for hans bror Abishaj og trak sig ind i byen. Så kom Joab til Jerusalem.
 
 **16** Da aramæerne så, at de var slået af israelitterne, sendte de bud og fik aramæerne på den anden side af Eufratfloden til at rykke ud; de stod under anførsel af Hadad’ezers hærfører Shofak. **17** Så snart David havde fået det at vide, samlede han alle israelitterne, satte over Jordan og gik imod dem. David stillede op til kamp mod aramæerne, og de gik til angreb på ham. **18** Men aramæerne måtte flygte for israelitterne, og David dræbte syv tusind vognheste og fyrre tusind mand fodfolk. Også deres hærfører Shofak slog han ihjel. **19** Da alle Hadad’ezers folk så, at de var slået af israelitterne, sluttede de fred med David og underkastede sig, og aramæerne ville ikke længere yde ammonitterne hjælp.
+
+[– tilbage –](#indhold)
+
+<a id="1kroen20"></a>
 
 ### 1 Krøn 20
 
@@ -3497,6 +4181,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **6** Der blev igen krig i Gat. Der var en kæmpestor mand; han havde seks fingre på hver hånd og seks tæer på hver fod, i alt fireogtyve. Han hørte også til Rafa-slægten. **7** Han hånede Israel, men Jonatan, der var søn af Davids bror Shim’a, slog ham ihjel. **8** De hørte til Rafa-slægten i Gat, og de faldt for Davids og hans folks hånd.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen21"></a>
+
 ### 1 Krøn 21
 
 #### Folketællingen og pesten
@@ -3509,6 +4197,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **28** Da David nu så, at Herren havde bønhørt ham på jebusitten Ornans tærskeplads, bragte han slagtofre dér. **29** På den tid stod Herrens bolig, som Moses havde lavet i ørkenen, tillige med brændofferalteret på offerhøjen i Gibeon. **30** Men David kunne ikke gå derhen og spørge Gud til råds, for han var grebet af rædsel over Herrens engels sværd.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen22"></a>
+
 ### 1 Krøn 22
 
 #### Davids beslutning om bygning af templet
@@ -3518,6 +4210,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **6** Han kaldte sin søn Salomo til sig og pålagde ham at bygge et hus for Herren, Israels Gud. **7** David sagde til sin søn Salomo: »Jeg havde besluttet at bygge et hus for Herren min Guds navn. **8** Men Herrens ord kom til mig; han sagde: ›Meget blod har du udgydt, og store krige har du ført. Du skal ikke bygge et hus for mit navn, fordi du har udgydt meget blod på jorden for mine øjne. **9** Men du skal få en søn. Han skal være en fredens mand; jeg vil skaffe ham fred for alle hans fjender på alle sider. Han skal hedde Salomo, for i hans dage vil jeg sende fred og ro over Israel. **10** Han skal bygge et hus for mit navn; han skal være min søn, og jeg vil være hans fader. Jeg vil grundfæste hans kongetrone i Israel til evig tid.‹ **11** Måtte Herren nu være med dig, min søn, så du har lykken med dig og får bygget Herren din Guds hus, sådan som han har sagt om dig. **12** Gid Herren vil give dig klogskab og forstand og indsætte dig over Israel, og gid du må holde Herren din Guds lov. **13** Du vil have lykken med dig, hvis du omhyggeligt følger de love og retsregler, som Herren befalede Moses at pålægge Israel. Vær modig og stærk! Vær ikke bange, og lad dig ikke skræmme! **14** Se, med stor møje har jeg skaffet hundrede tusind talenter guld og en million talenter sølv til Guds hus og så store mængder af bronze og jern, at det ikke er til at veje. Og træ og sten har jeg skaffet, men du skal skaffe mere endnu. **15** Til din rådighed har du talrige arbejdere, stenhuggere, murere, tømrere samt folk, der er kyndige i al slags arbejde **16** i guld, sølv, bronze og jern. Gå nu i gang! Herren være med dig!«
 
 **17** David pålagde alle Israels stormænd at hjælpe hans søn Salomo; **18** han sagde: »Er Herren jeres Gud ikke med jer? Har han ikke skaffet jer fred til alle sider? Han har jo givet landets indbyggere i min hånd, og landet er underlagt Herren og hans folk. **19** Hengiv nu jeres hjerte og jeres sjæl til at søge Herren jeres Gud. Gå i gang med at bygge Gud Herrens helligdom, så Herrens pagts ark og Guds hellige kar kan føres ind i det hus, som bygges for Herrens navn.«
+
+[– tilbage –](#indhold)
+
+<a id="1kroen23"></a>
 
 ### 1 Krøn 23
 
@@ -3533,6 +4229,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **24** Det var Levis sønner, fædrenehus for fædrenehus, overhoveder for fædrenehusene, dem der blev mønstret med opregning af navnene på samtlige mænd fra tyve år og opefter, og som udførte arbejde i tjenesten i Herrens tempel. **25** For David havde sagt: »Herren, Israels Gud, har skaffet sit folk fred og taget bolig i Jerusalem til evig tid. **26** Derfor behøver levitterne heller ikke at bære boligen og hele udstyret til tjenesten i den.« **27** – Efter Davids sidste ord regnes tallet på levitterne fra tyve år og opefter. – **28** For de skulle stå til rådighed for Arons sønner ved tjenesten i Herrens tempel; de skulle have ansvaret for forgårdene og kamrene, renholdelsen af alle de hellige ting og arbejdet, der skulle udføres i Guds hus; **29** og de skulle sørge for skuebrødene, finmelet til afgrødeofferet, de usyrede fladbrød, bagepladen, dejen og alle rummål og længdemål. **30** Hver morgen skulle de stille sig op for at takke og lovprise Herren, og det samme skulle de gøre om aftenen; **31** og hver gang man bragte brændofre til Herren på sabbatterne, nymånedagene og ved festerne, skulle de hele tiden stå for Herrens ansigt i det antal, der er fastsat for dem, **32** og de skulle vogte Åbenbaringsteltet og helligdommen og varetage deres brødre Arons sønners vagttjeneste i deres arbejde i Herrens tempel.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen24"></a>
+
 ### 1 Krøn 24
 
 #### Arons sønner
@@ -3545,6 +4245,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **20** De øvrige levitter var: af Amrams sønner: Shubael; af Shubaels sønner: Jekdeja. **21** Af Rehabjas sønner: Jissija, som var overhoved. **22** Af jis’haritterne: Shelomot; af Shelomots sønner: Jahat. **23** Af hebronitterne: Jerija, Amarja, den næste, Jahaziel, den tredje, og Jekam’am, den fjerde. **24** Uzziels sønner var: Mika; af Mikas sønner: Shamir. **25** Mikas bror var: Jissija; af Jissijas sønner: Zekarja. **26** Meraris sønner var: Makli, Mushi og hans søn Ja’azijas sønner. **27** Meraris sønner gennem hans søn Ja’azija var: Shoham, Zakkur og Ibri. **28** Af Makli: Eleazar; han havde ingen sønner. **29** Af Kish: Kishs søn Jerakme’el. **30** Mushis sønner var: Makli, Eder og Jerimot. Det var levitternes sønner, fædrenehus for fædrenehus. **31** De kastede også lod ligesom deres brødre, Arons sønner, i nærværelse af kong David, Sadok, Akimelek og overhovederne for præsternes og levitternes fædrenehuse, med samme vilkår for overhovedets og for den yngste brors fædrenehus.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen25"></a>
+
 ### 1 Krøn 25
 
 #### Tempelsangerne
@@ -3552,6 +4256,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **1** David og hærførerne skilte Asafs, Hemans og Jedutuns sønner ud til tjenesten; de skulle spille henrevet på citere, harper og cymbler. Tallet på de mænd, der skulle udføre denne tjeneste, var: **2** Af Asafs sønner: Zakkur, Josef, Netanja og Asar’ela, Asaf-sønnerne under ledelse af Asaf, der spillede henrevet efter kongens anvisning. **3** Af Jedutun: Jedutun-sønnerne Gedalja, Seri, Jesaja, Hashabja og Mattitja, i alt seks, under ledelse af deres far Jedutun, der spillede henrevet på citer, når de takkede og lovpriste Herren. **4** Af Heman: Heman-sønnerne Bukkija, Mattanja, Uzziel, Shubael, Jerimot, Hananja, Hanani, Eliata, Giddalti, Romamti-Ezer, Joshbekasha, Malloti, Hotir og Mahaziot. **5** Alle disse var sønner af Heman, kongens seer; Gud havde lovet at løfte hans horn, så han gav Heman fjorten sønner og tre døtre. **6** Alle disse stod under deres fars ledelse ved sangen i Herrens tempel til cymbler, harper og citere, når de gjorde tjeneste i Guds hus efter kongens anvisning – Asaf, Jedutun og Heman. **7** Tallet på dem, tillige med deres brødre, som var oplært i sang for Herren, var 288, alle sammen kyndige mænd.
 
 **8** De kastede lod om tjenesten med samme vilkår for små og store, mesteren såvel som lærlingen. **9** Det første lod faldt på Josef; det andet på Gedalja, ham selv og hans brødre og sønner, i alt tolv; **10** det tredje på Zakkur, hans sønner og brødre, i alt tolv; **11** det fjerde på Jisri, hans sønner og brødre, i alt tolv; **12** det femte på Netanja, hans sønner og brødre, i alt tolv; **13** det sjette på Bukkija, hans sønner og brødre, i alt tolv; **14** det syvende på Jesar’ela, hans sønner og brødre, i alt tolv; **15** det ottende på Jesaja, hans sønner og brødre, i alt tolv; **16** det niende på Mattanja, hans sønner og brødre, i alt tolv; **17** det tiende på Shim’i, hans sønner og brødre, i alt tolv; **18** det ellevte på Azar’el, hans sønner og brødre, i alt tolv; **19** det tolvte på Hashabja, hans sønner og brødre, i alt tolv; **20** det trettende på Shubael, hans sønner og brødre, i alt tolv; **21** det fjortende på Mattitja, hans sønner og brødre, i alt tolv; **22** det femtende på Jeremot, hans sønner og brødre, i alt tolv; **23** det sekstende på Hananja, hans sønner og brødre, i alt tolv; **24** det syttende på Joshbekasha, hans sønner og brødre, i alt tolv; **25** det attende på Hanani, hans sønner og brødre, i alt tolv; **26** det nittende på Malloti, hans sønner og brødre, i alt tolv, **27** det tyvende på Elijata, hans sønner og brødre, i alt tolv; **28** det enogtyvende på Hotir, hans sønner og brødre, i alt tolv; **29** det toogtyvende på Giddalti, hans sønner og brødre, i alt tolv; **30** det treogtyvende på Mahaziot, hans sønner og brødre, i alt tolv, **31** og det fireogtyvende på Romamti-Ezer, hans sønner og brødre, i alt tolv.
+
+[– tilbage –](#indhold)
+
+<a id="1kroen26"></a>
 
 ### 1 Krøn 26
 
@@ -3571,6 +4279,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **29** Af jis’haritterne blev Kenanja og hans sønner sat til arbejdet uden for helligdommen som skrivere og dommere i Israel. **30** Af hebronitterne blev Hashabja og hans brødre, i alt 1700 dygtige mænd, sat til at udføre alt, hvad der hørte til tjenesten for Herren og til arbejdet for kongen i Israel vest for Jordan. **31** Til hebronitterne hørte Jerija, der var overhoved for hebronitternes fædrenehuse ifølge deres slægtsbøger – i Davids fyrretyvende regeringsår blev der foretaget en undersøgelse, og man fandt blandt dem nogle dygtige folk i Jazer i Gilead – **32** og hans brødre, i alt 2700 dygtige mænd, der var overhoveder for fædrenehusene. Dem indsatte kong David over rubenitterne, gaditterne og halvdelen af Manasses stamme til at tage sig af alt, hvad der havde med Gud og kongen at gøre.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen27"></a>
+
 ### 1 Krøn 27
 
 #### Davids embedsmænd
@@ -3585,6 +4297,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **32** Davids farbror Jonatan, en forstandig og skriftlærd mand, var rådgiver. Jehiel, Hakmonis søn, var tilknyttet kongens sønner. **33** Akitofel var kongens rådgiver, og arkitten Hushaj var Kongens Ven. **34** Efter Akitofel kom Jojada, Benajas søn, og Ebjatar. Joab var kongens hærfører.
 
+[– tilbage –](#indhold)
+
+<a id="1kroen28"></a>
+
 ### 1 Krøn 28
 
 #### David pålægger Salomo at bygge templet
@@ -3594,6 +4310,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **11** Så gav David sin søn Salomo en plan over forhallen, templets bygninger, forrådskamrene, tagrummene, de inderste kamre og rummet til sonedækket **12** og en plan over alt det, han ellers havde i tankerne: forgårdene til Herrens tempel, alle kamrene rundt om, skatkamrene i Guds tempel og skatkamrene til helliggaverne, **13** præsternes og levitternes skifter, alt arbejdet ved tjenesten i Herrens tempel og alle genstandene til tjenesten i Herrens tempel. **14** Han angav vægten på guldet til alle guldkarrene, der skulle bruges til de forskellige tjenester, vægten på sølvet til alle sølvkarrene, der skulle bruges til de forskellige tjenester; **15** vægten på guldet til hver enkelt af guldlysestagerne med tilhørende lamper og vægten på sølvet til hver enkelt sølvlysestage med tilhørende lamper, efter hvad hver enkelt lysestage skulle bruges til i tjenesten; **16** vægten på guldet til hvert enkelt af skuebrødsbordene og på sølvet til sølvbordene, **17** gaflerne, stænkeskålene og kanderne af rent guld; vægten på guldet til hvert enkelt af guldbægrene og vægten på sølvet til hvert enkelt af sølvbægrene **18** og vægten på lutret guld til røgelsesofferalteret. Og han gav ham planen over vognen, guldkeruberne, som havde vingerne bredt ud og dækkede Herrens pagts ark. **19** »Med en skrivelse fra Herrens egen hånd har han sat mig ind i alle planens enkeltheder.«
 
 **20** Så sagde David til sin søn Salomo: »Vær modig og stærk, og gå i gang! Vær ikke bange, og lad dig ikke skræmme, for Gud Herren, min Gud, er med dig. Han lader dig ikke i stikken og svigter dig ikke, til du har fuldført arbejdet med Herrens tempel. **21** Her er præsternes og levitternes skifter, til hele tjenesten i Guds hus; til alt arbejdet har du beredvillige folk hos dig, der er kyndige i al slags arbejde, og stormændene og hele folket vil gøre alt, hvad du siger til dem.«
+
+[– tilbage –](#indhold)
+
+<a id="1kroen29"></a>
 
 ### 1 Krøn 29
 
@@ -3615,9 +4335,13 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **29** Hvad der er at fortælle om kong David, står fra først til sidst i seeren Samuels Krønike og i profeten Natans Krønike og i seeren Gads Krønike. **30** Der står også om hele hans regering og om hans vældige gerninger og om de begivenheder, som indtraf for ham og Israel og alle riger og lande.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Anden Krønikebog
+
+<a id="2kroen1"></a>
 
 ### 2 Krøn 1
 
@@ -3633,6 +4357,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **18** Salomo tænkte på at bygge et hus for Herrens navn og et kongepalads. 
 
+[– tilbage –](#indhold)
+
+<a id="2kroen2"></a>
+
 ### 2 Krøn 2
 
 #### Handelsforbindelsen med Fønikien
@@ -3642,6 +4370,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **10** Tyrus’ konge Huram svarede i en skrivelse, som han sendte til Salomo: »Fordi Herren elsker sit folk, har han gjort dig til konge over dem.« **11** Og Huram fortsatte: »Lovet være Herren, Israels Gud, som skabte himlen og jorden, fordi han har givet kong David en vís, klog og forstandig søn, der vil bygge et hus for Herren og et kongepalads. **12** Nu sender jeg dig en kyndig og forstandig mand, Huram-Abi. **13** Han er søn af en kvinde fra Dan, og hans far er fra Tyrus. Han har forstand på at arbejde i guld, sølv, bronze, jern, sten, træ, rødt purpur, blåt purpur, byssus og karmin, på al slags gravering og på at lave udkast til alle de kunstneriske arbejder, han får til opgave; han skal arbejde sammen med dine kyndige folk og min herres, din far Davids, kyndige folk. **14** Min herre skal derfor sende hveden, byggen, olien og vinen til sine tjenere, sådan som han har lovet. **15** Så vil vi fælde så mange træer i Libanon, som du har brug for, og bringe dem i flåder ad søvejen til Jafo. Men du må selv bringe dem op til Jerusalem.«
 
 **16** Salomo lod alle fremmede mænd i Israel tælle – tidligere havde hans far David ladet dem tælle – og der var 153.600. **17** Af dem gjorde han 70.000 til bærere, 80.000 til stenhuggere i bjerglandet og 3600 til arbejdsledere, der skulle sætte folkene i arbejde.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen3"></a>
 
 ### 2 Krøn 3
 
@@ -3655,11 +4387,19 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 
 **15** Foran templet lavede han to søjler; de var femogtredive alen høje, og søjlehovedet, som var på toppen af dem, var fem alen. **16** Han lavede kædeværk som en halskæde og satte det øverst på søjlerne, og han lavede hundrede granatæbler og satte dem på kædeværket. **17** Han stillede søjlerne op foran templet, én til højre og én til venstre; han kaldte den højre Jakin og den venstre Boaz.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen4"></a>
+
 ### 2 Krøn 4
 
 **1** Han lavede et bronzealter, tyve alen langt, tyve alen bredt og ti alen højt. **2** Så støbte han Havet, ti alen fra kant til kant, cirkelrundt; det var fem alen højt, og det målte tredive alen i omkreds. **3** Under kanten var der afbildninger af okser hele vejen rundt; de sad i en kreds hele vejen rundt om Havet, ti på en alen; okserne sad i to rækker, støbt i ét med Havet. **4** Det stod på tolv okser, tre vendte mod nord, tre mod vest, tre mod syd og tre mod øst; Havet stod oven på dem, og deres bagkroppe vendte indad. **5** Det var en håndsbredde tykt, dets kant var lavet som kanten af et lotusblomst-bæger; det rummede tre tusind bat. **6** Han lavede ti bækkener og stillede dem op, fem til højre og fem til venstre. De blev anvendt til afvaskning; i dem skyllede man det, der skulle bruges til brændofferet, mens Havet blev anvendt af præsterne til afvaskning. **7** Han lavede ti lysestager af guld i overensstemmelse med forordningen om dem, og han stillede dem op i tempelhallen, fem til højre og fem til venstre. **8** Han lavede ti borde og anbragte dem i tempelhallen, fem til højre og fem til venstre. Han lavede hundrede stænkeskåle af guld. **9** Han lavede præsternes forgård og den store forgård og portfløje til forgården. Portfløjene beklædte han med bronze. **10** Havet stillede han ved sydsiden, i sydøst.
 
 **11** Huram lavede askespandene, skovlene og stænkeskålene. Dermed havde Huram færdiggjort det arbejde, han skulle lave for kong Salomo til Guds hus: **12** to søjler, de to vulster til søjlehovederne på toppen af søjlerne, de to fletninger til at dække de to vulster på søjlehovederne på toppen af søjlerne, **13** de fire hundrede granatæbler til de to fletninger, to rækker granatæbler i hver fletning til at dække de to vulster på søjlehovederne, som var oven på søjlerne; **14** de ti vognstel og de ti bækkener på stellene; **15** Havet og de tolv okser under det; **16** askespandene, skovlene, gaflerne og alle redskaberne til dem lavede Huram-Abi i poleret bronze for kong Salomo til Herrens tempel. **17** I Jordandalen, i den faste lerjord mellem Sukkot og Sereda, lod kongen dem støbe. **18** Salomo lavede alle disse ting i store mængder; vægten af bronzen blev end ikke beregnet. **19** Salomo lavede alle tingene i Guds hus: guldalteret og bordene, som skuebrødene lå på; **20** lysestagerne med deres lamper, der skulle brænde i overensstemmelse med forordningen, foran det inderste rum, i rent guld, **21** blomsten, lamperne og tængerne af guld, endda purt guld, **22** knivene, stænkeskålene, skålene og fyrbækkenerne af rent guld; templets døre, både de inderste døre til det Allerhelligste og dørene til tempelhallen, af guld.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen5"></a>
 
 ### 2 Krøn 5
 
@@ -3670,6 +4410,10 @@ Da tog David imod dem og satte dem blandt de førende i strejfskaren.
 **2** Derpå sammenkaldte Salomo Israels ældste og alle stammehøvdingene, overhovederne for israelitternes fædrenehuse, i Jerusalem for at føre Herrens pagts ark op fra Davidsbyen, det samme som Zion; **3** alle israelitiske mænd samledes hos kongen ved festen i den syvende måned; **4** alle Israels ældste kom. Levitterne løftede arken, **5** og de førte arken op sammen med Åbenbaringsteltet og alle de hellige genstande, som var i teltet; det var levitpræsterne, der førte dem op. **6** Foran arken gik kong Salomo og hele Israels menighed, som var mødt op hos ham; de ofrede så mange får og køer, at man ikke kunne tælle eller opregne dem. **7** Præsterne bragte Herrens pagts ark til dens plads i templets inderste rum, det Allerhelligste, under kerubernes vinger; **8** keruberne bredte vingerne ud over arkens plads, sådan at keruberne dækkede arken og dens bærestænger ovenfra. **9** Bærestængerne var så lange, at deres ender kunne ses fra det Hellige foran det inderste rum, men de kunne ikke ses udefra. De er der den dag i dag. **10** Der var intet andet i arken end de to tavler, som Moses havde anbragt i den ved Horeb, dengang Herren sluttede pagt med israelitterne, efter at de var draget ud af Egypten.
 
 **11** Så gik præsterne ud af helligdommen; alle de præster, som var til stede, havde nemlig helliget sig uafhængigt af skifterne, **12** og alle de levitiske sangere, Asaf, Heman, Jedutun og deres sønner og brødre, stod øst for alteret iført byssus-klæder, med cymbler, harper og citere, og sammen med dem stod hundrede og tyve præster, der blæste i trompeter. **13** På én gang stemte trompetblæserne og sangerne i for med én røst at lovprise og takke Herren; til lyden af trompeter og cymbler og andre musikinstrumenter lovpriste de Herren med ordene: »Han er god, hans trofasthed varer til evig tid!« Da blev templet, Herrens tempel, fyldt af skyen. **14** Præsterne kunne ikke forrette tjenesten på grund af skyen, fordi Herrens herlighed fyldte Guds hus.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen6"></a>
 
 ### 2 Krøn 6
 
@@ -3701,6 +4445,10 @@ Herre, Israels Gud, der er ingen Gud som du i himlen og på jorden, en Gud, der 
 
 **40** Lad nu dine øjne være åbne, min Gud, og lad dine ører lytte til bønnen på dette sted. **41** Gud Herre, bryd nu op til dit hvilested sammen med din magtfulde ark. Dine præster, Gud Herre, skal klæde sig i frelse, dine fromme skal glæde sig over dine goder. **42** Gud Herre, afvis ikke dine salvede; husk på din troskab mod din tjener David!
 
+[– tilbage –](#indhold)
+
+<a id="2kroen7"></a>
+
 ### 2 Krøn 7
 
 **1** Da Salomo var færdig med at bede, faldt der ild ned fra himlen og fortærede brændofferet og slagtofrene, og Herrens herlighed fyldte templet; **2** præsterne kunne ikke gå ind i Herrens tempel, fordi Herrens herlighed fyldte Herrens tempel. **3** Og da alle israelitterne så ilden og Herrens herlighed komme ned over templet, kastede de sig på knæ på brolægningen med ansigtet til jorden og tilbad og takkede Herren med ordene: »Han er god, hans trofasthed varer til evig tid!«
@@ -3713,6 +4461,10 @@ Herre, Israels Gud, der er ingen Gud som du i himlen og på jorden, en Gud, der 
 
 **11** Salomo havde nu gjort Herrens tempel og kongens palads færdigt, og alt, hvad han havde sat sig for at udføre i Herrens tempel og i sit palads, var lykkedes for ham. **12** Da viste Herren sig for Salomo om natten og sagde til ham: »Jeg har hørt din bøn og udvalgt mig dette sted til offertempel. **13** Hvis jeg lukker himlen, så der ikke kommer regn, hvis jeg befaler græshopper at æde landet, eller hvis jeg sender pest over mit folk, **14** og mit folk, som mit navn er nævnt over, så ydmyger sig og beder og søger mit ansigt og vender om fra deres onde veje, da vil jeg høre dem fra himlen og tilgive deres synd og læge deres land. **15** Ja, mine øjne skal være åbne og mine ører lytte til bønnen på dette sted. **16** Jeg har udvalgt og helliget dette hus, for at mit navn kan være dér til evig tid; mine øjne og mit hjerte skal altid være dér. **17** Hvis du vandrer for mit ansigt, sådan som din far David gjorde, og gør, ganske som jeg har befalet dig, og holder mine love og retsregler, **18** så vil jeg lade din kongetrone bestå i overensstemmelse med den pagt, jeg sluttede med din far David: ›Der skal aldrig mangle en af din slægt til at herske over Israel.‹ **19** Men hvis I vender jer fra mig og svigter mine love og mine befalinger, som jeg har lagt frem for jer, og går hen og dyrker andre guder og tilbeder dem, **20** så vil jeg rykke jer op af min jord, som jeg har givet jer, og jeg vil forkaste dette hus, som jeg har helliget til mit navn, og gøre det til spot og spe blandt alle folk. **21** Dette hus, som var ophøjet, skal lægges i ruiner, og alle, der kommer forbi, skal gyse. Og spørger de: Hvorfor har Herren handlet sådan mod dette land og dette hus? **22** lyder svaret: Fordi de svigtede Herren, deres fædres Gud, som førte dem ud af Egypten; de holdt sig til andre guder, tilbad dem og dyrkede dem. Derfor har han bragt hele denne ulykke over dem.«
 
+[– tilbage –](#indhold)
+
+<a id="2kroen8"></a>
+
 ### 2 Krøn 8
 
 #### Enkeltheder fra Salomos regering
@@ -3724,6 +4476,10 @@ Herre, Israels Gud, der er ingen Gud som du i himlen og på jorden, en Gud, der 
 **12** Dengang bragte Salomo brændofre til Herren på Herrens alter, som han havde bygget foran forhallen; **13** han ofrede så meget, som der efter Moses’ befaling var fastsat for de enkelte dage, sabbatterne, nymånedagene og ved festerne tre gange om året: de usyrede brøds fest, ugefesten og løvhyttefesten. **14** Efter det, hans far David havde forordnet, satte han præsternes skifter til deres tjeneste og levitterne til deres tjeneste: at synge lovsangen og at hjælpe præsterne, sådan som det var fastsat for de enkelte dage, og portvagterne til skifte for skifte at holde vagt ved de enkelte porte, for det havde gudsmanden David befalet. **15** De veg ikke på nogen måde fra kongens befaling om præsterne, levitterne og skatkamrene. **16** Sådan fuldendtes hele Salomos værk, fra den dag grundvolden til Herrens tempel blev lagt, indtil hele Herrens tempel stod færdigt.
 
 **17** På den tid drog Salomo til Esjongeber og til Elat i Edom ved havets kyst. **18** Huram lod sine folk bygge skibe til ham og sendte ham nogle søkyndige folk til skibene. Sammen med Salomos folk kom de til Ofir og hentede 450 talenter guld og bragte det til kong Salomo.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen9"></a>
 
 ### 2 Krøn 9
 
@@ -3742,6 +4498,10 @@ Herre, Israels Gud, der er ingen Gud som du i himlen og på jorden, en Gud, der 
 #### Salomos død
 
 **29** Hvad der ellers er at fortælle om Salomo, står jo fra først til sidst i profeten Natans Krønike og i shilonitten Akijas Profetier og i seeren Jedis Syner om Jeroboam, Nebats søn. **30** Salomo regerede fyrre år i Jerusalem over hele Israel. **31** Salomo lagde sig til hvile hos sine fædre, og man begravede ham i hans far Davids by, og hans søn Rehabeam blev konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen10"></a>
 
 ### 2 Krøn 10
 
@@ -3762,6 +4522,10 @@ Så gik alle israelitterne hver til sit. **17** Men de israelitter, som boede i 
 
 **19** Sådan gjorde Israel oprør mod Davids hus, og sådan er det den dag i dag.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen11"></a>
+
 ### 2 Krøn 11
 
 **1** Da Rehabeam kom til Jerusalem, kaldte han Judas og Benjamins hus sammen, hundrede og firs tusind udvalgte krigere, til krig mod Israel for at genvinde kongedømmet for Rehabeam. **2** Da kom Herrens ord til gudsmanden Shemaja: **3** »Sig til Salomos søn Rehabeam, Judas konge, og til alle israelitter i Juda og Benjamin: **4** Dette siger Herren: I må ikke rykke ud til krig mod jeres brødre. I skal alle sammen vende hjem, for det, der er sket, er kommet fra mig.« De adlød Herrens ord og vendte hjem og drog ikke mod Jeroboam.
@@ -3774,6 +4538,10 @@ Så gik alle israelitterne hver til sit. **17** Men de israelitter, som boede i 
 
 **18** Rehabeam giftede sig med Mahalat, der var datter af Davids søn Jerimot og Abihajil, Isajs søn Eliabs datter. **19** Hun fødte ham sønnerne Je’ush, Shemarja og Zaham. **20** Senere giftede han sig med Absaloms datter Ma’aka. Hun fødte ham Abija, Attaj, Ziza og Shelomot. **21** Rehabeam elskede Absaloms datter Ma’aka højere end sine andre hustruer og medhustruer; han havde atten hustruer og tres medhustruer, og han fik otteogtyve sønner og tres døtre. **22** Rehabeam indsatte Ma’akas søn Abija som overhoved og fyrste blandt hans brødre i den hensigt at gøre ham til konge. **23** Han var klog nok til at sprede sine sønner ud over alle Judas og Benjamins egne, i alle fæstningsbyerne. Han gav dem rigelige forsyninger, og han skaffede dem en mængde hustruer.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen12"></a>
+
 ### 2 Krøn 12
 
 **1** Da Rehabeams kongedømme var grundfæstet og hans magt styrket, svigtede han og hele Israel Herrens lov. **2** I kong Rehabeams femte regeringsår drog egypterkongen Shishak op mod Jerusalem, for de havde været troløse mod Herren; **3** han kom med tolv hundrede vogne og tres tusind ryttere og utallige krigere, som fulgte ham fra Egypten, libyere, sukkijitter og nubiere. **4** Han indtog fæstningsbyerne i Juda og nåede til Jerusalem.
@@ -3785,6 +4553,10 @@ Så gik alle israelitterne hver til sit. **17** Men de israelitter, som boede i 
 **13** Sådan fik kong Rehabeam styrket sin magt i Jerusalem og fortsatte som konge. Rehabeam var enogfyrre år, da han blev konge, og han regerede sytten år i Jerusalem, den by Herren havde udvalgt af alle Israels stammer til at sætte sit navn på. Hans mor hed Na’ama og var fra Ammon. **14** Han gjorde, hvad der var ondt; han bestræbte sig ikke på at søge Herren.
 
 **15** Hvad der er at fortælle om Rehabeam, står jo fra først til sidst i profeten Shemajas Krønike og seeren Iddos Krønike. Dette gælder også hans slægtsregister. Der var hele tiden krige mellem Rehabeam og Jeroboam. **16** Rehabeam lagde sig til hvile hos sine fædre og blev begravet i Davidsbyen. Hans søn Abija blev konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen13"></a>
 
 ### 2 Krøn 13
 
@@ -3800,6 +4572,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **22** Hvad der ellers er at fortælle om Abija, hans færd og hans ord, står i profeten Iddos Udlægning. **23** Abija lagde sig til hvile hos sine fædre, og man begravede ham i Davidsbyen, og hans søn Asa blev konge efter ham. På hans tid havde landet ro i ti år.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen14"></a>
+
 ### 2 Krøn 14
 
 #### Asa
@@ -3809,6 +4585,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **8** Men nubieren Zera rykkede ud mod dem med en hær på en million mand og tre hundrede vogne. Da han var nået til Maresha, **9** rykkede Asa ud mod ham, og de stillede op til kamp i Sefata-dalen ved Maresha. **10** Asa råbte til Herren sin Gud og sagde: »Herre, for dig er der ingen forskel på at hjælpe den, der har stor styrke, og den, der ingen har. Hjælp os, Herre vor Gud, for dig støtter vi os til, og i dit navn er vi draget mod denne hær. Herre, du er vor Gud; over for dig formår intet menneske noget.«
 
 **11** Da slog Herren nubierne i kampen mod Asa og Juda, og nubierne flygtede. **12** Asa og de folk, han havde med sig, forfulgte dem til Gerar, og nubierne faldt til sidste mand, for de blev knust af Herren og hans hær, og judæerne tog et meget stort bytte. **13** De indtog alle byerne omkring Gerar, for Herrens rædsel var kommet over dem, og de plyndrede alle byerne, for der var stort bytte i dem. **14** Også teltene til kvæget erobrede de, og de tog mange får og kameler med sig. Så vendte de tilbage til Jerusalem.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen15"></a>
 
 ### 2 Krøn 15
 
@@ -3820,6 +4600,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **19** Der var ikke krig før efter Asas femogtredivte regeringsår.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen16"></a>
+
 ### 2 Krøn 16
 
 **1** I Asas seksogtredivte regeringsår drog Israels konge Basha op mod Juda, og han befæstede Rama for at spærre vejen til og fra Judas konge Asa. **2** Men Asa tog sølv og guld ud af skatkamrene i Herrens tempel og i kongens palads og sendte det til Arams konge Ben-Hadad, som regerede i Damaskus, med den besked: **3** »Der er en pagt mellem dig og mig, mellem din far og min far. Jeg sender dig her sølv og guld; bryd nu din pagt med Israels konge Basha, så han drager bort fra mig.« **4** Ben-Hadad bønhørte kong Asa og sendte sine hærførere mod Israels byer. De indtog Ijjon, Dan og Abel-Majim og alle forrådsbyerne i Naftali. **5** Da Basha hørte det, holdt han op med at befæste Rama og standsede arbejdet. **6** Kong Asa tog alle judæerne med sig, og de tog de sten og det tømmer, som Basha havde befæstet Rama med, og med det befæstede kong Asa Geba og Mispa.
@@ -3827,6 +4611,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **7** På den tid kom seeren Hanani til Judas konge Asa; han sagde til ham: »Fordi du støttede dig til Arams konge og ikke til Herren din Gud, er aramæerkongens hær sluppet fra dig. **8** Var nubierne og libyerne ikke en vældig hær med umådelig mange vogne og ryttere? Men fordi du støttede dig til Herren, gav han dem i din hånd. **9** For Herrens øjne spejder ud over hele jorden, så han kan vise sin styrke og hjælpe dem, der helhjertet er med ham. Du har handlet tåbeligt i denne sag; fra nu af skal du altid have krig.« **10** Men Asa blev rasende på seeren og lagde ham i blokken, for han blev vred over dette. Dengang fór Asa hårdt frem mod nogle af folket.
 
 **11** Hvad der er at fortælle om Asa, står fra først til sidst i Judas og Israels Kongers Bog. **12** I sit niogtredivte regeringsår fik Asa en sygdom i fødderne, og han var alvorligt syg. Heller ikke under sin sygdom søgte han Herren, men lægerne. **13** Asa lagde sig til hvile hos sine fædre; han døde i sit enogfyrretyvende regeringsår. **14** Man begravede ham i den grav, han havde ladet grave til sig i Davidsbyen. Man lagde ham på et leje fyldt af balsamstoffer og alle slags krydrede salveblandinger og tændte et vældigt bål til ære for ham.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen17"></a>
 
 ### 2 Krøn 17
 
@@ -3839,6 +4627,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **10** Herrens rædsel kom over alle de riger og lande, som lå omkring Juda, så ingen gik i krig mod Joshafat. **11** Nogle af filistrene bragte Joshafat gaver og en afgift af sølv. Også araberne kom med småkvæg, 7700 væddere og 7700 bukke. **12** Sådan blev Joshafat mægtigere og mægtigere. Han byggede borge og forrådsbyer i Juda, **13** og han havde store forråd i Judas byer og erfarne krigere i Jerusalem.
 
 **14** Sådan var de mønstret, fædrenehus for fædrenehus: Til Juda hørte tusindførerne: føreren Adna med 300.000 erfarne krigere; **15** ved siden af ham føreren Johanan med 280.000 mand; **16** ved siden af ham Amasja, Zikris søn, som frivilligt var trådt i Herrens tjeneste, med 200.000 erfarne krigere. **17** Fra Benjamin: Eljada, en erfaren kriger, med 200.000 mand, der var udrustet med buer og skjolde; **18** ved siden af ham Jozabad med 180.000 våbenføre mænd. **19** Det var de mænd, der var i kongens tjeneste, foruden dem, som kongen havde anbragt i de befæstede byer i hele Juda.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen18"></a>
 
 ### 2 Krøn 18
 
@@ -3858,6 +4650,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **28** Så drog Israels konge og Judas konge Joshafat op mod Ramot i Gilead. **29** Israels konge sagde til Joshafat: »Jeg vil gøre mig ukendelig, før jeg går ud i kampen; behold du dine egne klæder på.« Så gjorde Israels konge sig ukendelig, og de gik i kamp. **30** Arams konge havde imidlertid givet sine vognkommandanter befaling til ikke at angribe hvem som helst, men kun Israels konge. **31** Da nu vognkommandanterne så Joshafat, sagde de: »Det må være Israels konge!« Og de vendte sig mod ham for at gå til angreb på ham. Men da Joshafat råbte om hjælp, hjalp Herren ham; Gud lokkede dem væk fra ham. **32** Da vognkommandanterne forstod, at det ikke var Israels konge, trak de sig tilbage. **33** Men en mand skød sin bue af på lykke og fromme og ramte Israels konge mellem pladerne og brystpanseret. Kongen sagde da til vognstyreren: »Vend om og bring mig ud af slagrækken, for jeg er såret!« **34** Selv om kampen blev voldsommere og voldsommere den dag, holdt Israels konge sig oprejst på sin vogn over for aramæerne indtil aften. Så døde han, ved den tid solen går ned.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen19"></a>
+
 ### 2 Krøn 19
 
 #### Joshafats regering i Jerusalem
@@ -3867,6 +4663,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **4** Joshafat blev i Jerusalem. Så tog han igen rundt blandt folket, fra Be’ersheba til Efraims bjergland, og førte dem tilbage til Herren, deres fædres Gud. **5** Han indsatte dommere i landet, i hver enkelt af de befæstede byer i Juda, **6** og han sagde til dem: »Pas på, hvad I gør! For det er ikke for mennesker, I fælder dom, men for Herren; han er til stede, når I afsiger dom. **7** Lad jer nu styre af frygt for Herren. Pas på, hvad I gør! For hos Herren vor Gud er der ingen uret; han er ikke partisk og lader sig ikke bestikke.«
 
 **8** Også i Jerusalem indsatte Joshafat nogle af levitterne og præsterne og overhovederne for Israels fædrenehuse til at fælde Herrens dom og afgøre retssager mellem Jerusalems indbyggere. **9** Han gav dem denne befaling: »Dette skal I gøre i frygt for Herren, trofast og helhjertet: **10** Hver gang en retssag forelægges jer af jeres brødre, som bor i deres byer, enten det drejer sig om drab, eller det er spørgsmål om love, befalinger, lovbud og retsregler, skal I advare dem, så de ikke pådrager sig skyld over for Herren, og I og jeres brødre rammes af vrede. Sådan skal I gøre; ellers pådrager I jer skyld. **11** I alle Herrens sager skal ypperstepræsten Amarja være jeres overordnede, i alle kongens sager skal det være Zebadja, Ismaels søn, fyrsten i Judas hus, og levitterne skal være til jeres rådighed som skrivere. Tag frimodigt fat! Herren være med den, der gør det gode!«
+
+[– tilbage –](#indhold)
+
+<a id="2kroen20"></a>
 
 ### 2 Krøn 20
 
@@ -3890,6 +4690,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **35** Siden hen sluttede Judas konge Joshafat forbund med Israels konge Akazja; det var ham, der handlede ugudeligt. **36** Han blev enig med ham om at bygge skibe, der skulle sejle på Tarshish, og de byggede skibe i Esjongeber. **37** Men Eliezer, søn af Dodavahu fra Maresha, profeterede mod Joshafat: »Fordi du har sluttet forbund med Akazja, vil Herren splitte dit værk.« Og skibene forliste og kom aldrig til Tarshish.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen21"></a>
+
 ### 2 Krøn 21
 
 #### Joshafats død
@@ -3910,6 +4714,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **20** Han var toogtredive år, da han blev konge, og han regerede otte år i Jerusalem. Han gik bort, uden at nogen savnede ham. Man begravede ham i Davidsbyen, men ikke i kongegravene.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen22"></a>
+
 ### 2 Krøn 22
 
 #### Akazja
@@ -3920,6 +4728,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **10** Da Akazjas mor Atalja så, at hendes søn var død, gav hun sig til at udrydde hele kongeslægten i Juda. **11** Men kongens datter Joshabat fik Akazjas søn Joash smuglet bort fra de kongesønner, som skulle dræbes, og hun anbragte ham og hans amme i sengekammeret. Joshabat, kong Jorams datter og præsten Jojadas kone, som altså var søster til Akazja, skjulte ham for Atalja, så hun ikke kunne dræbe ham. **12** I seks år var han skjult hos dem i Guds hus, mens Atalja regerede i landet.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen23"></a>
+
 ### 2 Krøn 23
 
 **1** I det syvende år fik Jojada mod til at indgå en pagt med hundredførerne Azarja, Jerohams søn, Ismael, Johanans søn, Azarja, Obeds søn, Ma’aseja, Adajas søn, og Elishafat, Zikris søn. **2** De tog rundt i Juda og samlede levitterne fra alle Judas byer og overhovederne for Israels fædrenehuse. Da de kom til Jerusalem, **3** sluttede hele forsamlingen pagt med kongen i Guds hus. Jojada sagde til dem: »Her er kongesønnen! Han skal være konge efter det løfte, Herren gav om Davids efterkommere. **4** Sådan skal I gøre: Den tredjedel af jer, de præster og levitter, der kommer på sabbatten, skal være portvagter; **5** den anden tredjedel skal være i kongens palads og den sidste tredjedel ved Jesod-porten, mens hele folkemængden skal være i forgårdene til Herrens tempel. **6** Ingen må komme ind i Herrens tempel, undtagen præsterne og de levitter, der gør tjeneste. De må komme derind, for de er hellige; hele folkemængden skal holde Herrens bud! **7** Levitterne skal stille sig i ring om kongen, hver med våben i hånd; den, der går ind i templet, skal lide døden. I skal være om kongen, hvor han står og går.«
@@ -3927,6 +4739,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **8** Levitterne og alle judæerne gjorde, ganske som præsten Jojada befalede. De tog hver deres mænd, både dem, der afløste, og dem, der blev afløst på sabbatten, for præsten Jojada gav ikke skifterne fri for tjeneste. **9** Præsten Jojada gav hundredførerne spyddene, skjoldene og rundskjoldene, som havde tilhørt kong David, og som var i Guds hus. **10** Da han havde opstillet alle folkene med spyd i hånd, fra templets sydside til dets nordside, foran alteret og templet, rundt om kongen, **11** førte de kongesønnen ud, satte diademet på ham og gav ham loven. Så udråbte de ham til konge, og Jojada og hans sønner salvede ham, og de råbte: »Kongen leve!« **12** Da Atalja hørte råbet fra folkemængden, der kom løbende og hyldede kongen, gik hun ind til folkemængden i Herrens tempel, **13** og der så hun kongen stå ved sin søjle ved indgangen, mens sang og trompetfanfarer bølgede om ham, og alle storbønderne jublede og blæste i trompeter, og sangerne med deres instrumenter førte an i lovsangen. Så flængede Atalja sine klæder og råbte: »Forræderi, forræderi!« **14** Men præsten Jojada gav befaling til hærens beskikkede hundredførere og sagde til dem: »Før hende ud mellem rækkerne! Den, der vil følge hende, skal dræbes med sværdet.« For præsten havde sagt: »I må ikke dræbe hende i Herrens tempel.« **15** Så greb de hende, og da hun ad Hesteporten var kommet til kongens palads, dræbte de hende der.
 
 **16** Jojada sluttede nu pagt mellem sig selv og hele folket og kongen om, at de skulle være Herrens folk. **17** Derpå gik hele folket til Ba’als tempel og rev det og dets altre ned og knuste dets billeder, og de dræbte Ba’als præst Mattan foran altrene. **18** Jojada lagde tilsynet med Herrens tempel i hænderne på præsterne og levitterne, som David havde inddelt i skifter til at gøre tjeneste i Herrens tempel, for at de skulle bringe brændofrene til Herren som foreskrevet i Moses’ lov, under festglæde og sang efter Davids anvisning. **19** Han opstillede portvagterne ved portene til Herrens tempel, så ingen, der på nogen måde var uren, skulle gå derind. **20** Så tog han hundredførerne, de fornemme, folkets ledere og alle storbønderne, og de førte kongen ned fra Herrens tempel og kom gennem Øvreporten til kongens palads, hvor de lod kongen sætte sig på kongetronen; **21** alle storbønderne glædede sig, og byen forholdt sig i ro. Men Atalja dræbte man med sværd.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen24"></a>
 
 ### 2 Krøn 24
 
@@ -3948,6 +4764,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **27** I Udlægningen til Kongernes Bog står der om hans sønner, om de mange profetudsagn mod ham og om den grundige istandsættelse af Guds hus. Hans søn Amasja blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen25"></a>
+
 ### 2 Krøn 25
 
 #### Amasja
@@ -3963,6 +4783,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **25** Judas konge Amasja, Joashs søn, levede femten år, efter at Israels konge Joash, Joakaz’ søn, var død. **26** Hvad der ellers er at fortælle om Amasja, står fra først til sidst i Judas og Israels Kongers Bog.
 
 **27** Da Amasja begyndte at vige fra Herren, blev der dannet en sammensværgelse mod ham i Jerusalem, og han flygtede til Lakish. Men der blev sendt folk efter ham til Lakish, og de dræbte ham dér. **28** Han blev bragt tilbage på hesteryg og blev begravet hos sine fædre i Davidsbyen.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen26"></a>
 
 ### 2 Krøn 26
 
@@ -3980,6 +4804,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **22** Hvad der ellers er at fortælle om Uzzija, nedskrev profeten Esajas, Amos’ søn, fra først til sidst. **23** Uzzija lagde sig til hvile hos sine fædre. Man begravede ham på marken ved siden af kongegravene, for man sagde: »Han var spedalsk.« Hans søn Jotam blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen27"></a>
+
 ### 2 Krøn 27
 
 #### Jotam
@@ -3989,6 +4817,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **3** Han byggede den øvre port i Herrens tempel, og han byggede meget på Ofels mur. **4** Han byggede byer i Judas bjergland, og i skovene byggede han borge og tårne. **5** Han førte krig mod ammonitternes konge og fik magten over dem. Ammonitterne måtte det år betale ham hundrede talenter sølv, ti tusind kor hvede og ti tusind kor byg. Så meget betalte ammonitterne ham også det andet og det tredje år. **6** Sådan fik Jotam styrket sin magt, fordi han stadig vandrede for Herren sin Guds ansigt.
 
 **7** Hvad der ellers er at fortælle om Jotam, alle hans krige og hans færd, står i Israels og Judas Kongers Bog. **8** Han var femogtyve år, da han blev konge, og han regerede seksten år i Jerusalem. **9** Jotam lagde sig til hvile hos sine fædre, og man begravede ham i Davidsbyen, og hans søn Akaz blev konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen28"></a>
 
 ### 2 Krøn 28
 
@@ -4003,6 +4835,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **22** Selv i en tid, hvor han var så trængt, blev kong Akaz ved med at være troløs mod Herren. **23** Han bragte slagtofre til Damaskus’ guder, som havde besejret ham, og han sagde: »Siden aramæerkongernes guder har hjulpet dem, vil jeg ofre til dem, så de kan hjælpe mig.« Men det bragte ham og hele Israel til fald. **24** Akaz samlede karrene i Guds hus og huggede guldet af dem. Så lukkede han dørene til Herrens tempel og lavede altre på hvert hjørne i Jerusalem. **25** I hver eneste by i Juda lavede han offerhøje og tændte offerild for andre guder. På den måde krænkede han Herren, sine fædres Gud.
 
 **26** Hvad der ellers er at fortælle om ham, al hans færd, står fra først til sidst i Judas og Israels Kongers Bog. **27** Akaz lagde sig til hvile hos sine fædre, og man begravede ham i Jerusalem, inde i byen, for man ville ikke føre ham til Israels kongegrave. Hans søn Hizkija blev konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen29"></a>
 
 ### 2 Krøn 29
 
@@ -4020,6 +4856,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **31** Hizkija tog til orde og sagde: »I er i dag kommet med gaver til Herren. Bring nu slagtofre og takofre hen til Herrens tempel!« Så kom forsamlingen med slagtofre og takofre, og de bragte alle frivilligt brændofre. **32** Antallet af de brændofferdyr, som forsamlingen kom med, var halvfjerds okser, hundrede væddere og to hundrede lam; alle disse dyr var til brændofre til Herren. **33** Helliggaverne var seks hundrede okser og tre tusind stykker småkvæg. **34** Men der var for få præster til, at de kunne flå alle brændofferdyrene; derfor måtte deres brødre levitterne hjælpe dem, indtil arbejdet var færdigt og præsterne havde helliget sig; for levitterne var mere villige til at hellige sig end præsterne. **35** Der var også mange brændofre, foruden måltidsofrenes fedtstykker og foruden drikofrene, der hørte til brændofrene. På den måde kom der orden på tjenesten i Herrens tempel. **36** Og Hizkija og hele folket glædede sig over det, som Gud havde beredt folket, for det hele var sket så hurtigt.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen30"></a>
+
 ### 2 Krøn 30
 
 #### Hizkija fejrer påskefesten
@@ -4034,6 +4874,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **21** Så fejrede de israelitter, der var til stede i Jerusalem, de usyrede brøds fest i syv dage i stor glæde, mens levitterne og præsterne hver dag lovpriste Herren af alle kræfter. **22** Hizkija talte venligt til alle de levitter, der havde udvist stor dygtighed i Herrens tjeneste. De fejrede festen til ende de syv dage med måltidsofre og bekendelser til Herren, deres fædres Gud. **23** Hele forsamlingen blev enige om at holde højtid endnu syv dage, og de fejrede de syv dage i glæde, **24** for Judas konge Hizkija ydede forsamlingen tusind tyre og syv tusind stykker småkvæg, og stormændene ydede forsamlingen tusind tyre og ti tusind stykker småkvæg. Talrige præster helligede sig, **25** og hele Judas forsamling, præsterne og levitterne og hele den forsamling, der var kommet fra Israel, og de fremmede, både de, der var kommet fra Israel, og de, der boede i Juda, glædede sig. **26** Der blev meget stor glæde i Jerusalem, for noget sådant var ikke sket i Jerusalem siden Israels konge Davids søn Salomos tid. **27** Præsterne og levitterne trådte frem og velsignede folket. Deres røst blev hørt, og deres bøn nåede til himlen, Guds hellige bolig.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen31"></a>
+
 ### 2 Krøn 31
 
 #### Hizkijas tempelreform
@@ -4047,6 +4891,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **17** Præsterne blev registreret fædrenehus for fædrenehus, mens levitterne fra tyve år og opefter blev registreret efter deres tjenestepligter i deres skifter. **18** I hver af grupperne blev de registreret med deres hustruer, sønner og døtre, store og små, for de skulle hellige sig samvittighedsfuldt. **19** Arons sønner, præsterne, som boede på græsmarkerne omkring deres byer, havde i hver eneste by nogle mænd, der var udpeget til at uddele det, der tilkom alle mænd blandt præsterne og alle de levitter, der var registreret.
 
 **20** Sådan bar Hizkija sig ad i hele Juda; han gjorde, hvad der var godt og ret og sandt for Herren hans Gud. **21** I alt, hvad han tog fat på, enten det angik tjenesten i Guds hus eller loven og budene, handlede han i den hensigt at søge Gud af hele sit hjerte; og han havde lykken med sig.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen32"></a>
 
 ### 2 Krøn 32
 
@@ -4066,6 +4914,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **32** Hvad der ellers er at fortælle om Hizkija og hans fromme gerninger, står i profeten Esajas’, Amos’ søns, syn i Judas og Israels Kongers Bog. **33** Hizkija lagde sig til hvile hos sine fædre, og man begravede ham ved vejen op til Davids efterkommeres grave, og alle judæere og Jerusalems indbyggere viste ham ære ved hans død. Hans søn Manasse blev konge efter ham.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen33"></a>
+
 ### 2 Krøn 33
 
 #### Manasse
@@ -4083,6 +4935,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 #### Amon
 
 **21** Amon var toogtyve år, da han blev konge, og han regerede to år i Jerusalem. **22** Han gjorde, hvad der var ondt i Herrens øjne, sådan som hans far Manasse havde gjort. Han bragte slagtofre til alle de gudebilleder, hans far Manasse havde lavet, og dyrkede dem. **23** Men han ydmygede sig ikke for Herren, sådan som hans far Manasse havde gjort, Amon øgede tværtimod skylden. **24** Hans folk dannede en sammensværgelse mod ham og dræbte ham i hans palads. **25** Men storbønderne dræbte alle dem, der havde sammensvoret sig mod kong Amon, og de gjorde hans søn Josija til konge efter ham.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen34"></a>
 
 ### 2 Krøn 34
 
@@ -4106,6 +4962,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **29** Da sendte kongen bud og samlede alle Judas og Jerusalems ældste. **30** Han gik op i Herrens tempel sammen med alle judæerne og Jerusalems indbyggere, præsterne og levitterne, ja hele folket, fra den største til den mindste, og han læste hele pagtsbogen, som var fundet i Herrens tempel, for dem. **31** Og kongen stillede sig på sin plads og sluttede pagten for Herrens ansigt: De skulle følge Herren og holde hans befalinger, formaninger og love af hele deres hjerte og af hele deres sjæl og således handle efter pagtens ord, som stod i denne bog. **32** Og han lod alle dem, der var til stede i Jerusalem og Benjamin, indgå pagten. Jerusalems indbyggere handlede efter Guds, deres fædres Guds, pagt. **33** Så fjernede Josija alle de afskyelige ting fra alle israelitternes egne og sørgede for, at enhver, der befandt sig i Israel, dyrkede Herren deres Gud. Så længe han levede, veg de ikke fra Herren, deres fædres Gud.
 
+[– tilbage –](#indhold)
+
+<a id="2kroen35"></a>
+
 ### 2 Krøn 35
 
 **1** Så holdt Josija påske for Herren i Jerusalem. Den fjortende dag i den første måned slagtede de påskelammet. **2** Han satte præsterne til deres opgaver og opmuntrede dem til tjenesten i Herrens tempel; **3** til levitterne, som underviste hele Israel, og som var hellige for Herren, sagde han: »Sæt den hellige ark i templet, som Israels konge Salomo, Davids søn, har bygget. I skal ikke mere bære den på skulderen. Tjen nu Herren jeres Gud og hans folk Israel! **4** Gør jer rede, fædrenehus for fædrenehus, skifte for skifte, sådan som Israels konge David og hans søn Salomo har foreskrevet, **5** og stil jer op i helligdommen efter de afdelinger i fædrenehuse, som jeres brødre, lægfolket, udgør, sådan at der er et levitisk fædrenehus for hver afdeling. **6** Så skal I slagte påskelammet, hellige jer og tilberede det til jeres brødre og gøre det sådan, som Herren har sagt ved Moses.«
@@ -4121,6 +4981,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **20** Efter alt dette, da Josija havde sat templet i stand, drog egypterkongen Neko op til kamp ved Karkemish ved Eufrat. Josija rykkede ud imod ham. **21** Neko sendte bud til ham og sagde: »Hvad er der os imellem, Judas konge? Det er ikke dig, jeg drager ud mod i dag, men det kongehus, jeg ligger i krig med. Gud har sagt, at jeg skal skynde mig. Lad være med at sætte dig op mod Gud, som er med mig, ellers vil han tilintetgøre dig!« **22** Men Josija trak sig ikke tilbage; han ville gøre sig fri ved at kæmpe imod ham. Han hørte ikke på Nekos ord, der kom fra Guds mund, men gik til kamp i Megiddos dal. **23** Da skød bueskytterne mod kong Josija, og kongen sagde til sine folk: »Få mig bort, for jeg er hårdt såret!« **24** Hans folk fik ham ned fra vognen og over i den anden vogn, han havde, og førte ham til Jerusalem, hvor han døde. Han blev begravet i sine fædres grave, og hele Juda og Jerusalem sørgede over Josija. **25** Jeremias sang dødsklage over Josija, og alle sangerne og sangerinderne sang om Josija i deres klagesange og gør det den dag i dag; det blev en fast skik i Israel. De står i Klagesangene.
 
 **26** Hvad der ellers er at fortælle om Josija og hans fromme gerninger i overensstemmelse med, hvad der står i Herrens lov, **27** hvad der er at fortælle om ham, står fra først til sidst i Israels og Judas Kongers Bog.
+
+[– tilbage –](#indhold)
+
+<a id="2kroen36"></a>
 
 ### 2 Krøn 36
 
@@ -4148,9 +5012,13 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 
 **22** Men i perserkongen Kyros’ første regeringsår vakte Herren perserkongen Kyros’ ånd, for at Herrens ord ved Jeremias kunne opfyldes. I hele sit kongerige lod han følgende bekendtgøre både mundtligt og skriftligt: **23** »Dette siger perserkongen Kyros: Herren, himlens Gud, har givet mig alle jordens kongeriger, og han har pålagt mig at bygge ham et hus i Jerusalem i Juda. Må Gud Herren være med enhver iblandt jer af hele hans folk! Enhver skal drage derop!«
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Ezras Bog
+
+<a id="ezra1"></a>
 
 ### Ezra 1
 
@@ -4163,6 +5031,10 @@ Der blev krig mellem Abija og Jeroboam. **3** Abija åbnede krigen med en hær p
 **7** Kong Kyros lod karrene fra Herrens tempel hente; dem havde Nebukadnesar taget med fra Jerusalem og anbragt i sin guds tempel. **8** Nu lod perserkongen Kyros dem hente og overdrog dem til skatmesteren Mitredat, som lavede en fortegnelse over dem til Sheshbassar, Judas fyrste.
 
 **9** Tallet på dem var: 30 guldskåle, 1000 sølvskåle, 29 offerknive, **10** 30 guldbægre, 410 forskellige slags sølvbægre og 1000 andre kar. **11** I alt var der 5400 kar af guld og sølv. Alt dette tog Sheshbassar med, da de landflygtige drog op fra Babylon til Jerusalem.
+
+[– tilbage –](#indhold)
+
+<a id="ezra2"></a>
 
 ### Ezra 2
 
@@ -4192,6 +5064,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 
 **70** Præsterne og levitterne og en del af folket bosatte sig i Jerusalem, mens sangerne, portvagterne og tempeltrællene bosatte sig i deres byer og alle øvrige israelitter i deres byer.
 
+[– tilbage –](#indhold)
+
+<a id="ezra3"></a>
+
 ### Ezra 3
 
 #### Offertjenesten genoptages
@@ -4203,6 +5079,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 **8** I den anden måned i det andet år, efter at de var kommet til Guds hus i Jerusalem, gik Zerubbabel, Shealtiels søn, og Jeshua, Josadaks søn, i gang sammen med de øvrige af deres brødre, præsterne og levitterne, og alle dem, der var kommet til Jerusalem fra fangenskabet; de indsatte levitterne fra tyve år og opefter til at lede arbejdet på Herrens tempel. **9** Og Jeshua, hans sønner og hans brødre, Kadmiel, Binnuj og Hodavja, trådte alle som én til for at lede dem, der skulle udføre arbejdet på Guds hus; det gjaldt også Henadads sønner sammen med deres sønner og brødre, levitterne.
 
 **10** Da bygmestrene lagde grunden til Herrens tempel, trådte præsterne frem i deres dragt med trompeter, og levitterne, Asaf-sønnerne, med cymbler for at lovprise Herren, efter Israels konge Davids anvisning. **11** De stemte i med lovprisning og tak til Herren: »Han er god, hans trofasthed mod Israel varer til evig tid!« Og hele folket brød ud i høje jubelråb og lovpriste Herren, fordi grunden var lagt til Herrens tempel. **12** Mange af de præster og levitter og overhoveder for fædrenehusene, der var gamle, og som havde set det første tempel, græd højt, da de så grunden til dette tempel blive lagt. Men der var også mange, der løftede røsten i jubel og glæde, **13** og folk kunne ikke skelne lyden af det glade jubelråb fra lyden af folkets gråd, for folket brød ud i et højt jubelråb, og lyden kunne høres langt bort.
+
+[– tilbage –](#indhold)
+
+<a id="ezra4"></a>
 
 ### Ezra 4
 
@@ -4218,6 +5098,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 
 **23** Så snart afskriften af kong Artaxerxes’ skrivelse var blevet læst op for Rekum, skriveren Shimshaj og deres embedsbrødre, tog de straks til Jerusalem og standsede judæerne med våbenmagt. **24** Derpå ophørte arbejdet på Guds hus i Jerusalem, og det lå stille indtil perserkongen Dareios’ andet regeringsår.
 
+[– tilbage –](#indhold)
+
+<a id="ezra5"></a>
+
 ### Ezra 5
 
 #### Genoptagelsen af byggeriet under perserkongen Dareios
@@ -4229,6 +5113,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 **6** Afskrift af det brev, som Tattenaj, statholderen over provinsen Hinsides Floden, Shetar-Bozenaj og hans embedsbrødre, embedsmændene i provinsen Hinsides Floden, sendte til kong Dareios. **7** De sendte redegørelsen til ham, og den lød sådan: »Til kong Dareios. Vær hilset! **8** Du skal vide, konge, at da vi kom til provinsen Juda, til den store Guds hus, var det ved at blive bygget med kvadersten, og der blev sat træ på væggene. Arbejdet bliver udført omhyggeligt og skrider frem under deres hænder. **9** Vi stillede så de ældste dette spørgsmål: Hvem har givet jer befaling til at genopbygge dette hus og gøre træværket færdigt? **10** Vi spurgte dem også om deres navne, så vi kunne skrive deres lederes navne op og meddele dem til dig. **11** De gav os denne besked: Vi er tjenere for himlens og jordens Gud, og vi genopbygger det tempel, som blev bygget for mange år siden. En stor konge i Israel byggede det og fuldendte det. **12** Men fordi vore fædre vakte himlens Guds vrede, gav han dem i babylonerkongen, kaldæeren Nebukadnesars magt. Han ødelagde dette tempel, og folket førte han i eksil til Babylon. **13** Men i Kyros’ første år som konge i Babylon udstedte kong Kyros en befaling om, at dette Guds hus skulle genopbygges. **14** Karrene af guld og sølv i Guds hus havde Nebukadnesar ført bort fra templet i Jerusalem og bragt dem til templet i Babylon. Nu lod kong Kyros dem hente fra templet i Babylon og gav dem til en, der hed Sheshbassar, som han havde gjort til statholder. **15** Han sagde til ham: Tag disse kar med, og anbring dem i templet i Jerusalem, for Guds hus skal nu bygges på sin gamle plads. **16** Så kom denne Sheshbassar og lagde fundamenterne til Guds hus i Jerusalem. Fra da af og indtil nu har man bygget på det; men det er ikke blevet færdigt.
 
 **17** Hvis det nu behager dig, konge, så lad det blive undersøgt i det kongelige skatkammer ovre i Babylon, om det forholder sig sådan, at der er udstedt en befaling af kong Kyros om, at dette Guds hus i Jerusalem skal genopbygges. Send os så besked, konge, om din vilje i denne sag.«
+
+[– tilbage –](#indhold)
+
+<a id="ezra6"></a>
 
 ### Ezra 6
 
@@ -4246,6 +5134,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 
 **19** De fra landflygtigheden fejrede påsken den fjortende dag i den første måned. **20** Præsterne og levitterne havde renset sig, alle som én; de var alle sammen rene. De slagtede påskelammene for alle fra landflygtigheden og for deres brødre præsterne og sig selv. **21** I måltidet deltog de israelitter, som var vendt tilbage fra landflygtigheden, og alle, der havde skilt sig ud fra landets urene folk og havde sluttet sig til dem for at dyrke Herren, Israels Gud. **22** I syv dage fejrede de de usyrede brøds fest i glæde, for Herren havde bragt dem glæde; han havde vendt assyrerkongens hjerte til dem, så han støttede dem i arbejdet på Guds, Israels Guds, hus.
 
+[– tilbage –](#indhold)
+
+<a id="ezra7"></a>
+
 ### Ezra 7
 
 #### Perserkongen Artaxerxes’ bemyndigelse af Ezra
@@ -4261,6 +5153,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 **25** Du, Ezra, skal ud fra den Guds visdom, du er i besiddelse af, indsætte dommere og retshåndhævere til at dømme hele folket i provinsen Hinsides Floden, alle dem, der kender din Guds love; og dem, som ikke kender dem, skal I belære. **26** Enhver, der ikke følger din Guds lov og kongens lov, over ham skal der samvittighedsfuldt fældes dom, enten henrettelse, forvisning, bøde eller fængsel.«
 
 **27** Lovet være Herren, vore fædres Gud, som gav kongen den tanke at smykke Herrens hus i Jerusalem, **28** og som skaffede mig velvilje hos kongen og hans rådgivere og hos alle kongens mægtige stormænd. Fordi Herren min Guds hånd var over mig, fattede jeg mod og samlede nogle af Israels overhoveder; de skulle drage op sammen med mig.
+
+[– tilbage –](#indhold)
+
+<a id="ezra8"></a>
 
 ### Ezra 8
 
@@ -4280,6 +5176,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 
 **36** Så overgav de kongens forordninger til kongens satrapper og statholdere i provinsen Hinsides Floden, og de gav både folket og Guds hus deres støtte.
 
+[– tilbage –](#indhold)
+
+<a id="ezra9"></a>
+
 ### Ezra 9
 
 #### Ezras bodsklage
@@ -4289,6 +5189,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 **3** Da jeg hørte det, flængede jeg mine klæder og min kappe, og jeg rev hår og skæg af og sad stiv af rædsel. **4** Alle de, der skælvede for Israels Guds ord mod troløsheden hos dem, der havde været i landflygtighed, samledes omkring mig; men jeg sad stiv af rædsel til aftenofferets tid. **5** Ved aftenofferets tid rejste jeg mig fra min bodsøvelse i mine flængede klæder og kappe; jeg faldt på knæ og bredte mine hænder ud mod Herren min Gud **6** og sagde: »Min Gud! Fuld af skam og skændsel løfter jeg mit ansigt mod dig, min Gud, for vore synder er vokset os over hovedet, og vor skyld når til himlen. **7** Lige siden vore fædres tid har vor skyld været stor, og på grund af vore synder er vi, vores konger og vores præster, blevet overgivet til andre landes konger, til sværd, fangenskab, udplyndring og skam, og sådan er det den dag i dag. **8** Men nu har vi et kort stykke tid haft den nåde fra Herren vor Gud, at han har ladet nogle få af os overleve og ladet os slå teltpløkken i på sit hellige sted, så vor Gud har givet vores øjne lys og givet os en smule livskraft i vores trældom. **9** Selv om vi er trælle, har vor Gud ikke svigtet os i vores trældom, men har skaffet os velvilje hos perserkongerne, så vi fik kræfter til at genopbygge vor Guds hus og genrejse dets ruiner, så vi fik et gærde i Juda og Jerusalem.
 
 **10** Vor Gud, hvad skal vi nu sige efter dette? For vi har svigtet de befalinger, **11** du gav gennem dine tjenere, profeterne, da du sagde: Det land, I skal ind og tage i besiddelse, er et urent land på grund af de fremmede folks urenhed med de afskyelige handlinger, som de i deres urenhed har fyldt det med fra ende til anden. **12** Derfor må I ikke give jeres døtre til deres sønner, og I må ikke lade jeres sønner gifte sig med deres døtre. I må aldrig nogen sinde tilstræbe deres velfærd og lykke, for at I kan være stærke og nyde landets goder og lade det gå i arv til jeres sønner til evig tid. **13** Og med alt det, der er kommet over os på grund af vore onde gerninger og vor store skyld, har du, vor Gud, skånet os mere, end vi har fortjent, og givet os disse overlevende her. **14** Skulle vi så på ny overtræde dine bud ved at bringe os i familie med disse afskyelige folk? Ville du da ikke blive så vred på os, at du ville tilintetgøre os, så der ikke blev nogen overlevende tilbage? **15** Herre, Israels Gud, du er retfærdig; vi er i dag tilbage som overlevende. Nu står vi foran dig i al vor skyld; ingen kan bestå for dit ansigt på grund af dette.«
+
+[– tilbage –](#indhold)
+
+<a id="ezra10"></a>
 
 ### Ezra 10
 
@@ -4306,9 +5210,13 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 
 **18** Blandt præsterne fandtes nogle, der havde giftet sig med fremmede kvinder. Af Josadaks søn Jeshuas efterkommere og hans brødre: Ma’aseja, Eliezer, Jarib og Gedalja. **19** De gav hånd på, at de ville sende deres hustruer bort, og deres skyldoffer var en vædder for deres skyld; **20** af Immers efterkommere: Hanani og Zebadja; **21** af Harims efterkommere: Ma’aseja, Elija, Shemaja, Jehiel og Uzija; **22** af Pashkurs efterkommere: Eljo’enaj, Ma’aseja, Ismael, Netan’el, Jozabad og El’asa. **23** Af levitterne: Jozabad, Shim’i, Kelaja, den samme som Kelita, Petakja, Juda og Eliezer. **24** Af sangerne: Eljashib. Af portvagterne: Shallum, Telem og Uri. **25** Af Israel: Af Par’oshs efterkommere: Ramja, Jizzija, Malkija, Mijjamin, Eleazar, Malkija og Benaja; **26** af Elams efterkommere: Mattanja, Zekarja, Jehiel, Abdi, Jeremot og Elija; **27** af Zattus efterkommere: Eljo’enaj, Eljashib, Mattanja, Jeremot, Zabad og Aziza; **28** af Bebajs efterkommere: Johanan, Hananja, Zabbaj, Atlaj; **29** af Banis efterkommere: Meshullam, Malluk, Adaja, Jashub, Sheal og Jeramot; **30** af Pahat-Moabs efterkommere: Adna, Kelal, Benaja, Ma’aseja, Mattanja, Besal’el, Binnuj og Manasse; **31** af Harims efterkommere: Eliezer, Jissija, Malkija, Shemaja, Simeon, **32** Benjamin, Malluk og Shemarja; **33** af Hashums efterkommere: Mattenaj, Mattatta, Zabad, Elifelet, Jeremaj, Manasse og Shim’i; **34** af Banis efterkommere: Ma’adaj, Amram, Uel, **35** Benaja, Bedja, Keluhu, **36** Vanja, Meremot, Eljashib, **37** Mattanja, Mattenaj og Ja’asaj; **38** af Binnujs efterkommere: Shim’i, **39** Shelemja, Natan, Adaja, **40** Maknadbaj, Shashaj, Sharaj, **41** Azar’el, Shelemja, Shemarja, **42** Shallum, Amarja og Josef; **43** af Nebos efterkommere: Je’iel, Mattitja, Zabad, Zebina, Jaddaj, Joel og Benaja. **44** Alle disse havde giftet sig med fremmede kvinder, men nu sendte de kvinderne og børnene bort.
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Nehemias’ Bog
+
+<a id="neh1"></a>
 
 ### Neh 1
 
@@ -4319,6 +5227,10 @@ Tallet på mændene i Israels folk: **3** Par’oshs efterkommere 2172; **4** Sh
 I det tyvende år, i måneden kislev, mens jeg var i borgen i Susa, **2** kom Hanani, en af mine brødre, sammen med nogle mænd fra Juda. Jeg spurgte dem ud om judæerne, de overlevende der var tilbage fra fangenskabet, og om Jerusalem, **3** og de svarede mig: »De, som dér i provinsen er tilbage fra fangenskabet, lever i stor nød og vanære. Jerusalems mur er brudt ned og dens porte gået op i flammer.«
 
 **4** Da jeg hørte disse ord, satte jeg mig ned og græd og sørgede i dagevis, mens jeg fastede og bad for himlens Guds ansigt. **5** Jeg sagde: »Ak, Herre, himlens Gud, du store og frygtindgydende Gud, der bevarer pagten og troskaben mod dem, der elsker dig og holder dine bud! **6** Lad dit øre lytte og dine øjne være åbne, så du hører din tjeners bøn, som jeg nu beder for dit ansigt dag og nat for dine tjenere israelitterne. Jeg bekender de synder, som vi israelitter har begået mod dig, og som også jeg og min fars hus har begået. **7** Vi har handlet ondt mod dig og har ikke holdt de befalinger, love og retsregler, du gav din tjener Moses. **8** Husk det, du indskærpede din tjener Moses: Handler I troløst, vil jeg sprede jer blandt folkene; **9** men vender I om til mig og følger mine befalinger omhyggeligt, vil jeg samle jeres fordrevne, om så de befinder sig ved verdens ende. Jeg vil bringe dem til det sted, jeg har udvalgt til bolig for mit navn. **10** Det er dine tjenere og dit folk, som du har udfriet med din store kraft og stærke hånd. **11** Ak, Herre, lad dit øre lytte til din tjeners bøn og til bønnen fra dine tjenere, som ønsker at frygte dit navn. Lad det lykkes for mig, din tjener, lad mig finde barmhjertighed hos denne mand!« Jeg var nemlig mundskænk hos kongen.
+
+[– tilbage –](#indhold)
+
+<a id="neh2"></a>
 
 ### Neh 2
 
@@ -4336,6 +5248,10 @@ I det tyvende år, i måneden kislev, mens jeg var i borgen i Susa, **2** kom Ha
 
 **19** Da horonitten Sanballat og den ammonitiske træl Tobija og araberen Geshem hørte det, spottede og hånede de os og sagde: »Hvad er det, I foretager jer? Vil I gøre oprør mod kongen?« **20** Men jeg svarede dem: »Himlens Gud vil lade det lykkes for os! Vi, hans tjenere, går i gang med at bygge, men I har hverken del eller ret i Jerusalem, og I får ikke eftermæle dér«
 
+[– tilbage –](#indhold)
+
+<a id="neh3"></a>
+
 ### Neh 3
 
 #### Genopbygningen af muren
@@ -4352,6 +5268,10 @@ I det tyvende år, i måneden kislev, mens jeg var i borgen i Susa, **2** kom Ha
 
 **38** Men vi byggede på muren, og hele muren blev bygget sammen i halv højde, og folket havde mod til at gå videre.
 
+[– tilbage –](#indhold)
+
+<a id="neh4"></a>
+
 ### Neh 4
 
 **1** Da Sanballat og Tobija og araberne, ammonitterne og ashdoditterne hørte, at udbedringen af Jerusalems mure skred frem, efterhånden som bruddene blev fyldt ud, blev de meget vrede. **2** De dannede alle en sammensværgelse for at angribe Jerusalem og skabe forvirring for mig. **3** Men vi bad til vor Gud og satte vagtposter imod dem til værn for byen dag og nat. **4** I Juda sagde man:
@@ -4367,6 +5287,10 @@ I det tyvende år, i måneden kislev, mens jeg var i borgen i Susa, **2** kom Ha
 
 **15** Mens halvdelen stod væbnet med lanserne, arbejdede vi, fra det blev lyst, til stjernerne kom frem. **16** Samtidig sagde jeg til folket: »Enhver skal blive i Jerusalem om natten sammen med sine folk; de skal holde vagt om natten og arbejde om dagen.« **17** Og hverken jeg eller mine brødre, mine folk eller vagterne i mit følge tog tøjet af; enhver havde sit spyd i højre hånd.
 
+[– tilbage –](#indhold)
+
+<a id="neh5"></a>
+
 ### Neh 5
 
 #### Sociale foranstaltninger
@@ -4378,6 +5302,10 @@ I det tyvende år, i måneden kislev, mens jeg var i borgen i Susa, **2** kom Ha
 **14** Endvidere har jeg og mine brødre, fra den dag jeg blev indsat til at være statholder i Judas land – fra kong Artaxerxes’ tyvende år til hans toogtredivte år, i alt tolv år – ikke nydt godt af underholdet til statholderen. **15** De tidligere statholdere, som var før mig, havde lagt tunge byrder på folket ved at opkræve fyrre sekel sølv til deres daglige forbrug af brød og vin; også deres mænd undertrykte folket. Men det gjorde jeg aldrig, fordi jeg frygtede Gud. **16** Jeg har endog taget del i arbejdet med muren, skønt jeg ikke havde købt jord, og alle mine folk var samlet der ved arbejdet. **17** De fornemme og fyrsterne, hundrede og halvtreds mand, og de, der besøgte os fra folkeslagene rundt omkring os, sad ved mit bord. **18** Det, som hver dag skulle tillaves, en okse, seks udsøgte får og fjerkræ, blev tillavet på min bekostning, og hver tiende dag blev der fremskaffet al slags vin i mængde. Alligevel krævede jeg ikke underholdet til statholderen, for arbejdet lå som en tung byrde på folket.
 
 **19** Min Gud, regn mig alt det til gode, som jeg har gjort for dette folk!
+
+[– tilbage –](#indhold)
+
+<a id="neh6"></a>
 
 ### Neh 6
 
@@ -4402,6 +5330,10 @@ I det tyvende år, i måneden kislev, mens jeg var i borgen i Susa, **2** kom Ha
 **15** Efter tooghalvtreds dages forløb stod muren færdig den femogtyvende dag i måneden elul. **16** Da alle vores fjender hørte om det, og alle folkeslagene omkring os så det, forekom det dem meget forunderligt, og de forstod, at det var vor Guds vilje, at dette arbejde var udført.
 
 **17** I de dage sendte Judas fornemme også mange breve til Tobija, og fra Tobija kom der svar til dem. **18** Mange i Juda var nemlig forbundet med ham ved ed, for han var svigersøn til Shekanja, Aras søn; og hans søn Johanan havde giftet sig med Berekjas søn Meshullams datter. **19** Man fortalte mig rygter om ham, og mine ord nåede ham. Tobija sendte mig også breve for at gøre mig bange.
+
+[– tilbage –](#indhold)
+
+<a id="neh7"></a>
 
 ### Neh 7
 
@@ -4437,6 +5369,10 @@ Tallet på mændene i Israels folk: **8** Par’oshs efterkommere 2172; **9** Sh
 
 **72** Præsterne og levitterne og en del af folket bosatte sig i Jerusalem, mens portvagterne, sangerne, tempeltrællene og alle øvrige israelitter bosatte sig i deres byer.
 
+[– tilbage –](#indhold)
+
+<a id="neh8"></a>
+
 ### Neh 8
 
 #### Ezra oplæser loven
@@ -4452,6 +5388,10 @@ Da den syvende måned kom, og israelitterne havde bosat sig i byerne, **1** saml
 **13** Den følgende dag samledes overhovederne for fædrenehusene i hele folket, præsterne og levitterne hos Ezra, den skriftlærde, for at skaffe sig indsigt i lovens ord. **14** I loven, som Herren havde pålagt ved Moses, fandt de skrevet, at israelitterne skulle bo i løvhytter under valfartsfesten i den syvende måned, **15** og at de skulle lade bud gå ud til alle deres byer og til Jerusalem og forkynde: »Gå ud i bjergene, og bring løv fra oliventræer, vilde oliventræer, myrter, palmer og løvrige træer, så vi kan bygge løvhytter som foreskrevet.«
 
 **16** Så gik folket ud og bragte grene hjem og lavede løvhytter på hver sit tag, i deres gårde og i forgårdene til Guds hus og på pladsen ved Vandporten og pladsen ved Efraimporten. **17** Hele forsamlingen af dem, der var vendt tilbage fra fangenskabet, lavede løvhytter og boede i dem. Det havde israelitterne ikke gjort fra Josvas, Nuns søns, dage indtil denne dag. Det blev en meget stor glædesfest. **18** Ezra læste op af Guds lovbog dag efter dag, fra den første dag til den sidste; de fejrede festen i syv dage, og på den ottende dag holdt de festforsamling i overensstemmelse med forordningen.
+
+[– tilbage –](#indhold)
+
+<a id="neh9"></a>
 
 ### Neh 9
 
@@ -4649,6 +5589,10 @@ Da den syvende måned kom, og israelitterne havde bosat sig i byerne, **1** saml
 > de hersker over vore kroppe og vort kvæg, som de har lyst.
 > Vi er i stor nød!
 
+[– tilbage –](#indhold)
+
+<a id="neh10"></a>
+
 ### Neh 10
 
 #### Forpligtelsen på overholdelse af loven
@@ -4660,6 +5604,10 @@ Den forseglede skrivelse var underskrevet af vores stormænd, levitter og præst
 **29** Resten af folket, præsterne, levitterne, portvagterne, sangerne, tempeltrællene og alle, der havde skilt sig ud fra de fremmede folk og holdt sig til Guds lov, tillige med deres hustruer, sønner og døtre, alle, der var i stand til at forstå, **30** sluttede sig til deres fornemme landsmænd og gik ind under forbandelseseden om at følge Guds lov, som blev givet ved Guds tjener Moses, og omhyggeligt at holde alle Herrens, vor Herres, befalinger, retsregler og love.
 
 **31** Vi vil ikke give vores døtre til landets folk, og vi vil ikke lade vores sønner gifte sig med deres døtre. **32** Og når landets folk på sabbatsdagen kommer med deres varer og al slags korn for at sælge det, vil vi ikke købe det på sabbatten eller på nogen helligdag. Vi vil give afkald på det syvende års afgrøder og i det år eftergive enhver gæld. **33** Vi vil forpligte os til at give en tredjedel sekel om året til tjenesten i vor Guds hus, **34** til skuebrødene, det daglige afgrødeoffer, det daglige brændoffer, ofrene på sabbatterne, nymånedagene og ved festerne, til helliggaverne og til syndofrene til soning for Israel, og til hele tjenesten i vor Guds hus. **35** Vi, præsterne, levitterne og folket, har kastet lod mellem fædrenehusene om levering af brændet, der skal bruges til vor Guds hus til fastsatte tidspunkter, år efter år, til at brænde på Herren vor Guds alter som foreskrevet i loven. **36** Vi vil år efter år bringe den første afgrøde af vores jord og førstegrøden af frugten på alle træer til Herrens tempel. **37** Vi vil også bringe de førstefødte af vores sønner og af vores kvæg, som foreskrevet i loven, de førstefødte både af vores hornkvæg og vores småkvæg, til vor Guds hus til de præster, der gør tjeneste i vor Guds hus. **38** Det bedste af vores dej og af vores afgifter og af frugten af alle træer, vin og olie vil vi bringe til præsterne i kamrene i vor Guds hus, og tienden af vores jord til levitterne; det er de levitter, der indsamler tienden i alle de byer, hvor vi har vores arbejde. **39** Og præsten, en af Arons sønner, skal være sammen med levitterne, når de indsamler tienden; og levitterne skal bringe tienden af tienden op til vor Guds hus, til rummene i skatkammeret. **40** For israelitterne og levitterne skal bringe afgiften af korn, vin og olie til kamrene. Og dér er helligdommens kar og de præster, der gør tjeneste, og portvagterne og sangerne. Vi vil ikke svigte vor Guds hus.
+
+[– tilbage –](#indhold)
+
+<a id="neh11"></a>
 
 ### Neh 11
 
@@ -4686,6 +5634,10 @@ Af judæerne: Ataja, søn af Uzzija, søn af Zekarja, søn af Amarja, søn af Sh
 **25** Angående landsbyerne med tilhørende marker: Nogle af judæerne boede i Kirjat-Arba med tilhørende småbyer, Dibon med tilhørende småbyer, Jekabse’el med tilhørende landsbyer, **26** Jeshua, Molada, Bet-Pelet, **27** Hasar-Shual, Be’ersheba med tilhørende småbyer, **28** Siklag, Mekona med tilhørende småbyer, **29** En-Rimmon, Sor’a, Jarmut, **30** Zanoa-Adullam med tilhørende landsbyer, Lakish med tilhørende marker og Azeka med tilhørende småbyer. De slog sig ned fra Be’ersheba til Hinnom-dalen.
 
 **31** Benjaminitterne var i Geba, Mikmas, Ajja, Betel med tilhørende småbyer, **32** Anatot, Nob, Ananja, **33** Hasor, Rama, Gittajim, **34** Hadid, Sebo’im, Neballat, **35** Lod, Ono og Ge-Harashim. **36** Og nogle judæiske skifter af levitterne kom til Benjamin.
+
+[– tilbage –](#indhold)
+
+<a id="neh12"></a>
 
 ### Neh 12
 
@@ -4715,6 +5667,10 @@ Af judæerne: Ataja, søn af Uzzija, søn af Zekarja, søn af Amarja, søn af Sh
 
 **44** Samme dag indsatte de mænd over kamrene til forrådene, afgifterne, førstegrøden og tienden, så man dér kunne samle de andele fra byernes marker, som præster og levitter efter loven skulle have, for Juda glædede sig over præsterne og levitterne, som forrettede tjeneste. **45** De varetog deres Guds vagttjeneste og tjenesten med renselsen. Det gjaldt også sangerne og portvagterne, sådan som David og hans søn Salomo havde befalet. **46** For på Davids tid var Asaf overhoved for sangerne og førte tilsyn med dem i lovsang og takkesang til Gud. **47** Og på Zerubbabels og Nehemias’ tid afgav hele Israel de daglige andele til sangerne og portvagterne. De bragte helliggaver til levitterne, og levitterne bragte helliggaver til Arons sønner.
 
+[– tilbage –](#indhold)
+
+<a id="neh13"></a>
+
 ### Neh 13
 
 #### Ordning af religiøse og sociale forhold
@@ -4741,9 +5697,13 @@ Husk mig også for dette, min Gud, og vis mig barmhjertighed i din store godhed!
 
 Min Gud, regn mig det til gode!
 
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Esters Bog
+
+<a id="est1"></a>
 
 ### Est 1
 
@@ -4754,6 +5714,10 @@ Min Gud, regn mig det til gode!
 **10** På den syvende dag, hvor kongen var kommet i stemning af vinen, befalede han Mehuman, Bizzeta, Harbona, Bigta, Abagta, Zetar og Karkas, de syv eunukker, der var kong Ahasverus’ personlige tjenere, **11** at føre dronning Vashti, iført sit kongelige diadem, frem for kongen, så han kunne vise hendes skønhed frem for folkene og stormændene, for hun var meget smuk. **12** Men dronning Vashti nægtede at følge kongens befaling, som eunukkerne overbragte hende. Da blev kongen meget vred; harmen vældede op i ham, **13** og han rådspurgte vismændene, der var kyndige i at tyde tiderne. Kongens anliggender blev nemlig forelagt dem, der var kyndige i lov og ret; **14** og hans nærmeste rådgivere var Karshena, Shetar, Admata, Tarshish, Meres, Marsena og Memukan, Persiens og Mediens syv stormænd, som havde direkte adgang til kongen og var kongerigets mest fremtrædende mænd. **15** Kongen spurgte dem: »Hvad skal der ifølge loven ske med dronning Vashti, når hun ikke har adlydt befalingen fra kong Ahasverus, som eunukkerne overbragte hende?« **16** Da sagde Memukan henvendt til kongen og stormændene: »Det er ikke kun mod kongen, dronning Vashti har forbrudt sig, men også mod alle stormændene og alle folkene overalt i kong Ahasverus’ provinser. **17** For rygtet om dronningen vil spredes blandt alle kvinderne og få dem til at ringeagte deres ægtemænd; man vil jo sige: Kong Ahasverus befalede, at dronning Vashti skulle føres frem for ham, men hun kom ikke! **18** Allerede i dag vil Persiens og Mediens fornemme damer, der har hørt rygtet om dronningen, omtale det for alle kongens stormænd, og så bliver der ringeagt og vrede! **19** Hvis det behager kongen, så lad der udgå en kongelig befaling, der skal indskrives i Persiens og Mediens love, så den ikke kan ophæves: Vashti må ikke længere træde frem for kong Ahasverus. Dronningeværdigheden skal kongen tildele en anden kvinde, der er bedre end hun. **20** Når den forordning, kongen har udstedt, bliver modtaget i hele hans rige – og det er stort – vil alle kvinder vise respekt for deres ægtemænd, fra den største til den mindste.«
 
 **21** Det forslag syntes kongen og stormændene godt om, og kongen gjorde, som Memukan havde sagt. **22** Han sendte breve ud til alle kongens provinser, til hver enkelt provins med dens egen skrift og til hvert enkelt folk på dets eget sprog, om at enhver mand skulle være herre i sit eget hus og tale sit eget folks sprog.
+
+[– tilbage –](#indhold)
+
+<a id="est2"></a>
 
 ### Est 2
 
@@ -4773,6 +5737,10 @@ Mordokaj sad i kongens port, **20** og som Mordokaj havde pålagt Ester, havde h
 
 **21** I de dage, mens Mordokaj sad i kongens port, blev Bigtan og Teresh, to af kongens eunukker, der hørte til dørvogterne, vrede på kong Ahasverus og søgte en lejlighed til at lægge hånd på ham. **22** Men Mordokaj fik nys om sagen; han fortalte det til dronning Ester, og Ester sagde det videre til kongen, idet hun nævnte Mordokaj. **23** Sagen blev undersøgt og opklaret, og de to blev hængt i en galge. Det blev i kongens nærvær skrevet ned i krøniken.
 
+[– tilbage –](#indhold)
+
+<a id="est3"></a>
+
 ### Est 3
 
 #### Hamans plan om at lade jøderne tilintetgøre
@@ -4782,6 +5750,10 @@ Mordokaj sad i kongens port, **20** og som Mordokaj havde pålagt Ester, havde h
 **8** Haman sagde da til kong Ahasverus: »Der findes et folk, der lever spredt og isoleret blandt folkene i alle provinserne i dit kongerige. Deres love er forskellige fra alle andre folks, og kongens love følger de ikke; det skulle kongen ikke tillade dem. **9** Hvis det behager kongen, så lad der blive givet skriftlig ordre til, at de skal tilintetgøres, så vil jeg gennem embedsmændene kunne skaffe 10.000 talenter sølv til kongens skatkammer.« **10** Da tog kongen sin signetring af og overdrog den til agagitten Haman, Hammedatas søn, jødernes fjende. **11** Og kongen sagde til Haman: »Pengene overlades til dig, og med folket kan du gøre, hvad du vil.«
 
 **12** I den første måned, på den trettende dag i måneden, blev kongens skrivere kaldt sammen, og der blev skrevet til kongens satrapper og til statholderne i hver enkelt provins og til stormændene i hvert enkelt folk, til hver enkelt provins med dens egen skrift og til hvert enkelt folk på dets eget sprog, ganske som Haman havde befalet. Det blev skrevet i kong Ahasverus’ navn og forseglet med kongens signetring. **13** Med ilbud blev der sendt breve ud til alle kongens provinser med besked om at udrydde, dræbe og tilintetgøre alle jøder, både unge og gamle, kvinder og børn, på én og samme dag, den trettende dag i den tolvte måned, måneden adar, og om at røve og plyndre. **14** En afskrift af denne skrivelse skulle udfærdiges som forordning i hver enkelt provins og offentliggøres for alle folkene, så de kunne være parat til den dag. **15** På kongens befaling skyndte ilbudene sig af sted, da forordningen var blevet udstedt i borgen i Susa. Kongen og Haman satte sig til at drikke; men byen Susa blev forfærdet.
+
+[– tilbage –](#indhold)
+
+<a id="est4"></a>
 
 ### Est 4
 
@@ -4793,6 +5765,10 @@ Mordokaj sad i kongens port, **20** og som Mordokaj havde pålagt Ester, havde h
 
 **12** De fortalte Mordokaj, hvad Ester havde sagt, **13** men Mordokaj sendte Ester dette svar: »Bild dig ikke ind, at du som den eneste af jøderne kan redde livet, fordi du er i kongens palads. **14** For hvis du virkelig tier i denne situation, vil der komme hjælp og redning til jøderne andetstedsfra; men du og dit fædrenehus vil gå til grunde. Og hvem ved, om det ikke var med henblik på en situation som denne, du opnåede kongelig værdighed?« **15** Ester sendte da Mordokaj dette svar: **16** »Gå hen og sammenkald alle jøder, der befinder sig i Susa, så I kan faste for min skyld; I må hverken spise eller drikke nat eller dag i tre døgn; på samme måde vil også jeg og mine piger faste. Derefter vil jeg gå til kongen, selv om det er mod loven. Skal jeg dø, så lad mig dø!« **17** Så gik Mordokaj hen og gjorde, ganske som Ester havde pålagt ham.
 
+[– tilbage –](#indhold)
+
+<a id="est5"></a>
+
 ### Est 5
 
 #### Haman ønsker Mordokaj henrettet
@@ -4802,6 +5778,10 @@ Mordokaj sad i kongens port, **20** og som Mordokaj havde pålagt Ester, havde h
 Kongen og Haman kom nu til gildet, som Ester havde beredt. **6** Mens de sad og drak vin, sagde kongen til Ester: »Hvad er din bøn? Den skal blive hørt! Hvad er dit ønske? Det skal blive opfyldt, om det så er halvdelen af kongeriget!«. **7** Ester svarede: »Min bøn og mit ønske? **8** Hvis jeg har fundet nåde for kongens øjne, og hvis det behager kongen at høre min bøn og opfylde mit ønske, skal kongen og Haman komme til det gilde, jeg bereder for dem. Så vil jeg i morgen gøre, som kongen har sagt.«
 
 **9** Den dag gik Haman glad og fornøjet derfra. Men da han så Mordokaj i kongens port, og Mordokaj ikke rejste sig for ham og ikke viste tegn på ærbødighed, blev han fyldt af vrede mod Mordokaj. **10** Men Haman beherskede sig og gik hjem, og dér sendte han bud efter sine venner og sin hustru Zeresh. **11** Og Haman fortalte dem om sin prægtige rigdom og sine mange sønner og om, hvordan kongen havde ophøjet ham på alle måder og forfremmet ham over stormændene og kongens hoffolk. **12** Og Haman sagde: »Til det gilde, som dronning Ester beredte, lod hun heller ikke andre end mig ledsage kongen; også i morgen er jeg indbudt til hende sammen med kongen. **13** Men alt det er mig ikke nok, så længe jeg må se denne jøde Mordokaj sidde i kongens port.« **14** Da sagde hans hustru Zeresh og alle hans venner til ham: »Få lavet en halvtreds alen høj galge, og sig så i morgen til kongen, at Mordokaj skal hænges i den! Så kan du gå glad til gilde med kongen.« Dette forslag syntes Haman godt om, og han fik galgen lavet.
+
+[– tilbage –](#indhold)
+
+<a id="est6"></a>
 
 ### Est 6
 
@@ -4813,6 +5793,10 @@ Kongen og Haman kom nu til gildet, som Ester havde beredt. **6** Mens de sad og 
 
 **14** Mens de sad og talte med ham, kom kongens eunukker og førte straks Haman til det gilde, Ester havde beredt.
 
+[– tilbage –](#indhold)
+
+<a id="est7"></a>
+
 ### Est 7
 
 #### Kongen og Haman til gilde hos Ester
@@ -4820,6 +5804,10 @@ Kongen og Haman kom nu til gildet, som Ester havde beredt. **6** Mens de sad og 
 **1** Kongen og Haman kom nu for at drikke hos dronning Ester. **2** Også på denne anden dag, mens de sad og drak vin, sagde kongen til Ester: »Hvad er din bøn, dronning Ester? Den skal blive hørt! Hvad er dit ønske? Det skal blive opfyldt, om det så er halvdelen af kongeriget!« **3** Dronning Ester svarede: »Hvis jeg har fundet nåde for dine øjne, konge, og hvis det behager kongen, så giv mig mit liv; det er min bøn! Og giv mig mit folk; det er mit ønske! **4** For jeg og mit folk er solgt til at blive udryddet, dræbt og tilintetgjort. Var det så blot som trælle og trælkvinder, vi var solgt, havde jeg tiet; for den ulykke havde ikke været noget at ulejlige kongen med!« **5** Da sagde kong Ahasverus til dronning Ester: »Hvem er han, og hvor er han, som er kommet på den tanke at gøre det?« **6** Ester svarede: »En fjende og modstander, den onde Haman dér!« Da blev Haman grebet af rædsel for kongen og dronningen. **7** Kongen rejste sig i vrede fra vingildet og gik ud i slotsparken, mens Haman blev stående for at bede for sit liv hos dronning Ester, for han indså, at kongen var besluttet på hans ulykke. **8** Da kongen kom tilbage fra slotsparken til huset, hvor vingildet blev holdt, lå Haman hen over divanen, hvor Ester lå. Da sagde kongen: »Vil han oven i købet forgribe sig på dronningen her i huset, hvor jeg er til stede?« Da kongen havde udtalt dette ord, tilhyllede man Hamans ansigt.
 
 **9** Så sagde Harbona, en af eunukkerne, henvendt til kongen: »Se, den galge, som Haman har lavet til Mordokaj, hvis ord blev til lykke for kongen, den står ved Hamans hus, halvtreds alen høj.« Da sagde kongen: »Hæng ham i den!« **10** Så hængte de Haman i den galge, han havde rejst til Mordokaj, og kongens vrede lagde sig.
+
+[– tilbage –](#indhold)
+
+<a id="est8"></a>
 
 ### Est 8
 
@@ -4832,6 +5820,10 @@ Kongen og Haman kom nu til gildet, som Ester havde beredt. **6** Mens de sad og 
 **9** Straks blev kongens skrivere kaldt sammen; det var den tredje måned, måneden sivan, på den treogtyvende dag i måneden. Ganske som Mordokaj befalede, blev der skrevet til jøderne og til satrapperne, statholderne og provinsernes stormænd, lige fra Indien til Nubien, i alt 127 provinser, til hver enkelt provins med dens egen skrift og til hvert enkelt folk på dets eget sprog, også til jøderne med deres skrift og på deres sprog. **10** Han skrev i kong Ahasverus’ navn og forseglede brevene med kongens signetring og sendte dem ud med beredne ilbud, kongelige postryttere, på væddeløbsheste. **11** Der stod: »Kongen har tilladt jøderne i hver enkelt by at samles og forsvare deres liv. Enhver bevæbnet skare fra et folk eller en provins, som angriber dem, må de udrydde, dræbe og tilintetgøre, også kvinder og børn. Og de må røve og plyndre **12** på én og samme dag i alle kong Ahasverus’ provinser, den trettende dag i den tolvte måned, måneden adar.« **13** En afskrift af denne skrivelse skulle udfærdiges som forordning i hver enkelt provins og offentliggøres for alle folkene, så jøderne kunne være parat til at tage hævn over deres fjender på denne dag. **14** På kongens befaling skyndte ilbudene, de kongelige postryttere, sig af sted, da forordningen var blevet udstedt i borgen i Susa.
 
 **15** Mordokaj forlod kongen iført en kongelig dragt af purpurblåt linned, en stor guldkrone og en kappe af purpurrødt byssus; og byen Susa jublede og glædede sig. **16** Blandt jøderne var der lys og glæde, fryd og pragt. **17** Og i hver enkelt provins og i hver enkelt by, hvor kongens ord og lov var nået frem, blev der glæde og fryd blandt jøderne, gilde og fest. Og mange af landets folk gik over til jødedommen, for de var grebet af rædsel for jøderne.
+
+[– tilbage –](#indhold)
+
+<a id="est9"></a>
 
 ### Est 9
 
@@ -4851,8 +5843,14 @@ Kongen og Haman kom nu til gildet, som Ester havde beredt. **6** Mens de sad og 
 
 **29** Dronning Ester, Abikajils datter, og jøden Mordokaj udfærdigede en officiel skrivelse for at stadfæste dette andet brev om purim. **30** Og til alle jøderne i de 127 provinser i Ahasverus’ kongerige sendte han breve med ønske om fred og tryghed **31** for at stadfæste disse purimsdage til den fastsatte tid, som jøden Mordokaj og dronning Ester havde forpligtet dem på, og som de havde forpligtet sig selv og deres efterkommere på, med forskrifter om faste og klage. **32** Esters befaling stadfæstede disse forskrifter om purim, og det blev skrevet ned i en bog.
 
+[– tilbage –](#indhold)
+
+<a id="est10"></a>
+
 ### Est 10
 
 #### Mordokajs anseelse
 
 **1** Kong Ahasverus pålagde landet og havets fjerne øer skat. **2** Og alle hans offentligt kendte bedrifter og heltegerninger såvel som den nøjagtige beretning om Mordokajs storhed, hvortil kongen havde ophøjet ham, står jo i Mediens og Persiens Kongers Krønike. **3** For jøden Mordokaj var nummer to efter kong Ahasverus; han var en stor mand blandt jøderne og elsket af alle sine landsmænd. Han tilstræbte lykke for sit folk og talte til gavn for hele efterslægten.
+
+[– tilbage –](#indhold)
