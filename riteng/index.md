@@ -141,3 +141,31 @@ world without end. Amen.
 *This prayer is said from the pulpit in connection with the sermon or it can be said from the altar after the hymn preceding the sermon.*
 *If there is no baptism or Holy Communion the prayer is concluded with the Lord’s Prayer.*
 *The prayer may be freely formulated or the pastor may read the following prayer or use it as a guideline.*
+
+God, bring comfort and strength to all who are ill and full of sorrow, be they near or far. With Your abiding grace help those burdened by doubts and give us your guidance in the time of trial.
+
+Bless and keep Your Holy Church and bless us who are in it. Bless and keep Your Holy Sacraments and let Your Word have free rein among us so that Your Kingdom may unfold and grow, in justice and peace and joy through the Holy Spirit, and let the light of Your grace shine forth upon those who sit in darkness and in the shadow of death.
+
+May Your hand protect our people and our country and all those in authority; bless and keep our king (*name*), queen (*name*) and our royal family (*names*). Grant them and us Your grace, peace and blessing and, after a Christian life, eternal bliss.
+
+*After the Prayer of the Church (or the sermon) annoucements are made. The Apostolic blessing concludes what is said from the pulpit and all stand for the blessing.*
+
+Let us with the Apostles with one another:
+The grace of our Lord Jesus Christ,
+and the love of God,
+and the fellowship of the Holy Spirit,
+be with us all evermore. Amen.
+
+### Hymn
+
+## Holy Communion
+
+### The Prayer of Holy Communion
+
+*Holy Communion begins with one of the following three introductions:*
+
+#### a
+
+
+
+
