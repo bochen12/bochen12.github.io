@@ -19,7 +19,6 @@ lang: da
 *Og med ét var der sammen med englen en himmelsk hærskare, som lovpriste Gud og sang: »Ære være Gud i det højeste og på jorden! Fred til mennesker med Guds velbehag!«
 — Luk 2,1-14*
 
-*Uro*
 
 Om lidt siger jeg et ord, og så snart jeg siger ordet, vil jeg bede jer hver især om at forestille jer et ansigt. Luk øjnene, hvis det hjælper, og se for dit indre øje et ansigt. Er I klar?
 
