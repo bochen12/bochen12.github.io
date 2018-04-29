@@ -71,7 +71,7 @@ Men barndommens gade er ikke uendelig lang. Og vi kan ikke blive her for evigt. 
 
 Om lidt kommer vi til næste stop. Og her deler vejen sig.
 
-(skilt: ligeud) (skilt: mange-retninger)
+<img src="http://www.bochen.dk/public/img/skilt-frem.svg" height="300"> &emsp; <img src="http://www.bochen.dk/public/img/skilt-mangeretninger.svg" height="300">
 
 Da jeg spurgte jer for nogle uger siden hvor I befandt jer på livets vej, valgte de fleste af jer et af disse to skilte til at beskrive det.
 
@@ -81,7 +81,7 @@ Men uanset hvem du er, så kommer du til at træffe valg i løbet af livet. Valg
 
 Før eller siden kommer du til at se dette skilt for dig:
 
-(skilt: blind-vej)
+<img src="http://www.bochen.dk/public/img/skilt-blindvej.svg" width="300">
 
 Du kommer til at føle at den vej, du er på, fører blindt.
 
@@ -93,7 +93,7 @@ I det gamle testamente står der: »Du har en fremtid, og dit håb skal ikke slu
 
 For dette skilt findes ikke i kristendommen. Det bliver altid erstattet med dette:
 
-(skilt: blind-vej-med-sti)
+<img src="http://www.bochen.dk/public/img/skilt-blindvejmedsti.svg" width="300">
 
 For Jesus døde på korset for at vi kan finde vej ud. Ud af følelsen af at være fanget. Ud af sorg og trængsel. Ud af angst og depression. Ud af den blinde vej.
 
@@ -108,7 +108,7 @@ Men håbet er der altid, og håbet bringer lys. Håbet bringer dig videre til ny
 
 Og nu kommer vi til tredje og sidste ophold på rejsen i dag:
 
-(skilt: sammenfletning)
+<img src="http://www.bochen.dk/public/img/skilt-sammenfletning.svg" width="300">
 
 For uanset hvilken vej du tager i livet, vil du også møde dette skilt. Du vil blive flettet sammen med andre.
 
