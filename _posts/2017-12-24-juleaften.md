@@ -6,20 +6,20 @@ title: Juleprædiken
 lang: da
 ---
 
-*Og det skete i de dage, at der udgik en befaling fra kejser Augustus om at holde folketælling i hele verden. Det var den første folketælling, mens Kvirinius var statholder i Syrien. Og alle drog hen for at lade sig indskrive, hver til sin by.
+*Og det skete i de dage, at der udgik en befaling fra kejser Augustus om at holde folketælling i hele verden. Det var den første folketælling, mens Kvirinius var statholder i Syrien. Og alle drog hen for at lade sig indskrive, hver til sin by.*
 
-Også Josef drog op fra byen Nazaret i Galilæa til Judæa, til Davids by, som hedder Betlehem, fordi han var af Davids hus og slægt, for at lade sig indskrive sammen med Maria, sin forlovede, som ventede et barn.
+*Også Josef drog op fra byen Nazaret i Galilæa til Judæa, til Davids by, som hedder Betlehem, fordi han var af Davids hus og slægt, for at lade sig indskrive sammen med Maria, sin forlovede, som ventede et barn.*
 
-Og mens de var dér, kom tiden, da hun skulle føde; og hun fødte sin søn, den førstefødte, og svøbte ham og lagde ham i en krybbe, for der var ikke plads til dem i herberget.
+*Og mens de var dér, kom tiden, da hun skulle føde; og hun fødte sin søn, den førstefødte, og svøbte ham og lagde ham i en krybbe, for der var ikke plads til dem i herberget.*
 
-I den samme egn var der hyrder, som lå ude på marken og holdt nattevagt over deres hjord. Da stod Herrens engel for dem, og Herrens herlighed strålede om dem, og de blev grebet af stor frygt.
+*I den samme egn var der hyrder, som lå ude på marken og holdt nattevagt over deres hjord. Da stod Herrens engel for dem, og Herrens herlighed strålede om dem, og de blev grebet af stor frygt.*
 
-Men englen sagde til dem: »Frygt ikke! Se, jeg forkynder jer en stor glæde, som skal være for hele folket: I dag er der født jer en frelser i Davids by; han er Kristus, Herren. Og dette er tegnet, I får: I skal finde et barn, som er svøbt og ligger i en krybbe.«
+*Men englen sagde til dem: »Frygt ikke! Se, jeg forkynder jer en stor glæde, som skal være for hele folket: I dag er der født jer en frelser i Davids by; han er Kristus, Herren. Og dette er tegnet, I får: I skal finde et barn, som er svøbt og ligger i en krybbe.«*
 
-Og med ét var der sammen med englen en himmelsk hærskare, som lovpriste Gud og sang: »Ære være Gud i det højeste og på jorden! Fred til mennesker med Guds velbehag!«
+*Og med ét var der sammen med englen en himmelsk hærskare, som lovpriste Gud og sang: »Ære være Gud i det højeste og på jorden! Fred til mennesker med Guds velbehag!«
 — Luk 2,1-14*
 
-## Uro
+### Uro
 
 Om lidt siger jeg et ord, og så snart jeg siger ordet, vil jeg bede jer hver især om at forestille jer et ansigt. Luk øjnene, hvis det hjælper, og se for dit indre øje et ansigt. Er I klar?
 
@@ -43,7 +43,7 @@ Jeg ser en kvinde i sit kontor sent om aftenen. Hun har lovet sin datter at komm
 
 Jeg ser en pige foran juletræet. Forældrene gik fra hinanden i sommers. Det er første gang hendes far ikke er der til jul. Traditionerne er de samme, men alting føles forkert. Uro.
 
-## Fred
+### Fred
 
 »Fred til mennesker« synger englekoret. Men et kor af ansigter svarer: humbug! For hvordan? Hvordan kan et barn bringe fred til en hel verden? Hvordan kan et barn født for over 2000 år siden bringe fred i dag? Bringe fred til et ansigt fyldt med uro. Et ansigt fyldt med fortvivlelse. Et ansigt fyldt med sorg.
 
@@ -53,7 +53,7 @@ Jeg ser en pige foran juletræet. Forældrene gik fra hinanden i sommers. Det er
 
 Lad mig tage jer med på en rejse denne juleaften på jagt efter fred. Freden som englene sang om for 2017 år siden. Det er en rejse der følger fodsporene af mange før os.
 
-## Sandhed
+### Sandhed
 
 Og lad os begynde, ikke med en engel, men med en digter, nemlig Grundtvig. Han skriver således i en af sine salmer:
 
@@ -74,7 +74,7 @@ Jeg ville dø, hvis nogen kendte til mine hemmeligheder, har en af mine konfirma
 
 Og det giver ro. Det giver fred.
 
-## Fornyelse
+### Fornyelse
 
 Andet stop på vores rejse er en endnu mærkeligere by end den første. Denne by hedder Glemstrup. For her sker der det, at alle indbyggerne glemmer alt der er sket i løbet af dagen, når de falder i søvn om natten.
 
@@ -93,7 +93,7 @@ Og dermed kan de leve i frihed fra bekymring. Frihed fra tanken om det de nu gø
 
 Og det giver ro. Det giver fred.
 
-## Kærlighed
+### Kærlighed
 
 Tredje og sidste stop på vores rejse efter fred er byen med de 1000km reb. Reby hedder byen, og i Reby er hele byen og alle dens indbyggere forbundet med et stort rebsystem.
 
@@ -110,7 +110,7 @@ For uanset hvor absurd det synes at være bundet til alle andre, så giver det t
 
 Og det giver ro. Det giver fred.
 
-## Landet
+### Landet
 
 Dørløse, Glemstrup og Reby. Tre byer i et land der opstod julenat. Tre byer som vi besøger ofte her i kirken. For disse tre byer danner grundlaget for vores forhold til Gud. I bekendelsen, i ordet, åbner vi døren til vores indre, erkender vores skyld og skam, og ser sandheden i os selv og andre. I dåben, i syndsforladelsen får vi renselse, tilgivelse til at gå en ny dag i møde. I nadveren, i måltidsfællesskabet, forbindes vi til hinanden i ét legeme og én ånd.
 

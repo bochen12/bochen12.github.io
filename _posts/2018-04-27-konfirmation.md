@@ -2,21 +2,21 @@
 layout: page
 category: theology
 custom_css: em-red
-title: Konfirmation 2018 
+title: Konfirmation 
 lang: da
 ---
 
-*Jesus sagde: »Bed, så skal der gives jer; søg, så skal I finde; bank på, så skal der lukkes op for jer. For enhver, som beder, får; og den, som søger, finder; og den, som banker på, lukkes der op for.
+*Jesus sagde: »Bed, så skal der gives jer; søg, så skal I finde; bank på, så skal der lukkes op for jer. For enhver, som beder, får; og den, som søger, finder; og den, som banker på, lukkes der op for.*
 
-Eller hvem af jer vil give sin søn en sten, når han beder om et brød, eller give ham en slange, når han beder om en fisk? Når da I, som er onde, kan give jeres børn gode gaver, hvor meget snarere vil så ikke jeres fader, som er i himlene, give gode gaver til dem, der beder ham!
+*Eller hvem af jer vil give sin søn en sten, når han beder om et brød, eller give ham en slange, når han beder om en fisk? Når da I, som er onde, kan give jeres børn gode gaver, hvor meget snarere vil så ikke jeres fader, som er i himlene, give gode gaver til dem, der beder ham!*
 
-Derfor: Alt, hvad I vil, at mennesker skal gøre mod jer, det skal I også gøre mod dem. Sådan er loven og profeterne.
+*Derfor: Alt, hvad I vil, at mennesker skal gøre mod jer, det skal I også gøre mod dem. Sådan er loven og profeterne.*
 
-Gå ind ad den snævre port; for vid er den port, og bred er den vej, der fører til fortabelsen, og der er mange, der går ind ad den. Hvor snæver er ikke den port, og hvor trang er ikke den vej, der fører til livet, og der er få, som finder den!«
+*Gå ind ad den snævre port; for vid er den port, og bred er den vej, der fører til fortabelsen, og der er mange, der går ind ad den. Hvor snæver er ikke den port, og hvor trang er ikke den vej, der fører til livet, og der er få, som finder den!«
 — Matt 7,7–14*
 
 
-## Ånd ud
+### Ånd ud
 
 Kære konfirmander
 
@@ -29,14 +29,14 @@ I er det første konfirmandårgang i danmarkshistorien, der skulle forholde jer 
 Og jeg tror at I er det første konfirmandhold der faktisk har ringet ind til moderniseringsstyrelsen for at udtrykke jeres bekymring og vrede.
 
 
-## Et magisk sted
+### Et magisk sted
 
 Men i dag skal vi for et øjeblik glemme alt det. Glemme penge og politik. Glemme verden omkring os. For vi er på et magisk sted. Et sted hvor der er højt til loftet, og plads til at drømme og at fantasere. Plads til at gå på opdagelse i os selv og hinanden.
 
 Og i dag skal vi på en rejse sammen. Vi skal finde vejen til livet. Den snævre vej, som Jesus fortalte disciplene om. Vejen til tro, håb og kærlighed. Og vi vil gøre os nogle stop undervejs.
 
 
-## Barndommens gade -- tro
+### Barndommens gade -- tro
 
 Første stop er her:
 
@@ -69,7 +69,7 @@ Vi skal ikke blive lammet af bekymring. Vi skal ikke blive bange for at leve. Ik
 Men barndommens gade er ikke uendelig lang. Og vi kan ikke blive her for evigt. Men vi må videre. I må videre. Men I skal tage barndommen med jer, både de gode øjeblikke og de dårlige. Men mest af alt barnetroen, optimismen, glæden, friheden.
 
 
-## Blind udvej -- håb
+### Blind udvej -- håb
 
 Om lidt kommer vi til næste stop. Og her deler vejen sig.
 
@@ -106,7 +106,7 @@ Og vejen ud begynder med håbet. Håbet om at det er muligt at fortsætte. Måsk
 Men håbet er der altid, og håbet bringer lys. Håbet bringer dig videre til nye veje, nye oplevelser, nyt liv. Og håbets lys slukkes aldrig her i kirken.
 
 
-## Flet ind -- kærlighed
+### Flet ind -- kærlighed
 
 Og nu kommer vi til tredje og sidste ophold på rejsen i dag:
 
@@ -131,7 +131,7 @@ Kærlighed betyder, at selv hvis andre ikke tager hensyn, skal du gøre det.
 »Alt, hvad I vil, at mennesker skal gøre mod jer, det skal I også gøre mod dem.« sagde Jesus. Det er nemmere sagt end gjort. Men netop det er kærlighed.
 
 
-## Find vej
+### Find vej
 
 Og her slutter vi vores rejse i dag. Når I om lidt går ud af kirken, så husk de tre steder vi besøgte. Husk Guds løfte om at passe på os, så vi kan leve frit som om vi var børn livet igennem. Husk at ingen veje ender blindt, men at der altid er en sti videre. Husk at tage vare på hinanden, at elske hinanden, og flet sammen med hinanden.
 
