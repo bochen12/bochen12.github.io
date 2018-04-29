@@ -16,8 +16,6 @@ lang: da
 — Matt 7,7–14*
 
 
-*Ånd ud*
-
 Kære konfirmander
 
 Tag en dyb vejrtrækning. Ånd ind. Og ånd ud. En gang til.
@@ -40,8 +38,7 @@ Og i dag skal vi på en rejse sammen. Vi skal finde vejen til livet. Den snævre
 
 Første stop er her:
 
-![skilt: pas-på-mig]
-(http://www.bochen.dk/public/img/skilt-paspaamig.svg)
+<img src="http://www.bochen.dk/public/img/skilt-paspaamig.svg" width="300">
 
 Og før jeg fortæller om det her sted, får I et øjeblik til at danne jer et billede for jer selv; til at tænke over hvordan vejen ser ud; om der er solskin eller regn; om der er blomsterduft eller vintersne; om der er huse eller lejligheder; vand eller skov.
 
