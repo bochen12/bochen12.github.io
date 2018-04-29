@@ -16,7 +16,7 @@ lang: da
 — Matt 7,7–14*
 
 
-### Ånd ud
+*Ånd ud*
 
 Kære konfirmander
 
@@ -29,18 +29,19 @@ I er det første konfirmandårgang i danmarkshistorien, der skulle forholde jer 
 Og jeg tror at I er det første konfirmandhold der faktisk har ringet ind til moderniseringsstyrelsen for at udtrykke jeres bekymring og vrede.
 
 
-### Et magisk sted
+*Et magisk sted*
 
 Men i dag skal vi for et øjeblik glemme alt det. Glemme penge og politik. Glemme verden omkring os. For vi er på et magisk sted. Et sted hvor der er højt til loftet, og plads til at drømme og at fantasere. Plads til at gå på opdagelse i os selv og hinanden.
 
 Og i dag skal vi på en rejse sammen. Vi skal finde vejen til livet. Den snævre vej, som Jesus fortalte disciplene om. Vejen til tro, håb og kærlighed. Og vi vil gøre os nogle stop undervejs.
 
 
-### Barndommens gade -- tro
+*Barndommens gade — tro*
 
 Første stop er her:
 
-(skilt: pas-på-mig)
+![skilt: pas-på-mig]
+(http://www.bochen.dk/public/img/skilt-paspaamig.svg)
 
 Og før jeg fortæller om det her sted, får I et øjeblik til at danne jer et billede for jer selv; til at tænke over hvordan vejen ser ud; om der er solskin eller regn; om der er blomsterduft eller vintersne; om der er huse eller lejligheder; vand eller skov.
 
@@ -69,7 +70,7 @@ Vi skal ikke blive lammet af bekymring. Vi skal ikke blive bange for at leve. Ik
 Men barndommens gade er ikke uendelig lang. Og vi kan ikke blive her for evigt. Men vi må videre. I må videre. Men I skal tage barndommen med jer, både de gode øjeblikke og de dårlige. Men mest af alt barnetroen, optimismen, glæden, friheden.
 
 
-### Blind udvej -- håb
+*Blind udvej — håb*
 
 Om lidt kommer vi til næste stop. Og her deler vejen sig.
 
@@ -106,7 +107,7 @@ Og vejen ud begynder med håbet. Håbet om at det er muligt at fortsætte. Måsk
 Men håbet er der altid, og håbet bringer lys. Håbet bringer dig videre til nye veje, nye oplevelser, nyt liv. Og håbets lys slukkes aldrig her i kirken.
 
 
-### Flet ind -- kærlighed
+*Flet ind — kærlighed*
 
 Og nu kommer vi til tredje og sidste ophold på rejsen i dag:
 
@@ -131,7 +132,7 @@ Kærlighed betyder, at selv hvis andre ikke tager hensyn, skal du gøre det.
 »Alt, hvad I vil, at mennesker skal gøre mod jer, det skal I også gøre mod dem.« sagde Jesus. Det er nemmere sagt end gjort. Men netop det er kærlighed.
 
 
-### Find vej
+*Find vej*
 
 Og her slutter vi vores rejse i dag. Når I om lidt går ud af kirken, så husk de tre steder vi besøgte. Husk Guds løfte om at passe på os, så vi kan leve frit som om vi var børn livet igennem. Husk at ingen veje ender blindt, men at der altid er en sti videre. Husk at tage vare på hinanden, at elske hinanden, og flet sammen med hinanden.
 
