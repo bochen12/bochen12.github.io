@@ -71,7 +71,9 @@ Men barndommens gade er ikke uendelig lang. Og vi kan ikke blive her for evigt. 
 
 Om lidt kommer vi til næste stop. Og her deler vejen sig.
 
-<img src="http://www.bochen.dk/public/img/skilt-frem.svg" height="300"> &emsp; <img src="http://www.bochen.dk/public/img/skilt-mangeretninger.svg" height="300">
+<img src="http://www.bochen.dk/public/img/skilt-frem.svg" width="300">
+
+<img src="http://www.bochen.dk/public/img/skilt-mangeretninger.svg" width="300">
 
 Da jeg spurgte jer for nogle uger siden hvor I befandt jer på livets vej, valgte de fleste af jer et af disse to skilte til at beskrive det.
 
