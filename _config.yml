@@ -7,7 +7,6 @@ kramdown:
 
 # Setup
 title:            www.bochen.dk
-tagline:          just another website
 url:              http://www.bochen.dk
 baseurl:          /
 author:
