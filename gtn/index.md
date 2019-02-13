@@ -34,13 +34,13 @@ Højs: [1](#hoejs1) [2](#hoejs2) [3](#hoejs3) [4](#hoejs4) [5](#hoejs5) [6](#hoe
 
 #### Du fik mig til at danse
 
-<sup>1<\sup> Af David.
+Af David.
 
-**2** Jeg synger til dig, Gud, fordi du reddede mig,
+Jeg synger til dig, Gud, fordi du reddede mig,
 du lod ikke mine fjender triumfere.
-**3** Herre, jeg råbte om hjælp,
+Herre, jeg råbte om hjælp,
 og du gjorde mig rask.
-**4** Du bar mig ud af dødsriget, Herre,
+Du bar mig ud af dødsriget, Herre,
 jeg var på vej i graven, men du lod mig leve.
 
 Syng for Gud, I der tror på ham,
