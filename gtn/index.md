@@ -43,6 +43,34 @@ og du gjorde mig rask.
 **4** Du bar mig ud af dødsriget, Herre,
 jeg var på vej i graven, men du lod mig leve.
 
+Syng for Gud, I der tror på ham,
+hyld ham for hans herlighed!
+For hans vrede varer kun et øjeblik,
+hans godhed hele livet.
+Om natten kan man græde,
+om morgenen er der glæde!
+
+Dengang jeg var sikker, sagde jeg:
+»Jeg vakler aldrig!
+Du er jo overbærende, Herre,
+du gør mig urokkelig som et bjerg.«
+Men så tog du dit ansigts lys fra mig,
+og jeg blev forskrækket.
+Herre, jeg råbte til dig,
+jeg bad min Herre om overbærenhed:
+Hvad glæde har du af
+at jeg går i graven?
+
+Kan et lig måske takke dig,
+kan et lig fortælle om dig, måske?
+Hør mig, Gud, hold din hånd under mig,
+hjælp mig, Herre!
+
+Du fik mig til at danse i stedet for at sørge.
+Du tog mit sørgetøj af og klædte mig i glæde.
+Derfor vil jeg synge for dig, synge og synge og synge igen,
+for evigt vil jeg takke dig, Gud.
+
 [– tilbage –](#indhold)
 
 ------------------------------------------------------------------------
