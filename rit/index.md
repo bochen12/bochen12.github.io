@@ -794,7 +794,7 @@ hvori du gør os til dine børn og skænker os Helligånden
 med syndernes forladelse og det evige liv.
 Vi beder dig:
 Tag i nåde mod dette barn (disse børn),
-Som vi bærer frem for dit åsyn.
+som vi bærer frem for dit åsyn.
 Indlem det (dem) i din menighed,
 og bevar det (dem) i dit samfund både her og hisset!
 Amen.
