@@ -817,7 +817,7 @@ Således taler vor Herre Jesus Kristus:
 Mig er givet al magt i himlen og på jorden. Gå derfor hen og gør alle folkelagene til mine disciple, idet I døber dem i Faderens og Sønnens og Helligåndens navn, og idet I lærer dem at holde alt det, som jeg har befalet jer. Og se, jeg er med jer alle dage indtil verdens ende.
 
 *Evangelisten Markus skriver:*
-Og de bar nogle små børn til Jesus, for at han skulle røre ved dem; disciplene truede ad dem, men da Jesus så det, blev han vred og sagde til dem: »Lad de små børn komme til mig, det må I ikke hindre dem i, for Guds rige er deres. Sandelig siger jeg jer: Den, der ikke modtager Guds rige ligesom et lille barn, kommer slet ikke ind i det.« Han tog dem i favn og lagde hænderne på dem og velsignede dem.
+Og de bar nogle små børn til Jesus, for at han skulle røre ved dem; disciplene truede ad dem, men da Jesus så det, blev han vred og sagde til dem: »Lad de små børn komme til mig, det må I ikke hindre dem i, for Guds rige er deres. Sandelig siger jeg jer: Den, der ikke modtager Guds rige ligesom et lille barn, kommer slet ikke ind i det.« Og han tog dem i favn og lagde hænderne på dem og velsignede dem.
 
 Så vil vi nu hjælpe dette barn (disse børn)
 til hans velsignelse
