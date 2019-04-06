@@ -38,6 +38,37 @@ Jud: [1](#jud1)
 
 ------------------------------------------------------------------------
 
+
+## Lukasevangeliet
+
+<a id="luk12"></a>
+
+### Luk 12
+
+#### Alle hemmeligheder bliver afsløret
+
+**1–3**
+
+**4–7**
+
+**8–12**
+
+**13–21**
+
+**22–31** Så sagde Jesus til disciplene: »Husk, at I ikke skal bekymre jer om, hvad I skal spise, eller hvordan I får tøj på kroppen. Livet er mere end mad, og kroppen er mere end tøj. I kan lære noget af ravnene. De sår ikke og høster ikke, og de har hverken spisekammer eller kornlagre, men Gud sørger alligevel for, at de får noget at spise. Og I er meget mere værd end fuglene. I kan jo ikke forlænge jeres liv så meget som en dag med jeres bekymringer. Når I ikke kan gøre det mindste, hvorfor så overhovedet bekymre sig? Se på liljerne, der gror på marken. De hverken arbejder eller spinder, men ikke engang kong Salomon var lige så overdådigt klædt på, som de er. Gud sørger for, at græsset på marken er grønt og flot, selvom det vokser frem den ene dag og bliver kastet i ovnen den næste. Tror I så ikke også, han vil sørge for jer? Tror I overhovedet på ham? Lad være med at spekulere over, hvad I skal spise og drikke. I skal ikke bekymre jer. Det er kun dem, der ikke tror på Gud, der er nødt til at spekulere over den slags. Men I har en far, der ved, at I har brug for det. Koncentrer jer i stedet for om hans kongerige, så vil han sørge for alt det andet.
+
+#### Når I mindst venter det
+
+**32–40**
+
+**41–48**
+
+**49–53**
+
+**54–59**
+
+------------------------------------------------------------------------
+
 ## Første Korintherbrev
 
 <a id="1kor13"></a>
@@ -56,3 +87,24 @@ Jud: [1](#jud1)
 
 [– tilbage –](#indhold)
 
+------------------------------------------------------------------------
+
+## Første Johannesbrev
+
+<a id="1joh4"></a>
+
+### 1 Joh 4
+
+#### Ægte kærlighed jager frygten væk
+
+**1–6** Kære venner, tro ikke på alle dem, der siger, de taler på Helligåndens vegne. I skal undersøge dem for at se, om de kommer fra Gud, for der er allerede mange af den slags falske profeter på vej ud i verden. I kan vide, at profeterne er sendt af Gud, hvis de siger, at Jesus var Messias, der kom til os som et menneske i kød og blod. Enhver, der ikke siger det, kommer ikke fra Gud, men er Antikrist selv. I har hørt, at han vil komme, men han er her allerede nu. I hører til hos Gud, kære børn, og I har sejret over dem, der hører til i verden, for ham, der er i jer, er større end ham, der er i verden. De, der hører til i verden, taler, som man gør i verden, og verden lytter til dem. Vi hører til hos Gud, og de, der kender ham, lytter til os, mens de, der ikke hører til hos Gud, ikke lytter til os. På den måde kan vi skelne Helligånden fra de ånder, der får folk på afveje.
+
+**7–10** Kære venner, lad os elske hinanden, for kærligheden kommer fra Gud. Enhver, der elsker, har Gud til far og ved, hvem han er. Enhver, der ikke elsker, kender ikke Gud, for Gud er kærlighed. Guds kærlighed blev synlig, da han sendte sin eneste søn ind i verden, for at vi kunne få nyt liv gennem ham. Kærligheden består ikke i, at vi har elsket Gud, men i, at han har elsket os. Han sendte sin søn og lod ham dø, for at vi kan få tilgivelse for det, vi har gjort forkert.
+
+**11–12** Kære venner, når Gud elskede os så højt, så har vi også pligt til at elske hinanden. Der er aldrig nogen, der har set Gud, men hvis vi elsker hinanden, så er Gud i os, og hans kærlighed har nået sit mål.
+
+**13–16** Vi ved, at han er i os, og vi er i ham, fordi han har givet os Helligånden. Gud har sendt sin søn til verden for at frelse den. Det har vi selv set, og derfor kan vi bekræfte det. Hvis vi står frem og siger, at Jesus er Guds søn, er Gud i os og vi i ham. Vi forstår Guds kærlighed og tror på, at han elsker os.
+
+**17–21** Gud er kærlighed, og den, der lever i kærligheden, er i Gud, ligesom Gud er i ham. Kærligheden har nået sit mål, når vi roligt kan stå foran Gud på dommens dag, fordi vi har levet her i verden på samme måde, som Kristus gjorde. Der findes ikke frygt i kærligheden, tværtimod. Ægte kærlighed jager frygten væk. Frygt hænger sammen med straf, og hos dem, der lever i frygt, har kærligheden ikke nået sit mål. Vi elsker hinanden, fordi han elskede os først. Men hvis man siger, at man elsker Gud og alligevel hader de andre i menigheden, så lyver man. Den, der ikke elsker de andre, som han jo kan se, kan heller ikke elske Gud, som han aldrig har set. Det er Jesus, der siger, at den, der elsker Gud, også skal elske sine brødre.
+
+[– tilbage –](#indhold)
