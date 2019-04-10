@@ -337,6 +337,61 @@ Dit navn er det herligste i verden, Herre.
 
 ### Sl 9
 
+#### Lad ikke menneskene blive for stærke
+
+Af David.
+
+Jeg vil takke dig af hele mit hjerte, Gud,
+og fortælle om de mirakler du har gjort.
+Jeg vil glæde mig, stråle af glæde over dig.
+Jeg vil hæve dit navn til skyerne, du, Den Højeste.
+
+Når mine fjender viger tilbage,
+skal de snuble og gå til grunde men du ser på.
+For du gav mig ret i min sag.
+Du satte dig på tronen, retfærdige dommer.
+Du truede folk og udryddede de ugudelige.
+Deres navn har du visket ud for evig tid.
+Fjenderne er udslettet, ødelagt for altid;
+deres byer har du revet ned.
+Ingen husker dem mere.
+Men Gud har taget plads for evigt
+på sin trone hvor han fælder dom.
+Han dømmer verden retfærdigt.
+Han dømmer folk retfærdigt.
+
+Gud, beskyt den undertrykte,
+vær en klippe i urolige tider.
+De som kender dig, stoler på dig,
+du svigter ikke dem der kommer til dig, Gud.
+
+Syng for Gud som bor på Zions bjerg,
+fortæl folk om det han gør,
+for han der hævner mord, husker alt,
+han glemmer ikke de svages råb.
+
+Hold din hånd under mig, Gud,
+se hvor sølle og forhadt jeg er.
+Du løfter mig op fra dødens porte
+for at jeg skal synge om dig,
+i Jerusalems porte skal jeg synge om dig,
+lykkelig for at du redder mig.
+
+Fjenderne faldt selv i den grav de gravede,
+deres fod sidder fast i den fælde de satte op i det skjulte.
+De ugudelige er taget på fersk gerning.
+Gud har givet sig til kende, han har afsagt sin dom.
+
+De ugudelige skal tilbage til dødsriget,
+det skal de folk der glemmer Gud.
+Men de fattige bliver ikke glemt,
+de svages håb bliver ikke slukket.
+
+Rejs dig, Gud, lad ikke menneskene blive for stærke.
+Du skal dømme dem, Gud!
+Plant frygt i dem, Gud,
+så de erkender de kun er mennesker.
+
 
 [– tilbage –](#indhold)
 
@@ -344,6 +399,61 @@ Dit navn er det herligste i verden, Herre.
 
 ### Sl 10
 
+#### Tiderne er hårde
+
+Hvorfor er du så langt væk, Gud?
+Hvorfor skjuler du dig når tiderne er hårde?
+
+Svage bliver forfulgt af ugudelige.
+De sætter fælder op og fanger de svage.
+De praler med deres intriger.
+De grådige formander og håner Gud.
+Den ugudelige tænker i sit praleri:
+»Han kræver mig ikke til regnskab.
+Gud findes jo ikke!«
+Sådan tænker han.
+Tingene lykkes altid for ham.
+Han blæser på hvad du mener, Gud.
+Han blæser på sine fjender.
+Han siger ved sig selv:
+»Jeg kommer ikke ud af kurs,
+det går aldrig galt for mig.«
+
+Hans mund er proppet med forbandelser, løgn og tyranni.
+Hans mund udspyr ulykker og vold.
+Han ligger på lur i baggårdene,
+han dræber uskyldige i det skjulte.
+Hans øjne lurer på de svage.
+Han ligger på lur som løven i sit skjul.
+Han ligger på lur for at fange de svage.
+Han fanger de svage og binder dem.
+
+Han dukker sig og sidder på spring.
+Hans styrke fælder de svage.
+Han siger til sig selv: »Gud er glemsom.
+Gud kigger væk. Han ser ingenting.«
+
+Rejs dig, Gud, løft din hånd.
+Glem ikke de svage!
+Hvorfor skal de ugudelige håne dig, Gud,
+og sige til sig selv:
+»Han kræver mig ikke til regnskab.«
+
+Du ser det jo!
+Du ser ulykker og vold og tager dig af det.
+De svage stoler på dig.
+Du hjælper de forældreløse.
+
+Bræk armen på gudløse og onde,
+kræv dem til regnskab for deres ugudelighed,
+så den holder op.
+
+Gud, du som for altid er konge,
+smid de fremmede ud af dit land.
+Gud, hør hvad de svage ønsker.
+Du giver dem livsmod og hører opmærksomt på dem.
+Du skaffer forældreløse og undertrykte deres ret.
+Ingen skal længere sprede skræk omkring sig.
 
 [– tilbage –](#indhold)
 
@@ -351,6 +461,29 @@ Dit navn er det herligste i verden, Herre.
 
 ### Sl 11
 
+#### Øjnene
+
+Af David.
+
+Jeg søger tilflugt hos Gud.
+Hvordan kan man sige til mig:
+»Flygt op i bjergene som en fugl.«
+De onde spænder jo buen,
+lægger deres pil til rette på strengen
+og skyder de gode i ly af mørket.
+Når grundvolden vakler,
+hvad gør så den gode?
+
+Gud er i sit hellige tempel.
+Guds trone er i himlen.
+Hans øjne ser,
+hans blik ser ind i menneskene.
+Gud ser ind i sindet på både den gode og den onde,
+voldselskeren hader han.
+Han lader det regne med glødende kul og svovl over de onde,
+og en glødende varm vind bliver deres død.
+For Gud er god, han elsker godhed.
+De gode skal se hans ansigt.
 
 [– tilbage –](#indhold)
 
