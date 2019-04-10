@@ -28,6 +28,460 @@ Højs: [1](#hoejs1) [2](#hoejs2) [3](#hoejs3) [4](#hoejs4) [5](#hoejs5) [6](#hoe
 
 ## Salmernes Bog
 
+<a id="sl1"></a>
+
+### Sl 1
+
+#### Som et træ
+
+Hvor er det godt for den
+som ikke hører på de onde,
+ikke følger dem der glemmer Gud
+ikke omgås med Gudshånere,
+men glæder sig over Guds love
+og tænker på dem nat og dag.
+
+Man er som et træ, plantet ved bækken;
+det giver frugt som det skal,
+og bladene visner ikke.
+Alt hvad man gør, lykkes for en.
+
+Sådan går det ikke de ugudelige;
+de er som tomme skaller
+der hvirvles med af vinden.
+Derfor står de ikke fast
+når dommen falder.
+Gudsforglemmerne kan ikke være i selskab med godhed.
+Gud kender de godes vej,
+men for dem der ikke tror på Gud, ender vejen blindt.
+
+
+[– tilbage –](#indhold)
+
+<a id="sl2"></a>
+
+### Sl 2
+
+#### Tænk jer om
+
+Hvorfor er der uro i verden?
+Hvorfor lægger folk uduelige planer?
+Verdens konger rotter sig sammen,
+kongerne danner et komplot
+mod Gud og hans konge.
+De siger: »Lad os sprænge vores lænker
+og krænge rebene af.«
+
+Da ler Gud som bor i himlen.
+Han håner dem.
+Så taler han til dem med dundren,
+hans vrede gør dem bange:
+»Det er mig der har indsat min konge,
+på Zion, mit hellige bjerg!«
+
+Hvad Gud har besluttet, vil jeg nu fortælle.
+Han sagde til mig: »Du er min søn.
+I dag har jeg født dig.
+Hvis du beder mig om det, vil jeg give dig
+alle verdens lande.
+Du skal knuse dem med en jernstang,
+som man knuser en skål af ler.«
+Konger, tænk jer om!
+Tag imod mit råd, konger!
+Tilbed Gud,
+kys hans fødder
+så I ikke knuses af hans vrede,
+for den flammer voldsomt op.
+
+Vær rolig, du der søger ly hos ham.
+
+[– tilbage –](#indhold)
+
+<a id="sl3"></a>
+
+### Sl 3
+
+#### Jeg har så mange fjender
+
+Af David. Om dengang han flygtede fra sin søn, Absalom.
+
+Hvor har jeg mange fjender, Gud!
+De gør oprør mod mig.
+De siger om mig:
+»Ham redder Gud ikke!«
+
+Men du er mit skjold, Gud,
+min styrke og den der holder mit hoved oppe.
+
+Jeg råber til Gud,
+og han svarer mig fra sit bjerg.
+
+Så lagde jeg mig og sov,
+jeg vågnede, for Gud hjælper mig.
+Jeg er ikke bange for 10.000 krigere
+der omringer mig.
+
+Rejs dig og red mig, Gud!
+Stik mine fjender en lussing,
+knus tænderne på dem der ikke tror på dig!
+
+Min Gud er redningen.
+Giv livskraft til os du elsker.
+
+[– tilbage –](#indhold)
+
+<a id="sl4"></a>
+
+### Sl 4
+
+#### Tillid
+
+Af David.
+
+Svar mig når jeg råber på dig,
+retfærdige Gud.
+Red mig fra denne modgang,
+hold din hånd under mig og hør min bøn!
+
+Mennesker, hvor længe vil I prøve at krænke min ære?
+I elsker tomhed og løgn.
+Men vid at Gud har vist mig
+sin vidunderlige troskab.
+Gud hører når jeg råber på ham.
+
+Bliv gerne vrede, men overdriv det ikke!
+Tænk over tingene når I har ro. Vær stille!
+I skal ofre det rigtige og stole på Gud!
+
+Mange siger: Hvem viser os det gode?
+Løft dit ansigts lys over os, Gud!
+
+Du har givet mit hjerte mere glæde
+end bjerge af korn og vin.
+Jeg vil lægge mig i fred og sove,
+for du, Gud, lader mig bo i tryghed.
+
+[– tilbage –](#indhold)
+
+<a id="sl5"></a>
+
+### Sl 5
+
+#### Om morgenen kalder jeg på dig
+
+Af David.
+
+Hør, hvad jeg siger, Gud!
+Hør, jeg græder.
+Hør mit råb om hjælp, min konge og min Gud!
+For jeg beder til dig.
+Om morgenen hører du min stemme, Gud;
+om morgenen kalder jeg på dig
+og venter spændt på dit svar.
+
+Du kan ikke lide uretfærdighed, Gud,
+ondskaben får ikke en fod indenfor hos dig.
+De selvkloge kan ikke træde frem for dine øjne.
+Du hader forbrydere.
+Du lader løgnerne gå til grunde.
+Gud afskyr mordere og bedragere.
+
+Men fordi din trofasthed er stor,
+kan jeg gå ind i dit hus.
+Jeg kaster mig ned i dit tempel for dig.
+
+Gud, vis mig den vej
+hvor jeg kan undgå mine fjender.
+Vis mig den vej, jeg skal gå.
+For de er fulde af løgn.
+Deres indre er råddenskab.
+Deres halse er åben grav.
+Deres tunge er en smisketunge.
+
+Lad dem bøde for det, Gud,
+så de rammes af deres egne intriger.
+Udvis dem for de bryder loven,
+de har sat sig op mod dig.
+
+De der søger tilflugt hos dig, skal glæde sig.
+De skal glæde sig, deres glæde holder aldrig op.
+Du beskytter dem.
+Og de der elsker dig, skal glæde sig over dig.
+Du giver det gode menneske din livskraft, Gud,
+du beskytter ham med din godhed som skjold.
+
+[– tilbage –](#indhold)
+
+<a id="sl6"></a>
+
+### Sl 6
+
+#### Hold din hånd under mig
+
+Af David.
+
+Gud, straf mig ikke når du er vred,
+slå mig ikke når du er oprørt.
+Hold din hånd under mig, for jeg er svag,
+gør mig rask, min krop er syg.
+Jeg er så fuld af angst.
+Hvor længe endnu?
+Du er trofast, kom tilbage,
+grib mig, red mig!
+Ingen kalder da på dig når de er døde,
+hvem takker dig i dødsriget, måske?
+
+Jeg har sukket mig træt,
+hver nat græder jeg,
+min seng svømmer i tårer.
+Mit blik er tåget af sorg,
+det er slukket, jeg har så mange fjender!
+
+Gå jeres vej, I der gør mig ondt.
+Gud har hørt mig græde.
+Gud har hørt mig bede,
+Gud lytter til min bøn.
+Han fylder mine fjender med angst og skam.
+I ét nu skal de flygte, nedgjorte, foragtede.
+
+[– tilbage –](#indhold)
+
+<a id="sl7"></a>
+
+### Sl 7
+
+#### Hvis jeg har været ond
+
+Af David. Om dengang han hørte at hans søn Absalom var død.
+
+Herre, hos dig søger jeg tilflugt,
+red mig fra mine fjender, red mig
+så de ikke flænser mig i stykker som løver
+og slæber mig med som kød.
+
+Herre, hvis jeg har gjort det her,
+hvis jeg har været uretfærdig,
+hvis jeg har været ond mod min ven
+eller røvet fra min fjende
+uden at der var grund til det,
+så lad dem forfølge og indhente mig,
+lad dem trampe mig ned i den sprukne jord.
+
+Gud, bliv vred og rejs dig,
+rejs dig, for mine fjender er rasende,
+vågn op, Gud. Sig at det skal gå ordentligt til.
+Alle jordens folk omgiver dig.
+Gør dig til dommer over dem, i det høje.
+Gud holder dom over alle.
+Døm også mig, Gud,
+på min retførdighed og min ærlighed.
+Straf de ondes ondskab,
+og støt den retfærdige.
+Du som kender os helt ind til hjerte og nyre,
+retfærdige Gud.
+
+Gud er mit skjold,
+han beskytter rene hjerter.
+Gud er en retfærdig dommer,
+Gud, som dagligt bliver vred.
+
+Når den ugudelige så hvæsser sit sværd igen
+og spænder sin bue og sigter,
+retter han de dødelige våben mod sig selv,
+han gør sine pile til brandpile.
+Han parrer sig med synd
+og bliver gravid med ulykker
+og føder løgn.
+En faldgrube har han lavet,
+men han falder selv i den grav han har gravet.
+Hans ulykker rammer ham selv,
+hans slag rammer hans eget hoved.
+
+Jeg takker Gud for hans retfærdighed;
+jeg hæver hans navn til skyerne.
+
+[– tilbage –](#indhold)
+
+<a id="sl8"></a>
+
+### Sl 8
+
+#### Hvad er et menneske?
+
+Af David.
+
+Dit navn er det herligste i verden, Herre!
+Du som har bredt din herlighed ud over himlen!
+Af børns og nyfødtes glædessang
+har du bygget en fæstning
+mod dine fjender,
+mod dem der vil hævne sig.
+Når jeg ser din himmel, dine fingres værk,
+månen og stjernerne som du har sat der,
+hvad ser du så i et menneske siden du husker på det,
+hvad er et menneskebarn siden du tager dig af det?
+Du gør det kun lidt ringere end engle.
+Med gudskraft og herlighed kroner du det.
+Du lader det herske over dine hænders værk.
+Alt har du lagt under dets fødder.
+Får og okser i massevis,
+selv de vilde dyr,
+himlens fugle og havets fisk,
+dem som færdes ad havenes stier.
+
+Dit navn er det herligste i verden, Herre.
+
+[– tilbage –](#indhold)
+
+<a id="sl9"></a>
+
+### Sl 9
+
+
+[– tilbage –](#indhold)
+
+<a id="sl10"></a>
+
+### Sl 10
+
+
+[– tilbage –](#indhold)
+
+<a id="sl11"></a>
+
+### Sl 11
+
+
+[– tilbage –](#indhold)
+
+<a id="sl12"></a>
+
+### Sl 12
+
+
+[– tilbage –](#indhold)
+
+<a id="sl13"></a>
+
+### Sl 13
+
+
+[– tilbage –](#indhold)
+
+<a id="sl14"></a>
+
+### Sl 14
+
+
+[– tilbage –](#indhold)
+
+<a id="sl15"></a>
+
+### Sl 15
+
+
+[– tilbage –](#indhold)
+
+<a id="sl16"></a>
+
+### Sl 16
+
+
+[– tilbage –](#indhold)
+
+<a id="sl17"></a>
+
+### Sl 17
+
+
+[– tilbage –](#indhold)
+
+<a id="sl18"></a>
+
+### Sl 18
+
+
+[– tilbage –](#indhold)
+
+<a id="sl19"></a>
+
+### Sl 19
+
+
+[– tilbage –](#indhold)
+
+<a id="sl20"></a>
+
+### Sl 20
+
+
+[– tilbage –](#indhold)
+
+<a id="sl21"></a>
+
+### Sl 21
+
+
+[– tilbage –](#indhold)
+
+<a id="sl22"></a>
+
+### Sl 22
+
+
+[– tilbage –](#indhold)
+
+<a id="sl23"></a>
+
+### Sl 23
+
+
+[– tilbage –](#indhold)
+
+<a id="sl24"></a>
+
+### Sl 24
+
+
+[– tilbage –](#indhold)
+
+<a id="sl25"></a>
+
+### Sl 25
+
+
+[– tilbage –](#indhold)
+
+<a id="sl26"></a>
+
+### Sl 26
+
+
+[– tilbage –](#indhold)
+
+<a id="sl27"></a>
+
+### Sl 27
+
+
+[– tilbage –](#indhold)
+
+<a id="sl28"></a>
+
+### Sl 28
+
+
+[– tilbage –](#indhold)
+
+<a id="sl29"></a>
+
+### Sl 29
+
+
+[– tilbage –](#indhold)
+
+
+
 <a id="sl30"></a>
 
 ### Sl 30
