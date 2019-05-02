@@ -98,6 +98,24 @@ Så sagde Jesus til disciplene: »Husk, at I ikke skal bekymre jer om, hvad I sk
 
 ## Første Korintherbrev
 
+<a id="1kor12"></a>
+
+### 1 Kor 12
+
+#### Forskellige åndelige gaver (1–13)
+
+Kære brødre, I har spurgt, hvordan det er med de evner, vi får fra Helligånden, og det vil jeg gerne forklare jer. I ved selv, hvordan I lod jer forføre af de stumme afguder, før I blev kristne. Derfor vil jeg gerne gøre det klart for jer, at ingen, der taler under indflydelse af Helligånden, kan sige ›Forbandet være Jesus‹. På samme måde kan man kun sige ›Jesus er min herre‹, hvis man har fået Helligånden.
+
+Der er kun én ånd, selvom der er forskellige åndelige evner, og der er kun én herre i menigheden, selvom der er forskellige arbejdsopgaver. Gud udfolder sig overalt og i alle; han er den samme, selvom det sker på mange forskellige måder.
+
+Vi skal udnytte de åndelige evner, vi hver især har fået, så de kommer andre mennesker til gode. Ved hjælp af Helligånden kan nogle give gode råd, mens andre har fået en særlig viden. Nogle får en stærk tro, og andre får kræfter til at helbrede. Nogle får styrke til at udføre mirakler, andre kan profetere, og andre igen kan skelne mellem falsk og sand profeti. Nogle kan tale i tunger, mens andre kan oversætte tungetalen. Og hver gang er det den samme, der står bag, nemlig Helligånden. Den bestemmer, hvilken evne hver enkelt skal have.
+
+Kroppen er en helhed, der er sammensat af mange dele, og alle de mange dele udgår én krop. Sådan er det også med Kristus. Vi er alle sammen døbt med én ånd, så vi udgør én krop, og derfor er det ligegyldigt, om vi er jøder eller ikke-jøder, frie eller slaver. Vi har nemlig alle sammen drukket af den samme ånd.
+
+#### Alle dele af kroppen er lige vigtige (14–31)
+
+[– tilbage –](#indhold)
+
 <a id="1kor13"></a>
 
 ### 1 Kor 13
