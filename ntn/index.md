@@ -81,6 +81,7 @@ Maria blev boende hos Elisabeth i tre måneder, før hun vendte hjem.
 
 #### Han skal hedde Johannes (57–80)
 
+[– tilbage –](#indhold)
 
 <a id="luk12"></a>
 
@@ -99,6 +100,33 @@ Husk, at den, der vil kendes ved mig over for mennesker, vil jeg, Menneskesønne
 Så sagde Jesus til disciplene: »Husk, at I ikke skal bekymre jer om, hvad I skal spise, eller hvordan I får tøj på kroppen. Livet er mere end mad, og kroppen er mere end tøj. I kan lære noget af ravnene. De sår ikke og høster ikke, og de har hverken spisekammer eller kornlagre, men Gud sørger alligevel for, at de får noget at spise. Og I er meget mere værd end fuglene. I kan jo ikke forlænge jeres liv så meget som en dag med jeres bekymringer. Når I ikke kan gøre det mindste, hvorfor så overhovedet bekymre sig? Se på liljerne, der gror på marken. De hverken arbejder eller spinder, men ikke engang kong Salomon var lige så overdådigt klædt på, som de er. Gud sørger for, at græsset på marken er grønt og flot, selvom det vokser frem den ene dag og bliver kastet i ovnen den næste. Tror I så ikke også, han vil sørge for jer? Tror I overhovedet på ham? Lad være med at spekulere over, hvad I skal spise og drikke. I skal ikke bekymre jer. Det er kun dem, der ikke tror på Gud, der er nødt til at spekulere over den slags. Men I har en far, der ved, at I har brug for det. Koncentrer jer i stedet for om hans kongerige, så vil han sørge for alt det andet.
 
 #### Når I mindst venter det (32–59)
+
+
+[– tilbage –](#indhold)
+
+------------------------------------------------------------------------
+
+## Johannesevangeliet
+
+
+<a id="joh4"></a>
+
+### Joh 4
+
+#### Giv mig noget at drikke (1–26)
+
+Farisæerne havde hørt, at Jesus fik flere tilhængere og døbte flere end Johannes. Da Jesus blev klar over det, forlod han Judæa. Det var ellers ikke ham selv, men hans disciple, der døbte folk. Han vendte tilbage til Galilæa og var nødt til at tage vejen gennem Samaria, hvor han kom forbi byen Sykar. Det var i nærheden af det landområde som Jakob engang havde givet til sin søn Josef, og her lå Jakobs brønd. Det var midt på dagen, og Jesus var træt efter den lange rejse, så han satte sig ned ved brønden.
+
+Der kom en samaritansk kvinde ud for at hente vand, og Jesus bad hende om noget at drikke. Hans disciple var gået ind til byen for at købe mad. Kvinden sagde: »Du er jøde, og jeg er en samaritansk kvinde. Hvordan kan du finde på at bede mig om noget at drikke?« Jøderne undgik samaritanerne for enhver pris. Jesus svarede: »Hvis du vidste, hvad Gud giver, og hvem det er, der siger: ›Giv mig noget at drikke‹, så ville det være omvendt. Du ville bede mig om noget at drikke, og jeg ville give dig kildevand.« »Herre,« sagde kvinden, »du har ingen spand, og brønden er dyb. Hvor vil du få vandet fra? Tror du da, at du er større end vores stamfar Jakob? Det var ham, der gav os brønden, og både han, hans sønner og hans kvæg har drukket vand fra den.« »Alle, der drikker af vand fra brønden, bliver tørstige igen,« svarede Jesus. »Men den, der drikker af det vand, jeg giver ham, vil aldrig mere blive tørstig. Det vand, jeg giver ham, vil nemlig springe som en kilde i ham, så han får evigt liv.« »Herre, giv mig noget af det vand,« sagde kvinden, »så jeg ikke bliver tørstig mere og ikke er nødt til at gå herud efter vand.«
+
+Jesus sagde: »Gå hjem og hent din mand og tag ham med herud.« »Jeg har ikke nogen mand,« svarede kvinden, og Jesus sagde: »Det er rigtigt, at du ikke har en mand. Du har haft hele fem mænd, og ham, du har nu, er ikke din mand, så det har du ret i.«
+
+»Herre,« sagde hun, »du må være profet. Vores forfædre bad til Gud her på bjerget, men I jøder siger, at man skal tilbede Gud i Jerusalem.« »Tro mig,« sagde Jesus til kvinden, »den tid kommer, hvor man hverken skal tilbede Gud her eller i Jerusalem. I ved ikke, hvad det er, I tilbeder, men det gør vi jøder, for frelsen begynder hos os. Den tid kommer, ja, den er allerede begyndt, hvor Gud skal tilbedes i ånd og sandhed. Det betyder, at den åndelige tilbedelse er den rigtige måde at dyrke Gud på. Det er den slags tilbedere, vores far gerne vil have. Gud er ånd, og derfor skal de, der tilbeder ham, gøre det i åndog sandhed.« Kvinden sagde til ham: »Jeg ved, at Messias skal komme, og når han gør det, vil han fortælle os alt,« — hun talte om Kristus. Jesus svarede hende: »Det er mig; ham du står og taler med.«
+
+#### Din søn lever (27–54)
+
+
+[– tilbage –](#indhold)
 
 ------------------------------------------------------------------------
 
