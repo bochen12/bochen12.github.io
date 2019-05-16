@@ -646,4 +646,69 @@ for evigt vil jeg takke dig, Gud.
 
 [– tilbage –](#indhold)
 
+
+<a id="sl139"></a>
+
+### Sl 139
+
+#### Natten er som den lyse dag for dig
+
+Af David.
+
+Herre, du ser ind i mig, ser alt af mig.
+Du ved hvornår jeg sætter mig og rejser mig,
+på lang afstand kan du se hvad jeg tænker.
+Du ved hvor jeg går og hvor jeg hviler mig,
+du ved hvor jeg går hen.
+Der er ikke et ord på min tunge,
+som du ikke kender til, Gud.
+Forfra og bagfra omslutter du mig,
+du holder din hånd over mig.
+Det er for vidunderligt for mig at forstå,
+det er alt for svært at forstå.
+
+Hvor kan jeg gemme mig for dig,
+hvor kan jeg flygte hen så du ikke ser mig?
+Hvis jeg rejser op i himlen, så er du dér,
+hvis jeg går ned i dødsriget, er du også dér.
+Hvis jeg låner morgenrødens vinger,
+for at slå mig ned ved det yderste hav,
+så leder din hånd mig også der,
+din højre hånd griber fat i mig.
+Hvis jeg siger: »Jeg vil gemme mig i mørket,
+gøre lyset til nat,«
+så ser du gennem mørket,
+natten er som den lyse dag for dig,
+nat og dag det samme.
+
+Det var dig der skabte mine nyrer,
+du vævede mig i min mors mave.
+Jeg takker dig for det vidunderlige at jeg blev skabt.
+Det du gør, er vidunderligt –
+det ved jeg meget godt.
+Mine knægler var ikke skjult for dig da de blev til i det skjulte,
+da de blev til, langt inde i mørket.
+Dine øjne så mig som foster,
+mine dage var skrevet i din bog,
+de var bestemt for mig før en eneste af dem blev til.
+Hvor er dine planer for mig vidunderlige, Herre,
+hvor er de mange.
+Jeg tæller dem, men der er flere end sand,
+og når jeg er færdig med at tælle, er jeg stadig hos dig.
+
+Jeg beder dig om at dræbe de onde, Herre.
+Væk med dem, de er blodtørstige.
+De bagtaler dig,
+lyver om dig.
+Jeg hader jo dem der hader dig, Gud,
+jeg afskyr dine fjender.
+Mit had mod dem er grænseløst,
+de er også blevet mine fjender.
+Udforsk mig, Gud, lær mit hjerte at kende,
+prøv mig af og kend mine urolige tanker.
+Se om min vej fører til afguder,
+led mig på vejen til evigheden.
+
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
