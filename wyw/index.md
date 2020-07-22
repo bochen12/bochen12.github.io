@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Classical Chinese
+title: 文言文
 ---
 
 ## Classical Chinese for Everybody
