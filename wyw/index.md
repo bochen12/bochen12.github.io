@@ -4,6 +4,15 @@ title: 文言文
 custom_css: p-large
 ---
 
+-----
+
+[**Classical Chinese for Everybody**](#ccfe)
+[**A New Practical Primer of Literary Chinese**](#anppolc)
+
+-----
+
+<a id="ccfe"></a>
+
 ## Classical Chinese for Everybody
 
 ### １
@@ -71,6 +80,10 @@ custom_css: p-large
 疑是地上霜。
 舉頭望明月。
 低頭思故鄉。
+
+-----
+
+<a id="anppolc"></a>
 
 ## A New Practical Primer of Literary Chinese
 
