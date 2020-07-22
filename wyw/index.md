@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 文言文
+custom_css: p-large
 ---
 
 ## Classical Chinese for Everybody
