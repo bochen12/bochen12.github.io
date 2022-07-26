@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Den Danske Salmebog
+title: 100 Salmer
 lang: da
 custom_css: em-red
 published: true
