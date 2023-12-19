@@ -7,8 +7,8 @@ kramdown:
 
 # Setup
 title:            www.bochen.dk
-url:              http://www.bochen.dk
+url:              https://www.bochen.dk
 baseurl:          /
 author:
   name:           bochen
-  url:            http://www.bochen.dk
+  url:            https://www.bochen.dk
