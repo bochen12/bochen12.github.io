@@ -8,9 +8,34 @@ lang: da
 
 <a id="indhold"></a>
 
+Ruth: [1](#ruth1)
+
 Sl: [1](#sl1) [2](#sl2) [3](#sl3) [4](#sl4) [5](#sl5) [6](#sl6) [7](#sl7) [8](#sl8) [9](#sl9) [10](#sl10) [11](#sl11) [12](#sl12) [13](#sl13) [14](#sl14) [15](#sl15) [16](#sl16) [17](#sl17) [18](#sl18) [19](#sl19) [20](#sl20) [21](#sl21) [22](#sl22) [23](#sl23) [24](#sl24) [25](#sl25) [26](#sl26) [27](#sl27) [28](#sl28) [29](#sl29) [30](#sl30)
 
 ------------------------------------------------------------------------
+
+## Ruths Bog
+
+<a id="ruth1"></a>
+
+### Ruth 1
+
+#### Elimeleks familie
+
+I ældgamle dage, før man havde konger i Israel, kom der hungersnød i landet. Derfor flygtede en mand med sin kone og to sønner fra Betlehem i Juda. Manden hed Elimelek, hans kone Noomi, og sønnerne hed Maklon og Kiljon. De var fra Efrat-slægten i Betlehem, og de slog sig ned som fremmede i landet Moab. Men Elimelek døde, og Noomi blev alene med de to sønner.
+
+#### Ruth tager med Noomi
+
+Sønnerne giftede sig senere med to kvinder fra landet Moab, Orpa og Ruth. De boede alle i Moab i de næste ti år, men Maklon og Kiljon døde også, så Noomi nu hverken havde mand eller børn. Men hun havde hørt, at Gud havde sørget for, at der igen var mad til hans folk i Juda, og derfor drog hun hjem, og hendes svigerdøtre tog med.
+
+Da de var på vej, sagde Noomi til svigerdøtrene: »Tag I nu hjem til jeres mødre. I har taget jer godt af jeres mænd og af mig, og nu håber jeg, at Gud tager sig af jer, så I hver især finder en ny mand til at forsørge jer.« Så kyssede hun dem farvel. Men de begyndte begge at græde: »Vi vil med, når du rejser tilbage til dit folk,« sagde de. Noomi svarede: »Nej, gå nu hjem, piger. Hvorfor vil I med mig? Jeg får ikke flere sønner, I kan gifte jer med. Jeg er jo for gammel til at få flere børn. Og selv hvis jeg blev gravid her og nu, skulle I så vente, til mine sønner var blevet gamle nok til at gifte sig? Eller skulle I helt lade være med at gifte jer? Nej, piger, I kan få en ny mand, men det kan jeg ikke, for Gud er imod mig.«
+
+Svigerdøtrene græd højt, og Orpa kyssede sin svigermor farvel, men Ruth klyngede sig til hende. »Din svigerinde tager hjem til sit folk og sin gud. Tag hjem sammen med hende,« sagde Noomi. Men Ruth svarede: »Nej, du må ikke få mig til at forlade dig. Hvor du går hen, dér går jeg også hen, og hvor du bor, dér vil jeg bo sammen med dig. Dit folk er mit folk, og din Gud er min Gud. Dér, hvor du dør, vil jeg også dø, og dér skal jeg begraves. Jeg sværger ved Gud: Kun døden skal skille os ad!« Noomi forstod, at Ruth var fast besluttet på at tage med hende, og hun opgav at overtale hende til at tage hjem til sin familie.
+
+Da de kom til Betlehem, blev hele byen overrasket og sagde: »Jamen, det er jo Noomi.« Noomi betyder 'skøn'. »I skal ikke kalde mig Noomi, men 'Bitter', for Den Livgivende Gud har gjort mig bitter,« sagde Noomi. »Jeg tog afsted med hænderne fulde, men Gud har sendt mig tomhændet hjem. Kald mig ikke længere Noomi, for Gud har taget alt fra mig.«
+
+Byghøsten var netop begyndt, da Noomi vendte tilbage til Betlehem fra Moab sammen med sin svigerdatter Ruth.
+
 
 ## Salmernes Bog
 
