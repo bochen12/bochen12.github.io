@@ -12,6 +12,8 @@ Ruth: [1](#ruth1)
 
 Sl: [1](#sl1) [2](#sl2) [3](#sl3) [4](#sl4) [5](#sl5) [6](#sl6) [7](#sl7) [8](#sl8) [9](#sl9) [10](#sl10) [11](#sl11) [12](#sl12) [13](#sl13) [14](#sl14) [15](#sl15) [16](#sl16) [17](#sl17) [18](#sl18) [19](#sl19) [20](#sl20) [21](#sl21) [22](#sl22) [23](#sl23) [24](#sl24) [25](#sl25) [26](#sl26) [27](#sl27) [28](#sl28) [29](#sl29) [30](#sl30)
 
+Es: [35](#es35)
+
 ------------------------------------------------------------------------
 
 ## Ruths Bog
@@ -36,6 +38,8 @@ Da de kom til Betlehem, blev hele byen overrasket og sagde: »Jamen, det er jo N
 
 Byghøsten var netop begyndt, da Noomi vendte tilbage til Betlehem fra Moab sammen med sin svigerdatter Ruth.
 
+
+------------------------------------------------------------------------
 
 ## Salmernes Bog
 
@@ -737,3 +741,47 @@ led mig på vejen til evigheden.
 [– tilbage –](#indhold)
 
 ------------------------------------------------------------------------
+
+## Esajas' Bog
+
+<a id="es35"></a>
+
+### Es 35
+
+#### Ørkenen skal blomstre
+
+Det tørre land skal glæde sig,
+ørkenen skal juble,
+den skal blomstre med liljer,
+og den skal blomstre med roser,
+den skal udstråle overstrømmende lykke.
+Ørkenen bliver lige så frodig som Libanon,
+lige så smuk som Karmelbjerget og Saronsletten.
+Der viser Gud sin overvældende storhed.
+
+I skal hjælpe hinanden.
+Gør gigtplagede hænder stærke,
+støt svage knæ,
+sig til dem med urolige hjerter:
+»Vær ikke bekymrede og bange, for Gud er her nu,
+han straffer vores fjender,
+han kommer og redder os.«
+Så skal de blinde pludselig se,
+de døve skal høre.
+De lamme kan gå igen,
+de stumme synger af glæde.
+Vandet strømmer i det tørre land,
+der løber bække i ørkenen,
+det brændende sand bliver til en oase,
+den udtørrede jord bliver til en kilde,
+og på det tørre sted, hvor sjakalerne boede, vokser der nu siv.
+Der skal gå en vej igennem landet.
+Den skal kaldes for 'Den hellige vej',
+og kun Guds folk skal gå på den,
+den skal være helt fri for tåber.
+Der skal ikke være løver eller rovdyr.
+Det skal være en vej for dem, Gud har reddet.
+De går syngende hjem til Jerusalem på den vej,
+fyldt af evig glæde,
+omringet af fryd og jubel,
+og al sorg forsvinder.
