@@ -13726,7 +13726,7 @@ Kongemagten skal tilhøre Herren.
 
 ## Mikas Bog
 
-<a id="mika"></a>
+<a id="mika1"></a>
 
 ### Mika 1
 
