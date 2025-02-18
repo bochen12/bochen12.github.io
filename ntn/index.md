@@ -104,6 +104,23 @@ Så sagde Jesus til disciplene: »Husk, at I ikke skal bekymre jer om, hvad I sk
 
 [– tilbage –](#indhold)
 
+<a id="luk14"></a>
+
+### Luk 14
+
+#### At sidde til bords hos Gud
+
+Engang var Jesus inviteret til middag hos en af farisæernes ledere. Det var sabbat, og alle gæsterne holdt øje med ham. Pludselig kom der en mand, der led af vand i kroppen, hen til ham. Jesus vendte sig mod de skriftkloge og farisæerne og spurgte: »Er det tilladt at helbrede nogen på en sabbat, eller er det ikke?« Ingen sagde noget. Så rørte Jesus ved manden og helbredte ham. Da han var gået, sagde Jesus til de andre: »Hvis en af jer havde en søn eller en okse, der faldt i brønden, ville I så ikke trække dem op igen med det samme, selvom det var sabbat?« Det kunne de ikke svare på.
+
+Jesus sagde mærke til, at gæsterne forsøgte at få de bedste pladser ved bordet, og kommenterede det over for dem. »Når du bliver inviteret til bryllup hos nogen, skal du ikke sætte dig på den bedste plads,« sagde han. »Måske er der en af de andre gæster, der er finere end dig, og så risikerer du, at værten kommer hen og siger, at du skal flytte dig. Det bliver pinligt for dig, og så skal du tage til takke med en dårlig plads. Sæt dig i stedet på en af de dårlige pladser, når du er gæst. Så kan værten komme hen og sige til dig: ›Kære ven, du skal sidde heroppe i nærheden af mig.‹ Det vil give dig respekt hos de andre gæster. Den, der fremhæver sig selv, bliver nedværdiget, mens den, der er beskeden, bliver fremhævet af andre.« Så henvendte Jesus sig til værten: »Hvis du gerne vil have gæster til frokost eller middag, så lad være med at invitere venner og familie eller dine rige naboer. De kan jo sagtens gøre gengæld ved at invitere dig næste gang, og så går det lige op. Du skal hellere invitere folk, der er fattige, halte, lamme og blinde. Det vil du få meget mere glæde af, for de kan ikke gøre gengæld. I stedet får du din belønning, når du står op fra de døde sammen med de andre, der har gjort det, Gud vil have.«
+
+Da gæsterne hørte det, sagde en af dem: »Hvor er man heldig, når man får lov at sidde til bords hos Gud.« Jesus sagde til ham: »Der var engang en mand, der ville holde en stor fest og inviterede mange mennesker. På festdagen sendte han en slave afsted for at sige til gæsterne, at det hele var parat, og at de skulle komme nu. Men den ene efter den anden fandt på undskyldninger. Der var en, der sagde: ›Jeg er ked af det, men jeg har lige købt en mark, som jeg er nødt til at se til.‹ En anden sagde: ›I må have mig undskyldt, men jeg har købt fem par okser, som jeg skal prøve at pløje med.‹ En tredje sagde: ›Jeg er lige blevet gift, så derfor kan jeg ikke komme.‹ Slaven vendte tilbage og fortalte det til sin herre, der blev rasende. Han sagde til slaven: ›Skynd dig ud på gaden, og hent alle de fattige og lamme, halte og blinde mennesker, du kan finde.‹ Kort efter kom slaven tilbage og sagde: ›Nu har jeg gjort, som du sagde, men der stadig plads til flere.‹ ›Så gå helt ud i udkanten af byen og se, om du ikke kan få folk derudefra til at komme‹, sagde hans herre, ›så vi kan få huset fyldt.‹ Og jeg siger jer: Ingen af dem, der var inviteret i første omgang, kommer med til min fest.
+
+#### Giv afkald
+
+
+[– tilbage –](#indhold)
+
 ------------------------------------------------------------------------
 
 ## Johannesevangeliet
