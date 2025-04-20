@@ -1130,36 +1130,36 @@ så vi også føler trangen til at synge;
 alle blomsterne beruser sig i duft
 for at lokke bierne til deres klynge.
 *Og når Gud gir liv
-og gør det underfuldt og grønt,
+og gør det underfuldt og nyt,
 blir det påske og opstandelse
-og skønt!*
+og lydt!*
 
 Men derude på vor kirkegård
 er der stille, selv om liljer trompeterer.
 Her er ingen af de døde, der opstår,
 her kan alle se, at døden triumferer.
 *Og når Gud gir liv
-og gør det underfuldt og grønt,
+og gør det underfuldt engang,
 blir det påske og opstandelse
-og skønt!*
+og sang!*
 
 Kan vi tro det? Det er aldrig set,
 at de døde rejser sig fra deres grave.
 Vi har hørt, at det trods alt engang er sket,
 at en sten er blevet væltet i en have.
 *Og når Gud gir liv
-og gør det underfuldt og grønt,
-blir det påske og opstandelse
-og skønt!*
+og gør det underfuldt at se,
+blir det påske, og opstandelse
+kan ske!*
 
 Dét er håbet, og det gir os mod,
 og det gør, at vi kan leve her med døden.
 Det er håbets puls, der banker i vort blod,
 når vi synes, vi må segne under nøden.
 *Og når Gud gir liv
-og gør det underfuldt og grønt,
+og gør det underfuldt af trods,
 blir det påske og opstandelse
-og skønt!*
+hos os!*
 
 Holger Lissner 1993
 
