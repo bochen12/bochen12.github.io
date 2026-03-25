@@ -2374,7 +2374,7 @@ fordi den aldrig helt er åbenbaret
 Vi bliver set i kirken
 et sted vi helligånder luften sammen
 hvor skabersolen smelter verdensvreden
-hvor livets korss forkynder
+hvor livets kors forkynder
 til alle os som synder:
 I sidder lige midt i kærligheden
 
