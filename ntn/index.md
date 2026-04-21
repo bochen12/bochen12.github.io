@@ -123,7 +123,6 @@ Så sagde Jesus til disciplene: »Husk, at I ikke skal bekymre jer om, hvad I sk
 
 #### Når I mindst venter det (32–59)
 
-
 [– tilbage –](#indhold)
 
 <a id="luk14"></a>
@@ -142,6 +141,22 @@ Da gæsterne hørte det, sagde en af dem: »Hvor er man heldig, når man får lo
 
 
 [– tilbage –](#indhold)
+
+<a id="luk15"></a>
+
+### Luk 15
+
+#### Et får mistet og fundet
+
+#### En mand havde to sønner
+
+Jesus fortsatte: »Der var engang en mand, der havde to sønner. En dag sagde den yngste: ›Far, lad mig få de penge, jeg skal arve, allerede nu,‹ og så delte manden sin formue mellem dem. Kort tid efter pakkede den yngste søn alle sine ting sammen og rejste til et fremmed land langt væk. Her levede han et vildt liv og strøede om sig med penge, indtil han havde brugt dem alle sammen. Så blev der hungersnød i det land, hvor han boede, og han havde ingenting at spise. Han bad om at måtte bo hos en af de lokale, der satte ham til at vogte svin ude på marken. Han var så sulten, at han var parat til at spise sig mæt i svinenes foder, men ikke engang det kunne han få lov til. ›Her sidder jeg og er ved at dø af sult, mens de dårligst stillede arbejdere hjemme hos min far har masser af mad,‹ sagde han til sig selv og kom endelig til fornuft. ›Jeg tager hjem til ham og siger: ›Far, jeg har opført mig forkert både over for dig og over for Gud. Jeg fortjener ikke længere at blive behandlet som din søn, men kan jeg ikke få lov at arbejde på gården?‹‹ Så rejste han hjem. Mens han stadig var langt væk, fik hans far øje på ham. Han fik ondt af sønnen og løb ham i møde og omfavnede og kyssede ham. ›Far,‹ sagde sønnen. ›Jeg har opført mig forkert både over for dig og over for Gud. Jeg fortjener ikke længere at blive behandlet som din søn.‹ Men hans far sagde til slaverne: ›Skynd jer at hente det fineste tøj, og giv ham det på. Sæt en ring på hans finger, og giv ham sko på fødderne. Og tag så den bedste kalv, vi har, og slagt den. Det her skal fejres. Jeg har fået min søn tilbage. Han var død, men er blevet levende igen. Jeg havde mistet ham, men nu er han blevet fundet.‹ Og så blev der festet.
+
+Den ældste søn havde været ude på marken. Da han nu nærmede sig gården, hørte han musik og dans og kaldte på en af slaverne for at få at vide, hvad der foregik. ›Din bror er kommet hjem,‹ svarede slaven, ›og din far har slagtet sin bedste kalv, fordi han har fået ham tilbage i god behold.‹ Så blev den ældste søn vred og nægtede at gå med ind. Hans far kom ud og forsøgte at overtale ham, men han sagde: ›Her har jeg slidt og slæbt for dig og overholdt husets regler i alle de år, men du har aldrig givet mig så meget som en ged, så jeg kunne feste med mine venner. Imens har din søn dér brugt hele din formue på bordelbesøg, og så snart han kommer tilbage, slagter du den bedste kalv for at fejre det.‹ ›Kære barn,‹ svarede hans far. ›Du har jo været hos mig hele tiden, og alt det, der er mit, er også dit. Men lige nu skal vi holde fest og være glade, for din bror, der var død, er blevet levende. Jeg havde mistet ham, men nu er han blevet fundet.‹«
+
+
+[– tilbage –](#indhold)
+
 
 ------------------------------------------------------------------------
 
