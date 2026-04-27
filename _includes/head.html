@@ -1,36 +1,44 @@
 <head>
-  <meta charset="UTF-8">
-  <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta charset="UTF-8" />
+    <link href="http://gmpg.org/xfn/11" rel="profile" />
 
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <!-- Enable responsiveness on mobile devices-->
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1"
+    />
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
+    <title>
+        {% if page.title == "Home" %} {{ site.title }} &middot; {{ site.tagline
+        }} {% else %} {{ page.title }} &middot; {{ site.title }} {% endif %}
+    </title>
 
-  <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.url }}/public/css/dark.css" >
-  {% if page.custom_css %}
-    {% for stylesheet in page.custom_css %}
-      <link rel="stylesheet" href="{{ site.url }}/public/css/{{ stylesheet }}.css" type="text/css">
-    {% endfor %}
-  {% endif %}
+    <!-- CSS -->
+    <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.green.min.css"
+    />
+    {% if page.custom_css %} {% for stylesheet in page.custom_css %}
+    <link
+        rel="stylesheet"
+        href="{{ site.url }}/public/css/{{ stylesheet }}.css"
+        type="text/css"
+    />
+    {% endfor %} {% endif %}
 
-  <!-- JS -->
-  {% if page.custom_js %}
-    {% for script in page.custom_js %}
-      <script src="{{ site.url }}/public/js/{{ script }}.js"></script>
-    {% endfor %}
-  {% endif %}
+    <!-- JS -->
+    {% if page.custom_js %} {% for script in page.custom_js %}
+    <script src="{{ site.url }}/public/js/{{ script }}.js"></script>
+    {% endfor %} {% endif %}
 
-  <!-- Icons -->
-  <link rel="shortcut icon" href="{{ site.url }}/public/favicon.ico">
+    <!-- Icons -->
+    <link rel="shortcut icon" href="{{ site.url }}/public/favicon.ico" />
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}/atom.xml">
+    <!-- RSS -->
+    <link
+        rel="alternate"
+        type="application/atom+xml"
+        title="{{ site.title }}"
+        href="{{ site.url }}/atom.xml"
+    />
 </head>
