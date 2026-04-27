@@ -1,19 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 {% if page.lang %}
-  <html lang="{{ page.lang }}">
-{% else %}
-  <html lang="en">
-{% endif %}
+<html lang="{{ page.lang }}">
+    {% else %}
+    <html lang="en">
+        {% endif %} {% include head.html %}
 
-  {% include head.html %}
-
-  <body>
-    <div class="container content">
-      <main style="padding-top:30px">
-        {{ content }}
-      </main>
-
-    </div>
-
-  </body>
+        <body>
+            <div class="container content">
+                <main style="padding-top: 30px; max-width: 950px">
+                    {{ content }}
+                </main>
+            </div>
+        </body>
+    </html>
 </html>
